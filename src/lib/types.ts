@@ -30,6 +30,9 @@ export const SKILLS = {
   "adverb-position": "Adverb position",
   "conjunctions": "Conjunctions",
   "synonyms": "Synonyms",
+  "phrasal-verbs": "Phrasal verbs",
+  "subjunctive": "Subjunctive mood",
+  "paraphrase": "Paraphrasing",
 } as const;
 
 export type SkillTag = keyof typeof SKILLS;
