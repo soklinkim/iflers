@@ -1,0 +1,107 @@
+{
+  "id": "sample",
+  "title": "Sample Practice Set",
+  "year": 2024,
+  "source": "Fixture paper used by the test suite and for local development — not a real selection test.",
+  "status": "pending",
+  "totalQuestions": 5,
+  "durationMinutes": 10,
+  "sections": [
+    {
+      "id": "grammar",
+      "title": "Section I: Grammar",
+      "groups": [
+        {
+          "id": "g1",
+          "type": "mcq",
+          "instruction": "Choose the one word or phrase which best completes each sentence.",
+          "questions": [
+            {
+              "id": "sample-q1",
+              "n": 1,
+              "prompt": "By the time the bus arrives, we _______ for over an hour.",
+              "options": [
+                { "id": "A", "text": "wait" },
+                { "id": "B", "text": "will have waited" },
+                { "id": "C", "text": "waited" },
+                { "id": "D", "text": "are waiting" }
+              ],
+              "answerId": "B",
+              "explanation": "\"By the time\" plus a future event marks an action completed before that point, which is the future perfect.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "sample-q2",
+              "n": 2,
+              "prompt": "She works as _______ engineer at a construction firm downtown.",
+              "options": [
+                { "id": "A", "text": "a" },
+                { "id": "B", "text": "an" },
+                { "id": "C", "text": "the" },
+                { "id": "D", "text": "no article" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Engineer\" begins with a vowel sound, so the indefinite article \"an\" is required before a singular job title introduced for the first time.",
+              "skills": ["articles"]
+            },
+            {
+              "id": "sample-q3",
+              "n": 3,
+              "prompt": "He _______ this same route to work every day since he bought his motorbike.",
+              "options": [
+                { "id": "A", "text": "takes" },
+                { "id": "B", "text": "took" },
+                { "id": "C", "text": "has taken" },
+                { "id": "D", "text": "is taking" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Since\" plus a past starting point needs the present perfect to describe a habit continuing up to now.",
+              "skills": ["verb-tense"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "title": "Section II: Vocabulary",
+      "groups": [
+        {
+          "id": "g2",
+          "type": "mcq",
+          "instruction": "Choose the option closest in meaning, or that best completes the gap.",
+          "questions": [
+            {
+              "id": "sample-q4",
+              "n": 4,
+              "prompt": "The manager gave a [[candid]] account of why the project was delayed.",
+              "options": [
+                { "id": "A", "text": "vague" },
+                { "id": "B", "text": "honest" },
+                { "id": "C", "text": "lengthy" },
+                { "id": "D", "text": "rehearsed" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Candid\" means frank and truthful. The other options describe length, clarity or preparation rather than honesty.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "sample-q5",
+              "n": 5,
+              "prompt": "Our supplier could not _______ the deadline, so the launch was pushed back a week.",
+              "options": [
+                { "id": "A", "text": "meet" },
+                { "id": "B", "text": "catch" },
+                { "id": "C", "text": "reach" },
+                { "id": "D", "text": "hold" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Meet a deadline\" is the standard collocation for finishing something on time. The other verbs do not pair naturally with \"deadline\".",
+              "skills": ["synonyms", "collocation"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

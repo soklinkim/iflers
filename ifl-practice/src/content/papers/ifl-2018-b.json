@@ -1,0 +1,2916 @@
+{
+  "id": "ifl-2018-b",
+  "title": "IFL Selection Test 2018 (Version B)",
+  "year": 2018,
+  "version": "B",
+  "source": "Royal University of Phnom Penh, Institute of Foreign Languages, Department of English — 2018 Fee-Paying Program Selection Test B",
+  "status": "pending",
+  "totalQuestions": 100,
+  "durationMinutes": 90,
+  "sections": [
+    {
+      "id": "grammar",
+      "title": "Section I: Grammar",
+      "groups": [
+        {
+          "id": "g1",
+          "type": "mcq",
+          "instruction": "For Questions 1 to 40, choose the one word or phrase which best completes each of the following sentences.",
+          "questions": [
+            {
+              "id": "ifl-2018-b-q1",
+              "n": 1,
+              "prompt": "Of the two new teachers, one is experienced and ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "the other is not"
+                },
+                {
+                  "id": "B",
+                  "text": "other is inexperienced"
+                },
+                {
+                  "id": "C",
+                  "text": "the others are not"
+                },
+                {
+                  "id": "D",
+                  "text": "others lack experience"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "With exactly two items, the second one is \"the other\", singular and with the article. The plural forms in C and D would need more than two teachers.",
+              "skills": [
+                "determiners"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q2",
+              "n": 2,
+              "prompt": "The students liked that professor's course because ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "there was few if any homework"
+                },
+                {
+                  "id": "B",
+                  "text": "not a lot of homework"
+                },
+                {
+                  "id": "C",
+                  "text": "there was little or no homework"
+                },
+                {
+                  "id": "D",
+                  "text": "of there wasn't a great amount of homework"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "\"Homework\" is uncountable, so it takes \"little\" rather than \"few\". \"Because\" needs a full clause, which rules out B, and D wrongly combines \"because of\" with a clause.",
+              "skills": [
+                "quantifiers",
+                "conjunctions"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q3",
+              "n": 3,
+              "prompt": "Patricia ________ from the third round of the competition when she failed to answer the last question.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "eliminated"
+                },
+                {
+                  "id": "B",
+                  "text": "was eliminated"
+                },
+                {
+                  "id": "C",
+                  "text": "had eliminated"
+                },
+                {
+                  "id": "D",
+                  "text": "is eliminated"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "Patricia receives the action rather than performing it, so the verb must be passive, and the narrative is in the past. D shifts to the present, which clashes with \"failed\".",
+              "skills": [
+                "passive-voice",
+                "verb-tense"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q4",
+              "n": 4,
+              "prompt": "The cyclist ________ he crossed the main street.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "looked with caution after"
+                },
+                {
+                  "id": "B",
+                  "text": "looks cautiously when"
+                },
+                {
+                  "id": "C",
+                  "text": "was looked cautiously when"
+                },
+                {
+                  "id": "D",
+                  "text": "had looked cautiously before"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "Looking happens first and crossing second, so the earlier action takes the past perfect with \"before\". A reverses the sensible order and C is wrongly passive.",
+              "skills": [
+                "verb-tense"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q5",
+              "n": 5,
+              "prompt": "“Forty-niners” ________ to California for gold in 1848.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "are rushed"
+                },
+                {
+                  "id": "B",
+                  "text": "rushed"
+                },
+                {
+                  "id": "C",
+                  "text": "have rushed"
+                },
+                {
+                  "id": "D",
+                  "text": "rushing"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "A finished action at a stated past date takes the simple past. The present perfect cannot be used with a specific past time, and D is not a finite verb.",
+              "skills": [
+                "verb-tense"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q6",
+              "n": 6,
+              "prompt": "Henry will not be able to attend the meeting tonight because ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "he will be teaching a class"
+                },
+                {
+                  "id": "B",
+                  "text": "a class will be taught"
+                },
+                {
+                  "id": "C",
+                  "text": "he will teach a class"
+                },
+                {
+                  "id": "D",
+                  "text": "he will have a class teaching"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "The future continuous expresses an action in progress at the time of the meeting, which is why Henry cannot attend. C states a completed future event and B loses the connection to Henry.",
+              "skills": [
+                "verb-tense"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q7",
+              "n": 7,
+              "prompt": "Although ________ cold climates, they can thrive in hot, dry climates as well.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "sheep adapted well"
+                },
+                {
+                  "id": "B",
+                  "text": "sheep is well adapted to"
+                },
+                {
+                  "id": "C",
+                  "text": "sheep are well adapted to"
+                },
+                {
+                  "id": "D",
+                  "text": "sheep, well adapted to"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "\"Sheep\" is plural here, matching the later pronoun \"they\", so the verb is \"are\". The phrase also needs the preposition \"to\" before \"cold climates\".",
+              "skills": [
+                "subject-verb-agreement",
+                "prepositions"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q8",
+              "n": 8,
+              "prompt": "By the time John ________, I ________ for more than two hours.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "arrives ... waiting"
+                },
+                {
+                  "id": "B",
+                  "text": "arrives ... will be waiting"
+                },
+                {
+                  "id": "C",
+                  "text": "arrived ... waited"
+                },
+                {
+                  "id": "D",
+                  "text": "arrived ... had been waiting"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "\"By the time\" with a past event takes the past perfect for the longer action that preceded it, and the continuous conveys the duration. C loses the sense of waiting up to that point.",
+              "skills": [
+                "verb-tense"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q9",
+              "n": 9,
+              "prompt": "________ was the day before yesterday.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "France's Independence Day"
+                },
+                {
+                  "id": "B",
+                  "text": "The day of the French independence"
+                },
+                {
+                  "id": "C",
+                  "text": "French's Independence Day"
+                },
+                {
+                  "id": "D",
+                  "text": "The France's Independence Day"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "The possessive is formed on the country name, France, giving \"France's Independence Day\". A possessive noun does not also take \"the\", which rules out D, and \"French\" is the adjective, not the country.",
+              "skills": [
+                "determiners"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q10",
+              "n": 10,
+              "prompt": "Lee contributed fifty dollars, but he wishes he could contribute ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "one other fifty dollars"
+                },
+                {
+                  "id": "B",
+                  "text": "another fifty"
+                },
+                {
+                  "id": "C",
+                  "text": "the same amount also"
+                },
+                {
+                  "id": "D",
+                  "text": "more fifty dollars"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "\"Another\" means one more of the same, and the repeated \"dollars\" can be left out. A and D are not possible word combinations in English.",
+              "skills": [
+                "determiners"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q11",
+              "n": 11,
+              "prompt": "________ strength of 70 horses, a forklift toils all day long in a warehouse lifting great weights.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "With the"
+                },
+                {
+                  "id": "B",
+                  "text": "A"
+                },
+                {
+                  "id": "C",
+                  "text": "Some"
+                },
+                {
+                  "id": "D",
+                  "text": "The"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "The opening needs to be a prepositional phrase modifying the main clause, since \"a forklift\" is already the subject. Without \"with\", the sentence would have two competing subjects.",
+              "skills": [
+                "prepositions",
+                "word-order"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q12",
+              "n": 12,
+              "prompt": "All the beach hotels were full, so tourists ended up ________ in the town center.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "to stay"
+                },
+                {
+                  "id": "B",
+                  "text": "to staying"
+                },
+                {
+                  "id": "C",
+                  "text": "stay"
+                },
+                {
+                  "id": "D",
+                  "text": "staying"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "\"End up\" is followed by a gerund. The infinitive forms do not follow this phrasal verb.",
+              "skills": [
+                "gerund-infinitive",
+                "phrasal-verbs"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q13",
+              "n": 13,
+              "prompt": "Living abroad means ________ yourself to other culture.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "adapts"
+                },
+                {
+                  "id": "B",
+                  "text": "to adapt"
+                },
+                {
+                  "id": "C",
+                  "text": "adapted"
+                },
+                {
+                  "id": "D",
+                  "text": "adapting"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "When \"mean\" carries the sense of \"involve\", it takes a gerund. \"Mean to do\" would express intention, which does not fit here.",
+              "skills": [
+                "gerund-infinitive"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q14",
+              "n": 14,
+              "prompt": "In 1850, Yale University established Sheffield Scientific School, ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "where engineers were educated"
+                },
+                {
+                  "id": "B",
+                  "text": "engineers were educated there"
+                },
+                {
+                  "id": "C",
+                  "text": "in which were engineers educated"
+                },
+                {
+                  "id": "D",
+                  "text": "where were engineers educated"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "A relative clause introduced by \"where\" keeps statement word order. C and D use question inversion, which does not belong in a relative clause, and B has no linking word.",
+              "skills": [
+                "relative-clauses",
+                "word-order"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q15",
+              "n": 15,
+              "prompt": "That magnificent ________ temple was constructed by the Chinese.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "eight-centuries-old"
+                },
+                {
+                  "id": "B",
+                  "text": "eight-century-old"
+                },
+                {
+                  "id": "C",
+                  "text": "old-eight-centuries"
+                },
+                {
+                  "id": "D",
+                  "text": "eight-century's-old"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "A compound adjective before a noun keeps the unit singular and hyphenated: eight-century-old. Plurals and possessives are not used inside this pattern.",
+              "skills": [
+                "word-formation",
+                "word-order"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q16",
+              "n": 16,
+              "prompt": "A few natural elements exist in ________ that they are rarely seen in their natural environments.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "very small quantities"
+                },
+                {
+                  "id": "B",
+                  "text": "so small quantities"
+                },
+                {
+                  "id": "C",
+                  "text": "such small quantities"
+                },
+                {
+                  "id": "D",
+                  "text": "small quantity"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "The \"... that\" result clause requires \"such\" before an adjective plus noun. \"So\" would need to come directly before an adjective with no noun following.",
+              "skills": [
+                "conjunctions"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q17",
+              "n": 17,
+              "prompt": "________ will Mr. Forbes be able to regain control of the company.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "With hard work"
+                },
+                {
+                  "id": "B",
+                  "text": "In spite of his hard work"
+                },
+                {
+                  "id": "C",
+                  "text": "Only with hard work"
+                },
+                {
+                  "id": "D",
+                  "text": "Only if he works hardly"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "The sentence already shows inversion (\"will Mr. Forbes\"), which is triggered only by a restrictive fronted phrase beginning with \"only\". D fails because \"hardly\" means barely, not with effort.",
+              "skills": [
+                "inversion"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q18",
+              "n": 18,
+              "prompt": "________ they are tropical birds, parrots can live in temperate or even cold climates.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Despite"
+                },
+                {
+                  "id": "B",
+                  "text": "But"
+                },
+                {
+                  "id": "C",
+                  "text": "Nevertheless"
+                },
+                {
+                  "id": "D",
+                  "text": "Even though"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "What follows is a full clause with a subject and verb, so a subordinating conjunction is needed. \"Despite\" takes a noun phrase, and \"nevertheless\" is an adverb linking separate sentences.",
+              "skills": [
+                "conjunctions"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q19",
+              "n": 19,
+              "prompt": "Despite claims that filters and low-tar tobacco make smoking somewhat safer, in fact they only marginally reduce, ________ eliminate, the hazards.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "not"
+                },
+                {
+                  "id": "B",
+                  "text": "no"
+                },
+                {
+                  "id": "C",
+                  "text": "none"
+                },
+                {
+                  "id": "D",
+                  "text": "nor"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "The contrast is between two verbs, reduce and eliminate, and \"not\" is what negates the second one. \"No\" and \"none\" modify nouns, and \"nor\" would need a preceding negative.",
+              "skills": [
+                "conjunctions"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q20",
+              "n": 20,
+              "prompt": "Manufacturers often sacrifice quality ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "to gain more quantities of money"
+                },
+                {
+                  "id": "B",
+                  "text": "in place of to earn more money"
+                },
+                {
+                  "id": "C",
+                  "text": "for a larger profit margin"
+                },
+                {
+                  "id": "D",
+                  "text": "and instead earn a bigger amount of profit"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "Only C is both idiomatic and concise. \"Quantities of money\" and \"amount of profit\" are unnatural collocations, and B is ungrammatical.",
+              "skills": [
+                "collocation"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q21",
+              "n": 21,
+              "prompt": "Once an offending allergen has been identified ________ tests, it is possible for the doctor to give specific desensitizing injection.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "means of"
+                },
+                {
+                  "id": "B",
+                  "text": "of the means by"
+                },
+                {
+                  "id": "C",
+                  "text": "by means of"
+                },
+                {
+                  "id": "D",
+                  "text": "by means with"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "\"By means of\" is the fixed phrase for the method used. The other options scramble or alter its prepositions.",
+              "skills": [
+                "prepositions",
+                "collocation"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q22",
+              "n": 22,
+              "prompt": "He has received several scholarships ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "not only because of his artistic but his academic ability"
+                },
+                {
+                  "id": "B",
+                  "text": "because of his academic and artistic ability"
+                },
+                {
+                  "id": "C",
+                  "text": "for both his academic ability as well as his artistic"
+                },
+                {
+                  "id": "D",
+                  "text": "as resulting of his ability in the art and the academy"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "B joins two parallel adjectives cleanly. A breaks the \"not only ... but also\" pattern, C mixes \"both\" with \"as well as\", and D is not idiomatic.",
+              "skills": [
+                "parallel-structure"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q23",
+              "n": 23,
+              "prompt": "The facilities of the older hospital ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "is as good or better than that of the new hospital"
+                },
+                {
+                  "id": "B",
+                  "text": "are as good as or better than those of the new hospital"
+                },
+                {
+                  "id": "C",
+                  "text": "are as good or better than the new hospital"
+                },
+                {
+                  "id": "D",
+                  "text": "are as good or better that the new hospital"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "The double comparison needs both halves complete: \"as good as\" and \"better than\". The plural subject also requires \"those\", and C would compare facilities with a hospital.",
+              "skills": [
+                "comparatives"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q24",
+              "n": 24,
+              "prompt": "Last year, Matt earned ________ his brother, who has a better position.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "twice as many as"
+                },
+                {
+                  "id": "B",
+                  "text": "twice more than"
+                },
+                {
+                  "id": "C",
+                  "text": "twice as much as"
+                },
+                {
+                  "id": "D",
+                  "text": "twice as more as"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "Money is uncountable, so the multiple takes \"as much as\" rather than \"as many as\". B and D are not standard forms of multiple comparison.",
+              "skills": [
+                "comparatives",
+                "quantifiers"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q25",
+              "n": 25,
+              "prompt": "“We” ________ a popular movie since 2017.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "are"
+                },
+                {
+                  "id": "B",
+                  "text": "has been"
+                },
+                {
+                  "id": "C",
+                  "text": "have been"
+                },
+                {
+                  "id": "D",
+                  "text": "is"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "The quotation marks show that \"We\" is a film title, which is treated as a singular thing. \"Since 2017\" also requires the present perfect rather than the simple present.",
+              "skills": [
+                "subject-verb-agreement",
+                "verb-tense"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q26",
+              "n": 26,
+              "prompt": "Every pale tomato slice, wilted pickle, and brown lettuce leaf at AEON Mall ________ an extra 25 cents at Bernie's Burger Emporium.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "cost"
+                },
+                {
+                  "id": "B",
+                  "text": "costs"
+                },
+                {
+                  "id": "C",
+                  "text": "costed"
+                },
+                {
+                  "id": "D",
+                  "text": "had cost"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "\"Every\" makes the compound subject singular, so the verb takes -s. \"Costed\" is not the past form of this verb, which is invariant.",
+              "skills": [
+                "subject-verb-agreement"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q27",
+              "n": 27,
+              "prompt": "There ________ in that part of the country.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "are not much industry"
+                },
+                {
+                  "id": "B",
+                  "text": "are not many industries"
+                },
+                {
+                  "id": "C",
+                  "text": "is not many industry"
+                },
+                {
+                  "id": "D",
+                  "text": "is not much industry"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "\"Industry\" used in the general uncountable sense takes \"much\" and a singular verb. The other options mismatch either the quantifier or the verb.",
+              "skills": [
+                "quantifiers",
+                "subject-verb-agreement"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q28",
+              "n": 28,
+              "prompt": "Near the centre of the campus ________ the counsellor's office, where you can consult your learning problems.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "are"
+                },
+                {
+                  "id": "B",
+                  "text": "was"
+                },
+                {
+                  "id": "C",
+                  "text": "is"
+                },
+                {
+                  "id": "D",
+                  "text": "were"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "With the place phrase fronted, the verb agrees with the subject that follows it, and \"the counsellor's office\" is singular. The sentence describes a present state, so the past forms do not fit.",
+              "skills": [
+                "inversion",
+                "subject-verb-agreement"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q29",
+              "n": 29,
+              "prompt": "Ms. Headstrong offered ________ because she had faith in his capabilities.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "to Mr. Armstrong the position"
+                },
+                {
+                  "id": "B",
+                  "text": "the position for Mr. Armstrong"
+                },
+                {
+                  "id": "C",
+                  "text": "Mr. Armstrong to the position"
+                },
+                {
+                  "id": "D",
+                  "text": "Mr. Armstrong the position"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "\"Offer\" takes an indirect object followed by a direct object with no preposition. The alternative pattern would be \"offered the position to Mr. Armstrong\", which is not among the options.",
+              "skills": [
+                "word-order"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q30",
+              "n": 30,
+              "prompt": "Mr. Duncan does not know ________ the lawn mower after she had finished using it.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "where his wife put"
+                },
+                {
+                  "id": "B",
+                  "text": "where did his wife put"
+                },
+                {
+                  "id": "C",
+                  "text": "where his wife puts"
+                },
+                {
+                  "id": "D",
+                  "text": "where to put"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "An embedded question keeps statement word order with no auxiliary, so B is wrong. The past reference in \"had finished\" also requires the past form \"put\" rather than \"puts\".",
+              "skills": [
+                "embedded-questions",
+                "verb-tense"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q31",
+              "n": 31,
+              "prompt": "Hollywood, the heart of America's motion picture industry, ________ of Los Angeles a century ago.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "only quiet suburb was"
+                },
+                {
+                  "id": "B",
+                  "text": "was only a quiet suburb"
+                },
+                {
+                  "id": "C",
+                  "text": "quiet suburb only was"
+                },
+                {
+                  "id": "D",
+                  "text": "only was a suburb quiet"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "The subject is followed by its verb, then the complement, with \"only\" placed before the noun phrase it limits. The other options misplace the verb or the adjective.",
+              "skills": [
+                "word-order"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q32",
+              "n": 32,
+              "prompt": "Mr. Roberts is a noted chemist ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "but he teaches very good in addition"
+                },
+                {
+                  "id": "B",
+                  "text": "and too a very efficient teacher"
+                },
+                {
+                  "id": "C",
+                  "text": "as well as an effective teacher"
+                },
+                {
+                  "id": "D",
+                  "text": "however he teaches very good also"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "\"As well as\" joins two parallel noun phrases describing the same person. A and D use the adjective \"good\" where the adverb \"well\" is needed, and B misplaces \"too\".",
+              "skills": [
+                "parallel-structure"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q33",
+              "n": 33,
+              "prompt": "It was not until she had arrived home ________ remembered her appointment with the doctor.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "when she"
+                },
+                {
+                  "id": "B",
+                  "text": "she"
+                },
+                {
+                  "id": "C",
+                  "text": "and she"
+                },
+                {
+                  "id": "D",
+                  "text": "that she"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "The cleft pattern is \"It was not until ... that ...\". No other linking word completes this structure.",
+              "skills": [
+                "conjunctions"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q34",
+              "n": 34,
+              "prompt": "Instead of buying a new car, why don't you have your old one ________?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "to fix"
+                },
+                {
+                  "id": "B",
+                  "text": "fixed"
+                },
+                {
+                  "id": "C",
+                  "text": "fixes"
+                },
+                {
+                  "id": "D",
+                  "text": "fixing"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "\"Have something done\" is the causative passive, used when someone else performs the work. The car receives the action, so the past participle is required.",
+              "skills": [
+                "causatives",
+                "passive-voice"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q35",
+              "n": 35,
+              "prompt": "We've got to get our neighbours ________ having loud parties every weekend.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "stopping"
+                },
+                {
+                  "id": "B",
+                  "text": "stopped"
+                },
+                {
+                  "id": "C",
+                  "text": "stop"
+                },
+                {
+                  "id": "D",
+                  "text": "to stop"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "\"Get someone to do something\" takes the to-infinitive, unlike \"make\" or \"have\", which take the bare infinitive. The neighbours are the ones acting, so the passive is wrong.",
+              "skills": [
+                "causatives",
+                "gerund-infinitive"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q36",
+              "n": 36,
+              "prompt": "________, he would have been able to pass the exam.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Had he studied more"
+                },
+                {
+                  "id": "B",
+                  "text": "If he were studying to a greater degree"
+                },
+                {
+                  "id": "C",
+                  "text": "Studying more"
+                },
+                {
+                  "id": "D",
+                  "text": "If he studied more"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "\"Would have been\" marks a third conditional about the past, whose if-clause takes the past perfect. Here it appears in its inverted form with \"had\" and no \"if\".",
+              "skills": [
+                "conditionals",
+                "inversion"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q37",
+              "n": 37,
+              "prompt": "The teacher suggested that Tim ________ experiences with ESP.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "writes composition about the"
+                },
+                {
+                  "id": "B",
+                  "text": "write a composition on his"
+                },
+                {
+                  "id": "C",
+                  "text": "wrote some compositions of his"
+                },
+                {
+                  "id": "D",
+                  "text": "had written any compositions for his"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "After \"suggest that\", English uses the subjunctive, which is the base form of the verb with no -s regardless of the subject. B also supplies the possessive \"his\" that the sentence needs.",
+              "skills": [
+                "subjunctive"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q38",
+              "n": 38,
+              "prompt": "From birth, night jar chicks solicit food by walking to the front of an adult bird, reaching up, and ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "they peck at its bill"
+                },
+                {
+                  "id": "B",
+                  "text": "pecking at its bill"
+                },
+                {
+                  "id": "C",
+                  "text": "peck at its bill"
+                },
+                {
+                  "id": "D",
+                  "text": "at its bill"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "The gap continues a list of gerunds after \"by\": walking, reaching, pecking. Only B keeps that parallel form.",
+              "skills": [
+                "parallel-structure",
+                "gerund-infinitive"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q39",
+              "n": 39,
+              "prompt": "That company is said to pay high wages ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "and it provides many fringe benefits"
+                },
+                {
+                  "id": "B",
+                  "text": "and fringe benefits are provided"
+                },
+                {
+                  "id": "C",
+                  "text": "and with provisions for fringe benefits"
+                },
+                {
+                  "id": "D",
+                  "text": "and to provide many fringe benefits"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "The gap must be parallel with \"to pay\", which follows \"is said\". Only D repeats the to-infinitive and keeps both actions inside the reporting structure.",
+              "skills": [
+                "parallel-structure"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q40",
+              "n": 40,
+              "prompt": "The director of this organization must know ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "how to manage money, sell his product, and satisfy the stockholders"
+                },
+                {
+                  "id": "B",
+                  "text": "how to manage money, selling his product, and be able to satisfy stockholders"
+                },
+                {
+                  "id": "C",
+                  "text": "money management, selling, and able to satisfy the stockholders"
+                },
+                {
+                  "id": "D",
+                  "text": "money management, selling the idea of being able to satisfy the stockholders"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "All three items follow \"how to\" and share the same base verb form: manage, sell, satisfy. The other options mix gerunds, adjectives and infinitives in one list.",
+              "skills": [
+                "parallel-structure"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "title": "Section II: Vocabulary",
+      "groups": [
+        {
+          "id": "g2",
+          "type": "vocab-inline",
+          "instruction": "For Questions 41 to 50, choose one option that is closest in meaning to the marked words or phrases.",
+          "questions": [
+            {
+              "id": "ifl-2018-b-q41",
+              "n": 41,
+              "prompt": "His [[pronunciation]] of certain English words gives away his foreign origins.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "articulation"
+                },
+                {
+                  "id": "B",
+                  "text": "intonation"
+                },
+                {
+                  "id": "C",
+                  "text": "speech"
+                },
+                {
+                  "id": "D",
+                  "text": "diction"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "Articulation is how individual sounds and words are produced, which matches pronunciation most closely. Intonation is the melody of a sentence, and diction refers to word choice.",
+              "skills": [
+                "synonyms"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q42",
+              "n": 42,
+              "prompt": "After their interrogation, the police came to a conclusion that the driver's [[fatigue]] and carelessness were to blame for the accident.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "nervousness"
+                },
+                {
+                  "id": "B",
+                  "text": "inexperience"
+                },
+                {
+                  "id": "C",
+                  "text": "tiredness"
+                },
+                {
+                  "id": "D",
+                  "text": "speeding"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "Fatigue means extreme tiredness. The other options name different causes of accidents but are not synonyms of the word.",
+              "skills": [
+                "synonyms"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q43",
+              "n": 43,
+              "prompt": "The doctor told us that there is a [[chance]] that Grandmother will be in a coma for a few months.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "fate"
+                },
+                {
+                  "id": "B",
+                  "text": "possibility"
+                },
+                {
+                  "id": "C",
+                  "text": "break"
+                },
+                {
+                  "id": "D",
+                  "text": "occasion"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "Here \"chance\" means likelihood, so \"possibility\" is the match. \"Fate\" implies certainty, and \"break\" and \"occasion\" use other senses of the word.",
+              "skills": [
+                "synonyms",
+                "vocabulary-in-context"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q44",
+              "n": 44,
+              "prompt": "I was shocked to learn that the paintings from the well-known artist were [[not of good standard]].",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "unskilled"
+                },
+                {
+                  "id": "B",
+                  "text": "unacceptable"
+                },
+                {
+                  "id": "C",
+                  "text": "common"
+                },
+                {
+                  "id": "D",
+                  "text": "mediocre"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "Mediocre means of only moderate quality, which is what falling short of a good standard describes. \"Unacceptable\" is far stronger, and \"unskilled\" describes a person rather than the work.",
+              "skills": [
+                "synonyms"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q45",
+              "n": 45,
+              "prompt": "We were told to hand in our assignment at 9 am [[punctually]].",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "quickly"
+                },
+                {
+                  "id": "B",
+                  "text": "promptly"
+                },
+                {
+                  "id": "C",
+                  "text": "instantaneously"
+                },
+                {
+                  "id": "D",
+                  "text": "expediently"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "\"Promptly\" after a stated time means exactly at that time, which is what punctually conveys. The other options describe speed rather than timekeeping.",
+              "skills": [
+                "synonyms"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q46",
+              "n": 46,
+              "prompt": "He stared at me in such a [[threatening]] manner that I decided to leave the room immediately.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "condescending"
+                },
+                {
+                  "id": "B",
+                  "text": "pleasing"
+                },
+                {
+                  "id": "C",
+                  "text": "menacing"
+                },
+                {
+                  "id": "D",
+                  "text": "accusing"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "Menacing means suggesting the presence of danger, a direct synonym of threatening. \"Condescending\" means patronising and \"accusing\" implies blame rather than danger.",
+              "skills": [
+                "synonyms"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q47",
+              "n": 47,
+              "prompt": "No one in the village is brave enough to walk past that [[strange and frightening]] old house at night since it is reputed to be a haunted house.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "shabby"
+                },
+                {
+                  "id": "B",
+                  "text": "mysterious"
+                },
+                {
+                  "id": "C",
+                  "text": "spooky"
+                },
+                {
+                  "id": "D",
+                  "text": "derelict"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "\"Spooky\" combines both strangeness and fear, especially with a haunted house. \"Mysterious\" captures only the strangeness, and the other two describe physical condition.",
+              "skills": [
+                "synonyms"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q48",
+              "n": 48,
+              "prompt": "Our neighbors [[were jealous]] when they saw our brand-new car.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "saw red"
+                },
+                {
+                  "id": "B",
+                  "text": "paid us lip service"
+                },
+                {
+                  "id": "C",
+                  "text": "had green eyes"
+                },
+                {
+                  "id": "D",
+                  "text": "were armed to the teeth"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "Green is the colour traditionally associated with envy, giving the idiom for jealousy. \"Saw red\" means became angry, and \"armed to the teeth\" means heavily equipped.",
+              "skills": [
+                "idiom"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q49",
+              "n": 49,
+              "prompt": "Which oil company [[introduced]] the use of unleaded fuel?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "pioneered"
+                },
+                {
+                  "id": "B",
+                  "text": "launched"
+                },
+                {
+                  "id": "C",
+                  "text": "inaugurated"
+                },
+                {
+                  "id": "D",
+                  "text": "discovered"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "To pioneer is to be the first to introduce something, which the question's \"which company\" is asking about. \"Launched\" suits a product release and \"discovered\" implies finding something that already existed.",
+              "skills": [
+                "synonyms"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q50",
+              "n": 50,
+              "prompt": "I will tell you the secret if you promise not to [[divulge it to anyone]].",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "let the cat out of the bag"
+                },
+                {
+                  "id": "B",
+                  "text": "keep the ball rolling"
+                },
+                {
+                  "id": "C",
+                  "text": "pass the hat around"
+                },
+                {
+                  "id": "D",
+                  "text": "break the ice"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "Letting the cat out of the bag means revealing a secret. The others mean maintaining momentum, collecting money, and easing initial awkwardness.",
+              "skills": [
+                "idiom"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "type": "mcq",
+          "instruction": "For Questions 51 to 60, choose one option that best completes the gap in each sentence.",
+          "questions": [
+            {
+              "id": "ifl-2018-b-q51",
+              "n": 51,
+              "prompt": "When Lisa was sick, her mother would ________ her every hour.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "check up"
+                },
+                {
+                  "id": "B",
+                  "text": "check on"
+                },
+                {
+                  "id": "C",
+                  "text": "check with"
+                },
+                {
+                  "id": "D",
+                  "text": "check in"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "\"Check on someone\" means to look in on them to see how they are. \"Check up\" would need \"on\" to take an object, and \"check with\" means to consult someone.",
+              "skills": [
+                "phrasal-verbs"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q52",
+              "n": 52,
+              "prompt": "Relations between the two countries have ________, and there is mounting tension along the border.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "broken up"
+                },
+                {
+                  "id": "B",
+                  "text": "broken down"
+                },
+                {
+                  "id": "C",
+                  "text": "broken out"
+                },
+                {
+                  "id": "D",
+                  "text": "broken off"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "\"Break off relations\" means to end them, which fits the rising tension. \"Break out\" applies to war or disease starting, and \"break up\" to couples or groups separating.",
+              "skills": [
+                "phrasal-verbs",
+                "collocation"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q53",
+              "n": 53,
+              "prompt": "Scientists are curious about the different life ________ that might exist on the other planets.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "beings"
+                },
+                {
+                  "id": "B",
+                  "text": "attractions"
+                },
+                {
+                  "id": "C",
+                  "text": "forms"
+                },
+                {
+                  "id": "D",
+                  "text": "appearances"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "\"Life forms\" is the standard term for types of living things. \"Life beings\" is not an English compound.",
+              "skills": [
+                "collocation"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q54",
+              "n": 54,
+              "prompt": "As leader of the group, I've got to ________ the duties among the members.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "designate"
+                },
+                {
+                  "id": "B",
+                  "text": "delegate"
+                },
+                {
+                  "id": "C",
+                  "text": "appoint"
+                },
+                {
+                  "id": "D",
+                  "text": "nominate"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "To delegate is to hand out tasks to other people, and it takes duties as its object. \"Appoint\" and \"nominate\" take people, not duties.",
+              "skills": [
+                "collocation",
+                "vocabulary-in-context"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q55",
+              "n": 55,
+              "prompt": "To prevent an epidemic, patients with ________ diseases are isolated from the others.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "contagious"
+                },
+                {
+                  "id": "B",
+                  "text": "severe"
+                },
+                {
+                  "id": "C",
+                  "text": "fatal"
+                },
+                {
+                  "id": "D",
+                  "text": "dreadful"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "Isolation prevents spread, so the relevant quality is being contagious. Severity or fatality alone would not explain separating patients from others.",
+              "skills": [
+                "vocabulary-in-context"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q56",
+              "n": 56,
+              "prompt": "He could not identify the corpse because it was burnt beyond ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "recognition"
+                },
+                {
+                  "id": "B",
+                  "text": "remembrance"
+                },
+                {
+                  "id": "C",
+                  "text": "appearance"
+                },
+                {
+                  "id": "D",
+                  "text": "disguise"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "\"Burnt beyond recognition\" is a fixed expression, and it matches \"could not identify\" in the same sentence.",
+              "skills": [
+                "collocation"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q57",
+              "n": 57,
+              "prompt": "Food which is not ________ prepared can cause food poisoning.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "deliciously"
+                },
+                {
+                  "id": "B",
+                  "text": "skillfully"
+                },
+                {
+                  "id": "C",
+                  "text": "hygienically"
+                },
+                {
+                  "id": "D",
+                  "text": "medically"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "Food poisoning results from a lack of cleanliness, which is what hygienically refers to. Taste and skill do not cause contamination.",
+              "skills": [
+                "vocabulary-in-context"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q58",
+              "n": 58,
+              "prompt": "It is society's responsibility to ________ the plight of the poor.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "check"
+                },
+                {
+                  "id": "B",
+                  "text": "mitigate"
+                },
+                {
+                  "id": "C",
+                  "text": "alleviate"
+                },
+                {
+                  "id": "D",
+                  "text": "moderate"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "\"Alleviate\" is the verb normally paired with suffering or hardship, meaning to relieve it. Note that \"mitigate\" is close in meaning, though it more often takes risks, effects or damage as its object.",
+              "skills": [
+                "collocation"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q59",
+              "n": 59,
+              "prompt": "This model of the computer is considered ________ because they do not make them anymore.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "archaic"
+                },
+                {
+                  "id": "B",
+                  "text": "venerable"
+                },
+                {
+                  "id": "C",
+                  "text": "ancient"
+                },
+                {
+                  "id": "D",
+                  "text": "obsolete"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "Obsolete means no longer produced or used, which the reason clause states directly. \"Archaic\" and \"ancient\" refer to great age, and \"venerable\" implies respect.",
+              "skills": [
+                "vocabulary-in-context"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q60",
+              "n": 60,
+              "prompt": "They couldn't get over the ________ of losing their father so suddenly in the crash.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "dismay"
+                },
+                {
+                  "id": "B",
+                  "text": "jolt"
+                },
+                {
+                  "id": "C",
+                  "text": "disaster"
+                },
+                {
+                  "id": "D",
+                  "text": "trauma"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "Trauma is lasting emotional damage from a distressing event, which explains why they could not get over it. \"Dismay\" and \"jolt\" are too mild for a bereavement of this kind.",
+              "skills": [
+                "vocabulary-in-context"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "g4",
+          "type": "cloze",
+          "instruction": "For Questions 61 to 70, read the passage below and choose one best word from the options to fill in each gap.",
+          "stimulus": {
+            "id": "shopping-in-japan",
+            "title": "Shopping in Japan",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "text": "Unlike millions of Britons, who will not know how much the Christmas turkey, child's bicycle and the January sales have {{61}} them until the credit card bill arrives, the Japanese prefer to settle up before they have even {{62}} their shopping list. The Japanese like to improve on every idea, even if the idea is cash. So they have been {{63}} about the pre-paid card. It does away with the bother of banknotes and it saves the Japanese {{64}} the fear of being in {{65}} to someone else."
+              },
+              {
+                "kind": "paragraph",
+                "text": "It started with the convenient pre-paid telephone card and has {{66}} through train ticket cards, taxi cards, and supermarket cards all the way to McDonald's hamburger cards."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Few Westerners can understand why anyone would want to give money to a supermarket or a department store {{67}} by buying a pre-paid card. But credit companies are held in some suspicion in Japan. People have traditionally preferred cash and will happily stroll the streets with quite large {{68}} of money in their pockets. The fact that street crime is fairly rare helps."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Pre-paid cards are now as {{69}} as chopsticks and twice as convenient. About 500 million cards were sold in the first five years after they became {{70}}."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2018-b-q61",
+              "n": 61,
+              "options": [
+                {
+                  "id": "A",
+                  "text": "cost"
+                },
+                {
+                  "id": "B",
+                  "text": "lost"
+                },
+                {
+                  "id": "C",
+                  "text": "charged"
+                },
+                {
+                  "id": "D",
+                  "text": "priced"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "\"How much something has cost you\" is the natural phrasing for money spent. \"Charged\" would need a different structure and \"priced\" describes setting a price, not paying it.",
+              "skills": [
+                "collocation"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q62",
+              "n": 62,
+              "options": [
+                {
+                  "id": "A",
+                  "text": "written about"
+                },
+                {
+                  "id": "B",
+                  "text": "written off"
+                },
+                {
+                  "id": "C",
+                  "text": "written up"
+                },
+                {
+                  "id": "D",
+                  "text": "written out"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "To write out a list means to put it down in full. \"Write off\" means to dismiss or cancel a debt, and \"write up\" means to produce a fuller report.",
+              "skills": [
+                "phrasal-verbs"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q63",
+              "n": 63,
+              "options": [
+                {
+                  "id": "A",
+                  "text": "keen"
+                },
+                {
+                  "id": "B",
+                  "text": "exciting"
+                },
+                {
+                  "id": "C",
+                  "text": "enthusiastic"
+                },
+                {
+                  "id": "D",
+                  "text": "eager"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "\"Enthusiastic about\" takes the preposition already in the sentence. \"Keen\" takes \"on\", \"eager\" takes \"for\" or an infinitive, and \"exciting\" describes the thing rather than the people.",
+              "skills": [
+                "prepositions",
+                "collocation"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q64",
+              "n": 64,
+              "options": [
+                {
+                  "id": "A",
+                  "text": "of"
+                },
+                {
+                  "id": "B",
+                  "text": "from"
+                },
+                {
+                  "id": "C",
+                  "text": "for"
+                },
+                {
+                  "id": "D",
+                  "text": "by"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "\"Save someone from something\" is the pattern for protecting them from an unpleasant experience.",
+              "skills": [
+                "prepositions"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q65",
+              "n": 65,
+              "options": [
+                {
+                  "id": "A",
+                  "text": "payment"
+                },
+                {
+                  "id": "B",
+                  "text": "debt"
+                },
+                {
+                  "id": "C",
+                  "text": "bill"
+                },
+                {
+                  "id": "D",
+                  "text": "interest"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "\"In debt to someone\" means owing them money, which is the fear a pre-paid card removes. The other nouns do not follow \"being in\" in this sense.",
+              "skills": [
+                "collocation"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q66",
+              "n": 66,
+              "options": [
+                {
+                  "id": "A",
+                  "text": "followed"
+                },
+                {
+                  "id": "B",
+                  "text": "turned"
+                },
+                {
+                  "id": "C",
+                  "text": "changed"
+                },
+                {
+                  "id": "D",
+                  "text": "developed"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "The idea spread and grew from telephone cards to many other kinds, which is development. \"Changed\" would suggest replacement rather than expansion.",
+              "skills": [
+                "vocabulary-in-context"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q67",
+              "n": 67,
+              "options": [
+                {
+                  "id": "A",
+                  "text": "in time"
+                },
+                {
+                  "id": "B",
+                  "text": "in front"
+                },
+                {
+                  "id": "C",
+                  "text": "in advance"
+                },
+                {
+                  "id": "D",
+                  "text": "in future"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "A pre-paid card means paying before receiving the goods, which is paying in advance. \"In time\" means not late, and \"in front\" is spatial.",
+              "skills": [
+                "collocation"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q68",
+              "n": 68,
+              "options": [
+                {
+                  "id": "A",
+                  "text": "sums"
+                },
+                {
+                  "id": "B",
+                  "text": "savings"
+                },
+                {
+                  "id": "C",
+                  "text": "deposits"
+                },
+                {
+                  "id": "D",
+                  "text": "masses"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "\"Large sums of money\" is the standard phrase for amounts of cash. Savings and deposits are held in a bank rather than carried in a pocket.",
+              "skills": [
+                "collocation"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q69",
+              "n": 69,
+              "options": [
+                {
+                  "id": "A",
+                  "text": "usual"
+                },
+                {
+                  "id": "B",
+                  "text": "common"
+                },
+                {
+                  "id": "C",
+                  "text": "regular"
+                },
+                {
+                  "id": "D",
+                  "text": "often"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "The comparison with chopsticks is about how widespread the cards are, which is \"common\". \"Often\" is an adverb and cannot follow \"as\" here.",
+              "skills": [
+                "vocabulary-in-context"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q70",
+              "n": 70,
+              "options": [
+                {
+                  "id": "A",
+                  "text": "prepared"
+                },
+                {
+                  "id": "B",
+                  "text": "possible"
+                },
+                {
+                  "id": "C",
+                  "text": "available"
+                },
+                {
+                  "id": "D",
+                  "text": "ready"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "Products become available when they can be obtained by the public, which is the point from which sales are counted. \"Ready\" and \"prepared\" describe a state of preparation rather than release to the market.",
+              "skills": [
+                "vocabulary-in-context"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Section III: Reading",
+      "groups": [
+        {
+          "id": "g5",
+          "type": "mcq",
+          "instruction": "For Questions 71 to 73, choose the best ending for each of the following paragraphs.",
+          "questions": [
+            {
+              "id": "ifl-2018-b-q71",
+              "n": 71,
+              "prompt": "Every year, rich countries become richer and poor countries become poorer. In 1750, the richest country was about five times richer than the poorest country. Today, the richest country (Switzerland) is about 400 times richer than the poorest country (Mozambique). This greater difference is due largely to the growth of technology. The poorer countries are not able to keep up with the changing technology of the industrialized countries. With every new technological development, poor countries will be likely to ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "become even poorer than they are today"
+                },
+                {
+                  "id": "B",
+                  "text": "make more progress"
+                },
+                {
+                  "id": "C",
+                  "text": "catch up with the rich countries"
+                },
+                {
+                  "id": "D",
+                  "text": "become more like Switzerland"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "The paragraph describes a widening gap caused by technology that poor countries cannot keep up with, so each new development widens it further. B, C and D all reverse that trend.",
+              "skills": [
+                "inference"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q72",
+              "n": 72,
+              "prompt": "After Columbus traveled to the Americas, the Europeans began to import many kinds of products from the New World. Some of the products are well known, such as coffee, cocoa, tobacco, corn, potatoes, pumpkins, beans, and strawberries. But some of the products are little known today. For two centuries, one of the most important New World exports was the cochineal. This small red insect was used for making red cloth. It is still used for this purpose today and some insects are still exported from the Americas. However, with the invention of chemical colorants, the demand for the cochineal has ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "regained its commercial importance"
+                },
+                {
+                  "id": "B",
+                  "text": "become extinct"
+                },
+                {
+                  "id": "C",
+                  "text": "lost its brilliant red coloring"
+                },
+                {
+                  "id": "D",
+                  "text": "lost its commercial importance"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "Chemical colorants replaced the insect as a dye source, so demand fell and it became \"little known today\". B misapplies extinction to demand rather than the insect, and the passage says the colouring is still used.",
+              "skills": [
+                "inference"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q73",
+              "n": 73,
+              "prompt": "Immigration in the United States has been increasing rapidly. Each year about 600,000 new legal immigrants settle in this country. If all the illegal immigrants were counted, that number would be even higher. Today's immigrants are different from the immigrants of the early 20th century, who were mostly white and European. The more recent immigrants are mostly black, Hispanic, or Asian. However, they do have one thing in common: a desire to work and do well in their new homeland. For this reason, many people feel that the government should not shut its doors to immigrants. The immigrants have helped the country in the past, they say. Now, the United States ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "needs better laws to keep out immigrants"
+                },
+                {
+                  "id": "B",
+                  "text": "does not need people from other countries"
+                },
+                {
+                  "id": "C",
+                  "text": "could benefit from them again"
+                },
+                {
+                  "id": "D",
+                  "text": "could benefit only from the younger immigrants"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "The argument reported is that immigrants helped in the past, so the doors should stay open now. A and B contradict that view, and age is never mentioned.",
+              "skills": [
+                "inference"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "g6",
+          "type": "passage-mcq",
+          "instruction": "For Questions 74 to 83, look at the graphic below and answer the questions that follow.",
+          "stimulus": {
+            "id": "reel-invitation",
+            "title": "A ‘REEL’ INVITATION!",
+            "blocks": [
+              {
+                "kind": "image",
+                "src": "/papers/ifl-2018-b-q74-83.png",
+                "alt": "A 'REEL' INVITATION! birthday party invitation card. TO: June Lin, Blk 372 Bedok Reservoir Road, #08-9120, Singapore 1650. You are cordially invited to Jill Chen's 31st birthday bash. AT: The Home of Jill & Andrew Chen, 57 Hillview Road, Singapore 1131. Date: 15 December 1994. Time: 7.45 p.m. sharp. Theme: 'Movie Magic'!! Please come dressed as your favourite movie STAR! Fancy dress hire available at Costume Art tel: 730 5182. Directions: See Behind. Please reply as soon as possible. Call Jill at 467 5189 (residence) or Andrew at 860 9241 (during office hours only). RSVP."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2018-b-q74",
+              "n": 74,
+              "prompt": "This invitation is extended to ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "party"
+                },
+                {
+                  "id": "B",
+                  "text": "Jill Chen"
+                },
+                {
+                  "id": "C",
+                  "text": "June Lin"
+                },
+                {
+                  "id": "D",
+                  "text": "Andrew Chen"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "The name after \"TO:\" is the person receiving the invitation. Jill and Andrew are the hosts.",
+              "skills": [
+                "scanning"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q75",
+              "n": 75,
+              "prompt": "The party is to be held at ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Bedok Reservoir Road"
+                },
+                {
+                  "id": "B",
+                  "text": "Andrew's office"
+                },
+                {
+                  "id": "C",
+                  "text": "Costume Art"
+                },
+                {
+                  "id": "D",
+                  "text": "Hillview Road"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "The address after \"AT:\" is the venue, 57 Hillview Road. Bedok Reservoir Road is the guest's own address.",
+              "skills": [
+                "scanning"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q76",
+              "n": 76,
+              "prompt": "The party is to celebrate ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Jill's thirty-first birthday"
+                },
+                {
+                  "id": "B",
+                  "text": "the magic of movies"
+                },
+                {
+                  "id": "C",
+                  "text": "Andrew's fortieth birthday"
+                },
+                {
+                  "id": "D",
+                  "text": "June's birthday"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "The card names Jill Chen's 31st birthday as the occasion. \"Movie Magic\" is only the dress theme.",
+              "skills": [
+                "scanning"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q77",
+              "n": 77,
+              "prompt": "Jill and Andrew are ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "husband and wife"
+                },
+                {
+                  "id": "B",
+                  "text": "friends"
+                },
+                {
+                  "id": "C",
+                  "text": "neighbours"
+                },
+                {
+                  "id": "D",
+                  "text": "housemates"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "They share the surname Chen and \"The Home of Jill & Andrew Chen\", which together indicate a married couple.",
+              "skills": [
+                "inference"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q78",
+              "n": 78,
+              "prompt": "Guests are expected to arrive ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "at half past seven"
+                },
+                {
+                  "id": "B",
+                  "text": "at quarter to seven or later"
+                },
+                {
+                  "id": "C",
+                  "text": "at quarter to eight"
+                },
+                {
+                  "id": "D",
+                  "text": "at around eight o'clock"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "7.45 p.m. is a quarter to eight, and \"sharp\" means exactly that time. B misreads the time as a quarter to seven.",
+              "skills": [
+                "scanning"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q79",
+              "n": 79,
+              "prompt": "Costume Art is a company that ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "screens movies"
+                },
+                {
+                  "id": "B",
+                  "text": "caters for birthday and theme parties"
+                },
+                {
+                  "id": "C",
+                  "text": "rents out costumes"
+                },
+                {
+                  "id": "D",
+                  "text": "sells fancy clothes"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "The card says fancy dress hire is available there, and hire means renting rather than selling.",
+              "skills": [
+                "inference"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q80",
+              "n": 80,
+              "prompt": "As the theme for Jill's birthday party is 'Movie Magic', guests are required to ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "bring their favourite films to the party"
+                },
+                {
+                  "id": "B",
+                  "text": "dress as their favourite film stars"
+                },
+                {
+                  "id": "C",
+                  "text": "bring their favourite film stars to the party"
+                },
+                {
+                  "id": "D",
+                  "text": "make friends with movie stars"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "The instruction is to come dressed as a favourite movie star. Nothing is said about bringing films or people.",
+              "skills": [
+                "scanning"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q81",
+              "n": 81,
+              "prompt": "Directions to the Chen's residence are ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "included on the back of the invitation"
+                },
+                {
+                  "id": "B",
+                  "text": "not included on the next page"
+                },
+                {
+                  "id": "C",
+                  "text": "not included at all"
+                },
+                {
+                  "id": "D",
+                  "text": "included on the next page"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "\"Directions: See Behind\" points to the reverse side of the card, which is its back.",
+              "skills": [
+                "scanning"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q82",
+              "n": 82,
+              "prompt": "If you are unable to attend the party, you should ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "just not turn up at the party"
+                },
+                {
+                  "id": "B",
+                  "text": "call either Jill or Andrew to inform them"
+                },
+                {
+                  "id": "C",
+                  "text": "not bother to tell them at all"
+                },
+                {
+                  "id": "D",
+                  "text": "call Andrew at 467 5189"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "The RSVP request gives two numbers, one for each host. D pairs Andrew with Jill's residence number.",
+              "skills": [
+                "scanning"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q83",
+              "n": 83,
+              "prompt": "From the invitation card, one can assume that Jill ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "works in an office"
+                },
+                {
+                  "id": "B",
+                  "text": "is working far away from Andrew"
+                },
+                {
+                  "id": "C",
+                  "text": "is the owner of Costume Art"
+                },
+                {
+                  "id": "D",
+                  "text": "is a housewife"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "Jill's number is marked \"residence\" while Andrew's is for office hours only, suggesting she is at home rather than at work. This is an inference the card invites rather than states.",
+              "skills": [
+                "inference"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "g7",
+          "type": "passage-mcq",
+          "instruction": "For Questions 84 to 93, read the passage below and choose the best answer for each of the questions that follow.",
+          "stimulus": {
+            "id": "refrigeration",
+            "title": "The Development of the Refrigeration",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "label": "1",
+                "text": "Cold storage, or refrigeration, is keeping food at temperatures between 32 and 45 degrees F in order to delay the growth of microorganisms — bacteria, molds, and yeast — that cause food to spoil. Refrigeration produces few changes in food, so meats, fish, eggs, milk, fruits, and vegetables keep their original flavor, color, and nutrition. Before artificial refrigeration was invented, people stored **perishable** food with ice or snow to lengthen its storage time. Preserving food by keeping it in an ice-filled pit is a 4,000-year-old art. Cold storage areas were built in basements, cellars, or caves, lined with wood or straw, and packed with ice. The ice was transported from mountains, or harvested from local lakes or rivers, and delivered in large blocks to homes and businesses."
+              },
+              {
+                "kind": "paragraph",
+                "label": "2",
+                "text": "Artificial refrigeration is the process of removing heat from a substance, container, or enclosed area, to lower its temperature. The heat is moved from the inside of the container to the outside. A refrigerator uses the evaporation of a volatile liquid, or refrigerant, to absorb heat. In most types of refrigerators, the refrigerant is compressed, pumped through a pipe, and allowed to vaporize. **As the liquid turns to vapor, it loses heat and gets colder because the molecules of vapor use energy to leave the liquid. The molecules left behind have less energy and so the liquid becomes colder.** Thus, the air inside the refrigerator is chilled."
+              },
+              {
+                "kind": "paragraph",
+                "label": "3",
+                "text": "Scientists and inventors from around the world developed artificial refrigeration during the eighteenth and nineteenth centuries. William Cullen demonstrated artificial refrigeration in Scotland in 1748, when he let ethyl ether boil into a partial vacuum. In 1805, American inventor Oliver Evans designed the first refrigeration machine that used vapor instead of liquid. In 1842, physician John Gorrie used Evans's design to create an air-cooling apparatus to treat yellow-fever patients in a Florida hospital. Gorrie later left his medical practice and experimented with ice making, and in 1851 he was granted the first U.S. patent for mechanical refrigeration. In the same year, an Australian printer, James Harrison, built an ether refrigerator after noticing that when he cleaned his type with ether **it** became very cold as the ether evaporated. Five years later, Harrison introduced vapor-compression refrigeration to the brewing and meatpacking industries."
+              },
+              {
+                "kind": "paragraph",
+                "label": "4",
+                "text": "Brewing was the first industry in the United States to use mechanical refrigeration extensively, and in the 1870s, commercial refrigeration was primarily directed at breweries. German-born Adolphus Busch was the first to use artificial refrigeration at his brewery in St. Louis. Before refrigeration, brewers stored their beer in caves, and production was **constrained** by the amount of available cave space. Brewing was strictly a local business, since beer was highly perishable and shipping it any distance would result in spoilage. Busch solved the storage problem with the commercial vapor-compression refrigerator. He solved the shipping problem with the newly invented refrigerated railcar, which was insulated with ice bunkers in each end. Air came in on the top, passed through the bunkers, and circulated through the car by gravity. In solving Busch's spoilage and storage problems, refrigeration also revolutionized an entire industry. By 1891, nearly every brewery was equipped with mechanical refrigerating machines."
+              },
+              {
+                "kind": "paragraph",
+                "label": "5",
+                "text": "The refrigerators of today rely on the same basic principle of cooling caused by the rapid evaporation and expansion of gases. Until 1929, refrigerators used toxic gases — ammonia, methyl chloride, and sulfur dioxide — as refrigerants. After those gases accidentally killed several people, chlorofluorocarbons (CFCs) became the standard refrigerant. However, they were found to be harmful to the earth's ozone layer, so refrigerators now use a refrigerant called HFC 134a, which is less harmful to the ozone."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2018-b-q84",
+              "n": 84,
+              "prompt": "What is the main reason that people developed methods of refrigeration?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "They wanted to improve the flavor and nutritional value of food."
+                },
+                {
+                  "id": "B",
+                  "text": "They wanted to expand the production of certain industries."
+                },
+                {
+                  "id": "C",
+                  "text": "They needed a use for the ice that formed on lakes and rivers."
+                },
+                {
+                  "id": "D",
+                  "text": "They needed to slow the natural processes that cause food to spoil."
+                }
+              ],
+              "answerId": "D",
+              "explanation": "The opening sentence defines refrigeration as delaying the growth of the microorganisms that spoil food. Refrigeration preserves existing flavour rather than improving it, so A misreads the passage.",
+              "skills": [
+                "inference"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q85",
+              "n": 85,
+              "prompt": "The word perishable in paragraph 1 is closest in meaning to ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "uncooked"
+                },
+                {
+                  "id": "B",
+                  "text": "capable of spoiling"
+                },
+                {
+                  "id": "C",
+                  "text": "of animal origin"
+                },
+                {
+                  "id": "D",
+                  "text": "highly nutritious"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "Perishable food is food that goes bad quickly, which is why it needed ice or snow. The paragraph is about spoilage, not about cooking or nutrition.",
+              "skills": [
+                "vocabulary-in-context"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q86",
+              "n": 86,
+              "prompt": "What can be inferred from paragraph 1 about cold storage before the invention of artificial refrigeration?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "It kept food cold for only about a week."
+                },
+                {
+                  "id": "B",
+                  "text": "It required a container made of metal or wood."
+                },
+                {
+                  "id": "C",
+                  "text": "It was dependent on a source of ice or snow."
+                },
+                {
+                  "id": "D",
+                  "text": "It was not a safe method of preserving meat."
+                }
+              ],
+              "answerId": "C",
+              "explanation": "Every method described relies on ice or snow, transported from mountains or harvested from lakes and rivers. No duration or safety claim appears in the paragraph.",
+              "skills": [
+                "inference"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q87",
+              "n": 87,
+              "prompt": "Artificial refrigeration involves all of the following processes EXCEPT ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "the transfer of heat from one place to another"
+                },
+                {
+                  "id": "B",
+                  "text": "the rapid expansion of certain gases"
+                },
+                {
+                  "id": "C",
+                  "text": "the evaporation of a volatile liquid"
+                },
+                {
+                  "id": "D",
+                  "text": "the pumping of water vapor through a pipe"
+                }
+              ],
+              "answerId": "D",
+              "explanation": "What is pumped through the pipe is the refrigerant, not water vapor. The other three processes are all stated in paragraphs 2 and 5.",
+              "skills": [
+                "scanning"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q88",
+              "n": 88,
+              "prompt": "Which sentence below best expresses the essential information in the bold sentence in paragraph 2? Incorrect choices change the meaning in important ways or leave out essential information.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "It takes a lot of energy to transform a liquid into a vapor, especially when the vapor loses heat."
+                },
+                {
+                  "id": "B",
+                  "text": "Some gases expand rapidly and give off energy when they encounter a very cold liquid."
+                },
+                {
+                  "id": "C",
+                  "text": "During evaporation, the vapor molecules use energy, and the liquid becomes colder."
+                },
+                {
+                  "id": "D",
+                  "text": "When kinetic energy is changed to heat energy, liquid molecules turn into vapor molecules."
+                }
+              ],
+              "answerId": "C",
+              "explanation": "C keeps both essential elements: molecules using energy to escape, and the remaining liquid becoming colder. The others reverse the direction of the energy transfer or add claims the passage does not make.",
+              "skills": [
+                "paraphrase"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q89",
+              "n": 89,
+              "prompt": "According to the passage, who was the first person to use artificial refrigeration for a practical purpose?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "William Cullen"
+                },
+                {
+                  "id": "B",
+                  "text": "John Gorrie"
+                },
+                {
+                  "id": "C",
+                  "text": "Oliver Evans"
+                },
+                {
+                  "id": "D",
+                  "text": "Adolphus Busch"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "Gorrie built an air-cooling apparatus to treat yellow-fever patients, an actual application. Cullen only demonstrated the principle and Evans designed a machine without putting it to use.",
+              "skills": [
+                "scanning"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q90",
+              "n": 90,
+              "prompt": "The word it in paragraph 3 refers to ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "printer"
+                },
+                {
+                  "id": "B",
+                  "text": "type"
+                },
+                {
+                  "id": "C",
+                  "text": "refrigerator"
+                },
+                {
+                  "id": "D",
+                  "text": "ether"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "The type is the thing being cleaned, and it is what became cold as the ether evaporated. The ether is named separately later in the same clause.",
+              "skills": [
+                "pronouns"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q91",
+              "n": 91,
+              "prompt": "Why does the author discuss the brewing industry in paragraph 4?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "To show how refrigeration changed a whole industry"
+                },
+                {
+                  "id": "B",
+                  "text": "To describe the unique problems that brewers faced"
+                },
+                {
+                  "id": "C",
+                  "text": "To praise the accomplishments of a prominent brewer"
+                },
+                {
+                  "id": "D",
+                  "text": "To compare cave storage with mechanical refrigeration"
+                }
+              ],
+              "answerId": "A",
+              "explanation": "The paragraph closes by saying refrigeration revolutionized an entire industry, with nearly every brewery equipped by 1891. The brewers' problems and Busch himself are supporting detail, not the purpose.",
+              "skills": [
+                "text-organisation"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q92",
+              "n": 92,
+              "prompt": "The word constrained in paragraph 4 is closest in meaning to ________.",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "spoiled"
+                },
+                {
+                  "id": "B",
+                  "text": "restricted"
+                },
+                {
+                  "id": "C",
+                  "text": "improved"
+                },
+                {
+                  "id": "D",
+                  "text": "alternated"
+                }
+              ],
+              "answerId": "B",
+              "explanation": "Production was limited by how much cave space was available, so constrained means restricted. C reverses the sense.",
+              "skills": [
+                "vocabulary-in-context"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q93",
+              "n": 93,
+              "prompt": "According to the passage, the first refrigerated railcar used what material as a cooling agent?",
+              "options": [
+                {
+                  "id": "A",
+                  "text": "Ether"
+                },
+                {
+                  "id": "B",
+                  "text": "Ammonia"
+                },
+                {
+                  "id": "C",
+                  "text": "Ice"
+                },
+                {
+                  "id": "D",
+                  "text": "CFCs"
+                }
+              ],
+              "answerId": "C",
+              "explanation": "The railcar was insulated with ice bunkers at each end, with air circulating through them. Ether, ammonia and CFCs belong to other parts of the passage.",
+              "skills": [
+                "scanning"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "g8",
+          "type": "heading-match",
+          "instruction": "For Questions 94 to 100, choose the most suitable heading for each paragraph (A–G) from the list of headings. Note: there are more headings than paragraphs, so you will not use all of them.",
+          "optionsExceedItems": true,
+          "optionUseOnce": true,
+          "sharedOptions": [
+            {
+              "id": "i",
+              "text": "Initial impressions count"
+            },
+            {
+              "id": "ii",
+              "text": "Isn't it boring?"
+            },
+            {
+              "id": "iii",
+              "text": "What is a calorimeter?"
+            },
+            {
+              "id": "iv",
+              "text": "The set menu for one, please"
+            },
+            {
+              "id": "v",
+              "text": "What happens to the volunteer"
+            },
+            {
+              "id": "vi",
+              "text": "The way forward"
+            },
+            {
+              "id": "vii",
+              "text": "Why take part?"
+            },
+            {
+              "id": "viii",
+              "text": "What does it look like inside?"
+            }
+          ],
+          "stimulus": {
+            "id": "weight-experiment",
+            "title": "The Weight Experiment",
+            "blocks": [
+              {
+                "kind": "subheading",
+                "text": "Nicola Walters has been taking part in experiments in Scotland to discover why humans gain and lose weight. Being locked in a small room called a ‘calorimeter’ is one way to find out."
+              },
+              {
+                "kind": "paragraph",
+                "label": "A",
+                "text": "The signs above the two rooms read simply ‘Chamber one’ and ‘Chamber two’. These are the calorimeters: 4 m by 2 m white-walled rooms where human volunteers are imprisoned in the name of science. Outside these rooms another sign reads ‘Please do not enter – work in progress’ and in front of the rooms complicated machinery registers every move the volunteers make. Each day, meals measured to the last gram are passed through a hole in the wall of the calorimeter to the resident volunteer."
+              },
+              {
+                "kind": "paragraph",
+                "label": "B",
+                "text": "Despite the strange routine, there has never been a shortage of volunteers, male or female. Some even go back for a second stay. ‘You can tell immediately if someone can cope’ says researcher Alex Johnstone. ‘You know the first time they open the door and stare inside. Some will instantly take a step back and say “I don't think I'd like that,” and others will wander in and take a good look around.’"
+              },
+              {
+                "kind": "paragraph",
+                "label": "C",
+                "text": "Nicola Walters is one of twenty volunteers who, over the past eight months, have spent varying periods inside the calorimeter. She was paid £40 for eight days of experiments, of which four were spent in the room. Tall and slim, Nicola does not have a weight problem, but thought the strict diet might help with her training and fitness programme. A self-employed community dance worker, she was able to fit the experiment in around her work. She saw an advert for volunteers at her local gym and as she is interested in the whole area of diet and exercise, she thought she would help out."
+              },
+              {
+                "kind": "paragraph",
+                "label": "D",
+                "text": "The experiment on Nicola involved her spending one day on a fixed diet at home and the next in the room. This sequence was repeated four times over six weeks. She arrived at the calorimeter at 8.30 am on each of the four mornings and from then on everything she ate or drank was carefully measured. Her every move was noted too, her daily exercise routine timed to the last second. At regular intervals, after eating, she filled in forms about how hungry she felt and samples were taken for analysis."
+              },
+              {
+                "kind": "paragraph",
+                "label": "E",
+                "text": "The food, she insists, was tasty but the meals looked odd because they had been weighed and measured to the last ingredient. It takes three or four people to prepare each one, such is the level of accuracy needed. And when the time comes to eat, the volunteers are faced with plates of food chopped into all sorts of odd sizes."
+              },
+              {
+                "kind": "paragraph",
+                "label": "F",
+                "text": "The scientists help the volunteers impose a kind of order on the long days they face in the room. ‘The first time, I only took one video and a book, but it was OK because I watched television the rest of the time,’ says Nicola. And twice a day she used the exercise bike. She pedalled for half an hour, watched by researchers to make sure she didn't go too fast."
+              },
+              {
+                "kind": "paragraph",
+                "label": "G",
+                "text": "It seems that some foods encourage you to eat more, while others satisfy you quickly. Volunteers are already showing that high-fat diets are less likely to make you feel full. Believing that they may now know what encourages people to overeat, the researchers are about to start testing a high-protein weight-loss diet. Volunteers are required and Nicola has signed up for further sessions."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2018-b-q94",
+              "n": 94,
+              "prompt": "Paragraph A",
+              "answerId": "iii",
+              "explanation": "The paragraph explains what the calorimeters are: their dimensions, their signs, and how they work. \"What does it look like inside?\" is tempting, but the description is mostly of the rooms from the outside.",
+              "skills": [
+                "skimming"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q95",
+              "n": 95,
+              "prompt": "Paragraph B",
+              "answerId": "i",
+              "explanation": "The researcher describes being able to tell from a volunteer's first reaction at the door whether they will cope. That is precisely about first impressions.",
+              "skills": [
+                "skimming"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q96",
+              "n": 96,
+              "prompt": "Paragraph C",
+              "answerId": "vii",
+              "explanation": "It sets out Nicola's reasons for volunteering: the payment, the strict diet helping her fitness, her flexible work, and her interest in diet and exercise.",
+              "skills": [
+                "skimming"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q97",
+              "n": 97,
+              "prompt": "Paragraph D",
+              "answerId": "v",
+              "explanation": "This paragraph walks through the procedure a volunteer undergoes: the alternating days, the measuring, the forms and the samples.",
+              "skills": [
+                "skimming"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q98",
+              "n": 98,
+              "prompt": "Paragraph E",
+              "answerId": "iv",
+              "explanation": "The whole paragraph is about the meals, which are weighed to the last ingredient and prepared individually for one person.",
+              "skills": [
+                "skimming"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q99",
+              "n": 99,
+              "prompt": "Paragraph F",
+              "answerId": "ii",
+              "explanation": "It addresses how volunteers fill the long days, with videos, books, television and the exercise bike. The heading poses that concern as a question.",
+              "skills": [
+                "skimming"
+              ]
+            },
+            {
+              "id": "ifl-2018-b-q100",
+              "n": 100,
+              "prompt": "Paragraph G",
+              "answerId": "vi",
+              "explanation": "The paragraph looks ahead to the next stage of research, a high-protein diet trial for which volunteers are being recruited.",
+              "skills": [
+                "skimming"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

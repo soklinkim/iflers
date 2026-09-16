@@ -1,0 +1,1526 @@
+{
+  "id": "ifl-2017-a",
+  "title": "IFL Selection Test 2017",
+  "year": 2017,
+  "version": "A",
+  "source": "Royal University of Phnom Penh, Institute of Foreign Languages, Department of English — 2017 Fee-Paying Program Selection Test A",
+  "status": "pending",
+  "totalQuestions": 100,
+  "durationMinutes": 90,
+  "sections": [
+    {
+      "id": "grammar",
+      "title": "Section I: Grammar",
+      "groups": [
+        {
+          "id": "g1",
+          "type": "mcq",
+          "instruction": "For Questions 1 to 34, choose the one word or phrase which best completes each of the following sentences.",
+          "questions": [
+            {
+              "id": "ifl-2017-a-q1",
+              "n": 1,
+              "prompt": "Sonthormok Primary School _______ up an English language program into its curriculum at the beginning of next academic year.",
+              "options": [
+                { "id": "A", "text": "has put" },
+                { "id": "B", "text": "is putting" },
+                { "id": "C", "text": "puts" },
+                { "id": "D", "text": "have put" }
+              ],
+              "answerId": "B",
+              "explanation": "\"At the beginning of next academic year\" points to the future, so a present or past form is wrong. The present continuous expresses a planned future arrangement. D also fails because \"school\" is singular.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2017-a-q2",
+              "n": 2,
+              "prompt": "Vireak _______ his parents sell fishball noodles since he was seven.",
+              "options": [
+                { "id": "A", "text": "helps" },
+                { "id": "B", "text": "helped" },
+                { "id": "C", "text": "has been helping" },
+                { "id": "D", "text": "had helped" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Since he was seven\" marks an action that began in the past and continues now, which needs a present perfect form. The continuous is preferred because the helping is repeated and ongoing.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2017-a-q3",
+              "n": 3,
+              "prompt": "“Sopheak, our plane _______ in twenty minutes. Let's hurry.”",
+              "options": [
+                { "id": "A", "text": "taking off" },
+                { "id": "B", "text": "takes off" },
+                { "id": "C", "text": "was taking off" },
+                { "id": "D", "text": "will take off" }
+              ],
+              "answerId": "D",
+              "explanation": "The sentence needs a finite verb referring to the near future, so A (no finite verb) and C (past) are out. Note that B is also defensible in natural English, since timetabled departures often take the present simple.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2017-a-q4",
+              "n": 4,
+              "prompt": "“You are late now. You _______ a motordup instead of a taxi. The traffic was really bad.”",
+              "options": [
+                { "id": "A", "text": "should have taken" },
+                { "id": "B", "text": "ought to take" },
+                { "id": "C", "text": "should take" },
+                { "id": "D", "text": "must take" }
+              ],
+              "answerId": "A",
+              "explanation": "The speaker is criticising a past decision that cannot now be changed, which calls for \"should have\" plus a past participle. The other options all refer to present or future advice.",
+              "skills": ["modals"]
+            },
+            {
+              "id": "ifl-2017-a-q5",
+              "n": 5,
+              "prompt": "My daughter is going to take an entrance examination to the Department of English's Foundation Year Program this year. By the end of this week before the examination, she _______ 50 practice tests.",
+              "options": [
+                { "id": "A", "text": "completes" },
+                { "id": "B", "text": "will have completed" },
+                { "id": "C", "text": "has completed" },
+                { "id": "D", "text": "will complete" }
+              ],
+              "answerId": "B",
+              "explanation": "\"By\" plus a future time signals an action finished before that point, which is the future perfect. D would mean the completing happens at the end of the week rather than before it.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2017-a-q6",
+              "n": 6,
+              "prompt": "The wide range of products at AEON mall _______ many Cambodian families and foreigners to patronize the mall.",
+              "options": [
+                { "id": "A", "text": "has attracted" },
+                { "id": "B", "text": "attracts" },
+                { "id": "C", "text": "are attracting" },
+                { "id": "D", "text": "have attracted" }
+              ],
+              "answerId": "A",
+              "explanation": "The head of the subject is \"range\", not \"products\", so the verb is singular and C and D are wrong. The present perfect fits an effect that has built up and still holds.",
+              "skills": ["subject-verb-agreement", "verb-tense"]
+            },
+            {
+              "id": "ifl-2017-a-q7",
+              "n": 7,
+              "prompt": "Neither of these hairstyles in this salon _______ you. Why don't you choose another one from another salon?",
+              "options": [
+                { "id": "A", "text": "suit" },
+                { "id": "B", "text": "suits" },
+                { "id": "C", "text": "suited" },
+                { "id": "D", "text": "has suited" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Neither\" is treated as singular in formal grammar, so the verb takes -s. The situation is present, which rules out the past and present perfect forms.",
+              "skills": ["subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2017-a-q8",
+              "n": 8,
+              "prompt": "In 1066, a bright comet _______ in the sky attracted much attention from scientists and non-scientists around the globe.",
+              "options": [
+                { "id": "A", "text": "was appearing" },
+                { "id": "B", "text": "appears" },
+                { "id": "C", "text": "it appeared" },
+                { "id": "D", "text": "appearing" }
+              ],
+              "answerId": "D",
+              "explanation": "The main verb of the sentence is already \"attracted\", so the gap needs a reduced relative clause (\"a comet [that was] appearing in the sky\"). Any finite verb here would create two main verbs.",
+              "skills": ["participle-clauses"]
+            },
+            {
+              "id": "ifl-2017-a-q9",
+              "n": 9,
+              "prompt": "Having become more complicated, _______ mechanics to be better trained than they were in the past.",
+              "options": [
+                { "id": "A", "text": "it requires" },
+                { "id": "B", "text": "requiring" },
+                { "id": "C", "text": "cars require" },
+                { "id": "D", "text": "they require" }
+              ],
+              "answerId": "C",
+              "explanation": "The introductory participle phrase must attach to the subject that follows, and only \"cars\" can sensibly be the thing that has become more complicated. \"It\" and \"they\" have no antecedent in the sentence.",
+              "skills": ["participle-clauses"]
+            },
+            {
+              "id": "ifl-2017-a-q10",
+              "n": 10,
+              "prompt": "“We went on a picnic in the community park last weekend. We saw _______ colorful bird, and my father said that _______ bird was a rare species.”",
+              "options": [
+                { "id": "A", "text": "a/the" },
+                { "id": "B", "text": "the/the" },
+                { "id": "C", "text": "a/a" },
+                { "id": "D", "text": "the/a" }
+              ],
+              "answerId": "A",
+              "explanation": "The bird is introduced for the first time, so it takes the indefinite article; the second mention refers back to that same bird, so it takes the definite article.",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2017-a-q11",
+              "n": 11,
+              "prompt": "“We have to eat in _______ hour or we will be late for _______ show.”",
+              "options": [
+                { "id": "A", "text": "a/the" },
+                { "id": "B", "text": "an/the" },
+                { "id": "C", "text": "an/an" },
+                { "id": "D", "text": "the/the" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Hour\" begins with a vowel sound because the h is silent, so it takes \"an\". The show is one both speakers already know about, so it takes \"the\".",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2017-a-q12",
+              "n": 12,
+              "prompt": "“_______ of what is tested in this English proficiency test did not make _______ sense to me.”",
+              "options": [
+                { "id": "A", "text": "Much/any" },
+                { "id": "B", "text": "More/much" },
+                { "id": "C", "text": "Many/any" },
+                { "id": "D", "text": "Any/much" }
+              ],
+              "answerId": "A",
+              "explanation": "\"What is tested\" is uncountable here, so \"many\" is wrong. \"Any\" is the quantifier used with \"sense\" in a negative clause, while \"much sense\" after \"did not make\" is less idiomatic in this pairing.",
+              "skills": ["quantifiers"]
+            },
+            {
+              "id": "ifl-2017-a-q13",
+              "n": 13,
+              "prompt": "“You know who broke the window yesterday, _______?”",
+              "options": [
+                { "id": "A", "text": "do you" },
+                { "id": "B", "text": "don't you" },
+                { "id": "C", "text": "did you" },
+                { "id": "D", "text": "didn't you" }
+              ],
+              "answerId": "B",
+              "explanation": "The tag matches the main clause verb \"know\", which is present simple, not the past verb inside the embedded clause. A positive statement takes a negative tag.",
+              "skills": ["question-tags"]
+            },
+            {
+              "id": "ifl-2017-a-q14",
+              "n": 14,
+              "prompt": "The coffee latte of the Café Nisset is _______ the DMC Café.",
+              "options": [
+                { "id": "A", "text": "stronger than that of" },
+                { "id": "B", "text": "so strong as" },
+                { "id": "C", "text": "stronger than" },
+                { "id": "D", "text": "strong as that of" }
+              ],
+              "answerId": "A",
+              "explanation": "The comparison is between two coffees, not between a coffee and a café, so \"that of\" is needed to stand in for \"the coffee latte of\". C would illogically compare a drink with a business.",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "ifl-2017-a-q15",
+              "n": 15,
+              "prompt": "Imported oranges are _______ as Cambodian home-grown oranges.",
+              "options": [
+                { "id": "A", "text": "not sweet" },
+                { "id": "B", "text": "not as sweet" },
+                { "id": "C", "text": "less sweeter" },
+                { "id": "D", "text": "not as sweeter" }
+              ],
+              "answerId": "B",
+              "explanation": "The structure is \"not as + adjective + as\". C and D wrongly combine a comparative form with this pattern, and A leaves the \"as ... as\" frame incomplete.",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "ifl-2017-a-q16",
+              "n": 16,
+              "prompt": "“The sky is so low. If it _______, we _______ cancel our dinner party tonight.”",
+              "options": [
+                { "id": "A", "text": "rain/will" },
+                { "id": "B", "text": "will rain/will" },
+                { "id": "C", "text": "is raining/will" },
+                { "id": "D", "text": "rains/will" }
+              ],
+              "answerId": "D",
+              "explanation": "This is a first conditional about a real future possibility: present simple in the if-clause, \"will\" in the main clause. English does not normally use \"will\" after \"if\" in this pattern.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "ifl-2017-a-q17",
+              "n": 17,
+              "prompt": "“My family has already organized our holiday trip abroad. If my examination schedule _______ in the same week, I _______ them.”",
+              "options": [
+                { "id": "A", "text": "did not fall / would join" },
+                { "id": "B", "text": "do not fall / will join" },
+                { "id": "C", "text": "has not fallen / will join" },
+                { "id": "D", "text": "had not fallen / would have joined" }
+              ],
+              "answerId": "A",
+              "explanation": "The speaker's exam does clash, so this is an unreal present situation: second conditional, with a past form in the if-clause and \"would\" in the main clause. D would refer to a missed opportunity entirely in the past.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "ifl-2017-a-q18",
+              "n": 18,
+              "prompt": "After working so hard for the entrance examination, the candidates were so pleased _______ the results.",
+              "options": [
+                { "id": "A", "text": "at" },
+                { "id": "B", "text": "in" },
+                { "id": "C", "text": "on" },
+                { "id": "D", "text": "with" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Pleased with\" is the standard collocation when reacting to an outcome. \"Pleased at\" exists but is used with events or news rather than results of one's own effort.",
+              "skills": ["prepositions", "collocation"]
+            },
+            {
+              "id": "ifl-2017-a-q19",
+              "n": 19,
+              "prompt": "Sothavy was asked to take _______ the role of class monitor and librarian by her teacher.",
+              "options": [
+                { "id": "A", "text": "in" },
+                { "id": "B", "text": "on" },
+                { "id": "C", "text": "with" },
+                { "id": "D", "text": "from" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Take on\" means to accept a responsibility or role. \"Take in\" means to absorb or deceive, and neither \"take with\" nor \"take from\" works with \"role\".",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2017-a-q20",
+              "n": 20,
+              "prompt": "Collecting seashells was a hobby _______.",
+              "options": [
+                { "id": "A", "text": "which Daraseth found real pleasing to him" },
+                { "id": "B", "text": "pursuing which Daraseth got much pleasure" },
+                { "id": "C", "text": "that gave Daraseth a lot of pleasure doing" },
+                { "id": "D", "text": "that gave Daraseth a great deal of pleasure" }
+              ],
+              "answerId": "D",
+              "explanation": "Only D is a well-formed relative clause. A uses the adjective \"real\" where the adverb \"really\" is needed, B has broken word order, and C leaves \"doing\" dangling with no object.",
+              "skills": ["relative-clauses"]
+            },
+            {
+              "id": "ifl-2017-a-q21",
+              "n": 21,
+              "prompt": "A scientific observer of wildlife must note every detail of how _______ in their environment: their eating and sleeping habits, their social relationships, and their methods of self-protection.",
+              "options": [
+                { "id": "A", "text": "live animals" },
+                { "id": "B", "text": "do animals live" },
+                { "id": "C", "text": "do live animals" },
+                { "id": "D", "text": "animals live" }
+              ],
+              "answerId": "D",
+              "explanation": "After \"how\" in an embedded clause, English keeps statement word order: subject before verb, with no auxiliary inversion. B and C use question order, which belongs only in a direct question.",
+              "skills": ["embedded-questions", "word-order"]
+            },
+            {
+              "id": "ifl-2017-a-q22",
+              "n": 22,
+              "prompt": "“Sampborspheak nearly always wins the debate contest.” — “That's because her arguments are _______.”",
+              "options": [
+                { "id": "A", "text": "extremely presented well" },
+                { "id": "B", "text": "presented well extremely" },
+                { "id": "C", "text": "extremely well presented" },
+                { "id": "D", "text": "well presented extremely" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Extremely\" modifies \"well\", and \"well\" modifies \"presented\", so the intensifier comes first and the whole phrase sits before the participle. The other orders separate the words that belong together.",
+              "skills": ["adverb-position", "word-order"]
+            },
+            {
+              "id": "ifl-2017-a-q23",
+              "n": 23,
+              "prompt": "“Sotheara will tutor you in math and English _______ you promise to do everything he says.”",
+              "options": [
+                { "id": "A", "text": "unless" },
+                { "id": "B", "text": "only if" },
+                { "id": "C", "text": "whereas" },
+                { "id": "D", "text": "even though" }
+              ],
+              "answerId": "B",
+              "explanation": "The promise is the condition on which the tutoring depends, which \"only if\" expresses. \"Unless\" would reverse the meaning, and C and D signal contrast rather than condition.",
+              "skills": ["conjunctions"]
+            },
+            {
+              "id": "ifl-2017-a-q24",
+              "n": 24,
+              "prompt": "None of us could agree on where to go on vacation, so we went to different places, _______.",
+              "options": [
+                { "id": "A", "text": "they to Siem Reap and I to Ratanakiri provinces" },
+                { "id": "B", "text": "them to Siem Reap and me to Ratanakiri provinces" },
+                { "id": "C", "text": "them for Siem Reap and me for Ratanakiri provinces" },
+                { "id": "D", "text": "me to Ratanakiri and them to Siem Reap provinces" }
+              ],
+              "answerId": "A",
+              "explanation": "Each part is an elliptical clause with an understood verb (\"they [went] to Siem Reap\"), so the pronouns are subjects and take subject forms. The object forms in B, C and D cannot be subjects of the missing verb.",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "ifl-2017-a-q25",
+              "n": 25,
+              "prompt": "The new washing machine in our house saves us a lot of budget, energy and _______.",
+              "options": [
+                { "id": "A", "text": "some time" },
+                { "id": "B", "text": "any time" },
+                { "id": "C", "text": "the time" },
+                { "id": "D", "text": "time" }
+              ],
+              "answerId": "D",
+              "explanation": "The item must be parallel with \"budget\" and \"energy\", which are bare uncountable nouns with no determiner. Adding a determiner breaks the pattern.",
+              "skills": ["parallel-structure"]
+            },
+            {
+              "id": "ifl-2017-a-q26",
+              "n": 26,
+              "prompt": "Nearly all trees have seeds that fall to the earth, take root, and eventually _______.",
+              "options": [
+                { "id": "A", "text": "generate new seeds" },
+                { "id": "B", "text": "new seeds generate" },
+                { "id": "C", "text": "by generating new seeds" },
+                { "id": "D", "text": "new seeds generate there" }
+              ],
+              "answerId": "A",
+              "explanation": "The gap continues a list of verbs sharing the subject \"that\": fall, take, generate. Only A keeps that verb-first parallel structure.",
+              "skills": ["parallel-structure"]
+            },
+            {
+              "id": "ifl-2017-a-q27",
+              "n": 27,
+              "prompt": "_______ questions in this English proficiency test are not difficult.",
+              "options": [
+                { "id": "A", "text": "Our first few short grammar" },
+                { "id": "B", "text": "Our few first grammar short" },
+                { "id": "C", "text": "Our few first short grammar" },
+                { "id": "D", "text": "Few our first grammar short" }
+              ],
+              "answerId": "A",
+              "explanation": "English orders modifiers as determiner, then ordinal, then quantifier, then size, then the noun used as a modifier: our + first + few + short + grammar. The other options scramble that sequence.",
+              "skills": ["word-order", "determiners"]
+            },
+            {
+              "id": "ifl-2017-a-q28",
+              "n": 28,
+              "prompt": "“Let's go ahead and do it now. Nothing _______ by waiting.”",
+              "options": [
+                { "id": "A", "text": "accomplishes" },
+                { "id": "B", "text": "will be accomplished" },
+                { "id": "C", "text": "has accomplished" },
+                { "id": "D", "text": "accomplished" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Nothing\" receives the action rather than performing it, so the verb must be passive, and \"by waiting\" states the means. The active forms would wrongly make \"nothing\" the doer.",
+              "skills": ["passive-voice"]
+            },
+            {
+              "id": "ifl-2017-a-q29",
+              "n": 29,
+              "prompt": "“I have begun a new construction project of Borei Mittapheap, but I have been so busy lately. Therefore, I must have a person _______ them build the houses.”",
+              "options": [
+                { "id": "A", "text": "see" },
+                { "id": "B", "text": "to see" },
+                { "id": "C", "text": "will see" },
+                { "id": "D", "text": "is seeing" }
+              ],
+              "answerId": "A",
+              "explanation": "Causative \"have someone do something\" takes the bare infinitive. \"To see\" would follow \"get\", not \"have\".",
+              "skills": ["causatives", "gerund-infinitive"]
+            },
+            {
+              "id": "ifl-2017-a-q30",
+              "n": 30,
+              "prompt": "Sokhaphirath said he had spent many hours in the café in the last few weeks completing his research thesis. Only in this way _______ the deadline.",
+              "options": [
+                { "id": "A", "text": "he met" },
+                { "id": "B", "text": "he could meet" },
+                { "id": "C", "text": "could he meet" },
+                { "id": "D", "text": "did he meet" }
+              ],
+              "answerId": "C",
+              "explanation": "A fronted restrictive adverbial such as \"Only in this way\" forces subject-auxiliary inversion. \"Could\" fits the sense of ability, and D would need the inverted auxiliary to carry a different meaning.",
+              "skills": ["inversion"]
+            },
+            {
+              "id": "ifl-2017-a-q31",
+              "n": 31,
+              "prompt": "Along the Russian Federation Boulevard _______ the Royal University of Phnom Penh, the first long existing and outstanding public university of Cambodia.",
+              "options": [
+                { "id": "A", "text": "does stand" },
+                { "id": "B", "text": "is standing" },
+                { "id": "C", "text": "stand" },
+                { "id": "D", "text": "stands" }
+              ],
+              "answerId": "D",
+              "explanation": "When a place adverbial is fronted, the subject follows the verb, and the singular subject \"the Royal University\" takes \"stands\". This inversion pattern uses a simple verb form, not \"does\" or the continuous.",
+              "skills": ["inversion", "subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2017-a-q32",
+              "n": 32,
+              "prompt": "“If everyone _______, how would we control air traffic? Surely, we'd all be crashing into each other.”",
+              "options": [
+                { "id": "A", "text": "can fly" },
+                { "id": "B", "text": "will fly" },
+                { "id": "C", "text": "could fly" },
+                { "id": "D", "text": "flies" }
+              ],
+              "answerId": "C",
+              "explanation": "The main clause uses \"would\", so this is a second conditional about an unreal situation, and the if-clause needs a past form. \"Could\" is the past form of \"can\" required here.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "ifl-2017-a-q33",
+              "n": 33,
+              "prompt": "“When my lost briefcase was returned with my year-long research results intact, I felt tremendously relieved. It was as if a huge, heavy weight _______ from my shoulders.”",
+              "options": [
+                { "id": "A", "text": "is lifting" },
+                { "id": "B", "text": "had been lifted" },
+                { "id": "C", "text": "is being lifted" },
+                { "id": "D", "text": "would be lifted" }
+              ],
+              "answerId": "B",
+              "explanation": "\"As if\" describing an unreal comparison in the past takes the past perfect, and the weight receives the action so the verb is passive. The present forms clash with the past narrative.",
+              "skills": ["verb-tense", "passive-voice"]
+            },
+            {
+              "id": "ifl-2017-a-q34",
+              "n": 34,
+              "prompt": "Meyly gave such a wonderful speech at the school orientation that I couldn't resist _______ loudly when she finished.",
+              "options": [
+                { "id": "A", "text": "applauding" },
+                { "id": "B", "text": "being applauded" },
+                { "id": "C", "text": "to applaud" },
+                { "id": "D", "text": "to be applauded" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Resist\" is followed by a gerund, never an infinitive. The speaker is doing the applauding, so the active form is needed rather than the passive.",
+              "skills": ["gerund-infinitive"]
+            }
+          ]
+        },
+        {
+          "id": "g2",
+          "type": "cloze",
+          "instruction": "For Questions 35 to 40, choose the one word or phrase which best completes each of the gaps in the passage below.",
+          "stimulus": {
+            "id": "home-workers",
+            "title": "Home-workers",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "text": "According to government research, more people are working from home than ever before. Consequently, there has been an increase in loneliness among those people who no longer have to travel to their place of {{35}}. Office workers spend their day {{36}} by friends and colleagues, while home-workers rarely meet anyone face to face. The most direct means of {{37}} a home-worker has with the world outside is the telephone. The fax and the internet are two more {{38}} links that can be used, although they still rely on the written, rather than the {{39}}, word. What a home-maker really wants is the {{40}} of a human voice, not the digital bleeps of a computer."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2017-a-q35",
+              "n": 35,
+              "options": [
+                { "id": "A", "text": "employing" },
+                { "id": "B", "text": "employment" },
+                { "id": "C", "text": "employer" },
+                { "id": "D", "text": "employee" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Place of employment\" is the fixed phrase for where someone works. C and D name people rather than an activity, and A is a verb form that does not follow \"place of\".",
+              "skills": ["word-formation", "collocation"]
+            },
+            {
+              "id": "ifl-2017-a-q36",
+              "n": 36,
+              "options": [
+                { "id": "A", "text": "surrounded" },
+                { "id": "B", "text": "being surrounded" },
+                { "id": "C", "text": "surrounding" },
+                { "id": "D", "text": "to surround" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Spend their day\" plus a past participle describes the state the workers are in. The workers are surrounded rather than doing the surrounding, so C is wrong, and B is unnecessarily heavy here.",
+              "skills": ["word-formation", "participle-clauses"]
+            },
+            {
+              "id": "ifl-2017-a-q37",
+              "n": 37,
+              "options": [
+                { "id": "A", "text": "communicate" },
+                { "id": "B", "text": "communicates" },
+                { "id": "C", "text": "to communicate" },
+                { "id": "D", "text": "communication" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Means of\" is followed by a noun, and \"communication\" is the noun form. The verb forms cannot follow the preposition \"of\".",
+              "skills": ["word-formation"]
+            },
+            {
+              "id": "ifl-2017-a-q38",
+              "n": 38,
+              "options": [
+                { "id": "A", "text": "technological" },
+                { "id": "B", "text": "technology" },
+                { "id": "C", "text": "technologically" },
+                { "id": "D", "text": "technically" }
+              ],
+              "answerId": "A",
+              "explanation": "The gap modifies the noun \"links\", so an adjective is required. C and D are adverbs, and B is a noun that does not fit this position.",
+              "skills": ["word-formation"]
+            },
+            {
+              "id": "ifl-2017-a-q39",
+              "n": 39,
+              "options": [
+                { "id": "A", "text": "speaking" },
+                { "id": "B", "text": "to speak" },
+                { "id": "C", "text": "spoken" },
+                { "id": "D", "text": "speech" }
+              ],
+              "answerId": "C",
+              "explanation": "The contrast is with \"the written word\", so the parallel form is \"the spoken word\". The other options break that fixed pairing.",
+              "skills": ["word-formation", "collocation"]
+            },
+            {
+              "id": "ifl-2017-a-q40",
+              "n": 40,
+              "options": [
+                { "id": "A", "text": "warm" },
+                { "id": "B", "text": "warmth" },
+                { "id": "C", "text": "warmly" },
+                { "id": "D", "text": "warming" }
+              ],
+              "answerId": "B",
+              "explanation": "After \"the\" and before \"of\", a noun is needed, and \"warmth\" is the noun form of \"warm\". A is an adjective and C is an adverb.",
+              "skills": ["word-formation"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "title": "Section II: Vocabulary",
+      "groups": [
+        {
+          "id": "g3",
+          "type": "vocab-inline",
+          "instruction": "For Questions 41 to 50, choose one option that is closest in meaning to the marked words or phrases.",
+          "questions": [
+            {
+              "id": "ifl-2017-a-q41",
+              "n": 41,
+              "prompt": "Maybe some [[unmarried men]] spent a lot of time milking cows before getting married in the olden days.",
+              "options": [
+                { "id": "A", "text": "spinsters" },
+                { "id": "B", "text": "bachelors" },
+                { "id": "C", "text": "divorcees" },
+                { "id": "D", "text": "fiancés" }
+              ],
+              "answerId": "B",
+              "explanation": "A bachelor is a man who has never married. A spinster is the female equivalent, a divorcee has been married and separated, and a fiancé is engaged to be married.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2017-a-q42",
+              "n": 42,
+              "prompt": "The Court of Justice has ordered the Nigerian government to pay $75,000 to the family of the [[dead person]].",
+              "options": [
+                { "id": "A", "text": "mourner" },
+                { "id": "B", "text": "deceased" },
+                { "id": "C", "text": "undertaker" },
+                { "id": "D", "text": "bereaved" }
+              ],
+              "answerId": "B",
+              "explanation": "\"The deceased\" is the formal legal term for the person who has died. A mourner and the bereaved are the living people who grieve, and an undertaker arranges the funeral.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2017-a-q43",
+              "n": 43,
+              "prompt": "He was one of the [[people who have left his country to join the enemy]] during the war.",
+              "options": [
+                { "id": "A", "text": "immigrants" },
+                { "id": "B", "text": "refugees" },
+                { "id": "C", "text": "defectors" },
+                { "id": "D", "text": "traitors" }
+              ],
+              "answerId": "C",
+              "explanation": "A defector abandons their country to go over to an opposing side, which matches the description exactly. A traitor betrays their country but does not necessarily leave it, and immigrants and refugees move for settlement or safety.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2017-a-q44",
+              "n": 44,
+              "prompt": "He has worked as a [[caretaker]] for a block of flats since he was just eighteen.",
+              "options": [
+                { "id": "A", "text": "curator" },
+                { "id": "B", "text": "janitor" },
+                { "id": "C", "text": "guard" },
+                { "id": "D", "text": "warder" }
+              ],
+              "answerId": "B",
+              "explanation": "A janitor maintains and cleans a building, which is what a caretaker of a block of flats does. A curator looks after a museum collection, and a warder supervises prisoners.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2017-a-q45",
+              "n": 45,
+              "prompt": "In the northern mountains bordering Russia, everyone knew the active Chinese man as a skilled and ruthless [[hunter]] who once killed a mother black bear as her cubs looked on.",
+              "options": [
+                { "id": "A", "text": "poacher" },
+                { "id": "B", "text": "killer" },
+                { "id": "C", "text": "murderer" },
+                { "id": "D", "text": "breeder" }
+              ],
+              "answerId": "A",
+              "explanation": "A poacher hunts animals illegally, which fits the ruthless killing of a protected animal. \"Murderer\" applies only to killing people, and a breeder raises animals rather than hunting them.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2017-a-q46",
+              "n": 46,
+              "prompt": "If you see a lion, you should not run away as running may stimulate a mountain lion's [[natural ability]] to chase and attack.",
+              "options": [
+                { "id": "A", "text": "talent" },
+                { "id": "B", "text": "skill" },
+                { "id": "C", "text": "knowledge" },
+                { "id": "D", "text": "instinct" }
+              ],
+              "answerId": "D",
+              "explanation": "An instinct is an inborn behavioural drive, which is what an animal's natural ability to chase prey is. Talent, skill and knowledge all suggest something developed or learned.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2017-a-q47",
+              "n": 47,
+              "prompt": "After two hours spent in the snow, I realized we were on [[a wild-goose chase]].",
+              "options": [
+                { "id": "A", "text": "an exciting journey" },
+                { "id": "B", "text": "a useless search" },
+                { "id": "C", "text": "goose hunting" },
+                { "id": "D", "text": "a tiring journey" }
+              ],
+              "answerId": "B",
+              "explanation": "A wild-goose chase is an idiom for a pursuit that is hopeless and wastes effort. C reads the idiom literally, and A and D describe the journey's feel rather than its futility.",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "ifl-2017-a-q48",
+              "n": 48,
+              "prompt": "This fantastic scheme was [[nipped in the bud]] by the authorities.",
+              "options": [
+                { "id": "A", "text": "supported" },
+                { "id": "B", "text": "inhibited" },
+                { "id": "C", "text": "staged" },
+                { "id": "D", "text": "threatened" }
+              ],
+              "answerId": "B",
+              "explanation": "To nip something in the bud is to stop it at an early stage before it can develop. \"Inhibited\" carries that sense of being held back; A is the opposite and D falls short of actually stopping it.",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "ifl-2017-a-q49",
+              "n": 49,
+              "prompt": "He didn't like the film at all. I thought it was [[hilarious]].",
+              "options": [
+                { "id": "A", "text": "cunning" },
+                { "id": "B", "text": "frivolous" },
+                { "id": "C", "text": "silly" },
+                { "id": "D", "text": "funny" }
+              ],
+              "answerId": "D",
+              "explanation": "Hilarious means extremely funny. \"Silly\" and \"frivolous\" carry a dismissive tone rather than a sense of amusement, and \"cunning\" means clever in a deceptive way.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2017-a-q50",
+              "n": 50,
+              "prompt": "The company offered him a [[paltry]] sum which he was forced to accept in the end.",
+              "options": [
+                { "id": "A", "text": "little" },
+                { "id": "B", "text": "significant" },
+                { "id": "C", "text": "substantial" },
+                { "id": "D", "text": "minor" }
+              ],
+              "answerId": "A",
+              "explanation": "Paltry describes an amount that is small enough to be insulting, so \"little\" is closest. B and C mean the opposite, and \"minor\" describes importance rather than quantity.",
+              "skills": ["synonyms"]
+            }
+          ]
+        },
+        {
+          "id": "g4",
+          "type": "mcq",
+          "instruction": "For Questions 51 to 60, choose one option that best completes the gap in each sentence.",
+          "questions": [
+            {
+              "id": "ifl-2017-a-q51",
+              "n": 51,
+              "prompt": "We presented both our guests with _______ of appreciation.",
+              "options": [
+                { "id": "A", "text": "mementos" },
+                { "id": "B", "text": "remembrances" },
+                { "id": "C", "text": "tokens" },
+                { "id": "D", "text": "relics" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Token of appreciation\" is the set phrase for a small gift expressing thanks. Mementos and remembrances are keepsakes of an event, and relics are objects surviving from the distant past.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2017-a-q52",
+              "n": 52,
+              "prompt": "The judges said this was an impressive innovation that ensures all parties gain from the system, including solicitors, _______ and the insurance companies.",
+              "options": [
+                { "id": "A", "text": "customers" },
+                { "id": "B", "text": "shoppers" },
+                { "id": "C", "text": "buyers" },
+                { "id": "D", "text": "clients" }
+              ],
+              "answerId": "D",
+              "explanation": "People who use the services of a solicitor are called clients, not customers. Shoppers and buyers belong to a retail context, which does not fit legal and insurance services.",
+              "skills": ["collocation", "vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2017-a-q53",
+              "n": 53,
+              "prompt": "Our university _______ to many famous online journals so that the students will be able to access the most updated knowledge in their field of study.",
+              "options": [
+                { "id": "A", "text": "purchases" },
+                { "id": "B", "text": "subscribes" },
+                { "id": "C", "text": "downloads" },
+                { "id": "D", "text": "obtains" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Subscribe to\" is the verb used for paying for ongoing access to journals, and it is the only option that takes the preposition \"to\" already in the sentence.",
+              "skills": ["collocation", "prepositions"]
+            },
+            {
+              "id": "ifl-2017-a-q54",
+              "n": 54,
+              "prompt": "Other iPhone users reported that their phones would not turn on, forcing them to plug their _______ into a computer to rectify the problem.",
+              "options": [
+                { "id": "A", "text": "appliance" },
+                { "id": "B", "text": "device" },
+                { "id": "C", "text": "machine" },
+                { "id": "D", "text": "tool" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Device\" is the standard term for a phone or similar piece of electronic equipment. An appliance is a household item such as a fridge, and a tool is used to perform manual work.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2017-a-q55",
+              "n": 55,
+              "prompt": "The British government is expected to _______ the plan of state subsidy for a new high speed railway.",
+              "options": [
+                { "id": "A", "text": "reject" },
+                { "id": "B", "text": "refuse" },
+                { "id": "C", "text": "deny" },
+                { "id": "D", "text": "disallow" }
+              ],
+              "answerId": "A",
+              "explanation": "You reject a plan or a proposal. \"Refuse\" takes a request or an offer, \"deny\" means to say something is untrue, and \"disallow\" applies to claims or goals rather than plans.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2017-a-q56",
+              "n": 56,
+              "prompt": "Two healthcare assistants have been jailed for beating, _______ and cruelly taunting elderly dementia patients on a hospital ward.",
+              "options": [
+                { "id": "A", "text": "misusing" },
+                { "id": "B", "text": "disusing" },
+                { "id": "C", "text": "abusing" },
+                { "id": "D", "text": "using" }
+              ],
+              "answerId": "C",
+              "explanation": "Only \"abuse\" applies to the mistreatment of a person. \"Misuse\" and \"disuse\" apply to objects or systems, and are used with things rather than people.",
+              "skills": ["word-formation", "vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2017-a-q57",
+              "n": 57,
+              "prompt": "It seems that she wanted a man strong enough to handle a woman as strong as her, not one who required a needy or _______ woman.",
+              "options": [
+                { "id": "A", "text": "inferior" },
+                { "id": "B", "text": "lower" },
+                { "id": "C", "text": "substandard" },
+                { "id": "D", "text": "submissive" }
+              ],
+              "answerId": "D",
+              "explanation": "The contrast is with a strong woman, so the gap needs a word about yielding to another's will, which is \"submissive\". The other options describe quality or rank rather than behaviour in a relationship.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2017-a-q58",
+              "n": 58,
+              "prompt": "The government is taking drastic actions to _______ the shortage of water in rural areas.",
+              "options": [
+                { "id": "A", "text": "contrive" },
+                { "id": "B", "text": "alleviate" },
+                { "id": "C", "text": "suffer" },
+                { "id": "D", "text": "decrease" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Alleviate\" means to make a problem less severe, which is what action against a shortage aims to do. \"Decrease\" would oddly suggest reducing the shortage as a quantity, and \"contrive\" means to devise or bring about.",
+              "skills": ["collocation", "vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2017-a-q59",
+              "n": 59,
+              "prompt": "Becker says the gunfire was _______. “It would stop and then more shots, then a lull and then more shots. I could hear people yelling at them to shut off the lights, to be quiet.”",
+              "options": [
+                { "id": "A", "text": "sporadic" },
+                { "id": "B", "text": "regular" },
+                { "id": "C", "text": "intermittent" },
+                { "id": "D", "text": "occasional" }
+              ],
+              "answerId": "A",
+              "explanation": "Sporadic describes something happening at scattered, irregular intervals, which matches the unpredictable bursts described. Note that \"intermittent\" is very close in meaning here and is arguably also defensible.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2017-a-q60",
+              "n": 60,
+              "prompt": "The irresponsible behaviour of the few can no longer be allowed to _______ the reputation and the contribution of the many.",
+              "options": [
+                { "id": "A", "text": "decrease" },
+                { "id": "B", "text": "lower" },
+                { "id": "C", "text": "tarnish" },
+                { "id": "D", "text": "protect" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Tarnish a reputation\" is the standard collocation for damaging how someone is regarded. A and B treat reputation as a measurable quantity, and D reverses the intended meaning.",
+              "skills": ["collocation"]
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "type": "cloze",
+          "instruction": "For Questions 61 to 70, read the passage below and choose one best word from the options to fill in each gap.",
+          "stimulus": {
+            "id": "spelling",
+            "title": "Spelling",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "text": "Spelling {{61}} a major problem to many students—and, indeed, native speakers—of English. This is hardly surprising when you consider just how illogical the English spelling {{62}} is. The spelling of such basic words as *right, through, once,* and *who* seems to {{63}} no relation to their {{64}}. And how can the words *go, sew,* and *though* all rhyme with each other?"
+              },
+              {
+                "kind": "paragraph",
+                "text": "There have been attempts in the {{65}} to reform English spelling. The playwright George Bernard Shaw was an enthusiastic {{66}} for a more phonetic approach. In a clever illustration of the absurdity of English spelling, he suggested that the word *fish* be {{67}} by the letters ‘ghoti’: the *gh* from *enough*, the *o* from *women*, and the *ti* from *nation*. When he died in the 1950 he left a large part of his estate to promote spelling reform."
+              },
+              {
+                "kind": "paragraph",
+                "text": "So why do we {{68}} in spelling words the way we do, despite the efforts of reformers like Shaw? One reason is that we are too {{69}} with the words as they are currently spelled. It is certain that any change in the rules would be extremely difficult, if not impossible, to {{70}}. Another is that there is such a variety of regional accents within the English speaking world that it would be unfair to select one as the standard model for spelling."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2017-a-q61",
+              "n": 61,
+              "options": [
+                { "id": "A", "text": "makes" },
+                { "id": "B", "text": "puts" },
+                { "id": "C", "text": "shows" },
+                { "id": "D", "text": "presents" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Present a problem to someone\" is the natural collocation. \"Make\" would need \"for\" rather than \"to\", and \"put\" and \"show\" do not combine with \"problem\" in this way.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2017-a-q62",
+              "n": 62,
+              "options": [
+                { "id": "A", "text": "system" },
+                { "id": "B", "text": "procedure" },
+                { "id": "C", "text": "method" },
+                { "id": "D", "text": "schedule" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Spelling system\" refers to the whole organised set of conventions a language uses, which is what is being called illogical. A procedure or method is a way of doing a task, and a schedule is a timetable.",
+              "skills": ["collocation", "vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2017-a-q63",
+              "n": 63,
+              "options": [
+                { "id": "A", "text": "bold" },
+                { "id": "B", "text": "keep" },
+                { "id": "C", "text": "carry" },
+                { "id": "D", "text": "bear" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Bear no relation to\" is a fixed expression meaning to have no connection with. The other verbs do not combine with \"relation\" in this sense.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2017-a-q64",
+              "n": 64,
+              "options": [
+                { "id": "A", "text": "voice" },
+                { "id": "B", "text": "speech" },
+                { "id": "C", "text": "vocation" },
+                { "id": "D", "text": "pronunciation" }
+              ],
+              "answerId": "D",
+              "explanation": "The passage contrasts how words are spelled with how they are said, which is pronunciation. \"Vocation\" means a calling or career and is unrelated.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2017-a-q65",
+              "n": 65,
+              "options": [
+                { "id": "A", "text": "history" },
+                { "id": "B", "text": "years" },
+                { "id": "C", "text": "past" },
+                { "id": "D", "text": "ages" }
+              ],
+              "answerId": "C",
+              "explanation": "\"In the past\" is the standard phrase for something that happened at earlier times. The other nouns need extra words to work, such as \"over the years\".",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2017-a-q66",
+              "n": 66,
+              "options": [
+                { "id": "A", "text": "campaigner" },
+                { "id": "B", "text": "demonstrator" },
+                { "id": "C", "text": "champion" },
+                { "id": "D", "text": "candidate" }
+              ],
+              "answerId": "A",
+              "explanation": "A campaigner for something works actively to promote it, and the preposition \"for\" in the sentence fits this noun. A champion would take \"of\", and a demonstrator or candidate does not match the sense.",
+              "skills": ["collocation", "prepositions"]
+            },
+            {
+              "id": "ifl-2017-a-q67",
+              "n": 67,
+              "options": [
+                { "id": "A", "text": "described" },
+                { "id": "B", "text": "represented" },
+                { "id": "C", "text": "signed" },
+                { "id": "D", "text": "written" }
+              ],
+              "answerId": "B",
+              "explanation": "Shaw proposed that the letters stand for the sounds of the word, which is what \"represented by\" expresses. \"Written by\" would suggest authorship rather than spelling.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2017-a-q68",
+              "n": 68,
+              "options": [
+                { "id": "A", "text": "insist" },
+                { "id": "B", "text": "continue" },
+                { "id": "C", "text": "keep" },
+                { "id": "D", "text": "persist" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Persist in doing something\" is the pattern that takes the preposition \"in\" already present in the sentence. \"Insist\" takes \"on\", and \"continue\" and \"keep\" take a gerund with no preposition.",
+              "skills": ["collocation", "prepositions"]
+            },
+            {
+              "id": "ifl-2017-a-q69",
+              "n": 69,
+              "options": [
+                { "id": "A", "text": "accustomed" },
+                { "id": "B", "text": "used" },
+                { "id": "C", "text": "friendly" },
+                { "id": "D", "text": "familiar" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Familiar with\" means well acquainted with something, and takes the preposition \"with\" that follows. \"Accustomed\" and \"used\" both take \"to\" instead.",
+              "skills": ["prepositions", "collocation"]
+            },
+            {
+              "id": "ifl-2017-a-q70",
+              "n": 70,
+              "options": [
+                { "id": "A", "text": "require" },
+                { "id": "B", "text": "enforce" },
+                { "id": "C", "text": "make" },
+                { "id": "D", "text": "oblige" }
+              ],
+              "answerId": "B",
+              "explanation": "Rules are enforced, meaning made to be obeyed, which is the difficulty the writer describes. \"Require\" and \"oblige\" take a person as their object, not a rule.",
+              "skills": ["collocation"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Section III: Reading",
+      "groups": [
+        {
+          "id": "g6",
+          "type": "mcq",
+          "instruction": "For Questions 71 to 78, choose the best ending for each of the following paragraphs.",
+          "questions": [
+            {
+              "id": "ifl-2017-a-q71",
+              "n": 71,
+              "prompt": "There are many ways to prepare eggs for eating. You can fry them, boil them or scramble them. Or, if the eggs are very fresh, you can even eat them without cooking them. Whatever way you choose to eat your eggs, however, you must _______.",
+              "options": [
+                { "id": "A", "text": "always break the shell first" },
+                { "id": "B", "text": "always cook them" },
+                { "id": "C", "text": "never cook them" },
+                { "id": "D", "text": "never break the shell" }
+              ],
+              "answerId": "A",
+              "explanation": "The paragraph says eggs can be eaten raw, so cooking is not compulsory and B is contradicted. Breaking the shell is the one step common to every method listed.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2017-a-q72",
+              "n": 72,
+              "prompt": "It used to be fashionable for women to have very small waists. They often wore tight clothes around their middles to make them thinner. A woman with a very thin waist was said to be “wasp-waisted” because her body looked like the body of a wasp. The wasp is an insect with _______.",
+              "options": [
+                { "id": "A", "text": "a large head and small body" },
+                { "id": "B", "text": "a very thin middle" },
+                { "id": "C", "text": "tight clothes around its middle" },
+                { "id": "D", "text": "long, thin legs" }
+              ],
+              "answerId": "B",
+              "explanation": "The comparison works only if the wasp shares the feature being described, which is a very thin waist. C absurdly attributes clothing to an insect.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2017-a-q73",
+              "n": 73,
+              "prompt": "Children who are left-handed tend to have more accidents than right-handed children. Doctors have two theories to explain this fact. One theory says that left-handed children may simply fall and bump into things more. Another theory, however, explains the accidents very differently. According to this theory, the problem is not with the children, but with the world around them. Most things, such as doors, cars, and toys are _______.",
+              "options": [
+                { "id": "A", "text": "designed and used best by right-handed people" },
+                { "id": "B", "text": "designed for left-handed people" },
+                { "id": "C", "text": "not designed for right-handed people" },
+                { "id": "D", "text": "made by people without children" }
+              ],
+              "answerId": "A",
+              "explanation": "The second theory blames the environment, so objects must suit the right-handed majority and disadvantage left-handers. B and C both reverse this logic.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2017-a-q74",
+              "n": 74,
+              "prompt": "When Christopher Columbus sailed west from Spain in 1492, he wanted to reach Asia. He did not know there was another continent in between Europe and Asia. In fact, when he died he still believed that the land he had found was _______.",
+              "options": [
+                { "id": "A", "text": "Asia" },
+                { "id": "B", "text": "America" },
+                { "id": "C", "text": "Spain" },
+                { "id": "D", "text": "another continent" }
+              ],
+              "answerId": "A",
+              "explanation": "\"He still believed\" signals that his original mistaken belief never changed, and his goal was Asia. B and D would mean he had realised his error.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2017-a-q75",
+              "n": 75,
+              "prompt": "“Every time you eat a sweet, drink green tea.” This is what some Japanese mothers used to tell their children. Modern dentists never took this advice very seriously, until just recently. But research shows that green tea really does help your teeth. It contains something that naturally kills the bacteria that damage teeth. This discovery was made by a Japanese-American chemist. He says he is planning to invent and sell _______.",
+              "options": [
+                { "id": "A", "text": "green tea toothpaste" },
+                { "id": "B", "text": "a new kind of sweet" },
+                { "id": "C", "text": "green toothbrushes" },
+                { "id": "D", "text": "a sweet toothpaste" }
+              ],
+              "answerId": "A",
+              "explanation": "The paragraph is about green tea protecting teeth, so a dental product using green tea follows logically. The other options ignore either the green tea or the dental benefit.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2017-a-q76",
+              "n": 76,
+              "prompt": "Everyone knows that too much wine can have many bad effects on the body. Doctors discovered recently that a small amount of red wine may have at least one good effect. It may lower the level of cholesterol in the blood. However, new research now proves that this is not the result of the alcohol in the wine. Instead, scientists have learned that there is a special chemical that lowers cholesterol. This chemical is present in purple grape juice and perhaps in other grape products. So people with high cholesterol _______.",
+              "options": [
+                { "id": "A", "text": "should drink lots of wine" },
+                { "id": "B", "text": "should go to the doctor" },
+                { "id": "C", "text": "should drink white wine" },
+                { "id": "D", "text": "can get the same benefit without drinking wine" }
+              ],
+              "answerId": "D",
+              "explanation": "Since the helpful chemical is in grape juice rather than in the alcohol, the benefit is available without wine. A contradicts the warning about too much wine, and C introduces a drink the passage never mentions.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2017-a-q77",
+              "n": 77,
+              "prompt": "According to Eugene Morton, a scientist, all animal sounds have certain things in common. Animals tend to make low, loud sounds when they are angry. And they tend to make high, softer sounds when they are fearful or friendly. Human beings can, of course, make many more kinds of sounds than most animals. But Morton believes that even human speech has the same features as other animal sounds. According to Morton, if you say, “I love you” your voice _______.",
+              "options": [
+                { "id": "A", "text": "is naturally high" },
+                { "id": "B", "text": "usually is very loud" },
+                { "id": "C", "text": "is naturally loud" },
+                { "id": "D", "text": "is usually angry" }
+              ],
+              "answerId": "A",
+              "explanation": "Saying \"I love you\" is friendly, and the passage links friendly feeling to high, soft sounds. Loud and low sounds are tied to anger instead.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2017-a-q78",
+              "n": 78,
+              "prompt": "Chocolate is one of the most popular sweets in the world. It is eaten as candy, in cakes, cookies, and puddings. In some places, however, it is also eaten in a non-sweet form. The Mexicans, for example, make a chicken dish with a spicy chocolate sauce. This sauce does not include _______.",
+              "options": [
+                { "id": "A", "text": "any chocolate" },
+                { "id": "B", "text": "any vitamins" },
+                { "id": "C", "text": "any sweetener" },
+                { "id": "D", "text": "any candy" }
+              ],
+              "answerId": "C",
+              "explanation": "The sauce is given as an example of chocolate eaten in a non-sweet form, so what it lacks is sweetening. A contradicts the paragraph, since the sauce is made of chocolate.",
+              "skills": ["inference"]
+            }
+          ]
+        },
+        {
+          "id": "g7",
+          "type": "passage-mcq",
+          "instruction": "For Questions 79 to 87, read the passage below and choose the best answer for each of the questions that follow.",
+          "stimulus": {
+            "id": "trees",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "text": "Can trees talk? Yes—but not in words. Scientists have reason to believe that trees do communicate with each other. Not long ago, researchers learned some surprising things. First, a willow tree attacked in the woods by caterpillars changed the chemistry of its leaves and made them taste so awful that the caterpillars got **disgusted** and stopped eating them. Then, even more astonishing, the tree sent out special vapors—an alarm signal stimulating its neighbors to change the chemistry of their own leaves and make them less tasty."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Communication, of course, doesn't need to be in words. We can talk to each other by a smile, a frown, a shrug of our shoulders, a gesture with our hands. We know that birds and animals use a whole vocabulary of songs, sounds, and movements. Bees dance their signals, flying in certain patterns that tell other bees where to find nectar for honey. So why shouldn't trees have **ways** of sending messages?"
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2017-a-q79",
+              "n": 79,
+              "prompt": "It can be inferred from the passage that caterpillars do not feed on leaves that _______.",
+              "options": [
+                { "id": "A", "text": "have an offensive taste" },
+                { "id": "B", "text": "are lying on the ground" },
+                { "id": "C", "text": "have an unfamiliar shape" },
+                { "id": "D", "text": "are located near beehives" }
+              ],
+              "answerId": "A",
+              "explanation": "The caterpillars stopped eating once the leaves tasted awful, so taste is what drove them away. Shape, position and beehives are never linked to their feeding.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2017-a-q80",
+              "n": 80,
+              "prompt": "The willow tree described in the passage protected itself by _______.",
+              "options": [
+                { "id": "A", "text": "growing more branches" },
+                { "id": "B", "text": "changing its leaf chemistry" },
+                { "id": "C", "text": "communicating with birds and bees" },
+                { "id": "D", "text": "providing shelter for caterpillars" }
+              ],
+              "answerId": "B",
+              "explanation": "The passage states directly that the tree changed the chemistry of its leaves so they tasted awful. The vapor signal protected its neighbours, not itself.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2017-a-q81",
+              "n": 81,
+              "prompt": "According to the passage, the willow tree was able to communicate with other trees by _______.",
+              "options": [
+                { "id": "A", "text": "waving its branches" },
+                { "id": "B", "text": "dropping its leaves" },
+                { "id": "C", "text": "giving off a special vapor" },
+                { "id": "D", "text": "changing the color of its trunk" }
+              ],
+              "answerId": "C",
+              "explanation": "The tree sent out special vapors that acted as an alarm signal to its neighbours. The other options describe things the passage never mentions.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2017-a-q82",
+              "n": 82,
+              "prompt": "According to the passage, bees communicate by _______.",
+              "options": [
+                { "id": "A", "text": "touching one another" },
+                { "id": "B", "text": "smelling one another" },
+                { "id": "C", "text": "making unusual sounds" },
+                { "id": "D", "text": "making special movements" }
+              ],
+              "answerId": "D",
+              "explanation": "Bees are described as dancing their signals by flying in certain patterns, which is movement. Sound, touch and smell are not attributed to bees here.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2017-a-q83",
+              "n": 83,
+              "prompt": "The author states that bees are able to tell each other about the location of _______.",
+              "options": [
+                { "id": "A", "text": "honey" },
+                { "id": "B", "text": "people" },
+                { "id": "C", "text": "nectar" },
+                { "id": "D", "text": "beehives" }
+              ],
+              "answerId": "C",
+              "explanation": "The passage says the patterns tell other bees where to find nectar for honey. Honey is what the nectar becomes, not what is located.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2017-a-q84",
+              "n": 84,
+              "prompt": "The word “disgusted” in paragraph 1 (in bold letters) could best be replaced by which of the following?",
+              "options": [
+                { "id": "A", "text": "attracted" },
+                { "id": "B", "text": "disappointed" },
+                { "id": "C", "text": "engaged" },
+                { "id": "D", "text": "disliked" }
+              ],
+              "answerId": "D",
+              "explanation": "The caterpillars found the taste repellent and stopped eating, so the sense is one of strong dislike. A and C carry the opposite meaning, and \"disappointed\" is about unmet expectations.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2017-a-q85",
+              "n": 85,
+              "prompt": "The word “ways” in paragraph 2 (in bold letters) could best be replaced by which of the following?",
+              "options": [
+                { "id": "A", "text": "methods" },
+                { "id": "B", "text": "features" },
+                { "id": "C", "text": "directions" },
+                { "id": "D", "text": "categories" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Ways of sending messages\" means the means or methods used. \"Directions\" would take the other sense of \"way\", which does not fit this phrase.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2017-a-q86",
+              "n": 86,
+              "prompt": "The author believes that the incident described in the passage _______.",
+              "options": [
+                { "id": "A", "text": "cannot be taken seriously" },
+                { "id": "B", "text": "seems perfectly reasonable" },
+                { "id": "C", "text": "should no longer be permitted" },
+                { "id": "D", "text": "must be investigated more thoroughly" }
+              ],
+              "answerId": "B",
+              "explanation": "The closing question, \"So why shouldn't trees have ways of sending messages?\", shows the author finds tree communication entirely plausible. Nothing suggests scepticism or a call for further study.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2017-a-q87",
+              "n": 87,
+              "prompt": "Which of the following statements best describes the organization of the passage?",
+              "options": [
+                { "id": "A", "text": "A scientific term is invented and its definition is provided." },
+                { "id": "B", "text": "A phenomenon is described and some possible causes are suggested." },
+                { "id": "C", "text": "The views of two researchers are described and contrasted." },
+                { "id": "D", "text": "A specific case is given to illustrate a general principle." }
+              ],
+              "answerId": "D",
+              "explanation": "The willow tree serves as a specific example, and the second paragraph broadens out to the general principle that communication need not use words. No two researchers are contrasted and no term is defined.",
+              "skills": ["text-organisation"]
+            }
+          ]
+        },
+        {
+          "id": "g8",
+          "type": "heading-match",
+          "instruction": "For Questions 88 to 97, choose the most suitable heading for each paragraph (A–J) from the list of headings. Note: there are more headings than paragraphs, so you will not use all of them.",
+          "optionsExceedItems": true,
+          "optionUseOnce": true,
+          "sharedOptions": [
+            { "id": "i", "text": "The time lag theory explained" },
+            { "id": "ii", "text": "Humans helping robots" },
+            { "id": "iii", "text": "A sinister side" },
+            { "id": "iv", "text": "People are already being monitored" },
+            { "id": "v", "text": "A novelty apart" },
+            { "id": "vi", "text": "The dangers ignored" },
+            { "id": "vii", "text": "A personal nightmare" },
+            { "id": "viii", "text": "Some Methuselahs" },
+            { "id": "ix", "text": "Robots helping humans" },
+            { "id": "x", "text": "Tagging" },
+            { "id": "xi", "text": "Hovering aircraft" },
+            { "id": "xii", "text": "Technology not all negative" },
+            { "id": "xiii", "text": "Drip feeding the public" },
+            { "id": "xiv", "text": "Robots replacing humans" },
+            { "id": "xv", "text": "Expensive motorbike parts" },
+            { "id": "xvi", "text": "Who needs friends?" },
+            { "id": "xvii", "text": "What stops technology from advancing faster?" }
+          ],
+          "stimulus": {
+            "id": "digital-screams",
+            "title": "Digital screams",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "label": "A",
+                "text": "What holds new advances in technology back is not the pace of development. Is it then the fact that people are generally conservative by nature? Or is it instead the inability of the marketplace to absorb new products fast enough?"
+              },
+              {
+                "kind": "paragraph",
+                "label": "B",
+                "text": "There is always a time lag between new inventions and discoveries being made and the release of any related technology into the public domain. Like aircraft hovering to land at a busy airport, new products are frequently held in abeyance, while the marketplace is emptied of the last “latest” gadget. Meanwhile, the general population are drip-fed information about what is to come. In this way, the public appetite for new products is constantly being whetted."
+              },
+              {
+                "kind": "paragraph",
+                "label": "C",
+                "text": "People's blind faith in any new technological device prevents them from thinking through the implications of what is happening. Fewer and fewer people seem to have any serious misgivings about mankind's Promethean march to some great dystopia. Any lurking dangers are brushed aside, as are the diminishing band of dissenters."
+              },
+              { "kind": "subheading", "text": "… utopia …" },
+              {
+                "kind": "paragraph",
+                "label": "D",
+                "text": "People are oblivious of the creeping advance of robots into their lives. Operations are being performed with voice-operated robots, not only giving surgeons an extra pair of safe hands, but also allowing a range of procedures to be carried out anywhere in the world by computer. Apart from surgery, voice-operated devices are also being introduced into cars. Drivers will soon be able to bark at mobile-phone-like gadgets capable of supplying them with all the information they need from weather forecasts to stock market quotations. Who needs friends?"
+              },
+              { "kind": "subheading", "text": "… a nightmare …" },
+              {
+                "kind": "paragraph",
+                "label": "E",
+                "text": "Experiments have already been carried out on inserting micro-chips under the human skin so that people can be monitored at any time. Tagging is currently in use in some areas for criminals in the community. And data-tagging is being used for technical equipment like expensive motorbike parts and also for tracing lost dogs. Details about using micro-chips in humans have already been flagged in the press. And given the right circumstances, the procedure will be introduced with barely a whimper. Microchip implants might perhaps become the passport of the future."
+              },
+              {
+                "kind": "paragraph",
+                "label": "F",
+                "text": "Without knowing it, you are already being monitored without the slightest hint of protest. The technology in your mobile phones allows you to be located. It is ironic that when mobile phones were first introduced they were perceived as status symbols. But now they are viewed as symbols of slavery, as bosses can monitor their work-force when they are out on the job. Video cameras in public places are now so wide-spread that it is possible to trace you for quite a distance. Supermarket loyalty cards and bank cards leave traces of your life everywhere."
+              },
+              {
+                "kind": "paragraph",
+                "label": "G",
+                "text": "As we naively come to accept the role of machines, they are appearing in roles that were exclusively the preserve of humans. Robots in bars already exist; soon they will replace hosts on chat-shows, and people as shop assistants or drivers and humans in many other professions. No? Do you take money from a teller at your bank or do you receive it from a robot built into a wall?"
+              },
+              {
+                "kind": "paragraph",
+                "label": "H",
+                "text": "And much to the chagrin of traditionalists, toys have now come on the market which teach children to speak and which children can then communicate with. The novelty apart, this is a rather sinister turn of events. It is bad enough for adults to talk to cars and computers. But this development is much more disturbing. Children may develop certain linguistic skills from the robotic toy, but will lose out on the necessary social and emotional interaction. Social de-skilling of this kind will lead to untold social problems."
+              },
+              { "kind": "subheading", "text": "… or just a dream too far?" },
+              {
+                "kind": "paragraph",
+                "label": "I",
+                "text": "Yet, not all the developments are bad. The advances taking place in medicine herald a new dawn for the human race. Disease will become an irritation rather than the bane it is now. Humans will replace body parts as they wear out with specially grown prostheses or electronic parts, whatever is in vogue at the time. Certain diseases which required huge resources and expenditure will be treated by gene therapy. Paralysis will become a thing of the past. By 2020, the life expectancy for new babies will be well over 100 years and more. Recently, the ‘immortality’ gene was located; so soon the world may be full of Methuselahs."
+              },
+              {
+                "kind": "paragraph",
+                "label": "J",
+                "text": "A nightmare scenario perhaps. Not half as nightmarish as the future possibility of downloading the human mind before the body dies. But I for one do not wish to live out eternity as some sort of digital collectable item. Against the hum of machines who will bear my screams? Or yours?"
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2017-a-q88",
+              "n": 88,
+              "prompt": "Paragraph A",
+              "answerId": "xvii",
+              "explanation": "The paragraph poses questions about what is slowing technology down, rather than answering them. The heading matches that questioning function.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2017-a-q89",
+              "n": 89,
+              "prompt": "Paragraph B",
+              "answerId": "i",
+              "explanation": "This paragraph sets out the time lag between invention and release and explains how it works. \"Hovering aircraft\" and \"Drip feeding the public\" pick up only single images inside it, not its main idea.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2017-a-q90",
+              "n": 90,
+              "prompt": "Paragraph C",
+              "answerId": "vi",
+              "explanation": "The focus is on people brushing aside lurking dangers and having no misgivings. The heading captures that dismissal of risk.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2017-a-q91",
+              "n": 91,
+              "prompt": "Paragraph D",
+              "answerId": "ix",
+              "explanation": "The examples are all robots assisting people: surgeons gaining an extra pair of hands, drivers receiving information. \"Who needs friends?\" is only the closing aside.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2017-a-q92",
+              "n": 92,
+              "prompt": "Paragraph E",
+              "answerId": "x",
+              "explanation": "The whole paragraph is about tagging, whether of humans, equipment or dogs. \"Expensive motorbike parts\" is one passing example within it.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2017-a-q93",
+              "n": 93,
+              "prompt": "Paragraph F",
+              "answerId": "iv",
+              "explanation": "It lists the ways people are already tracked through phones, cameras and cards. That matches monitoring that is happening now.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2017-a-q94",
+              "n": 94,
+              "prompt": "Paragraph G",
+              "answerId": "xiv",
+              "explanation": "Machines are described taking over roles once held by humans, from bar work to bank tellers. This is replacement rather than assistance.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2017-a-q95",
+              "n": 95,
+              "prompt": "Paragraph H",
+              "answerId": "iii",
+              "explanation": "The writer calls talking toys a sinister turn of events leading to social de-skilling. \"A novelty apart\" borrows a phrase from the paragraph but not its point.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2017-a-q96",
+              "n": 96,
+              "prompt": "Paragraph I",
+              "answerId": "xii",
+              "explanation": "It opens by conceding that not all developments are bad and lists medical benefits. \"Some Methuselahs\" refers only to the final sentence.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2017-a-q97",
+              "n": 97,
+              "prompt": "Paragraph J",
+              "answerId": "vii",
+              "explanation": "The writer shifts to the first person and speaks of his own screams and his own refusal to live on digitally. That personal note is what the heading captures.",
+              "skills": ["skimming"]
+            }
+          ]
+        },
+        {
+          "id": "g9",
+          "type": "yes-no-ng",
+          "instruction": "For Questions 98 to 100, decide whether the statements below agree with the information in the reading passage. Write Yes if the statement agrees, No if it contradicts, and NG if the information is not given.",
+          "stimulusRef": "digital-screams",
+          "sharedOptions": [
+            { "id": "yes", "text": "Yes — the statement agrees with the information in the passage" },
+            { "id": "no", "text": "No — the statement contradicts the information in the passage" },
+            { "id": "ng", "text": "NG — the information about the statement is not given in the passage" }
+          ],
+          "questions": [
+            {
+              "id": "ifl-2017-a-q98",
+              "n": 98,
+              "prompt": "The writer feels that the general public have too much faith in the technological devices being introduced into the marketplace.",
+              "answerId": "yes",
+              "explanation": "Paragraph C refers directly to people's blind faith in new technological devices and says it stops them thinking through the implications. That agrees with the statement.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2017-a-q99",
+              "n": 99,
+              "prompt": "Tagging criminals by inserting microchips into their bodies will dramatically reduce the number of crimes being committed.",
+              "answerId": "ng",
+              "explanation": "Paragraph E mentions that tagging is used for criminals, but says nothing at all about its effect on crime rates. With no information either way, the answer is NG rather than No.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2017-a-q100",
+              "n": 100,
+              "prompt": "The writer of the article does not have serious doubts about the direction of technology is taking.",
+              "answerId": "no",
+              "explanation": "The article is full of misgivings, ending with the writer refusing to live on as a digital item. The statement contradicts the writer's clear anxiety.",
+              "skills": ["inference"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
