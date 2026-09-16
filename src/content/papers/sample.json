@@ -3,7 +3,7 @@
   "title": "Sample Practice Set",
   "year": 2024,
   "source": "Fixture paper used by the test suite and for local development — not a real selection test.",
-  "status": "pending",
+  "status": "cleared",
   "totalQuestions": 5,
   "durationMinutes": 10,
   "sections": [
