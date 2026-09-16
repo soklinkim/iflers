@@ -1,0 +1,1575 @@
+{
+  "id": "ifl-2019-a",
+  "title": "IFL Selection Test 2019–2020",
+  "year": 2019,
+  "version": "A",
+  "source": "Royal University of Phnom Penh, Institute of Foreign Languages, Department of English — 2019–2020 Fee-Paying Program Selection Test A",
+  "status": "pending",
+  "totalQuestions": 100,
+  "durationMinutes": 90,
+  "sections": [
+    {
+      "id": "grammar",
+      "title": "Section I: Grammar",
+      "groups": [
+        {
+          "id": "g1",
+          "type": "mcq",
+          "instruction": "For Questions 1 to 40, choose the one word or phrase which best completes each of the following sentences.",
+          "questions": [
+            {
+              "id": "ifl-2019-a-q1",
+              "n": 1,
+              "prompt": "Udom ________ in a hospital for seven months in 2011. He already had some experience in the medical industry because he ________ in a local clinic in Siem Reap three years before.",
+              "options": [
+                { "id": "A", "text": "had worked ... had worked" },
+                { "id": "B", "text": "worked ... had worked" },
+                { "id": "C", "text": "was working ... worked" },
+                { "id": "D", "text": "worked ... has worked" }
+              ],
+              "answerId": "B",
+              "explanation": "The first blank names a completed period in a stated past year, so it takes the simple past. The second blank describes an even earlier action, which needs the past perfect to show it happened before the seven months in the hospital.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2019-a-q2",
+              "n": 2,
+              "prompt": "It could have been ________ who was awarded the Nobel Peace Prize.",
+              "options": [
+                { "id": "A", "text": "she" },
+                { "id": "B", "text": "hers" },
+                { "id": "C", "text": "herself" },
+                { "id": "D", "text": "her" }
+              ],
+              "answerId": "A",
+              "explanation": "After the linking verb \"been\", the complement matches the subject case of \"who\", giving the subject pronoun \"she\". \"Her\" and \"hers\" are object/possessive forms, and \"herself\" is reflexive.",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "ifl-2019-a-q3",
+              "n": 3,
+              "prompt": "I met Piseth at The Olympia Mall yesterday. Fortunately, we had ________ time to talk to each other.",
+              "options": [
+                { "id": "A", "text": "little" },
+                { "id": "B", "text": "a little" },
+                { "id": "C", "text": "few" },
+                { "id": "D", "text": "much" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Fortunately\" signals a positive outcome, so the uncountable noun \"time\" needs the positive quantifier \"a little\" rather than the negative \"little\". \"Few\" would need a countable noun.",
+              "skills": ["quantifiers"]
+            },
+            {
+              "id": "ifl-2019-a-q4",
+              "n": 4,
+              "prompt": "His parents insisted that Dara ________ them as soon as he arrived at the airport.",
+              "options": [
+                { "id": "A", "text": "calls" },
+                { "id": "B", "text": "would call" },
+                { "id": "C", "text": "called" },
+                { "id": "D", "text": "call" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Insist that\" triggers the subjunctive, which uses the base form of the verb regardless of the subject. The other options are ordinary finite verb forms, which do not fit this pattern.",
+              "skills": ["subjunctive"]
+            },
+            {
+              "id": "ifl-2019-a-q5",
+              "n": 5,
+              "prompt": "The speed of light is ________ the speed of sound.",
+              "options": [
+                { "id": "A", "text": "more faster than" },
+                { "id": "B", "text": "faster" },
+                { "id": "C", "text": "much faster than" },
+                { "id": "D", "text": "as fast" }
+              ],
+              "answerId": "C",
+              "explanation": "A comparison with a following noun needs the complete \"than\" structure, and \"much\" is the correct intensifier for a comparative. \"More faster\" doubles the comparative, and B and D are incomplete without \"than\" or \"as ... as\".",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "ifl-2019-a-q6",
+              "n": 6,
+              "prompt": "Sokha, along with her classmates, ________ a birthday party tonight.",
+              "options": [
+                { "id": "A", "text": "attend" },
+                { "id": "B", "text": "is attending" },
+                { "id": "C", "text": "are attending" },
+                { "id": "D", "text": "attended" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Along with her classmates\" is a parenthetical phrase that does not change the number of the subject, which remains the singular \"Sokha\". \"Tonight\" also calls for the present continuous used for a planned event.",
+              "skills": ["subject-verb-agreement", "verb-tense"]
+            },
+            {
+              "id": "ifl-2019-a-q7",
+              "n": 7,
+              "prompt": "My plane ________ at eight a.m. on Friday. I don't need to call a taxi because my brother ________ me to the airport.",
+              "options": [
+                { "id": "A", "text": "was leaving ... has taken" },
+                { "id": "B", "text": "will leave ... takes" },
+                { "id": "C", "text": "is leaving ... will take" },
+                { "id": "D", "text": "leaves ... is going to take" }
+              ],
+              "answerId": "D",
+              "explanation": "A fixed schedule such as a flight time is expressed with the present simple, \"leaves\", and the brother's arrangement is a personal plan, expressed with \"is going to take\". The other pairs mismatch these two uses.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2019-a-q8",
+              "n": 8,
+              "prompt": "That was ________ tiger that we saw at the Phnom Penh Safari World several days ago.",
+              "options": [
+                { "id": "A", "text": "the" },
+                { "id": "B", "text": "an" },
+                { "id": "C", "text": "a" },
+                { "id": "D", "text": "Ø" }
+              ],
+              "answerId": "A",
+              "explanation": "The relative clause \"that we saw\" makes the tiger a specific, identified one, which requires the definite article \"the\" rather than an indefinite or absent article.",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2019-a-q9",
+              "n": 9,
+              "prompt": "According to the course syllabus, we can either take an exam or ________.",
+              "options": [
+                { "id": "A", "text": "we can write a paper" },
+                { "id": "B", "text": "writing a paper" },
+                { "id": "C", "text": "write a paper" },
+                { "id": "D", "text": "a paper can be written" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Either ... or\" joins two parallel items, and the first item is the bare infinitive \"take an exam\", so the second must match with \"write a paper\". A repeats the subject unnecessarily, and B and D break the parallel form.",
+              "skills": ["parallel-structure"]
+            },
+            {
+              "id": "ifl-2019-a-q10",
+              "n": 10,
+              "prompt": "Upon hearing the bell ring, ________.",
+              "options": [
+                { "id": "A", "text": "the students left the classroom immediately" },
+                { "id": "B", "text": "their departure was immediate" },
+                { "id": "C", "text": "the students' departure was immediate" },
+                { "id": "D", "text": "the classroom was emptied immediately" }
+              ],
+              "answerId": "A",
+              "explanation": "An introductory participial phrase must be followed by the noun that performs the action it describes, and only \"the students\" can hear the bell. The other options place a noun that cannot logically hear anything right after the phrase.",
+              "skills": ["participle-clauses"]
+            },
+            {
+              "id": "ifl-2019-a-q11",
+              "n": 11,
+              "prompt": "A sea turtle in the Philippines starved to death because it had swallowed ________.",
+              "options": [
+                { "id": "A", "text": "a huge plastic black bag" },
+                { "id": "B", "text": "a black huge plastic bag" },
+                { "id": "C", "text": "a huge black plastic bag" },
+                { "id": "D", "text": "a plastic huge black bag" }
+              ],
+              "answerId": "C",
+              "explanation": "English stacks adjectives in the order size, then colour, then material: \"huge black plastic\". The other options scramble that order.",
+              "skills": ["word-order"]
+            },
+            {
+              "id": "ifl-2019-a-q12",
+              "n": 12,
+              "prompt": "Rarely ________ about the environment enough to change their driving habits.",
+              "options": [
+                { "id": "A", "text": "care people" },
+                { "id": "B", "text": "are people care" },
+                { "id": "C", "text": "people care" },
+                { "id": "D", "text": "do people care" }
+              ],
+              "answerId": "D",
+              "explanation": "A negative adverb such as \"rarely\" fronted for emphasis triggers subject-auxiliary inversion, adding \"do\" before the subject and keeping the verb in its base form. The other options either skip the auxiliary or duplicate the verb.",
+              "skills": ["inversion"]
+            },
+            {
+              "id": "ifl-2019-a-q13",
+              "n": 13,
+              "prompt": "Please do not enter the room. The students ________ the entrance exam.",
+              "options": [
+                { "id": "A", "text": "have taken" },
+                { "id": "B", "text": "take" },
+                { "id": "C", "text": "were taking" },
+                { "id": "D", "text": "are taking" }
+              ],
+              "answerId": "D",
+              "explanation": "The instruction not to enter right now shows the action is happening at this moment, which calls for the present continuous. The past continuous in C would need a past time frame.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2019-a-q14",
+              "n": 14,
+              "prompt": "“Is your laptop broken?” “Yes, my sister is going to have it ________ soon.”",
+              "options": [
+                { "id": "A", "text": "to be fixed" },
+                { "id": "B", "text": "fixed" },
+                { "id": "C", "text": "fix" },
+                { "id": "D", "text": "to fix" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Have something done\" is the causative pattern used when someone else performs the work, and the laptop receives the action, so the past participle \"fixed\" is required.",
+              "skills": ["causatives", "passive-voice"]
+            },
+            {
+              "id": "ifl-2019-a-q15",
+              "n": 15,
+              "prompt": "Her uncle ________ neither read nor write after the surgery, and now she ________ help him.",
+              "options": [
+                { "id": "A", "text": "couldn't ... had to" },
+                { "id": "B", "text": "were able ... can" },
+                { "id": "C", "text": "could ... has to" },
+                { "id": "D", "text": "might ... needs" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Neither ... nor\" already carries the negative sense, so the modal itself stays positive: \"could neither read nor write\". The present result then takes present obligation, \"has to help\".",
+              "skills": ["modals"]
+            },
+            {
+              "id": "ifl-2019-a-q16",
+              "n": 16,
+              "prompt": "“Did you enjoy the fundraising event at the Royal University of Phnom Penh yesterday?” “Yes, but I wish I ________ flu.”",
+              "options": [
+                { "id": "A", "text": "hadn't had" },
+                { "id": "B", "text": "didn't have" },
+                { "id": "C", "text": "wouldn't have" },
+                { "id": "D", "text": "hadn't" }
+              ],
+              "answerId": "A",
+              "explanation": "A wish about a past regret uses the past perfect, so \"wish I hadn't had flu\" expresses that the flu, which already happened, is regretted now. \"Didn't have\" would express a regret about the present rather than the past.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "ifl-2019-a-q17",
+              "n": 17,
+              "prompt": "Not only the students but also their teacher ________ seen the movie before.",
+              "options": [
+                { "id": "A", "text": "was" },
+                { "id": "B", "text": "were" },
+                { "id": "C", "text": "has" },
+                { "id": "D", "text": "have" }
+              ],
+              "answerId": "C",
+              "explanation": "With \"not only ... but also\", the verb agrees with the nearer subject, which is the singular \"their teacher\", giving \"has\".",
+              "skills": ["subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2019-a-q18",
+              "n": 18,
+              "prompt": "Vicheth ________ for their tenth wedding anniversary.",
+              "options": [
+                { "id": "A", "text": "bought a new necklace to his wife" },
+                { "id": "B", "text": "bought his wife a new necklace" },
+                { "id": "C", "text": "bought for his wife a new necklace" },
+                { "id": "D", "text": "bought a new necklace her" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Buy\" can take an indirect object directly followed by a direct object, with no preposition needed: \"bought his wife a new necklace\". The other options insert a preposition or misplace the pronoun.",
+              "skills": ["word-order"]
+            },
+            {
+              "id": "ifl-2019-a-q19",
+              "n": 19,
+              "prompt": "Vanna isn't ________ to be a policeman. He is only 1.50 meters tall.",
+              "options": [
+                { "id": "A", "text": "enough tall" },
+                { "id": "B", "text": "too tall" },
+                { "id": "C", "text": "tall enough" },
+                { "id": "D", "text": "tall too" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Enough\" follows the adjective it modifies: \"tall enough\". \"Too tall\" would reverse the sense, since Vanna is too short, not too tall.",
+              "skills": ["word-order"]
+            },
+            {
+              "id": "ifl-2019-a-q20",
+              "n": 20,
+              "prompt": "Many experiments have been conducted on ________.",
+              "options": [
+                { "id": "A", "text": "how noise pollution can trigger different types of health risks" },
+                { "id": "B", "text": "how can noise pollution trigger different types of health risks" },
+                { "id": "C", "text": "noise pollution can trigger different types of health risks" },
+                { "id": "D", "text": "because noise pollution can trigger different types of health risks" }
+              ],
+              "answerId": "A",
+              "explanation": "An embedded question after a preposition keeps ordinary statement word order, with no auxiliary before the subject. B wrongly inverts as in a direct question, and C and D lack the \"how\" needed to complete \"conducted on\".",
+              "skills": ["embedded-questions"]
+            },
+            {
+              "id": "ifl-2019-a-q21",
+              "n": 21,
+              "prompt": "Let's visit bat caves in Battambang next week, ________?",
+              "options": [
+                { "id": "A", "text": "will we" },
+                { "id": "B", "text": "shall we" },
+                { "id": "C", "text": "are we" },
+                { "id": "D", "text": "can we" }
+              ],
+              "answerId": "B",
+              "explanation": "A suggestion beginning with \"Let's\" always takes the tag \"shall we?\", regardless of the verb used in the suggestion.",
+              "skills": ["question-tags"]
+            },
+            {
+              "id": "ifl-2019-a-q22",
+              "n": 22,
+              "prompt": "“What did the teacher do when the problem occurred?” “The teacher made Makara ________ the room.”",
+              "options": [
+                { "id": "A", "text": "leaves" },
+                { "id": "B", "text": "to leave" },
+                { "id": "C", "text": "leave" },
+                { "id": "D", "text": "left" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Make someone do something\" takes the bare infinitive. The to-infinitive in B and the finite forms in A and D do not follow this causative pattern.",
+              "skills": ["causatives"]
+            },
+            {
+              "id": "ifl-2019-a-q23",
+              "n": 23,
+              "prompt": "“Did your father feel better after taking the medicine?” “No. ________ medicine he takes, ________ he feels.”",
+              "options": [
+                { "id": "A", "text": "The more ... the worse" },
+                { "id": "B", "text": "The most ... the worse" },
+                { "id": "C", "text": "The more ... the worst" },
+                { "id": "D", "text": "The most ... the worst" }
+              ],
+              "answerId": "A",
+              "explanation": "This correlative structure pairs two comparatives, \"the more ... the worse\", not superlatives. B, C and D all wrongly substitute a superlative for one half of the pair.",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "ifl-2019-a-q24",
+              "n": 24,
+              "prompt": "Because of lack of profit, manufacture of the items that you requested ________ been discontinued.",
+              "options": [
+                { "id": "A", "text": "are" },
+                { "id": "B", "text": "is" },
+                { "id": "C", "text": "have" },
+                { "id": "D", "text": "has" }
+              ],
+              "answerId": "D",
+              "explanation": "The subject of the sentence is the singular noun \"manufacture\", not the intervening plural \"items\", so the verb must be \"has\".",
+              "skills": ["subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2019-a-q25",
+              "n": 25,
+              "prompt": "________ their different backgrounds, Pheaktra and Sokhorn immediately became friends.",
+              "options": [
+                { "id": "A", "text": "In spite of" },
+                { "id": "B", "text": "However" },
+                { "id": "C", "text": "Despite of" },
+                { "id": "D", "text": "Although" }
+              ],
+              "answerId": "A",
+              "explanation": "\"In spite of\" is followed directly by a noun phrase, which fits \"their different backgrounds\". \"Despite of\" is not standard English, \"however\" links separate sentences rather than a phrase to a clause, and \"although\" needs a full clause.",
+              "skills": ["conjunctions"]
+            },
+            {
+              "id": "ifl-2019-a-q26",
+              "n": 26,
+              "prompt": "Kanha came to class late this morning. She ________ her bus.",
+              "options": [
+                { "id": "A", "text": "may miss" },
+                { "id": "B", "text": "had to miss" },
+                { "id": "C", "text": "may have missed" },
+                { "id": "D", "text": "should have missed" }
+              ],
+              "answerId": "C",
+              "explanation": "A guess about a completed past event uses a modal plus \"have\" plus the past participle: \"may have missed\". \"May miss\" wrongly refers to the present or future, and \"should have missed\" would mean it was advisable, not merely possible.",
+              "skills": ["modals"]
+            },
+            {
+              "id": "ifl-2019-a-q27",
+              "n": 27,
+              "prompt": "“Do you have some other requests ________ the ones you just made earlier?” “No, I don't.”",
+              "options": [
+                { "id": "A", "text": "beside" },
+                { "id": "B", "text": "besides" },
+                { "id": "C", "text": "in addition" },
+                { "id": "D", "text": "off" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Besides\" means \"in addition to\" or \"other than\" and takes a following noun phrase directly. \"Beside\" means physically next to, and \"in addition\" would need \"to\" before the noun phrase.",
+              "skills": ["prepositions"]
+            },
+            {
+              "id": "ifl-2019-a-q28",
+              "n": 28,
+              "prompt": "According to the New York Times, Apple was worth almost ________ Microsoft in 2012.",
+              "options": [
+                { "id": "A", "text": "twice as more as" },
+                { "id": "B", "text": "twice more than" },
+                { "id": "C", "text": "twice as many as" },
+                { "id": "D", "text": "twice as much as" }
+              ],
+              "answerId": "D",
+              "explanation": "Worth, like money, is uncountable, so the multiple comparison needs \"as much as\" rather than \"as many as\". A and B are not standard multiple-comparison forms.",
+              "skills": ["comparatives", "quantifiers"]
+            },
+            {
+              "id": "ifl-2019-a-q29",
+              "n": 29,
+              "prompt": "Thida hopes she ________ enough money for a trip to Europe by the time she is 35.",
+              "options": [
+                { "id": "A", "text": "is to save" },
+                { "id": "B", "text": "will save" },
+                { "id": "C", "text": "will have saved" },
+                { "id": "D", "text": "will be saving" }
+              ],
+              "answerId": "C",
+              "explanation": "\"By the time she is 35\" marks a deadline for a completed future action, which the future perfect expresses. The simple and continuous future forms do not convey completion by that point.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2019-a-q30",
+              "n": 30,
+              "prompt": "After living in Thailand for three years, he's used ________ spicy foods.",
+              "options": [
+                { "id": "A", "text": "to eating" },
+                { "id": "B", "text": "to eat" },
+                { "id": "C", "text": "eating" },
+                { "id": "D", "text": "to have eaten" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Be used to\" meaning accustomed to is followed by a gerund. \"Used to eat\" without \"be\" would instead describe a discontinued past habit, which does not fit here.",
+              "skills": ["gerund-infinitive"]
+            },
+            {
+              "id": "ifl-2019-a-q31",
+              "n": 31,
+              "prompt": "“Here are your textbooks.” “These textbooks aren't ________. They are ________.”",
+              "options": [
+                { "id": "A", "text": "mine ... my" },
+                { "id": "B", "text": "mine ... yours" },
+                { "id": "C", "text": "yours ... ours" },
+                { "id": "D", "text": "her ... mine" }
+              ],
+              "answerId": "B",
+              "explanation": "Both blanks need a possessive pronoun that stands alone with no following noun: \"mine\" for the speaker, then \"yours\" for the person being addressed, since the books were just handed to them.",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "ifl-2019-a-q32",
+              "n": 32,
+              "prompt": "The ________ library has finally been restored and unveiled to the public.",
+              "options": [
+                { "id": "A", "text": "old-six-centuries" },
+                { "id": "B", "text": "six-century-old" },
+                { "id": "C", "text": "six-centuries-old" },
+                { "id": "D", "text": "six-century's-old" }
+              ],
+              "answerId": "B",
+              "explanation": "A compound adjective placed before a noun stays singular and hyphenated: \"six-century-old\". Plural and possessive forms are not used inside this pattern.",
+              "skills": ["word-formation", "word-order"]
+            },
+            {
+              "id": "ifl-2019-a-q33",
+              "n": 33,
+              "prompt": "If Nita ________ decide to go to Australia to study, Seyha would be extremely disappointed.",
+              "options": [
+                { "id": "A", "text": "were" },
+                { "id": "B", "text": "shall" },
+                { "id": "C", "text": "were to" },
+                { "id": "D", "text": "would" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Were to\" plus the base verb presents an unlikely future possibility inside a second conditional if-clause, matching \"would be\" in the main clause. \"Were\" alone cannot be followed directly by another base verb.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "ifl-2019-a-q34",
+              "n": 34,
+              "prompt": "“Has Boromey decided to argue with her boss about her salary?” “No, she said she would ________.”",
+              "options": [
+                { "id": "A", "text": "let rest the matter" },
+                { "id": "B", "text": "let the matter resting" },
+                { "id": "C", "text": "let the matter to rest" },
+                { "id": "D", "text": "let the matter rest" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Let\" takes an object followed by the bare infinitive: \"let the matter rest\", meaning to leave it alone. The other options insert a gerund, a to-infinitive, or the wrong word order.",
+              "skills": ["causatives"]
+            },
+            {
+              "id": "ifl-2019-a-q35",
+              "n": 35,
+              "prompt": "Mr. Keisuke Honda, ________ team has won the game, looks tremendously proud.",
+              "options": [
+                { "id": "A", "text": "whose" },
+                { "id": "B", "text": "who" },
+                { "id": "C", "text": "whom" },
+                { "id": "D", "text": "which" }
+              ],
+              "answerId": "A",
+              "explanation": "The gap sits directly before a noun, \"team\", showing possession, so the relative pronoun must be \"whose\". \"Who\", \"whom\" and \"which\" all stand alone rather than modifying a following noun.",
+              "skills": ["relative-clauses"]
+            },
+            {
+              "id": "ifl-2019-a-q36",
+              "n": 36,
+              "prompt": "“________ for the Ministry of Commerce for a long time?” “Not too long. He's only been there ________ 2017.”",
+              "options": [
+                { "id": "A", "text": "Has Vibol been working ... in" },
+                { "id": "B", "text": "Did Vibol work ... in" },
+                { "id": "C", "text": "Has Vibol worked ... since" },
+                { "id": "D", "text": "Is Vibol working ... since" }
+              ],
+              "answerId": "C",
+              "explanation": "A question about duration up to now takes the present perfect, and a specific starting point takes \"since\" rather than \"in\". Both parts of A reverse this, wrongly pairing \"in\" with the correct tense.",
+              "skills": ["verb-tense", "prepositions"]
+            },
+            {
+              "id": "ifl-2019-a-q37",
+              "n": 37,
+              "prompt": "________, she would not have felt sick yesterday.",
+              "options": [
+                { "id": "A", "text": "If Sophea has not eaten that unhealthy street food" },
+                { "id": "B", "text": "As soon as Sophea did not eat that unhealthy street food" },
+                { "id": "C", "text": "If Sophea did not eat that unhealthy street food" },
+                { "id": "D", "text": "Had Sophea not eaten that unhealthy street food" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Would not have felt\" marks a third conditional about the past, whose if-clause can be inverted by dropping \"if\" and starting with \"had\": \"Had Sophea not eaten\". A and C use the wrong tense for a completed past condition.",
+              "skills": ["conditionals", "inversion"]
+            },
+            {
+              "id": "ifl-2019-a-q38",
+              "n": 38,
+              "prompt": "It's almost time for the semester break, so they're ________ their grandparents in Takeo.",
+              "options": [
+                { "id": "A", "text": "looking forward to visit" },
+                { "id": "B", "text": "looking forward to visiting" },
+                { "id": "C", "text": "look forward to visit" },
+                { "id": "D", "text": "look forward to visiting" }
+              ],
+              "answerId": "B",
+              "explanation": "\"They're\" requires the continuous form \"looking\", and the \"to\" in \"look forward to\" is a preposition, which takes a gerund rather than an infinitive.",
+              "skills": ["gerund-infinitive", "verb-tense"]
+            },
+            {
+              "id": "ifl-2019-a-q39",
+              "n": 39,
+              "prompt": "Sovannary was ________ very beautiful woman with ________ dark hair.",
+              "options": [
+                { "id": "A", "text": "a ... Ø" },
+                { "id": "B", "text": "a ... a" },
+                { "id": "C", "text": "a ... the" },
+                { "id": "D", "text": "the ... the" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Woman\" is a singular countable noun introduced for the first time, so it takes \"a\". \"Dark hair\" is uncountable and used generally, so it takes no article.",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2019-a-q40",
+              "n": 40,
+              "prompt": "Our nephew likes ________ in fast-food restaurants, reading comic books, and visiting museums.",
+              "options": [
+                { "id": "A", "text": "to eat" },
+                { "id": "B", "text": "eating" },
+                { "id": "C", "text": "eats" },
+                { "id": "D", "text": "eat" }
+              ],
+              "answerId": "B",
+              "explanation": "The list after \"likes\" must stay parallel, and the last two items are already gerunds, \"reading\" and \"visiting\", so the first must match with \"eating\".",
+              "skills": ["parallel-structure", "gerund-infinitive"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "title": "Section II: Vocabulary",
+      "groups": [
+        {
+          "id": "g2",
+          "type": "vocab-inline",
+          "instruction": "For Questions 41 to 50, choose one option that is closest in meaning to the underlined words or phrases.",
+          "questions": [
+            {
+              "id": "ifl-2019-a-q41",
+              "n": 41,
+              "prompt": "The city was [[besieged]] for four months and was forced to surrender. The bloody battle to conquer the city was finally over.",
+              "options": [
+                { "id": "A", "text": "ruled" },
+                { "id": "B", "text": "liberated" },
+                { "id": "C", "text": "attacked" },
+                { "id": "D", "text": "surrounded" }
+              ],
+              "answerId": "D",
+              "explanation": "To besiege a city is to surround it with armed forces to force its surrender, which \"surrounded\" captures exactly. \"Liberated\" is the opposite, and \"attacked\" misses the specific sense of blockading.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2019-a-q42",
+              "n": 42,
+              "prompt": "With such a [[flexible]] body, Vanny is sure she will be a good ballet dancer.",
+              "options": [
+                { "id": "A", "text": "elastic" },
+                { "id": "B", "text": "soft" },
+                { "id": "C", "text": "delicate" },
+                { "id": "D", "text": "supple" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Supple\" describes a body that bends and moves easily, exactly what a flexible dancer's body means. \"Elastic\" suits materials that spring back, and \"delicate\" means fragile rather than bendable.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2019-a-q43",
+              "n": 43,
+              "prompt": "“Don't worry. You'll be given [[more than enough]] time to finish the test,” Mrs. Chenda told her class.",
+              "options": [
+                { "id": "A", "text": "much" },
+                { "id": "B", "text": "ample" },
+                { "id": "C", "text": "satisfactory" },
+                { "id": "D", "text": "abundant" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Ample\" means enough or more than enough, matching the exact idea of \"more than enough time\". \"Satisfactory\" only means adequate, not generous, and \"abundant\" usually describes plentiful resources rather than time given to someone.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2019-a-q44",
+              "n": 44,
+              "prompt": "[[Getting rid of all the ice in the refrigerator]] is a serious problem for Mr. Sothy.",
+              "options": [
+                { "id": "A", "text": "Draining" },
+                { "id": "B", "text": "Freezing" },
+                { "id": "C", "text": "Filtering" },
+                { "id": "D", "text": "Defrosting" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Defrosting\" is the specific term for removing built-up ice from a refrigerator. \"Draining\" refers to liquids, and \"freezing\" is the opposite process.",
+              "skills": ["synonyms", "vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2019-a-q45",
+              "n": 45,
+              "prompt": "No one wants to talk to Bopha because she is extremely rude. Even I cannot stand her [[insolence]].",
+              "options": [
+                { "id": "A", "text": "rudeness" },
+                { "id": "B", "text": "attitude" },
+                { "id": "C", "text": "behaviour" },
+                { "id": "D", "text": "aggressiveness" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Insolence\" means rude and disrespectful behaviour, which matches \"rudeness\" directly. \"Attitude\" and \"behaviour\" are too neutral, and \"aggressiveness\" names a different quality.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2019-a-q46",
+              "n": 46,
+              "prompt": "They wasted their futile efforts at [[consoling]] the child.",
+              "options": [
+                { "id": "A", "text": "comforting" },
+                { "id": "B", "text": "embracing" },
+                { "id": "C", "text": "pampering" },
+                { "id": "D", "text": "taming" }
+              ],
+              "answerId": "A",
+              "explanation": "To console someone is to comfort them in distress, which is the direct match. \"Embracing\" refers only to a physical hug, and \"pampering\" and \"taming\" describe different actions altogether.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2019-a-q47",
+              "n": 47,
+              "prompt": "The proud woman looked at everyone around her with [[dislike and disrespect]].",
+              "options": [
+                { "id": "A", "text": "contempt" },
+                { "id": "B", "text": "ridicule" },
+                { "id": "C", "text": "deference" },
+                { "id": "D", "text": "delusion" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Contempt\" is the feeling that someone deserves scorn or is beneath consideration, combining dislike and disrespect. \"Deference\" is the opposite, meaning respect.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2019-a-q48",
+              "n": 48,
+              "prompt": "The workers were dissatisfied with the [[paltry]] sum that they earned for their hard work.",
+              "options": [
+                { "id": "A", "text": "significant" },
+                { "id": "B", "text": "minor" },
+                { "id": "C", "text": "small" },
+                { "id": "D", "text": "worthless" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Paltry\" means small or meagre in amount, which \"small\" matches most closely. \"Worthless\" overstates the meaning as having no value at all, rather than simply being too little.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2019-a-q49",
+              "n": 49,
+              "prompt": "The robot [[failed to work properly]], so it was sent back to the dealer.",
+              "options": [
+                { "id": "A", "text": "malfunctioned" },
+                { "id": "B", "text": "crashed" },
+                { "id": "C", "text": "collapsed" },
+                { "id": "D", "text": "blundered" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Malfunctioned\" is the standard term for a machine failing to work normally. \"Crashed\" and \"collapsed\" suggest a sudden stop or physical failure, and \"blundered\" describes a clumsy human mistake.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2019-a-q50",
+              "n": 50,
+              "prompt": "Chanthou is a [[dedicated]] teacher. Everyone respects her.",
+              "options": [
+                { "id": "A", "text": "experienced" },
+                { "id": "B", "text": "strict" },
+                { "id": "C", "text": "devoted" },
+                { "id": "D", "text": "proud" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Dedicated\" means devoted to one's work, matching \"devoted\" directly. \"Experienced\" and \"strict\" describe unrelated qualities.",
+              "skills": ["synonyms"]
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "type": "mcq",
+          "instruction": "For Questions 51 to 62, choose one option that best completes the gap in each sentence.",
+          "questions": [
+            {
+              "id": "ifl-2019-a-q51",
+              "n": 51,
+              "prompt": "These children are really a ________! They have been making a lot of noise all day long.",
+              "options": [
+                { "id": "A", "text": "fault" },
+                { "id": "B", "text": "nuisance" },
+                { "id": "C", "text": "gavoc" },
+                { "id": "D", "text": "blessing" }
+              ],
+              "answerId": "B",
+              "explanation": "A \"nuisance\" is someone or something that causes annoyance, which fits children making noise all day. \"Blessing\" is the opposite, and \"fault\" describes a flaw rather than a source of annoyance.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2019-a-q52",
+              "n": 52,
+              "prompt": "The students are told to solve the same type of sums many times to ________ that they are able to do them correctly when they encounter them.",
+              "options": [
+                { "id": "A", "text": "ensure" },
+                { "id": "B", "text": "certify" },
+                { "id": "C", "text": "insure" },
+                { "id": "D", "text": "examine" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Ensure\" means to make certain of an outcome, which fits practising sums to guarantee later success. \"Insure\" relates to insurance policies, and \"certify\" means to give formal, official confirmation.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2019-a-q53",
+              "n": 53,
+              "prompt": "The students in the school were very excited when news ________ that they were going to have a new principal.",
+              "options": [
+                { "id": "A", "text": "got by" },
+                { "id": "B", "text": "got up" },
+                { "id": "C", "text": "got across" },
+                { "id": "D", "text": "got around" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Get around\" describes news or rumours spreading informally among people, which is exactly how the students found out. \"Get across\" is used for making a message understood, not for casual spreading.",
+              "skills": ["phrasal-verbs"]
+            },
+            {
+              "id": "ifl-2019-a-q54",
+              "n": 54,
+              "prompt": "Sopha's experiences with the tribe have certainly ________ his personality. He has become a humble person.",
+              "options": [
+                { "id": "A", "text": "transferred" },
+                { "id": "B", "text": "turned" },
+                { "id": "C", "text": "twisted" },
+                { "id": "D", "text": "moulded" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Moulded\" describes shaping someone's character gradually over time, which fits becoming humble through experience. \"Twisted\" would suggest a negative distortion, which does not match becoming humble.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2019-a-q55",
+              "n": 55,
+              "prompt": "Bamboo shoots are the pandas' ________ diet for without them, it would be difficult for them to survive.",
+              "options": [
+                { "id": "A", "text": "staple" },
+                { "id": "B", "text": "popular" },
+                { "id": "C", "text": "trivial" },
+                { "id": "D", "text": "traditional" }
+              ],
+              "answerId": "A",
+              "explanation": "A \"staple\" diet is the basic, essential food a creature depends on, matching \"without them, it would be difficult for them to survive\". \"Trivial\" contradicts that dependence.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2019-a-q56",
+              "n": 56,
+              "prompt": "A group of teachers travelled away from the city and towards the countryside where several ________ houses caught their eyes.",
+              "options": [
+                { "id": "A", "text": "rustic" },
+                { "id": "B", "text": "natural" },
+                { "id": "C", "text": "antique" },
+                { "id": "D", "text": "classical" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Rustic\" describes a simple, countryside style of building, fitting houses noticed on a trip away from the city. \"Antique\" and \"classical\" describe age or style unrelated to rural setting.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2019-a-q57",
+              "n": 57,
+              "prompt": "Our knowledge of endangered plants and animals is only the ________ of the iceberg. There are many others that have not been discovered yet.",
+              "options": [
+                { "id": "A", "text": "tip" },
+                { "id": "B", "text": "center" },
+                { "id": "C", "text": "start" },
+                { "id": "D", "text": "edge" }
+              ],
+              "answerId": "A",
+              "explanation": "\"The tip of the iceberg\" is a fixed idiom for a small visible part of a much larger hidden issue. No other noun forms this idiom.",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "ifl-2019-a-q58",
+              "n": 58,
+              "prompt": "Most parents become ________ if their children do not come home from school at the usual time.",
+              "options": [
+                { "id": "A", "text": "suspicious" },
+                { "id": "B", "text": "vigilant" },
+                { "id": "C", "text": "anxious" },
+                { "id": "D", "text": "pathetic" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Anxious\" means worried, which is the natural reaction to a child being late. \"Suspicious\" implies distrust of someone's honesty, which does not fit simple worry.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2019-a-q59",
+              "n": 59,
+              "prompt": "The coach realised that the boy had the ________ of a skilful footballer.",
+              "options": [
+                { "id": "A", "text": "talent" },
+                { "id": "B", "text": "makings" },
+                { "id": "C", "text": "intelligence" },
+                { "id": "D", "text": "capacity" }
+              ],
+              "answerId": "B",
+              "explanation": "\"The makings of\" is a fixed phrase for having the necessary qualities to become something, which fits a coach spotting future potential. \"Talent\" alone would not need \"the\" and \"of\" in this pattern.",
+              "skills": ["collocation", "idiom"]
+            },
+            {
+              "id": "ifl-2019-a-q60",
+              "n": 60,
+              "prompt": "All the vehicles couldn't move because a large tree along the avenue fell down during the rainstorm and ________ the traffic.",
+              "options": [
+                { "id": "A", "text": "slowed down" },
+                { "id": "B", "text": "reduced" },
+                { "id": "C", "text": "obstructed" },
+                { "id": "D", "text": "diverted" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Obstructed\" means blocked so nothing can pass, matching \"couldn't move\" completely. \"Slowed down\" and \"diverted\" both suggest traffic was still moving, just differently.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2019-a-q61",
+              "n": 61,
+              "prompt": "The authorities have passed laws to ________ the sale of animal parts so that these animals will not be killed unnecessarily.",
+              "options": [
+                { "id": "A", "text": "bleach" },
+                { "id": "B", "text": "ban" },
+                { "id": "C", "text": "banish" },
+                { "id": "D", "text": "censor" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Ban\" means to officially forbid something, which fits a law against a type of sale. \"Banish\" applies to sending a person away, and \"censor\" applies to controlling information.",
+              "skills": ["collocation", "vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2019-a-q62",
+              "n": 62,
+              "prompt": "The school holidays were ________ by a week.",
+              "options": [
+                { "id": "A", "text": "expanded" },
+                { "id": "B", "text": "increased" },
+                { "id": "C", "text": "extended" },
+                { "id": "D", "text": "elongated" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Extended\" is the standard collocation for lengthening a period of time such as a holiday. \"Increased\" fits amounts or quantities better than durations, and \"elongated\" is used for physical shapes.",
+              "skills": ["collocation"]
+            }
+          ]
+        },
+        {
+          "id": "g4",
+          "type": "cloze",
+          "instruction": "For Questions 63 to 70, read the passage below and choose one best word from the options to fill in each gap.",
+          "stimulus": {
+            "id": "saving-plastic",
+            "title": "The Importance of Saving Plastic",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "text": "Many artefacts of enduring cultural significance from the last century were made from plastic. It was always confidently assumed that this rather {{63}} material was virtually indestructible. Now that some of these artefacts have become museum {{64}}, we have discovered that this {{65}} was sadly mistaken."
+              },
+              {
+                "kind": "paragraph",
+                "text": "The degradation of plastics is worrying both scientists and historians, who are racing against time to save our plastic heritage before it {{66}} into dust. Our love affair with plastics {{67}} in large part from the fact they can be moulded into just about any shape imaginable. When it comes to longevity, however, they have a serious {{68}}; their chemical structure breaks down when they are exposed to air and sunlight."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Many now argue that we must consider the cultural {{69}} we will be leaving future generations. Without urgent {{70}} many artefacts will be lost forever. But developing effective conservation strategies is difficult because what works to preserve one type of plastic can have a catastrophic effect on the lifespan of another."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2019-a-q63",
+              "n": 63,
+              "options": [
+                { "id": "A", "text": "insignificant" },
+                { "id": "B", "text": "routine" },
+                { "id": "C", "text": "customary" },
+                { "id": "D", "text": "mundane" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Mundane\" means ordinary and unremarkable, which suits an everyday material people took for granted. \"Insignificant\" is too dismissive to fit alongside the claim that it was \"virtually indestructible\".",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2019-a-q64",
+              "n": 64,
+              "options": [
+                { "id": "A", "text": "items" },
+                { "id": "B", "text": "articles" },
+                { "id": "C", "text": "pieces" },
+                { "id": "D", "text": "objects" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Museum piece\" is the fixed phrase for an object considered valuable enough for display. \"Items\", \"articles\" and \"objects\" are too generic to form this collocation.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2019-a-q65",
+              "n": 65,
+              "options": [
+                { "id": "A", "text": "concept" },
+                { "id": "B", "text": "premise" },
+                { "id": "C", "text": "notion" },
+                { "id": "D", "text": "proposition" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Notion\" refers back to the earlier idea that plastic was indestructible, and best matches an informally held belief. \"Premise\" implies a stated basis for a formal argument, which is not what is described.",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            },
+            {
+              "id": "ifl-2019-a-q66",
+              "n": 66,
+              "options": [
+                { "id": "A", "text": "crumbles" },
+                { "id": "B", "text": "shatters" },
+                { "id": "C", "text": "erodes" },
+                { "id": "D", "text": "shrivels" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Crumbles into dust\" is the natural collocation for a material breaking down into fine fragments. \"Shatters\" implies a sudden, forceful break rather than gradual decay.",
+              "skills": ["collocation", "vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2019-a-q67",
+              "n": 67,
+              "options": [
+                { "id": "A", "text": "starts" },
+                { "id": "B", "text": "sparks" },
+                { "id": "C", "text": "stems" },
+                { "id": "D", "text": "sprouts" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Stem from\" is the fixed expression for originating from a cause, matching \"in large part from the fact\". \"Starts\" would not normally take \"from\" in this sense.",
+              "skills": ["phrasal-verbs"]
+            },
+            {
+              "id": "ifl-2019-a-q68",
+              "n": 68,
+              "options": [
+                { "id": "A", "text": "fault" },
+                { "id": "B", "text": "snag" },
+                { "id": "C", "text": "stigma" },
+                { "id": "D", "text": "flaw" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Flaw\" names a weakness in a structure or design, matching the chemical structure that breaks down. \"Stigma\" refers to shame or disgrace, which is unrelated here.",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            },
+            {
+              "id": "ifl-2019-a-q69",
+              "n": 69,
+              "options": [
+                { "id": "A", "text": "bequest" },
+                { "id": "B", "text": "legacy" },
+                { "id": "C", "text": "endowment" },
+                { "id": "D", "text": "heirloom" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Legacy\" fits an abstract cultural inheritance passed to future generations. \"Bequest\", \"endowment\" and \"heirloom\" all suggest specific money or objects rather than a broad cultural inheritance.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2019-a-q70",
+              "n": 70,
+              "options": [
+                { "id": "A", "text": "intervention" },
+                { "id": "B", "text": "interception" },
+                { "id": "C", "text": "interference" },
+                { "id": "D", "text": "intercession" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Intervention\" means action taken to change the course of events, fitting urgent conservation action. \"Interference\" usually carries a negative sense of unwanted meddling, which does not suit this context.",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Section III: Reading",
+      "groups": [
+        {
+          "id": "g5",
+          "type": "mcq",
+          "instruction": "For Questions 71 to 77, choose the best ending for each paragraph.",
+          "questions": [
+            {
+              "id": "ifl-2019-a-q71",
+              "n": 71,
+              "prompt": "Until recently the kiwi fruit was rare in most countries. All the kiwis came from far away New Zealand. They were transported a great distance and so they were expensive. Now many countries grow kiwis. The supply of this fruit has greatly increased and so ________.",
+              "options": [
+                { "id": "A", "text": "it has become more expensive" },
+                { "id": "B", "text": "it is harder to get" },
+                { "id": "C", "text": "New Zealand has stopped producing it" },
+                { "id": "D", "text": "it has become less expensive" }
+              ],
+              "answerId": "D",
+              "explanation": "A large increase in supply from many new producers naturally drives the price down, so the fruit becomes less expensive. Nothing suggests New Zealand stopped growing kiwis, so C misreads the passage.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2019-a-q72",
+              "n": 72,
+              "prompt": "Exercising in your home may be good for your health, but it may not be good for your children. In 1990, about 13,000 children were hurt by exercise equipment. The exercise bicycle was the most common cause of injury. Many children lost a finger or a toe in the wheels of these bicycles. So if you have an exercise bicycle, you should ________.",
+              "options": [
+                { "id": "A", "text": "let your children use it too" },
+                { "id": "B", "text": "stop using it immediately" },
+                { "id": "C", "text": "keep it outside" },
+                { "id": "D", "text": "not let your children play with it" }
+              ],
+              "answerId": "D",
+              "explanation": "The danger described is specifically children getting hurt by the wheels, so the sensible advice is to keep children away from the bicycle, not to stop the adult's exercise routine altogether.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2019-a-q73",
+              "n": 73,
+              "prompt": "In the past, if you wanted to eat Japanese food, you had to go to Japan. Now, you can find Japanese restaurants all around the world, from New York to Rome or Sydney. In the same way, Italian food used to be found only in Italy. Now, Italian restaurants can be found everywhere, from Moscow to Tokyo or Sao Paulo. People everywhere are learning to enjoy the foods of other countries. Someday, it may be possible to ________.",
+              "options": [
+                { "id": "A", "text": "eat Italian food in Tokyo" },
+                { "id": "B", "text": "eat only traditional food in each country" },
+                { "id": "C", "text": "eat every kind of food in every country" },
+                { "id": "D", "text": "eat only Japanese food" }
+              ],
+              "answerId": "C",
+              "explanation": "The passage generalises a trend, so the logical future extension is that eventually every cuisine will spread everywhere. A already exists according to the passage, so it cannot be the future possibility being predicted.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2019-a-q74",
+              "n": 74,
+              "prompt": "Checkers is a game that requires a lot of mathematical thinking. It's a very good game for computers to play. Some computer scientists in Canada made a computer program for checkers. Then they invited the world championship checkers player, Marion Tinsley, to play against their program. They wanted to see who was better at the game – computers or people. The computer managed to win two games, but Tinsley won four. The scientists concluded that ________.",
+              "options": [
+                { "id": "A", "text": "people are still better at some kinds of thinking" },
+                { "id": "B", "text": "people will always win games like checkers" },
+                { "id": "C", "text": "computers are best at everything they do" },
+                { "id": "D", "text": "computers will never be able to beat Tinsley" }
+              ],
+              "answerId": "A",
+              "explanation": "Tinsley won more games than the program, showing a human can still outperform a computer at this task, but that single result does not prove humans will \"always\" win or that computers can \"never\" win, which B and D overstate.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2019-a-q75",
+              "n": 75,
+              "prompt": "In Cambodia, it is the women who take charge of trade. For this reason, a Chinese, arriving in the country, loses no time in getting himself a mate, for ________.",
+              "options": [
+                { "id": "A", "text": "Cambodian ladies are beautiful and respectful" },
+                { "id": "B", "text": "he will find her commercial instinct a great asset" },
+                { "id": "C", "text": "he needs a wife as a companion" },
+                { "id": "D", "text": "Chinese and Cambodians are compatible" }
+              ],
+              "answerId": "B",
+              "explanation": "The reasoning follows directly from the opening statement that women handle trade, so a merchant would value a wife's business sense. The other options are not connected to the stated reason about trade.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2019-a-q76",
+              "n": 76,
+              "prompt": "Imagine a baby about five months old. It can cry and smile, and it can eat and sleep, and it can dirty its diaper. Did you know that it can also count? That's not all – small babies are also able to add and subtract small numbers of things. This may be surprising news, but a psychologist has proven that it is true. Many people think that these abilities are learnt at school. However, this psychologist believes that they are ________.",
+              "options": [
+                { "id": "A", "text": "not present until adulthood" },
+                { "id": "B", "text": "learnt only by five-month old babies" },
+                { "id": "C", "text": "already present in small babies" },
+                { "id": "D", "text": "very difficult for children to learn" }
+              ],
+              "answerId": "C",
+              "explanation": "The paragraph states that small babies can already count and calculate, directly challenging the common view that such skills are learnt at school. That makes \"already present in small babies\" the psychologist's position.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2019-a-q77",
+              "n": 77,
+              "prompt": "Some people say that photographs are not art. They say that a photograph is just a copy of the real world. A photograph does not tell you what the artist was thinking. These people believe that art ________.",
+              "options": [
+                { "id": "A", "text": "must show you what someone thinks" },
+                { "id": "B", "text": "must be the same as what we see" },
+                { "id": "C", "text": "is a true picture" },
+                { "id": "D", "text": "must not show what someone thinks" }
+              ],
+              "answerId": "A",
+              "explanation": "The objection to photography is that it fails to show what the artist was thinking, which implies these people believe real art should reveal the artist's thoughts.",
+              "skills": ["inference"]
+            }
+          ]
+        },
+        {
+          "id": "g6",
+          "type": "passage-mcq",
+          "instruction": "For Questions 78 to 83, look at the graphic below and answer the questions that follow.",
+          "stimulus": {
+            "id": "billy-joins-the-army",
+            "title": "Billy Joins the Army (book cover advertisement)",
+            "blocks": [
+              {
+                "kind": "subheading",
+                "text": "Big Top Publishers — Recommended Price: $15.00"
+              },
+              {
+                "kind": "paragraph",
+                "text": "The World's Most Famous Clown enlists. The army has never been more fun as Billy climbs the army ranks …"
+              },
+              {
+                "kind": "paragraph",
+                "text": "The cover illustration shows a clown in uniform saluting, standing between two soldiers who look puzzled — each has a thought bubble marked “?” or “??” above his head."
+              },
+              {
+                "kind": "paragraph",
+                "text": "‘The scene where General Billy saves the world is unforgettable …’ — Pacific Review"
+              },
+              {
+                "kind": "paragraph",
+                "text": "‘I laughed so hard when Billy finally made the Corporal smile … the author should be given a prize.’ — The Chronicle"
+              },
+              {
+                "kind": "subheading",
+                "text": "BILLY JOINS THE ARMY by Amy Johnson"
+              },
+              {
+                "kind": "paragraph",
+                "text": "the hilarious sequel to “Billy Leaves Changi Circus” — Soon to be a TV serial on CHANNEL TWO!!"
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2019-a-q78",
+              "n": 78,
+              "prompt": "The publishers of “Billy Joins the Army” are ________.",
+              "options": [
+                { "id": "A", "text": "Channel Two" },
+                { "id": "B", "text": "Big Top" },
+                { "id": "C", "text": "Changi Circus" },
+                { "id": "D", "text": "Amy Johnson" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Big Top Publishers\" is named at the top of the advertisement as the publisher. Amy Johnson is the author, Channel Two will air the TV serial, and Changi Circus is the setting of the earlier book.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2019-a-q79",
+              "n": 79,
+              "prompt": "“Billy Joins the Army” promises to be a ________ book.",
+              "options": [
+                { "id": "A", "text": "serious" },
+                { "id": "B", "text": "frightening" },
+                { "id": "C", "text": "sad" },
+                { "id": "D", "text": "comical" }
+              ],
+              "answerId": "D",
+              "explanation": "The advertisement calls the book \"hilarious\" and quotes a reviewer who laughed hard, both signalling a comedy rather than a serious or sad story.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2019-a-q80",
+              "n": 80,
+              "prompt": "________ should be awarded a prize, according to The Chronicle.",
+              "options": [
+                { "id": "A", "text": "Amy Johnson" },
+                { "id": "B", "text": "Billy the Clown" },
+                { "id": "C", "text": "The book reviewer of Pacific Review" },
+                { "id": "D", "text": "The book reviewer of The Chronical" }
+              ],
+              "answerId": "A",
+              "explanation": "The Chronicle's quote says \"the author should be given a prize\", and the author of the book is Amy Johnson.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2019-a-q81",
+              "n": 81,
+              "prompt": "In his career in the army, Bill reaches the rank of ________.",
+              "options": [
+                { "id": "A", "text": "General" },
+                { "id": "B", "text": "Private" },
+                { "id": "C", "text": "Corporal" },
+                { "id": "D", "text": "Captain" }
+              ],
+              "answerId": "A",
+              "explanation": "The Pacific Review quote refers to \"General Billy\", showing the rank he reaches by the climax of the story.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2019-a-q82",
+              "n": 82,
+              "prompt": "Judging from the expressions of the other soldiers on the cover illustration, they seem ________.",
+              "options": [
+                { "id": "A", "text": "to think that Billy is mad" },
+                { "id": "B", "text": "to be wondering who they are saluting to" },
+                { "id": "C", "text": "to be asking where they are" },
+                { "id": "D", "text": "to be puzzled by Billy's behaviour" }
+              ],
+              "answerId": "D",
+              "explanation": "The soldiers' \"?\" and \"??\" thought bubbles show general confusion at what Billy is doing, rather than one specific question about identity or location.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2019-a-q83",
+              "n": 83,
+              "prompt": "The scene that retains on the mind of the reader most is when ________.",
+              "options": [
+                { "id": "A", "text": "Billy becomes a general" },
+                { "id": "B", "text": "Billy leaves Changi Circus" },
+                { "id": "C", "text": "Billy saves the world" },
+                { "id": "D", "text": "Billy makes the Corporal smile" }
+              ],
+              "answerId": "C",
+              "explanation": "Pacific Review calls the scene where \"General Billy saves the world\" \"unforgettable\", the strongest claim of lasting impact among the options.",
+              "skills": ["scanning"]
+            }
+          ]
+        },
+        {
+          "id": "g7",
+          "type": "passage-mcq",
+          "instruction": "For Questions 84 to 94, read the passage below and choose the best answer for each of the questions that follow.",
+          "stimulus": {
+            "id": "decision-worksheet",
+            "title": "Making Decisions with a Worksheet",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "label": "1",
+                "text": "Researchers in the field of psychology have found that one of the best ways to make an important decision, such as choosing a university to attend or a business to invest in, involves the utilization of a decision worksheet. Psychologists who study optimization compare the actual decisions made by people to theoretical ideal decisions to see how similar they are. Proponents of the worksheet procedure believe that it will yield optimal, that is, the best decisions. Although there are several variations on the exact format that worksheets can take, they are all similar in their **essential** aspects."
+              },
+              {
+                "kind": "paragraph",
+                "label": "2",
+                "text": "Worksheets require defining the problem in a clear and concise way and then listing all possible solutions to the problem. Next, the **pertinent** considerations that will be affected by each decision are listed, and the relative importance of each consideration or consequence is determined. Each consideration is assigned a numerical value to reflect its relative importance. A decision is mathematically calculated by adding these values together. The alternative with the highest number of points emerges as the best decision."
+              },
+              {
+                "kind": "paragraph",
+                "label": "3",
+                "text": "Since most important problems are multifaceted, there are several alternatives to choose from, each with unique advantages and disadvantages. One of the benefits of a pencil and paper decision-making procedure is that it permits people to deal with more variables than their minds can generally comprehend and remember. On the average, people can keep about seven ideas in their minds at once. A worksheet can be especially useful when the decision involves a large number of variables with complex relationships. A realistic example for many college students is the question “What will I do after graduation?” A graduate might seek a position that offers specialized training, pursue an advanced degree, or travel abroad for a year."
+              },
+              {
+                "kind": "paragraph",
+                "label": "4",
+                "text": "A decision-making worksheet begins with a **succinct** statement of the problem that will also help to narrow **it**. It is important to be clear about the distinction between long-range and immediate goals because long-range goals often involve a different decision than short-range ones. Focusing on long-range goals, a graduating student might **revise** the question above to “What will I do after graduation that will lead to a successful career?”"
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2019-a-q84",
+              "n": 84,
+              "prompt": "What does the passage mainly discuss?",
+              "options": [
+                { "id": "A", "text": "A tool to assist in making complex decisions" },
+                { "id": "B", "text": "A comparison of actual decisions and ideal decisions" },
+                { "id": "C", "text": "Research on how people make decisions" },
+                { "id": "D", "text": "Differences between long-range and short-range decision making" }
+              ],
+              "answerId": "A",
+              "explanation": "The passage as a whole explains what a decision worksheet is, how it is built, and why it helps with complex decisions. B and D are only details drawn from single paragraphs, not the overall topic.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2019-a-q85",
+              "n": 85,
+              "prompt": "The word “essential” in line 7 is closest in meaning to ________.",
+              "options": [
+                { "id": "A", "text": "introductory" },
+                { "id": "B", "text": "changeable" },
+                { "id": "C", "text": "beneficial" },
+                { "id": "D", "text": "fundamental" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Essential\" describes the core, fundamental aspects shared by all worksheet formats, despite their surface variations. \"Changeable\" contradicts the point being made about consistency.",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            },
+            {
+              "id": "ifl-2019-a-q86",
+              "n": 86,
+              "prompt": "The word “pertinent” in line 9 is closest in meaning to ________.",
+              "options": [
+                { "id": "A", "text": "relevant" },
+                { "id": "B", "text": "preceding" },
+                { "id": "C", "text": "insightful" },
+                { "id": "D", "text": "responsive" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Pertinent considerations\" are those directly relevant to the decision being made. \"Preceding\" wrongly suggests a time order rather than relevance.",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            },
+            {
+              "id": "ifl-2019-a-q87",
+              "n": 87,
+              "prompt": "Of the following steps, which occurs before the others in making a decision worksheet?",
+              "options": [
+                { "id": "A", "text": "Listing the consequences of each solution" },
+                { "id": "B", "text": "Calculating a numerical summary of each solution" },
+                { "id": "C", "text": "Deciding which consequences are most important" },
+                { "id": "D", "text": "Writing down all possible solutions" }
+              ],
+              "answerId": "D",
+              "explanation": "Paragraph 2 lists the sequence in order: define the problem, then list all possible solutions, then list the consequences affecting each, then weigh their importance, then calculate the total. Writing down the solutions comes before the other three steps.",
+              "skills": ["text-organisation", "scanning"]
+            },
+            {
+              "id": "ifl-2019-a-q88",
+              "n": 88,
+              "prompt": "According to decision-worksheet theory, an optimal decision is defined as one that ________.",
+              "options": [
+                { "id": "A", "text": "has the fewest variables to consider" },
+                { "id": "B", "text": "has the most points assigned to it" },
+                { "id": "C", "text": "uses the most decision worksheets" },
+                { "id": "D", "text": "is agreed to by the greatest number of people" }
+              ],
+              "answerId": "B",
+              "explanation": "Paragraph 2 states directly that \"the alternative with the highest number of points emerges as the best decision\", which matches B exactly.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2019-a-q89",
+              "n": 89,
+              "prompt": "The author develops the discussion in paragraph 1 by means of ________.",
+              "options": [
+                { "id": "A", "text": "describing a process" },
+                { "id": "B", "text": "providing historical background" },
+                { "id": "C", "text": "classifying" },
+                { "id": "D", "text": "explaining a theory" }
+              ],
+              "answerId": "A",
+              "explanation": "Paragraph 1 introduces the worksheet by outlining, in overview, how it is used and evaluated, presenting this as a general procedure rather than giving historical dates, sorting worksheets into categories, or building a formal theoretical argument.",
+              "skills": ["text-organisation"]
+            },
+            {
+              "id": "ifl-2019-a-q90",
+              "n": 90,
+              "prompt": "The author states that “On the average, people can keep about seven ideas in their minds at once” (lines 17–18) to explain that ________.",
+              "options": [
+                { "id": "A", "text": "most decisions involve seven steps" },
+                { "id": "B", "text": "human mental capacity has limitations" },
+                { "id": "C", "text": "some people have difficulty making minor as well as major decisions" },
+                { "id": "D", "text": "people can learn to keep more than seven ideas in their minds with practice" }
+              ],
+              "answerId": "B",
+              "explanation": "This detail supports the earlier point that a worksheet \"permits people to deal with more variables than their minds can generally comprehend\", showing that the limit exists because of a natural limit on mental capacity.",
+              "skills": ["inference", "text-organisation"]
+            },
+            {
+              "id": "ifl-2019-a-q91",
+              "n": 91,
+              "prompt": "The word “succinct” in line 22 is closest in meaning to ________.",
+              "options": [
+                { "id": "A", "text": "creative" },
+                { "id": "B", "text": "satisfactory" },
+                { "id": "C", "text": "personal" },
+                { "id": "D", "text": "concise" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Succinct\" means expressed clearly and in few words, matching \"concise\" directly.",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            },
+            {
+              "id": "ifl-2019-a-q92",
+              "n": 92,
+              "prompt": "Which of the following terms is defined in the passage?",
+              "options": [
+                { "id": "A", "text": "Proponents (line 5)" },
+                { "id": "B", "text": "Variables (line 16)" },
+                { "id": "C", "text": "Optimal (line 5)" },
+                { "id": "D", "text": "Long-range goals (line 24)" }
+              ],
+              "answerId": "C",
+              "explanation": "Line 5 explicitly glosses the term with “that is, the best decisions” immediately after “optimal”. None of the other terms are given an in-text definition.",
+              "skills": ["scanning", "text-organisation"]
+            },
+            {
+              "id": "ifl-2019-a-q93",
+              "n": 93,
+              "prompt": "The word “it” in bold in line 23 refers to ________.",
+              "options": [
+                { "id": "A", "text": "worksheet" },
+                { "id": "B", "text": "problem" },
+                { "id": "C", "text": "distinction" },
+                { "id": "D", "text": "decision" }
+              ],
+              "answerId": "B",
+              "explanation": "\"A succinct statement of the problem that will also help to narrow it\" — \"it\" replaces the nearest matching singular noun, \"the problem\", which the opening statement helps to narrow down.",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "ifl-2019-a-q94",
+              "n": 94,
+              "prompt": "The word “revise” in line 25 is closest in meaning to ________.",
+              "options": [
+                { "id": "A", "text": "change" },
+                { "id": "B", "text": "explain" },
+                { "id": "C", "text": "ask" },
+                { "id": "D", "text": "predict" }
+              ],
+              "answerId": "A",
+              "explanation": "To revise a question is to reword or change it, exactly as shown when the general question is reworded into a more specific one afterward.",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            }
+          ]
+        },
+        {
+          "id": "g8",
+          "type": "heading-match",
+          "instruction": "For Questions 95 to 100, choose the correct heading from the list below for each paragraph.",
+          "optionsExceedItems": true,
+          "optionUseOnce": true,
+          "sharedOptions": [
+            { "id": "A", "text": "Key people that made a difference" },
+            { "id": "B", "text": "An alternative to fingerprinting" },
+            { "id": "C", "text": "The significance of prints" },
+            { "id": "D", "text": "How to identify a criminal" },
+            { "id": "E", "text": "Patterns in the making" },
+            { "id": "F", "text": "Family connections" },
+            { "id": "G", "text": "Exciting new developments" },
+            { "id": "H", "text": "A strange coincidence" },
+            { "id": "I", "text": "Punishing a criminal" },
+            { "id": "J", "text": "An uncertain past" }
+          ],
+          "stimulus": {
+            "id": "history-of-fingerprinting",
+            "title": "A History of Fingerprinting",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "label": "0",
+                "text": "To detectives, the answers lie at the end of our fingers. Fingerprinting offers an accurate and infallible means of personal identification. The ability to identify a person from a mere fingerprint is a powerful tool in the fight against crime. It is the most commonly used forensic evidence, often outperforming other methods of identification. These days, older methods of ink fingerprinting, which could take weeks, have given way to newer, faster techniques like fingerprint laser scanning, but the principles stay the same. No matter which way you collect fingerprint evidence, every single person's print is unique. So, what makes our fingerprints different from our neighbor's?"
+              },
+              {
+                "kind": "paragraph",
+                "label": "95",
+                "text": "A good place to start is to understand what fingerprints are and how they are created. A fingerprint is the arrangement of skin ridges and furrows on the tips of the fingers. This ridged skin develops fully during foetal development, as the skin cells grow in the mother's womb. These ridges are arranged into patterns and remain the same throughout the course of a person's life. Other visible human characteristics, like weight and height, change over time whereas fingerprints do not. The reason why every fingerprint is unique is that when a baby's genes combine with environmental influences, such as temperature, it affects the way the ridges on the skin grow. It makes the ridges develop at different rates, buckling and bending into patterns. As a result, no two people end up having the same fingerprints. Even identical twins possess dissimilar fingerprints."
+              },
+              {
+                "kind": "paragraph",
+                "label": "96",
+                "text": "It is not easy to map the journey of how the unique quality of the fingerprint came to be discovered. The moment in history it happened is not entirely clear. However, the use of fingerprinting can be traced back to some ancient civilizations, such as Babylon and China, where thumbprints were pressed onto clay tablets to confirm business transactions. Whether people at this time actually realized the full extent of how fingerprints were important for identification purposes is another matter altogether. One cannot be sure of the act that was seen as a means to confirm identity or a symbolic gesture to bind a contract, where giving your fingerprint was like giving your word."
+              },
+              {
+                "kind": "paragraph",
+                "label": "97",
+                "text": "Despite this uncertainty, there are those who made a significant contribution towards the analysis of fingerprinting. History tells us that a 14th century Persian doctor made an early statement that no two fingerprints are alike. Later, in the 17th century, Italian physician Marcello Malpighi studied the distinguishing shapes of loops and spirals in fingerprints. In his honor, the medical world later named a layer of skin after him. It was, however, an employee for the East India Company, William Herschel, who came to see the true potential of fingerprinting. He took fingerprints from the local people as a form of signature for contracts, in order to avoid fraud. His fascination with fingerprints were unique to an individual and did not change at all over a lifetime. In 1880, Henry Faulds suggested that fingerprints could be used to identify convicted criminals. He wrote to Charles Darwin for advice, and the idea was referred on to Darwin's cousin, Sir Francis Galton. Galton eventually published an in-depth study of fingerprint science in 1892."
+              },
+              {
+                "kind": "paragraph",
+                "label": "98",
+                "text": "Although the fact that each person has a totally unique fingerprint pattern had been well documented and accepted for a long time, this knowledge was not exploited for criminal identification until the early 20th century. In the past, branding, tattooing and maiming had been used to mark the criminal for what he was. In some countries, thieves would have their hands cut off. France branded criminals with the fleur-de-lis symbol. The Romans tattooed mercenary soldiers to stop them from becoming deserters."
+              },
+              {
+                "kind": "paragraph",
+                "label": "99",
+                "text": "For many years, police agencies in the Western world were reluctant to use fingerprinting, much preferring the popular method of the time, the Bertillon System, where dimensions of certain body parts were recorded to identify a criminal. The turning point was in 1903 when a prisoner by the name of Will West was admitted into Leavenworth Federal Penitentiary. Amazingly, Will had almost the same Bertillon measurements as another prisoner residing at the very same prison, whose name happened to be William West. It was only their fingerprints that could tell them apart. From that point on, fingerprinting became the standard for criminal identification."
+              },
+              {
+                "kind": "paragraph",
+                "label": "100",
+                "text": "Fingerprinting was useful in identifying people with a history of crime and who were listed on a database. However, in situations where the perpetrator was not on the database and a crime had no witnesses, the system fell short. Fingerprint chemistry is a new technology that can work alongside traditional fingerprinting to find more clues than ever before. From organic compounds left behind on a print, a scientist can tell if the person is a child, an adult, a mature person or a smoker, and much more. It seems, after all these years, fingers continue to point the way."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2019-a-q95",
+              "n": 95,
+              "prompt": "Paragraph 95",
+              "answerId": "E",
+              "explanation": "The paragraph explains how ridge patterns form during foetal development and become fixed for life — in other words, how fingerprint patterns are made.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2019-a-q96",
+              "n": 96,
+              "prompt": "Paragraph 96",
+              "answerId": "J",
+              "explanation": "The paragraph stresses that the origin of fingerprinting is unclear, stating that \"the moment in history it happened is not entirely clear\", which matches an uncertain past.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2019-a-q97",
+              "n": 97,
+              "prompt": "Paragraph 97",
+              "answerId": "A",
+              "explanation": "The paragraph names several individuals — the Persian doctor, Malpighi, Herschel, Faulds and Galton — who each advanced the study of fingerprinting.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2019-a-q98",
+              "n": 98,
+              "prompt": "Paragraph 98",
+              "answerId": "D",
+              "explanation": "The paragraph describes the older methods, such as branding, tattooing and maiming, that were used before fingerprinting to mark and identify criminals.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2019-a-q99",
+              "n": 99,
+              "prompt": "Paragraph 99",
+              "answerId": "H",
+              "explanation": "The paragraph tells the story of Will West and William West sharing near-identical Bertillon measurements at the same prison, an unusual coincidence that changed identification practice.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2019-a-q100",
+              "n": 100,
+              "prompt": "Paragraph 100",
+              "answerId": "G",
+              "explanation": "The paragraph looks ahead to fingerprint chemistry, a new technology providing more clues than traditional fingerprinting alone.",
+              "skills": ["skimming"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
