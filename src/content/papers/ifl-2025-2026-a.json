@@ -1,0 +1,1587 @@
+{
+  "id": "ifl-2025-2026-a",
+  "title": "IFL Selection Test 2025–2026",
+  "year": 2025,
+  "version": "A",
+  "source": "Royal University of Phnom Penh, Institute of Foreign Languages, Department of English — 2025–2026 Fee-Paying Program Selection Test A",
+  "status": "pending",
+  "totalQuestions": 100,
+  "durationMinutes": 90,
+  "sections": [
+    {
+      "id": "grammar",
+      "title": "Section I: Grammar",
+      "groups": [
+        {
+          "id": "g1",
+          "type": "mcq",
+          "instruction": "For Questions 1 to 40, choose the correct answer for each of the following sentences.",
+          "questions": [
+            {
+              "id": "ifl-2025-2026-a-q1",
+              "n": 1,
+              "prompt": "Samnang, together with Dara, ________ to join the school band next year.",
+              "options": [
+                { "id": "A", "text": "want" },
+                { "id": "B", "text": "wants" },
+                { "id": "C", "text": "have wanted" },
+                { "id": "D", "text": "wanting" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Together with Dara\" is a parenthetical addition that does not change the number of the subject, which remains the singular \"Samnang\", so \"wants\" is correct.",
+              "skills": ["subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q2",
+              "n": 2,
+              "prompt": "Neither the president nor the senators ________ the outcome of the vote.",
+              "options": [
+                { "id": "A", "text": "know" },
+                { "id": "B", "text": "knows" },
+                { "id": "C", "text": "are knowing" },
+                { "id": "D", "text": "has known" }
+              ],
+              "answerId": "A",
+              "explanation": "With \"neither ... nor\", the verb agrees with the nearer subject, the plural \"the senators\", giving \"know\".",
+              "skills": ["subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q3",
+              "n": 3,
+              "prompt": "________ process of refining minerals requires ________ huge amount of electrical energy.",
+              "options": [
+                { "id": "A", "text": "A / a" },
+                { "id": "B", "text": "A / the" },
+                { "id": "C", "text": "The / a" },
+                { "id": "D", "text": "The / the" }
+              ],
+              "answerId": "C",
+              "explanation": "\"The process of refining minerals\" is a specific process identified by the phrase that follows it, taking \"the\", while \"a huge amount\" is a first, general mention of a countable quantity, taking \"a\".",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q4",
+              "n": 4,
+              "prompt": "The shopkeeper looked ________, but she wasn't. I discovered when I got home that she had cheated me.",
+              "options": [
+                { "id": "A", "text": "honest" },
+                { "id": "B", "text": "honestly" },
+                { "id": "C", "text": "honesty" },
+                { "id": "D", "text": "being honest" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Look\" here is a linking verb describing an impression, so it takes the plain adjective \"honest\", not an adverb or noun.",
+              "skills": ["word-formation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q5",
+              "n": 5,
+              "prompt": "When Thida doesn't know a word, she always looks it ________ in the dictionary.",
+              "options": [
+                { "id": "A", "text": "at" },
+                { "id": "B", "text": "off" },
+                { "id": "C", "text": "over" },
+                { "id": "D", "text": "up" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Look up a word\" is the fixed phrasal verb for searching for its meaning in a reference source such as a dictionary.",
+              "skills": ["phrasal-verbs"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q6",
+              "n": 6,
+              "prompt": "The department store has been in business ________ many years.",
+              "options": [
+                { "id": "A", "text": "already" },
+                { "id": "B", "text": "for" },
+                { "id": "C", "text": "in" },
+                { "id": "D", "text": "since" }
+              ],
+              "answerId": "B",
+              "explanation": "\"For\" is used with a length of time, \"many years\", while \"since\" would need a specific starting point instead.",
+              "skills": ["prepositions"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q7",
+              "n": 7,
+              "prompt": "The committee members took it upon ________ to revise the proposal after receiving critical feedback from management.",
+              "options": [
+                { "id": "A", "text": "itself" },
+                { "id": "B", "text": "himself" },
+                { "id": "C", "text": "ourselves" },
+                { "id": "D", "text": "themselves" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Take it upon oneself to do something\" needs a reflexive pronoun matching the subject, the plural \"the committee members\", giving \"themselves\".",
+              "skills": ["pronouns", "idiom"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q8",
+              "n": 8,
+              "prompt": "You must wear a mask in the classroom ________ you are still coughing a lot.",
+              "options": [
+                { "id": "A", "text": "because" },
+                { "id": "B", "text": "due to" },
+                { "id": "C", "text": "unless" },
+                { "id": "D", "text": "even" }
+              ],
+              "answerId": "A",
+              "explanation": "The gap is followed by a full clause with its own subject and verb, \"you are still coughing\", which needs the conjunction \"because\". \"Due to\" would need a noun phrase instead.",
+              "skills": ["conjunctions"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q9",
+              "n": 9,
+              "prompt": "Even though they ________ side by side for twenty years, the two neighbors are not very friendly.",
+              "options": [
+                { "id": "A", "text": "having been lived" },
+                { "id": "B", "text": "have been living" },
+                { "id": "C", "text": "had been living" },
+                { "id": "D", "text": "having been living" }
+              ],
+              "answerId": "B",
+              "explanation": "\"For twenty years\" describes a duration continuing up to now, which the present perfect continuous expresses: \"have been living\".",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q10",
+              "n": 10,
+              "prompt": "By the time the firefighters ________, the building ________ to the ground. They were too late.",
+              "options": [
+                { "id": "A", "text": "arrive / has been burnt" },
+                { "id": "B", "text": "arrived / had been burnt" },
+                { "id": "C", "text": "will arrive / will be burnt" },
+                { "id": "D", "text": "had arrived / was burnt" }
+              ],
+              "answerId": "B",
+              "explanation": "\"By the time\" with a past event, \"arrived\", needs the past perfect passive in the main clause, \"had been burnt\", to show the burning was already complete before the firefighters got there.",
+              "skills": ["verb-tense", "passive-voice"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q11",
+              "n": 11,
+              "prompt": "Despite the polar bear's tremendous weight and height, ________ of sprinting at surprising speed.",
+              "options": [
+                { "id": "A", "text": "it is capable" },
+                { "id": "B", "text": "is capable" },
+                { "id": "C", "text": "it capable" },
+                { "id": "D", "text": "capability" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Despite\" introduces a preposition phrase, so the main clause that follows still needs its own subject and verb, \"it is capable\", to form a complete sentence.",
+              "skills": ["word-order"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q12",
+              "n": 12,
+              "prompt": "________ is indispensable to plant and animal life.",
+              "options": [
+                { "id": "A", "text": "Nitrogen" },
+                { "id": "B", "text": "It is nitrogen" },
+                { "id": "C", "text": "That nitrogen" },
+                { "id": "D", "text": "The nitrogen" }
+              ],
+              "answerId": "A",
+              "explanation": "A general statement about a substance as a whole uses the bare noun with no article, \"Nitrogen\", rather than \"the nitrogen\", which would wrongly imply one specific, already-identified quantity.",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q13",
+              "n": 13,
+              "prompt": "What will Bopha do when she ________ her driving license?",
+              "options": [
+                { "id": "A", "text": "gets" },
+                { "id": "B", "text": "is getting" },
+                { "id": "C", "text": "will get" },
+                { "id": "D", "text": "got" }
+              ],
+              "answerId": "A",
+              "explanation": "A time clause introduced by \"when\" that refers to the future uses the present simple, \"gets\", not a future or past form, even though the main clause is a future question.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q14",
+              "n": 14,
+              "prompt": "We are looking for ________ underwater camera so that we can use it during our diving trip next month.",
+              "options": [
+                { "id": "A", "text": "a" },
+                { "id": "B", "text": "an" },
+                { "id": "C", "text": "the" },
+                { "id": "D", "text": "(no article)" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Underwater\" begins with a vowel sound, so the first, general mention of the camera takes \"an\" rather than \"a\" or \"the\".",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q15",
+              "n": 15,
+              "prompt": "I didn't answer the phone when it ________ because I ________ a shower, so I didn't hear it until it was too late.",
+              "options": [
+                { "id": "A", "text": "rang / was having" },
+                { "id": "B", "text": "was ringing / had" },
+                { "id": "C", "text": "has been ringing / was having" },
+                { "id": "D", "text": "had rung / was having" }
+              ],
+              "answerId": "A",
+              "explanation": "The phone ringing is a single completed past event, taking the simple past \"rang\", while having a shower was already in progress at that moment, taking the past continuous \"was having\".",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q16",
+              "n": 16,
+              "prompt": "Johnny ________ the newspaper in his living room when I interrupted him.",
+              "options": [
+                { "id": "A", "text": "read" },
+                { "id": "B", "text": "reads" },
+                { "id": "C", "text": "was reading" },
+                { "id": "D", "text": "is reading" }
+              ],
+              "answerId": "C",
+              "explanation": "An action already in progress when it was interrupted by another past event is expressed with the past continuous, \"was reading\".",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q17",
+              "n": 17,
+              "prompt": "In 1870, Hiram R. Revels ________ the first African American to be elected to the U.S. Senate.",
+              "options": [
+                { "id": "A", "text": "was becoming" },
+                { "id": "B", "text": "has become" },
+                { "id": "C", "text": "became" },
+                { "id": "D", "text": "becomes" }
+              ],
+              "answerId": "C",
+              "explanation": "A specific, completed event dated to a particular past year, \"1870\", takes the simple past, \"became\", not a continuous, present perfect, or present form.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q18",
+              "n": 18,
+              "prompt": "The Goddard family of New England produced some of ________ finest furniture made in ________ United States in the seventeenth century.",
+              "options": [
+                { "id": "A", "text": "a / a" },
+                { "id": "B", "text": "a / the" },
+                { "id": "C", "text": "the / a" },
+                { "id": "D", "text": "the / the" }
+              ],
+              "answerId": "D",
+              "explanation": "The superlative \"the finest\" always takes \"the\", and \"the United States\" is a proper noun that conventionally takes the definite article as well.",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q19",
+              "n": 19,
+              "prompt": "I am having a meeting right now. Would you mind ________ me tomorrow?",
+              "options": [
+                { "id": "A", "text": "call" },
+                { "id": "B", "text": "calling" },
+                { "id": "C", "text": "to call" },
+                { "id": "D", "text": "to be called" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Would you mind\" is followed directly by a gerund, \"calling\", to make a polite request, not a bare or to-infinitive.",
+              "skills": ["gerund-infinitive"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q20",
+              "n": 20,
+              "prompt": "The process of ________ by hand has changed little since the fifteenth century.",
+              "options": [
+                { "id": "A", "text": "to bind books" },
+                { "id": "B", "text": "books are bound" },
+                { "id": "C", "text": "binding books" },
+                { "id": "D", "text": "bound books" }
+              ],
+              "answerId": "C",
+              "explanation": "A preposition such as \"of\" is followed by a gerund phrase, \"binding books\", not a to-infinitive, a finite clause, or a past participle phrase.",
+              "skills": ["gerund-infinitive"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q21",
+              "n": 21,
+              "prompt": "William Samuel Johnson, ________ helped write the Constitution, became the first president of Columbia College in 1787.",
+              "options": [
+                { "id": "A", "text": "had" },
+                { "id": "B", "text": "and he had" },
+                { "id": "C", "text": "whom he had" },
+                { "id": "D", "text": "who had" }
+              ],
+              "answerId": "D",
+              "explanation": "A non-restrictive relative clause needs a subject relative pronoun, \"who\", and since helping write the Constitution came before becoming president, the past perfect \"had helped\" is needed.",
+              "skills": ["relative-clauses", "verb-tense"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q22",
+              "n": 22,
+              "prompt": "The Korean climate is ________ than that of Japan.",
+              "options": [
+                { "id": "A", "text": "so pleasant" },
+                { "id": "B", "text": "more pleasantly" },
+                { "id": "C", "text": "more pleasant" },
+                { "id": "D", "text": "very pleasant" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Than\" signals a comparison, which needs the comparative adjective \"more pleasant\", not an adverb or a plain intensified adjective.",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q23",
+              "n": 23,
+              "prompt": "Thomas Eakins studied not only painting ________ anatomy when he was training to become an artist.",
+              "options": [
+                { "id": "A", "text": "or" },
+                { "id": "B", "text": "and" },
+                { "id": "C", "text": "as well" },
+                { "id": "D", "text": "but also" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Not only ... but also\" is the fixed correlative pair joining \"painting\" and \"anatomy\" as two parallel subjects studied.",
+              "skills": ["conjunctions", "parallel-structure"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q24",
+              "n": 24,
+              "prompt": "Is there anything else on TV? This show doesn't seem ________.",
+              "options": [
+                { "id": "A", "text": "interested" },
+                { "id": "B", "text": "more interested" },
+                { "id": "C", "text": "interesting" },
+                { "id": "D", "text": "interestingly" }
+              ],
+              "answerId": "C",
+              "explanation": "The show itself causes the feeling of interest, so the -ing adjective \"interesting\" is needed after the linking verb \"seem\". \"Interested\" would describe a person experiencing the feeling.",
+              "skills": ["word-formation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q25",
+              "n": 25,
+              "prompt": "The Canadian Shield is a huge, rocky region ________ curves around Hudson Bay like a giant horseshoe.",
+              "options": [
+                { "id": "A", "text": "who" },
+                { "id": "B", "text": "that" },
+                { "id": "C", "text": "when" },
+                { "id": "D", "text": "it" }
+              ],
+              "answerId": "B",
+              "explanation": "The relative pronoun refers back to \"a huge, rocky region\", a thing rather than a person, so \"that\" is correct; \"who\" is used for people.",
+              "skills": ["relative-clauses"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q26",
+              "n": 26,
+              "prompt": "________ on barren slopes can help prevent erosion.",
+              "options": [
+                { "id": "A", "text": "Planting trees" },
+                { "id": "B", "text": "For trees to be planted" },
+                { "id": "C", "text": "In order to plant trees" },
+                { "id": "D", "text": "Trees are planted" }
+              ],
+              "answerId": "A",
+              "explanation": "A gerund phrase, \"Planting trees\", works as the singular subject of \"can help\", while the other options either need a different sentence structure or are not grammatical subjects here.",
+              "skills": ["gerund-infinitive"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q27",
+              "n": 27,
+              "prompt": "The company and the union finally ________ on salary raises two days ago. Since then, they ________ on everything.",
+              "options": [
+                { "id": "A", "text": "agreed / agreed" },
+                { "id": "B", "text": "agreed / had agreed" },
+                { "id": "C", "text": "have agreed / had agreed" },
+                { "id": "D", "text": "agreed / have agreed" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Two days ago\" is a finished past time, calling for the simple past \"agreed\", while \"since then\" describes a state continuing up to now, which needs the present perfect \"have agreed\".",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q28",
+              "n": 28,
+              "prompt": "Medical researchers are constantly looking for ways to control, ________, and cure diseases.",
+              "options": [
+                { "id": "A", "text": "prevent" },
+                { "id": "B", "text": "preventing" },
+                { "id": "C", "text": "prevention" },
+                { "id": "D", "text": "to prevent" }
+              ],
+              "answerId": "A",
+              "explanation": "The list after \"ways to\" must stay parallel with the bare infinitives \"control\" and \"cure\", so the middle item must also be the bare infinitive \"prevent\".",
+              "skills": ["parallel-structure"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q29",
+              "n": 29,
+              "prompt": "The chairman requested that ________.",
+              "options": [
+                { "id": "A", "text": "the members studied the problem more carefully" },
+                { "id": "B", "text": "the problem was more carefully studied" },
+                { "id": "C", "text": "with more carefulness the problem could be studied" },
+                { "id": "D", "text": "the members study the problem more carefully" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Request that\" triggers the subjunctive, which uses the base form of the verb for every subject, giving \"the members study\" rather than a past-tense or passive form.",
+              "skills": ["subjunctive"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q30",
+              "n": 30,
+              "prompt": "The skin temperature of humans is ________ their internal temperature.",
+              "options": [
+                { "id": "A", "text": "not high as" },
+                { "id": "B", "text": "not so high" },
+                { "id": "C", "text": "as low" },
+                { "id": "D", "text": "lower than" }
+              ],
+              "answerId": "D",
+              "explanation": "The comparison between skin and internal temperature needs a complete comparative form followed by \"than\", \"lower than\"; the other options are incomplete or missing \"as\" on both sides.",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q31",
+              "n": 31,
+              "prompt": "Never before ________ in an earnest attempt to resolve their differences.",
+              "options": [
+                { "id": "A", "text": "have the leaders of these two countries met" },
+                { "id": "B", "text": "the leaders of these two countries have met" },
+                { "id": "C", "text": "have the leaders the two countries meet" },
+                { "id": "D", "text": "met the leaders of the two countries" }
+              ],
+              "answerId": "A",
+              "explanation": "Fronting the negative adverb phrase \"never before\" for emphasis triggers subject-auxiliary inversion, giving \"have the leaders ... met\" rather than normal word order.",
+              "skills": ["inversion"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q32",
+              "n": 32,
+              "prompt": "The student had behaved ________ that he was dismissed from the class.",
+              "options": [
+                { "id": "A", "text": "very badly" },
+                { "id": "B", "text": "really badly" },
+                { "id": "C", "text": "more badly" },
+                { "id": "D", "text": "so badly" }
+              ],
+              "answerId": "D",
+              "explanation": "\"So + adverb + that\" is the fixed pattern for a result clause, matching \"so badly that he was dismissed\". \"Very\" and \"really\" do not combine with a following \"that\"-clause in this way.",
+              "skills": ["conjunctions"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q33",
+              "n": 33,
+              "prompt": "Due to flooding, each of the houses ________ in ruins, and some of the roads ________ closed.",
+              "options": [
+                { "id": "A", "text": "was / was" },
+                { "id": "B", "text": "was / were" },
+                { "id": "C", "text": "were / was" },
+                { "id": "D", "text": "were / were" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Each of\" is always followed by a singular verb, \"was\", while \"some of the roads\" agrees with the plural \"roads\", taking \"were\".",
+              "skills": ["subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q34",
+              "n": 34,
+              "prompt": "By the end of this year, Ratha ________ English for three years, but he will still need more training and experience.",
+              "options": [
+                { "id": "A", "text": "will be studying" },
+                { "id": "B", "text": "has studied" },
+                { "id": "C", "text": "will have been studying" },
+                { "id": "D", "text": "has been studying" }
+              ],
+              "answerId": "C",
+              "explanation": "\"By the end of this year\" marks a future point by which a duration will have accumulated, which the future perfect continuous expresses: \"will have been studying\".",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q35",
+              "n": 35,
+              "prompt": "The thief could not have entered the house if you ________ the door.",
+              "options": [
+                { "id": "A", "text": "lock" },
+                { "id": "B", "text": "have locked" },
+                { "id": "C", "text": "locked" },
+                { "id": "D", "text": "had locked" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Could not have entered\" signals a third conditional about the past, whose if-clause needs the past perfect, \"had locked\".",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q36",
+              "n": 36,
+              "prompt": "Our car broke down, so we ________ it fixed by a mechanic.",
+              "options": [
+                { "id": "A", "text": "let" },
+                { "id": "B", "text": "allowed" },
+                { "id": "C", "text": "had" },
+                { "id": "D", "text": "made" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Have something done\" is the causative pattern for work carried out by someone else, matching the car being \"fixed by a mechanic\".",
+              "skills": ["causatives"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q37",
+              "n": 37,
+              "prompt": "Had the victim ________ able to find a telephone to contact authorities, she would have received assistance.",
+              "options": [
+                { "id": "A", "text": "been" },
+                { "id": "B", "text": "was" },
+                { "id": "C", "text": "would have been" },
+                { "id": "D", "text": "had been" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Had the victim been able\" is an inverted third conditional if-clause (equivalent to \"If the victim had been able\"), so only the past participle \"been\" is needed after the inverted auxiliary \"had\".",
+              "skills": ["conditionals", "inversion"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q38",
+              "n": 38,
+              "prompt": "Walt Disney made many technical advances in the use of sound, color, and ________ in animated films.",
+              "options": [
+                { "id": "A", "text": "photographing" },
+                { "id": "B", "text": "using photography" },
+                { "id": "C", "text": "photography" },
+                { "id": "D", "text": "use of photography" }
+              ],
+              "answerId": "C",
+              "explanation": "The list after \"the use of\" must stay parallel with the nouns \"sound\" and \"color\", so the third item must also be a plain noun, \"photography\".",
+              "skills": ["parallel-structure"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q39",
+              "n": 39,
+              "prompt": "Bopha is an excellent employee. She works ________, and she's very dependable.",
+              "options": [
+                { "id": "A", "text": "as hard" },
+                { "id": "B", "text": "hard" },
+                { "id": "C", "text": "harder than" },
+                { "id": "D", "text": "hardly" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Hard\" is the irregular adverb of manner meaning \"with great effort\", fitting a description of an excellent, dependable employee. \"Hardly\" means \"barely\", the opposite sense.",
+              "skills": ["word-formation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q40",
+              "n": 40,
+              "prompt": "To help a friend solve the problem troubling him, ________.",
+              "options": [
+                { "id": "A", "text": "his difficult situation should be made known to him" },
+                { "id": "B", "text": "one should be equipped with the kind of knowledge required" },
+                { "id": "C", "text": "nothing is better than the offering of one's money" },
+                { "id": "D", "text": "keeping one's promise is most important" }
+              ],
+              "answerId": "B",
+              "explanation": "An introductory infinitive purpose clause, \"To help a friend...\", must be followed by the noun that performs that helping, so only \"one\" can logically be the subject of the main clause.",
+              "skills": ["participle-clauses"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "title": "Section II: Vocabulary",
+      "groups": [
+        {
+          "id": "g2",
+          "type": "cloze",
+          "instruction": "For Questions 41 to 50, read the passage below and choose one option which best completes each of the gaps in the passage.",
+          "stimulus": {
+            "id": "armed-border-conflicts",
+            "title": "Armed Border Conflicts",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "text": "In the modern world, armed border conflicts present serious challenges for nations. These disputes often arise from longstanding {{41}} claims over territory. When two countries disagree on their borders, tensions can quickly flare up, resulting in potential violence."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Nations involved in such conflicts frequently {{42}} military forces along their borders. This military buildup can create an atmosphere of fear for nearby residents. Civilians living in areas close to the conflict may find themselves caught {{43}} opposing forces, leading to a precarious situation. Humanitarian organizations play a crucial role in these scenarios. They work {{44}} to provide assistance to affected populations. Often, they arrive in crisis situations with essential supplies like food, water, and medical aid. Their presence is vital, especially when communities have been isolated due to ongoing violence."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Diplomatic solutions are essential for {{45}} these conflicts. Negotiations between government leaders must occur urgently to prevent escalation. Frequently, countries may agree to a temporary {{46}} to allow for peaceful discussions. However, the success of these negotiations relies heavily on the willingness of both sides to compromise and seek common ground."
+              },
+              {
+                "kind": "paragraph",
+                "text": "It is imperative for governments to consider the long-term consequences of their actions. While military {{47}} may yield immediate results, they often lead to lasting repercussions, including economic instability and loss of life. Ultimately, fostering trust and cooperation between nations is the most effective approach to {{48}} enduring peace."
+              },
+              {
+                "kind": "paragraph",
+                "text": "In conclusion, armed border conflicts represent significant {{49}} to stability. Countries must navigate these challenges with care and thoughtfulness to create a more {{50}} environment. The future of international relations largely depends on the ability of nations to collaborate and respect each other's differences."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2025-2026-a-q41",
+              "n": 41,
+              "options": [
+                { "id": "A", "text": "scientific" },
+                { "id": "B", "text": "economic" },
+                { "id": "C", "text": "historical" },
+                { "id": "D", "text": "technological" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Longstanding historical claims over territory\" fits disputes rooted in a shared past, which \"historical\" captures directly. \"Scientific\" and \"technological\" are unrelated to territorial claims.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q42",
+              "n": 42,
+              "options": [
+                { "id": "A", "text": "mobilise" },
+                { "id": "B", "text": "collect" },
+                { "id": "C", "text": "compile" },
+                { "id": "D", "text": "assemble" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Mobilise military forces\" is the fixed collocation for organizing troops for deployment along a border. \"Collect\" and \"compile\" are used for gathering information or objects, not troops.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q43",
+              "n": 43,
+              "options": [
+                { "id": "A", "text": "in" },
+                { "id": "B", "text": "between" },
+                { "id": "C", "text": "with" },
+                { "id": "D", "text": "off" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Caught between opposing forces\" is the fixed phrase for civilians trapped in the middle of two sides. The other prepositions do not form this collocation.",
+              "skills": ["collocation", "prepositions"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q44",
+              "n": 44,
+              "options": [
+                { "id": "A", "text": "convincingly" },
+                { "id": "B", "text": "hardly" },
+                { "id": "C", "text": "effortlessly" },
+                { "id": "D", "text": "tirelessly" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Work tirelessly\" describes sustained, dedicated effort, matching humanitarian organizations providing assistance in difficult crisis conditions. \"Hardly\" would mean the opposite, barely working at all.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q45",
+              "n": 45,
+              "options": [
+                { "id": "A", "text": "escalating" },
+                { "id": "B", "text": "resolving" },
+                { "id": "C", "text": "arising" },
+                { "id": "D", "text": "reaching" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Diplomatic solutions\" are aimed at \"resolving\" conflicts, bringing them to an end, whereas \"escalating\" would mean making them worse, the opposite goal.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q46",
+              "n": 46,
+              "options": [
+                { "id": "A", "text": "treaty" },
+                { "id": "B", "text": "disarmament" },
+                { "id": "C", "text": "hostility" },
+                { "id": "D", "text": "ceasefire" }
+              ],
+              "answerId": "D",
+              "explanation": "A temporary \"ceasefire\" is a pause in fighting that allows peaceful discussions to happen, matching \"to allow for peaceful discussions\". A \"treaty\" is a formal, usually lasting, signed agreement, not a temporary pause.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q47",
+              "n": 47,
+              "options": [
+                { "id": "A", "text": "intelligences" },
+                { "id": "B", "text": "interventions" },
+                { "id": "C", "text": "exercises" },
+                { "id": "D", "text": "alliances" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Military interventions\" refers to armed forces stepping into a conflict, which fits \"may yield immediate results\" but \"lasting repercussions\" afterward. \"Alliances\" describes partnerships, not direct action.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q48",
+              "n": 48,
+              "options": [
+                { "id": "A", "text": "achieving" },
+                { "id": "B", "text": "producing" },
+                { "id": "C", "text": "completing" },
+                { "id": "D", "text": "boosting" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Achieving enduring peace\" is the natural collocation for successfully reaching a long-term goal through trust and cooperation. \"Completing\" would suggest peace is a task with a finish line, not an ongoing state.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q49",
+              "n": 49,
+              "options": [
+                { "id": "A", "text": "blockages" },
+                { "id": "B", "text": "confrontations" },
+                { "id": "C", "text": "obstacles" },
+                { "id": "D", "text": "dilemmas" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Represent significant obstacles to stability\" fits conflicts described as barriers standing in the way of a stable outcome. \"Dilemmas\" would describe a difficult choice, not a barrier.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q50",
+              "n": 50,
+              "options": [
+                { "id": "A", "text": "restful" },
+                { "id": "B", "text": "peaceful" },
+                { "id": "C", "text": "quiet" },
+                { "id": "D", "text": "hostile" }
+              ],
+              "answerId": "B",
+              "explanation": "\"A more peaceful environment\" directly matches the passage's goal of stability and cooperation between nations, while \"hostile\" is its opposite and \"restful\"/\"quiet\" describe calmness rather than an absence of conflict.",
+              "skills": ["vocabulary-in-context"]
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "type": "vocab-inline",
+          "instruction": "For Questions 51 to 60, choose one option that is closest in meaning to the underlined words or phrases.",
+          "questions": [
+            {
+              "id": "ifl-2025-2026-a-q51",
+              "n": 51,
+              "prompt": "When the war came to an end, all prisoners of war were [[freed]] and allowed to return home.",
+              "options": [
+                { "id": "A", "text": "executed" },
+                { "id": "B", "text": "evacuated" },
+                { "id": "C", "text": "imprisoned" },
+                { "id": "D", "text": "released" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Freed\" means let go from captivity, matching \"released\" directly, and confirmed by \"allowed to return home\". \"Imprisoned\" is its opposite.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q52",
+              "n": 52,
+              "prompt": "Her lack of confidence [[compelled]] her to withdraw from the competition.",
+              "options": [
+                { "id": "A", "text": "informed" },
+                { "id": "B", "text": "permitted" },
+                { "id": "C", "text": "forced" },
+                { "id": "D", "text": "requested" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Compelled\" means to force someone to act a certain way, matching \"forced\" directly. \"Permitted\" would mean allowed, not forced.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q53",
+              "n": 53,
+              "prompt": "The patient in the intensive care ward is still in a [[critical]] condition.",
+              "options": [
+                { "id": "A", "text": "intense" },
+                { "id": "B", "text": "extreme" },
+                { "id": "C", "text": "harsh" },
+                { "id": "D", "text": "serious" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Critical condition\" is the standard medical phrase for a very serious, potentially life-threatening state, matching \"serious\" most closely among the options.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q54",
+              "n": 54,
+              "prompt": "Students were encouraged to [[learn by heart]] the important information from their textbooks so they could recall it easily during their exams.",
+              "options": [
+                { "id": "A", "text": "remember" },
+                { "id": "B", "text": "memorize" },
+                { "id": "C", "text": "recollect" },
+                { "id": "D", "text": "rephrase" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Learn by heart\" is the idiom for deliberately committing information to memory for later recall, matching \"memorize\" specifically, which describes that active process better than simply \"remember\" or \"recollect\" something afterward.",
+              "skills": ["idiom", "synonyms"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q55",
+              "n": 55,
+              "prompt": "The dolphin is, [[in fact]], not a fish but a mammal.",
+              "options": [
+                { "id": "A", "text": "simply" },
+                { "id": "B", "text": "actually" },
+                { "id": "C", "text": "correctly" },
+                { "id": "D", "text": "honestly" }
+              ],
+              "answerId": "B",
+              "explanation": "\"In fact\" introduces a true statement that corrects a common misconception, matching \"actually\" directly.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q56",
+              "n": 56,
+              "prompt": "All of his teachers are full of [[praise]] for the progress he is making in learning English, especially since he used to be an underachiever and struggled with his studies.",
+              "options": [
+                { "id": "A", "text": "admiration" },
+                { "id": "B", "text": "hope" },
+                { "id": "C", "text": "optimism" },
+                { "id": "D", "text": "credit" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Full of praise\" means expressing strong approval, matching \"admiration\" for how far he has come. \"Hope\" and \"optimism\" describe expectations about the future, not approval of achievement already made.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q57",
+              "n": 57,
+              "prompt": "These tropical diseases can [[wipe out]] the entire population of this city, so we must act quickly to contain them and keep everyone safe.",
+              "options": [
+                { "id": "A", "text": "transmit" },
+                { "id": "B", "text": "affect" },
+                { "id": "C", "text": "kill" },
+                { "id": "D", "text": "infect" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Wipe out\" means to destroy completely, matching \"kill\" when applied to an entire population, a stronger claim than merely \"affecting\" or \"infecting\" people.",
+              "skills": ["phrasal-verbs", "synonyms"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q58",
+              "n": 58,
+              "prompt": "The students were [[amazed and curious]] about the fascinating science experiment their teacher was demonstrating in class.",
+              "options": [
+                { "id": "A", "text": "shocked" },
+                { "id": "B", "text": "intrigued" },
+                { "id": "C", "text": "excited" },
+                { "id": "D", "text": "delighted" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Intrigued\" captures both being fascinated and curious at once, matching the combined sense of \"amazed and curious\" more closely than \"shocked\" or \"delighted\" alone.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q59",
+              "n": 59,
+              "prompt": "If you do not [[work harder]] and put in more effort into your studies, there is a high chance that you will fail your examination, which could affect your chances of reaching your academic goals.",
+              "options": [
+                { "id": "A", "text": "pull your socks up" },
+                { "id": "B", "text": "lend a hand" },
+                { "id": "C", "text": "beat around the bush" },
+                { "id": "D", "text": "get into hot water" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Pull your socks up\" is the idiom for making a greater effort to improve, matching \"work harder\" directly. \"Lend a hand\" means to help someone else, and \"get into hot water\" means to get into trouble.",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q60",
+              "n": 60,
+              "prompt": "The employees [[were jealous]] when they found out that their coworkers received a bonus for their hard work, while they had not been recognized for their efforts.",
+              "options": [
+                { "id": "A", "text": "were all ears" },
+                { "id": "B", "text": "received us with open arms" },
+                { "id": "C", "text": "had green eyes" },
+                { "id": "D", "text": "saw red" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Had green eyes\" is the idiom for feeling envious, matching \"were jealous\" directly. \"Saw red\" means became very angry, a different feeling from envy.",
+              "skills": ["idiom"]
+            }
+          ]
+        },
+        {
+          "id": "g4",
+          "type": "mcq",
+          "instruction": "For Questions 61 to 70, choose the correct answer which best completes each of the following sentences.",
+          "questions": [
+            {
+              "id": "ifl-2025-2026-a-q61",
+              "n": 61,
+              "prompt": "According to the law, people who are 18 years old or older are ________ to vote in the national election.",
+              "options": [
+                { "id": "A", "text": "eligible" },
+                { "id": "B", "text": "illegible" },
+                { "id": "C", "text": "acceptable" },
+                { "id": "D", "text": "possible" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Eligible to vote\" describes meeting the legal requirements to do something, fitting age-based voting rules. \"Illegible\" is a similar-sounding word meaning difficult to read.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q62",
+              "n": 62,
+              "prompt": "It is a/an ________ to drive a car without switching on the headlights at night.",
+              "options": [
+                { "id": "A", "text": "error" },
+                { "id": "B", "text": "fraud" },
+                { "id": "C", "text": "shame" },
+                { "id": "D", "text": "offence" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Offence\" describes an act that breaks the law, fitting a traffic rule violation like driving without headlights. \"Error\" would only suggest a mistake, not a legal violation.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q63",
+              "n": 63,
+              "prompt": "Why should we ________ such terrible working conditions? We need to take action to let our boss know how unhappy we are and share our concerns.",
+              "options": [
+                { "id": "A", "text": "put off" },
+                { "id": "B", "text": "put up with" },
+                { "id": "C", "text": "put out" },
+                { "id": "D", "text": "put on" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Put up with\" means to tolerate something unpleasant, matching enduring terrible working conditions and wanting to act instead of continuing to accept them.",
+              "skills": ["phrasal-verbs"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q64",
+              "n": 64,
+              "prompt": "The ________ from England to India used to take about seven months during the days of sailing ships.",
+              "options": [
+                { "id": "A", "text": "ride" },
+                { "id": "B", "text": "voyage" },
+                { "id": "C", "text": "cruise" },
+                { "id": "D", "text": "tour" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Voyage\" describes a long journey by sea, fitting sailing ships travelling between countries. \"Cruise\" implies a leisure trip, and \"ride\"/\"tour\" do not fit a long sea crossing.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q65",
+              "n": 65,
+              "prompt": "Although Mr. Yong has become wealthy, he is still ________ with money. He only spends when it is really necessary.",
+              "options": [
+                { "id": "A", "text": "wasteful" },
+                { "id": "B", "text": "selfish" },
+                { "id": "C", "text": "frugal" },
+                { "id": "D", "text": "easy" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Frugal\" means careful and economical with money, matching only spending \"when it is really necessary\". \"Wasteful\" is its opposite.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q66",
+              "n": 66,
+              "prompt": "He was formally ________ with the crime of robbery after the judge conducted a thorough examination of the evidence and subsequently determined that he was indeed guilty of the offense.",
+              "options": [
+                { "id": "A", "text": "convicted" },
+                { "id": "B", "text": "accused" },
+                { "id": "C", "text": "charged" },
+                { "id": "D", "text": "sentenced" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Charged with a crime\" is the fixed legal collocation that takes the preposition \"with\", matching the sentence's structure. \"Convicted\" and \"accused\" instead collocate with \"of\".",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q67",
+              "n": 67,
+              "prompt": "Bad weather has ________ affected the roads this weekend. Driving conditions are treacherous.",
+              "options": [
+                { "id": "A", "text": "severely" },
+                { "id": "B", "text": "strongly" },
+                { "id": "C", "text": "greatly" },
+                { "id": "D", "text": "highly" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Severely affected\" is the natural collocation for describing a serious, damaging impact, matching \"treacherous\" driving conditions. \"Highly\" does not typically modify \"affected\" in this way.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q68",
+              "n": 68,
+              "prompt": "Over millions of years, the planet's landscape changed beyond ________, turning from green forests into dry deserts due to changing climates and geological forces.",
+              "options": [
+                { "id": "A", "text": "appearance" },
+                { "id": "B", "text": "disguise" },
+                { "id": "C", "text": "remembrance" },
+                { "id": "D", "text": "recognition" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Changed beyond recognition\" is the fixed phrase for something transformed so much it can no longer be identified as its former self, matching forests becoming deserts.",
+              "skills": ["idiom", "collocation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q69",
+              "n": 69,
+              "prompt": "The police were quickly summoned to ________ the mysterious disappearance of the millionaire, as there were growing concerns among his family and friends regarding his sudden and unexplained absence.",
+              "options": [
+                { "id": "A", "text": "examine" },
+                { "id": "B", "text": "detect" },
+                { "id": "C", "text": "investigate" },
+                { "id": "D", "text": "analyse" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Investigate a disappearance\" is the standard collocation for police looking into a case, fitting the concern over the missing millionaire. \"Detect\" means to discover something already hidden, not to conduct an inquiry.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q70",
+              "n": 70,
+              "prompt": "The ________ was very happy with the final design of the project and thanked the team for their hard work and dedication to meeting their needs.",
+              "options": [
+                { "id": "A", "text": "customer" },
+                { "id": "B", "text": "client" },
+                { "id": "C", "text": "subscriber" },
+                { "id": "D", "text": "shopper" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Client\" fits someone who commissions a project such as a design and has ongoing requirements met by a team, whereas \"customer\" and \"shopper\" suggest a one-off retail purchase.",
+              "skills": ["vocabulary-in-context"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Section III: Reading",
+      "groups": [
+        {
+          "id": "g5",
+          "type": "mcq",
+          "instruction": "For Questions 71 to 79, choose one answer that best completes each of the following paragraphs.",
+          "questions": [
+            {
+              "id": "ifl-2025-2026-a-q71",
+              "n": 71,
+              "prompt": "Sea turtles have been on Earth for more than 100 million years. However, many species are now endangered due to pollution and the destruction of beaches where they lay their eggs. Conservation groups protect nesting areas so that young turtles ________.",
+              "options": [
+                { "id": "A", "text": "can safely reach the ocean" },
+                { "id": "B", "text": "learn to swim long distances" },
+                { "id": "C", "text": "do not swim too quickly" },
+                { "id": "D", "text": "stop growing too large" }
+              ],
+              "answerId": "A",
+              "explanation": "Protecting nesting beaches directly addresses the threat of habitat destruction described earlier, so the purpose is to let hatchlings survive the vulnerable trip from the nest to \"the ocean\", not to affect their swimming speed or growth.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q72",
+              "n": 72,
+              "prompt": "The leaning tower of Pisa in Italy was not designed to tilt. Soon after construction began in 1173, the tower started leaning because the ground under it was too soft. Engineers tried for centuries to prevent it from falling. Today, the tower is stable thanks to modern engineering, but it still leans because ________.",
+              "options": [
+                { "id": "A", "text": "the builders wanted a unique design" },
+                { "id": "B", "text": "the tower was built on solid rock" },
+                { "id": "C", "text": "the soil is uneven underneath" },
+                { "id": "D", "text": "it was damaged in a recent fire" }
+              ],
+              "answerId": "C",
+              "explanation": "The tower leans because \"the ground under it was too soft\", an ongoing soil condition, so it continues to lean today for the same underlying reason, uneven soil, even though modern engineering has stopped it from falling further.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q73",
+              "n": 73,
+              "prompt": "The Sahara Desert was not always a dry, sandy place. Thousands of years ago, it was full of rivers, lakes, and wild animals. Scientists have found ancient rock paintings showing giraffes, crocodiles, and even people swimming. These discoveries suggest that the Sahara was once ________.",
+              "options": [
+                { "id": "A", "text": "much wetter than it is today" },
+                { "id": "B", "text": "colder than the North Pole" },
+                { "id": "C", "text": "covered by oceans" },
+                { "id": "D", "text": "uninhabited by humans" }
+              ],
+              "answerId": "A",
+              "explanation": "Rivers, lakes, crocodiles, and people swimming all point to a much wetter climate than today's dry sand, not to an ocean-covered or uninhabited landscape.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q74",
+              "n": 74,
+              "prompt": "Some birds use small pieces of metal, string, or plastic to decorate their nests. Scientists believe they do this to attract mates. The more creative the nest, the better the chance of finding a partner. This suggests that for these birds, nest decorations are ________.",
+              "options": [
+                { "id": "A", "text": "more useful for scientific research" },
+                { "id": "B", "text": "only for protecting eggs" },
+                { "id": "C", "text": "a form of communication" },
+                { "id": "D", "text": "not attractive for young birds" }
+              ],
+              "answerId": "C",
+              "explanation": "Since more creative decorations improve a bird's chance of \"finding a partner\", the decorations function as a signal to potential mates, a form of communication, rather than serving protection or research purposes.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q75",
+              "n": 75,
+              "prompt": "Vitamins are very important for good health. One vitamin that you need to have regularly is vitamin C. Certain fruits and vegetables are rich in this vitamin. Some examples are oranges, lemons, and grapefruits, as well as red peppers and tomatoes. Vitamin C can be destroyed by heat, so it is a good idea ________.",
+              "options": [
+                { "id": "A", "text": "to eat only cooked fruits and vegetables" },
+                { "id": "B", "text": "to eat lots of uncooked fruits and vegetables" },
+                { "id": "C", "text": "to eat only vegetables that have vitamin C" },
+                { "id": "D", "text": "never to eat uncooked fruits and vegetables" }
+              ],
+              "answerId": "B",
+              "explanation": "Since heat destroys vitamin C, eating these fruits and vegetables uncooked preserves the vitamin, making B the logical recommendation and directly contradicting A and D.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q76",
+              "n": 76,
+              "prompt": "We usually do not think of the night sky as a colorful scene. You don't see much color, in fact, if you look at the stars with just your eyes. But scientists with special equipment now have a different picture of what is in the sky at night. A new series of photographs shows ________.",
+              "options": [
+                { "id": "A", "text": "a black and white sky" },
+                { "id": "B", "text": "that the night sky has little color" },
+                { "id": "C", "text": "all kinds of bright colors in the night sky" },
+                { "id": "D", "text": "lots of new stars in the night sky" }
+              ],
+              "answerId": "C",
+              "explanation": "The passage sets up a contrast between what the naked eye sees, little color, and the \"different picture\" revealed by special equipment, so the new photographs must reveal colors not visible before.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q77",
+              "n": 77,
+              "prompt": "We all know that monkeys are smart animals, but sometimes their intelligence is surprising. A psychologist once wanted to see just how smart a monkey was. He hung a banana high up in a monkey's cage. He put in several large boxes and a stick. He wanted to see if the monkey could use the boxes and the stick to get the banana. The monkey looked at the banana, the boxes, and the stick. Then it took the psychologist's hand and led him to where the banana was hanging. It jumped up onto his shoulders and ________.",
+              "options": [
+                { "id": "A", "text": "looked at the banana" },
+                { "id": "B", "text": "reached the banana from there" },
+                { "id": "C", "text": "jumped down onto one of the boxes" },
+                { "id": "D", "text": "hit him with the stick" }
+              ],
+              "answerId": "B",
+              "explanation": "The monkey's clever solution was to use the psychologist himself as a tool, ignoring the boxes and stick provided, so climbing onto his shoulders would let it reach the banana directly from that height.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q78",
+              "n": 78,
+              "prompt": "Modern train stations in Japan are famous for their punctuality. Trains often depart exactly on time, and even a delay of one minute is considered unusual. This precision requires coordinated efforts from dispatchers, engineers, and maintenance teams. When a rare delay occurs, staff sometimes issue formal apologies to passengers. Such practices reflect a broader cultural emphasis on efficiency, reliability, and respect for public time. These practices imply that punctuality is viewed as ________.",
+              "options": [
+                { "id": "A", "text": "a symbolic gesture that enhances the overall passenger experience" },
+                { "id": "B", "text": "a standard that could realistically be maintained only with highly automated systems" },
+                { "id": "C", "text": "less critical than offering additional comfort or entertainment to passengers" },
+                { "id": "D", "text": "a fundamental expectation in the transportation system" }
+              ],
+              "answerId": "D",
+              "explanation": "Treating even a one-minute delay as unusual, requiring coordinated effort and formal apologies, shows punctuality is a basic, non-negotiable expectation, not merely a symbolic touch or something secondary to comfort.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q79",
+              "n": 79,
+              "prompt": "Today, farmers in most of the industrialized countries grow cash crops. This means that they usually grow large amounts of only a few crops, such as soy, wheat, or corn. They sell these crops and use the money to buy what they need for their families and their farms. In the past, farming was quite different. Most farmers used to grow lots of different kinds of crops. They sometimes sold some of the crops when there was extra. However, ________.",
+              "options": [
+                { "id": "A", "text": "they didn't grow soy in those days" },
+                { "id": "B", "text": "they preferred to sell all of the crops for cash" },
+                { "id": "C", "text": "people in the city needed food, too" },
+                { "id": "D", "text": "most of the crops were kept to feed the farmer's family" }
+              ],
+              "answerId": "D",
+              "explanation": "The passage contrasts modern cash-crop farmers, who sell their harvest for money, with past farmers, who only \"sometimes sold\" surplus, implying that most of what they grew in the past was instead kept to feed their own families.",
+              "skills": ["inference"]
+            }
+          ]
+        },
+        {
+          "id": "g6",
+          "type": "passage-mcq",
+          "instruction": "For Questions 80 to 85, read the advertisement and the text below and answer the questions.",
+          "stimulus": {
+            "id": "run-to-raise-funds",
+            "title": "Run to Raise Funds",
+            "blocks": [
+              { "kind": "subheading", "text": "Run to Raise Funds — Saturday, 29 November, Changi South National Park" },
+              {
+                "kind": "paragraph",
+                "text": "[Banner] Do you like running? Are you at least 8 years old? Register now at Orchard Community Club or at our website www.fundsforcharity.com.sg."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Children — Distance: 3 km. Registration fee: $6 (8–12 years old). Adults — Distance: 5 km / 10 km. Registration fee: $8."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Family category — Form a group of 4 with your loved ones. Spend time with your family and do your part for charity. Registration fee: $25."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Registration ends on 29 November. Attractive prizes to be won for all participants running the marathon."
+              },
+              {
+                "kind": "paragraph",
+                "text": "[Banner] Don't like running? You can still make a donation in other ways. • Sponsor one of our runners at $10 / $20 for every kilometer run. • Call our hotline at – 1900 4884 8844 for $2 donations. – 1900 6882 8662 for donations above $50. For more information, log on to our website."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Sponsors: Super Electrical Store, A1 Local Art Designers. Organizer: Funds for Charity."
+              },
+              {
+                "kind": "paragraph",
+                "label": "1",
+                "text": "Funds for Charity is a non-profit organization that raises funds for a diverse group of charities. It was started more than a decade ago by a group of retired men and women who wanted to help the needy living in Redview Estate. Their actions prompted a revival of charity work in the estate and the organization rapidly grew in size. Many people eagerly came forward to help the needy."
+              },
+              {
+                "kind": "paragraph",
+                "label": "2",
+                "text": "Funds for Charity organizes an island-wide event to raise funds for the needy four times a year. Previously, events like food and game fairs, flea markets, and sports tournaments were held. These events were highly successful. To date, all the funds have been effectively channelled to a variety of charity organizations, helping both the young and the elderly."
+              },
+              {
+                "kind": "paragraph",
+                "label": "3",
+                "text": "This year, we hope to raise funds for charity while providing a platform for family bonding and healthy living. If you have never run a marathon before, now is the time to do it! This non-competitive run will help you to challenge yourself while doing your part for charity at the same time. Encourage your friends to join you or form a team with your family!"
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2025-2026-a-q80",
+              "n": 80,
+              "prompt": "The main purpose of the run is to ________.",
+              "options": [
+                { "id": "A", "text": "encourage more people to lead a healthy lifestyle" },
+                { "id": "B", "text": "give out prizes to people" },
+                { "id": "C", "text": "persuade sponsors to donate to the needy" },
+                { "id": "D", "text": "raise funds for charity" }
+              ],
+              "answerId": "D",
+              "explanation": "The event is named \"Run to Raise Funds\" and organized by \"Funds for Charity\", which explicitly raises funds for the needy; the healthy-living and family-bonding angles and the prizes are secondary benefits, not the core purpose.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q81",
+              "n": 81,
+              "prompt": "Which of the following will NOT have an impact on the number of people participating in the event?",
+              "options": [
+                { "id": "A", "text": "A variety of sponsors" },
+                { "id": "B", "text": "More than one way to contribute to charity" },
+                { "id": "C", "text": "Different categories in the run" },
+                { "id": "D", "text": "Prizes for participants in the run" }
+              ],
+              "answerId": "A",
+              "explanation": "Multiple donation methods, run categories, and prizes all directly give people more reasons or ways to join in, whereas which businesses sponsor the event has no direct bearing on a person's own decision to participate.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q82",
+              "n": 82,
+              "prompt": "How does the advertisement address the reader directly?",
+              "options": [
+                { "id": "A", "text": "Providing details of the run" },
+                { "id": "B", "text": "Asking questions" },
+                { "id": "C", "text": "Stating phone numbers and the website address" },
+                { "id": "D", "text": "Showing pictures of people running" }
+              ],
+              "answerId": "B",
+              "explanation": "The advertisement opens with direct questions to the reader, \"Do you like running? Are you at least 8 years old?\" and \"Don't like running?\", engaging the reader personally rather than just listing facts or contact details.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q83",
+              "n": 83,
+              "prompt": "Why do you think island-wide events are held?",
+              "options": [
+                { "id": "A", "text": "To allow the disabled to take part in the events" },
+                { "id": "B", "text": "To show that Funds for Charity is a large organization" },
+                { "id": "C", "text": "To collect more funds to help more needy people" },
+                { "id": "D", "text": "To have a wider variety of events" }
+              ],
+              "answerId": "C",
+              "explanation": "Since the charity's aim is raising funds for the needy, holding events across the whole island reaches more potential participants and donors, which translates into more funds to help more people.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q84",
+              "n": 84,
+              "prompt": "According to the text, why might a person participate in the run?",
+              "options": [
+                { "id": "A", "text": "To make new friends" },
+                { "id": "B", "text": "To spend time with other families" },
+                { "id": "C", "text": "To lead a healthy lifestyle" },
+                { "id": "D", "text": "To get to know needy people" }
+              ],
+              "answerId": "C",
+              "explanation": "Paragraph 3 explicitly states the organizers hope to provide \"a platform for family bonding and healthy living\", directly supporting healthy living as a reason to join, while the other options are not mentioned.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q85",
+              "n": 85,
+              "prompt": "Which of the following statements is used to persuade readers to do charity work?",
+              "options": [
+                { "id": "A", "text": "Previously, events like food and game fairs, flea markets and sports tournaments were held." },
+                { "id": "B", "text": "This non-competitive run will help you to challenge yourself while doing your part for charity at the same time." },
+                { "id": "C", "text": "These events were highly successful." },
+                { "id": "D", "text": "Many people eagerly came forward to help the needy." }
+              ],
+              "answerId": "B",
+              "explanation": "This sentence speaks directly to \"you\", the reader, framing the run as a personal benefit (\"challenge yourself\") tied to charity, which is a persuasive appeal, unlike the other options, which simply state past facts.",
+              "skills": ["inference"]
+            }
+          ]
+        },
+        {
+          "id": "g7",
+          "type": "passage-mcq",
+          "instruction": "For Questions 86 to 93, read the passage below and choose one option which is the best answer to each of the questions.",
+          "stimulus": {
+            "id": "babies-and-language",
+            "title": "Babies and Language",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "label": "1",
+                "text": "Long before they can actually speak, babies pay special attention to the speech they hear around them. Within the first month of their lives, babies' responses to the sound of the human voice will be different from their responses to other sorts of auditory stimuli. They will stop crying when they hear a person talking, but not if they hear a bell or the sound of a rattle. At first, the sounds that an infant notices might be only those words that receive the heaviest emphasis and that often occur at the ends of utterances. By the time they are six or seven weeks old, babies can detect the difference between syllables pronounced with rising and falling inflections. Very soon, these differences in adult stress and intonation can influence babies' emotional states and behavior. Long before they develop actual language comprehension, babies can sense when an adult is playful or angry, attempting to initiate or terminate new behavior, and so on, merely on the basis of cues such as the rate, volume, and melody of adult speech."
+              },
+              {
+                "kind": "paragraph",
+                "label": "2",
+                "text": "Adults make it as easy as they can for babies to pick up a language by exaggerating such cues. One researcher observed babies and their mothers in six diverse cultures and found that, in all six languages, the mothers used simplified syntax, short utterances and nonsense sounds, and transformed certain sounds into baby talk. Other investigators have **noted** that when mothers talk to babies who are only a few months old, they exaggerate the pitch, loudness, and intensity of their words. **They** also exaggerate their facial expressions, hold vowels longer, and emphasize certain words."
+              },
+              {
+                "kind": "paragraph",
+                "label": "3",
+                "text": "More significant for language development than their response to general intonation is that tiny babies can make relatively fine distinctions between speech sounds. In other words, babies enter the world with the ability to make precisely those perceptual discriminations that are necessary if they are to acquire aural language."
+              },
+              {
+                "kind": "paragraph",
+                "label": "4",
+                "text": "Babies obviously derive pleasure from sound input, too: even as young as nine months they will listen to songs or stories, although the words themselves are beyond their understanding. For babies, language is a sensory-motor delight rather than the route to prosaic meaning that it often is for adults."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2025-2026-a-q86",
+              "n": 86,
+              "prompt": "What does the passage mainly discuss?",
+              "options": [
+                { "id": "A", "text": "How babies differentiate between the sound of the human voice and other sounds" },
+                { "id": "B", "text": "The differences between a baby's and an adult's ability to comprehend language" },
+                { "id": "C", "text": "How babies perceive and respond to the human voice in their earliest stages of language development" },
+                { "id": "D", "text": "The response of babies to sounds other than the human voice" }
+              ],
+              "answerId": "C",
+              "explanation": "The passage as a whole covers how babies notice, react to, and take pleasure in speech before they can talk, which C summarizes as the overall topic; A and D are only details from the first paragraph.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q87",
+              "n": 87,
+              "prompt": "Why does the author mention a bell and a rattle in the first paragraph?",
+              "options": [
+                { "id": "A", "text": "To contrast the reactions of babies to human and nonhuman sounds" },
+                { "id": "B", "text": "To give examples of sounds that will cause a baby to cry" },
+                { "id": "C", "text": "To explain how babies distinguish between different nonhuman sounds" },
+                { "id": "D", "text": "To give examples of typical toys that babies do not like" }
+              ],
+              "answerId": "A",
+              "explanation": "The bell and rattle are given right after the claim that babies \"stop crying\" for a human voice \"but not\" for these sounds, so they serve as a contrasting example of nonhuman sounds that do not produce the same reaction.",
+              "skills": ["text-organisation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q88",
+              "n": 88,
+              "prompt": "Why does the author mention syllables pronounced with rising and falling inflections in the first paragraph?",
+              "options": [
+                { "id": "A", "text": "To demonstrate how difficult it is for babies to interpret emotions" },
+                { "id": "B", "text": "To illustrate that a six-week-old baby can already distinguish some language differences" },
+                { "id": "C", "text": "To provide an example of ways adults speak to babies" },
+                { "id": "D", "text": "To give a reason for babies' difficulty in distinguishing one adult from another" }
+              ],
+              "answerId": "B",
+              "explanation": "The detail is introduced with \"by the time they are six or seven weeks old, babies can detect the difference\", directly illustrating an early capacity to distinguish speech patterns, not a difficulty.",
+              "skills": ["text-organisation"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q89",
+              "n": 89,
+              "prompt": "The bolded word “noted” in the second paragraph is closest in meaning to ________.",
+              "options": [
+                { "id": "A", "text": "theorized" },
+                { "id": "B", "text": "requested" },
+                { "id": "C", "text": "disagreed" },
+                { "id": "D", "text": "observed" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Other investigators have noted that...\" reports a finding based on watching mothers talk to babies, matching \"observed\" rather than a proposed theory or a disagreement.",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q90",
+              "n": 90,
+              "prompt": "The bolded word “They” in the second paragraph refers to ________.",
+              "options": [
+                { "id": "A", "text": "mothers" },
+                { "id": "B", "text": "investigators" },
+                { "id": "C", "text": "babies" },
+                { "id": "D", "text": "words" }
+              ],
+              "answerId": "A",
+              "explanation": "\"They also exaggerate their facial expressions\" continues the description of what \"mothers\" do when talking to babies, the subject of the sentence just before it, not the investigators observing them.",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q91",
+              "n": 91,
+              "prompt": "The passage mentions all of the following as ways adults modify their speech when talking to babies EXCEPT ________.",
+              "options": [
+                { "id": "A", "text": "using meaningless sounds" },
+                { "id": "B", "text": "speaking with shorter sentences" },
+                { "id": "C", "text": "speaking more loudly than normal" },
+                { "id": "D", "text": "giving all words equal emphasis" }
+              ],
+              "answerId": "D",
+              "explanation": "The passage says mothers \"emphasize certain words\", which means giving some words more stress than others, the opposite of giving all words equal emphasis; nonsense sounds, short utterances, and increased loudness are all explicitly mentioned.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q92",
+              "n": 92,
+              "prompt": "Which of the following can be inferred about the findings described in the second paragraph?",
+              "options": [
+                { "id": "A", "text": "Babies who are exposed to more than one language can speak earlier than babies exposed to a single language." },
+                { "id": "B", "text": "Mothers from different cultures speak to their babies in similar ways." },
+                { "id": "C", "text": "Babies ignore facial expressions in comprehending aural language." },
+                { "id": "D", "text": "The mothers observed by the researchers were consciously teaching their babies to speak." }
+              ],
+              "answerId": "B",
+              "explanation": "The researcher found the same pattern, simplified syntax, short utterances, and baby talk, \"in all six languages\" across six diverse cultures, implying mothers from different cultures modify their speech to babies in similar ways.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q93",
+              "n": 93,
+              "prompt": "According to the author, why do babies listen to songs and stories, even though they cannot understand them?",
+              "options": [
+                { "id": "A", "text": "They understand the rhythm." },
+                { "id": "B", "text": "They enjoy the sound." },
+                { "id": "C", "text": "They can remember them easily." },
+                { "id": "D", "text": "They focus on the meaning of their parents' words." }
+              ],
+              "answerId": "B",
+              "explanation": "The passage states that babies \"derive pleasure from sound input\" and that language is \"a sensory-motor delight\" for them, matching enjoying the sound itself rather than understanding meaning or rhythm specifically.",
+              "skills": ["inference"]
+            }
+          ]
+        },
+        {
+          "id": "g8",
+          "type": "heading-match",
+          "instruction": "For Questions 94 to 100, read the passage entitled \"Calendars Through the Years\" and choose one heading which best summarizes each paragraph. There are three extra headings which you do not need to use.",
+          "optionsExceedItems": true,
+          "optionUseOnce": true,
+          "sharedOptions": [
+            { "id": "A", "text": "The problems with the Julian calendar" },
+            { "id": "B", "text": "The calendar in Eastern Europe" },
+            { "id": "C", "text": "Early adoption of the Gregorian calendar" },
+            { "id": "D", "text": "The problems with the early Roman calendar" },
+            { "id": "E", "text": "Why some countries were late to change their calendars" },
+            { "id": "F", "text": "How the Julian calendar works" },
+            { "id": "G", "text": "The problem with the solar year" },
+            { "id": "H", "text": "Current rules for leap years" },
+            { "id": "I", "text": "The development of the Gregorian calendar" },
+            { "id": "J", "text": "The length of a year" }
+          ],
+          "stimulus": {
+            "id": "calendars-through-the-years",
+            "title": "Calendars Through the Years",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "label": "94",
+                "text": "How many days are there in a year? You might say 365, with an extra 'leap day' added to the end of February every four years. This averages out to a quarter of a day every year, so that every year is 365.25 days. This is because the actual length of a solar year – that is, the time it takes for the Earth to complete a full rotation of the Sun – is a little bit more than 365 days. Throughout history, most calendars have tried to match their year to the length of a solar year, with varying degrees of accuracy."
+              },
+              {
+                "kind": "paragraph",
+                "label": "95",
+                "text": "The calendar used in much of the world today is based on the one used by the Romans. Because Romans thought that even numbers were unlucky, the earliest Roman calendar had months of 29 or 31 days, with 28 days in February. Since the year had 355 days, they would add a leap month of 27 days between February and March every 3 to 5 years, as determined by priests. As a result, the average year was anywhere from 360 to 364 days, so it is no surprise that the calendar very quickly deviated from the solar year."
+              },
+              {
+                "kind": "paragraph",
+                "label": "96",
+                "text": "Julius Caesar decided that the calendar should be based on the solar year, following a special year of 445 days in 46 BCE that readjusted the months to their proper seasons. From 45 BCE onwards, the months were given the current lengths of 30 or 31 days, retaining 28 for February but adding the 29th February every four years to account for the accumulated extra quarter days. The names of the months used by the Romans remain in English today, either with a slight adjustment to spelling (e.g., they called it Aprilis, we call it April) or in the exact same form (e.g., they also called September, October, November and December by those very names)."
+              },
+              {
+                "kind": "paragraph",
+                "label": "97",
+                "text": "The calendar used from 45 BCE onwards – known as the Julian calendar, after the man who imposed it on the world – is far more accurate than any earlier calendar. Even so, the Julian calendar deviates from the solar year by 1 day every 128 years. This is because the exact length of the solar year is actually 365.2422 days, or about 11 minutes shorter than the 365.25 days calculated by the Romans."
+              },
+              {
+                "kind": "paragraph",
+                "label": "98",
+                "text": "By the 16th century CE, the discrepancy between the solar year and the Julian calendar was notable enough that something had to be done. It took several decades of consultation among mathematicians and astronomers until it was finally decided to end the Julian calendar, and move to a new system of calculating leap years. Pope Gregory XIII decreed that the Julian calendar would end on Thursday 4th October 1582, and that the following day would be Friday 15th October. This would remove the 10 days that had been added in error by the Julian system for leap years, and readjust the calendar to the seasons in the solar year."
+              },
+              {
+                "kind": "paragraph",
+                "label": "99",
+                "text": "The Gregorian calendar was put into use immediately in Italy, Portugal, Spain, Poland and most of France, and in Austria, Hungary and much of Germany in the next few years. However, the new calendar was not implemented by the United Kingdom and its overseas territories, such as the colonies that are known today as Canada and the United States, until 1752. By then, the adjustment required was 11 days, so the Parliament decided that the British would go to bed at the end of the day on 2nd September 1752 and wake up the next morning on 14th September. Sweden followed the British in moving to the Gregorian calendar the next year."
+              },
+              {
+                "kind": "paragraph",
+                "label": "100",
+                "text": "An even longer adjustment was required when the Gregorian calendar was adopted by Japan in 1872, and in the early 20th century by China, Bulgaria, Estonia, Russia, Greece and Turkey. Many of these countries that were among the last to adopt the Gregorian calendar for civic purposes used the Byzantine calendar, a variant of the Julian calendar, prior to the change. Many people in these same nations continue to use the Eastern Orthodox calendar (also based on the Julian calendar) for religious feasts and festivals. Similarly, in China and Japan, a traditional calendar is still used to select dates for weddings, funerals and new ventures. These last two countries did not exactly delay the move to the Gregorian calendar; rather, they started using it once it became beneficial, due to the more extensive connections with other countries on that calendar."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2025-2026-a-q94",
+              "n": 94,
+              "prompt": "Paragraph 94",
+              "answerId": "J",
+              "explanation": "The paragraph opens by asking how many days are in a year and explains the true length of a solar year, matching \"the length of a year\" as its main topic.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q95",
+              "n": 95,
+              "prompt": "Paragraph 95",
+              "answerId": "D",
+              "explanation": "The paragraph describes the earliest Roman calendar's odd month lengths, an unreliable leap month set by priests, and a year length that quickly drifted from the solar year, all problems with that early system.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q96",
+              "n": 96,
+              "prompt": "Paragraph 96",
+              "answerId": "F",
+              "explanation": "The paragraph explains how Julius Caesar's reform fixed month lengths and added a leap day every four years, describing the mechanics of how the Julian calendar operates.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q97",
+              "n": 97,
+              "prompt": "Paragraph 97",
+              "answerId": "A",
+              "explanation": "The paragraph focuses on how the Julian calendar, despite being more accurate, still drifts from the solar year by a day every 128 years, a problem with that system.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q98",
+              "n": 98,
+              "prompt": "Paragraph 98",
+              "answerId": "I",
+              "explanation": "The paragraph describes the decades of consultation and Pope Gregory XIII's decree that created the new Gregorian system, matching its development.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q99",
+              "n": 99,
+              "prompt": "Paragraph 99",
+              "answerId": "C",
+              "explanation": "The paragraph opens with the countries that adopted the Gregorian calendar \"immediately\" and soon after, framing its focus on the calendar's early adoption, before noting Britain's later 1752 change.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2025-2026-a-q100",
+              "n": 100,
+              "prompt": "Paragraph 100",
+              "answerId": "E",
+              "explanation": "The paragraph explains why countries such as Japan, China, and Russia adopted the Gregorian calendar so much later, tying the delay to their continued use of older religious and civic calendars.",
+              "skills": ["skimming"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

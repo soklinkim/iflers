@@ -1,0 +1,1499 @@
+{
+  "id": "ifl-2021-a",
+  "title": "IFL Selection Test 2021",
+  "year": 2021,
+  "version": "A",
+  "source": "Royal University of Phnom Penh, Institute of Foreign Languages, Department of English — 2021 Fee-Paying Program Selection Test A",
+  "status": "pending",
+  "totalQuestions": 100,
+  "durationMinutes": 90,
+  "sections": [
+    {
+      "id": "grammar",
+      "title": "Section I: Grammar",
+      "groups": [
+        {
+          "id": "g1",
+          "type": "mcq",
+          "instruction": "For Questions 1 to 40, choose the best answer to complete each sentence below.",
+          "questions": [
+            {
+              "id": "ifl-2021-a-q1",
+              "n": 1,
+              "prompt": "Not studying for the two progress tests _______ caused Virak many problems.",
+              "options": [
+                { "id": "A", "text": "has" },
+                { "id": "B", "text": "was" },
+                { "id": "C", "text": "have" },
+                { "id": "D", "text": "were" }
+              ],
+              "answerId": "A",
+              "explanation": "The gerund phrase \"Not studying for the two progress tests\" is the subject of the sentence and counts as a single, singular idea, so it takes the singular verb \"has\". \"Have\" and \"were\" wrongly treat the subject as plural.",
+              "skills": ["subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2021-a-q2",
+              "n": 2,
+              "prompt": "My family enjoys having lunch at Jasmine Restaurant _______ its excellent food and service.",
+              "options": [
+                { "id": "A", "text": "because" },
+                { "id": "B", "text": "since" },
+                { "id": "C", "text": "because of" },
+                { "id": "D", "text": "as a result" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Because of\" is a preposition and is followed directly by a noun phrase, \"its excellent food and service\". \"Because\" and \"since\" are conjunctions that need a full clause, and \"as a result\" introduces a consequence, not a reason.",
+              "skills": ["conjunctions"]
+            },
+            {
+              "id": "ifl-2021-a-q3",
+              "n": 3,
+              "prompt": "A: “Have you seen Tep Rindaro's latest film?” B: “Is that the one in _______ joins an undercover operation?”",
+              "options": [
+                { "id": "A", "text": "which" },
+                { "id": "B", "text": "that he" },
+                { "id": "C", "text": "which he" },
+                { "id": "D", "text": "whom he" }
+              ],
+              "answerId": "C",
+              "explanation": "The relative clause needs both a preposition-linked relative pronoun referring to the film, \"in which\", and its own subject, \"he\", giving \"in which he joins\". \"That he\" cannot follow a preposition, and \"whom\" refers to people, not a film.",
+              "skills": ["relative-clauses"]
+            },
+            {
+              "id": "ifl-2021-a-q4",
+              "n": 4,
+              "prompt": "Ravy enjoyed himself in Preah Sihanouk, _______ he?",
+              "options": [
+                { "id": "A", "text": "did" },
+                { "id": "B", "text": "didn't" },
+                { "id": "C", "text": "had" },
+                { "id": "D", "text": "hadn't" }
+              ],
+              "answerId": "B",
+              "explanation": "A positive statement in the simple past takes a negative tag with the matching auxiliary \"did\", giving \"didn't he?\". \"Had\" would only fit if the main verb were in the past perfect.",
+              "skills": ["question-tags"]
+            },
+            {
+              "id": "ifl-2021-a-q5",
+              "n": 5,
+              "prompt": "Kunthea bought _______ new phone last month. It was _______ most expensive thing she had ever bought.",
+              "options": [
+                { "id": "A", "text": "a ... Ø" },
+                { "id": "B", "text": "a ... the" },
+                { "id": "C", "text": "an ... the" },
+                { "id": "D", "text": "a ... a" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Phone\" begins with a consonant sound, so it takes \"a\" when first mentioned, and a superlative like \"most expensive\" always takes \"the\". \"An\" in C wrongly pairs with a consonant sound.",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2021-a-q6",
+              "n": 6,
+              "prompt": "The party was fun. There were _______ people I knew there.",
+              "options": [
+                { "id": "A", "text": "little" },
+                { "id": "B", "text": "a little" },
+                { "id": "C", "text": "few" },
+                { "id": "D", "text": "a few" }
+              ],
+              "answerId": "D",
+              "explanation": "\"People\" is countable and plural, so it needs \"few\" or \"a few\" rather than \"little\"/\"a little\", which pair with uncountable nouns. Since the party is described as fun, the positive \"a few\" fits better than the negative \"few\".",
+              "skills": ["quantifiers"]
+            },
+            {
+              "id": "ifl-2021-a-q7",
+              "n": 7,
+              "prompt": "After studying for two hours, Punleu and his friends stopped _______ a rest.",
+              "options": [
+                { "id": "A", "text": "to have" },
+                { "id": "B", "text": "have" },
+                { "id": "C", "text": "having" },
+                { "id": "D", "text": "to having" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Stop to do something\" means pausing one activity in order to do another, so \"stopped to have a rest\" means they paused studying in order to rest. \"Stopped having\" would instead mean they quit resting.",
+              "skills": ["gerund-infinitive"]
+            },
+            {
+              "id": "ifl-2021-a-q8",
+              "n": 8,
+              "prompt": "Please do not enter the house with those muddy shoes. I have _______ cleaned the floor.",
+              "options": [
+                { "id": "A", "text": "just" },
+                { "id": "B", "text": "yet" },
+                { "id": "C", "text": "already" },
+                { "id": "D", "text": "still" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Just\" with the present perfect signals that an action was completed a very short time ago, matching the urgency of asking someone not to dirty a floor that has only just been cleaned. \"Yet\" is used in questions and negatives, and \"still\" pairs with an unfinished state.",
+              "skills": ["adverb-position"]
+            },
+            {
+              "id": "ifl-2021-a-q9",
+              "n": 9,
+              "prompt": "_______ waiting for a few minutes? Mrs. Chanthy is still in a meeting.",
+              "options": [
+                { "id": "A", "text": "May you" },
+                { "id": "B", "text": "Do you mind if you" },
+                { "id": "C", "text": "Can you" },
+                { "id": "D", "text": "Would you mind" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Would you mind\" is followed directly by a gerund, \"waiting\", to make a polite request. \"May you\" is not a standard question form, and \"do you mind if you\" incorrectly repeats the subject \"you\" instead of using \"I\".",
+              "skills": ["modals"]
+            },
+            {
+              "id": "ifl-2021-a-q10",
+              "n": 10,
+              "prompt": "A: “Who are those children?” B: “They know Chenda. They are friends of _______.”",
+              "options": [
+                { "id": "A", "text": "her" },
+                { "id": "B", "text": "herself" },
+                { "id": "C", "text": "hers" },
+                { "id": "D", "text": "she" }
+              ],
+              "answerId": "C",
+              "explanation": "The double genitive \"friends of hers\" uses the possessive pronoun \"hers\" to stand alone after \"of\". \"Her\" would need a following noun, and \"herself\" and \"she\" are not possessive forms.",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "ifl-2021-a-q11",
+              "n": 11,
+              "prompt": "Chetra did not quite understand how to write a comparison paragraph, so his friends advised that he _______ a meeting with his Writing Skills lecturer.",
+              "options": [
+                { "id": "A", "text": "arranges" },
+                { "id": "B", "text": "arrange" },
+                { "id": "C", "text": "to arrange" },
+                { "id": "D", "text": "arranged" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Advise that\" triggers the subjunctive, which uses the base form of the verb for every subject. \"Arranges\" and \"arranged\" are ordinary finite forms that do not fit this pattern.",
+              "skills": ["subjunctive"]
+            },
+            {
+              "id": "ifl-2021-a-q12",
+              "n": 12,
+              "prompt": "The number of car accidents in our community _______ increasing every year. We need to find a solution soon.",
+              "options": [
+                { "id": "A", "text": "have" },
+                { "id": "B", "text": "has" },
+                { "id": "C", "text": "are" },
+                { "id": "D", "text": "is" }
+              ],
+              "answerId": "D",
+              "explanation": "\"The number of\" is the singular head of the subject, so the verb must be singular, \"is\", even though \"car accidents\" is plural. This contrasts with \"a number of\", which takes a plural verb.",
+              "skills": ["subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2021-a-q13",
+              "n": 13,
+              "prompt": "Either Dara or his two sisters _______ read Tum Teav before.",
+              "options": [
+                { "id": "A", "text": "have" },
+                { "id": "B", "text": "is" },
+                { "id": "C", "text": "has" },
+                { "id": "D", "text": "are" }
+              ],
+              "answerId": "A",
+              "explanation": "With \"either ... or\", the verb agrees with the nearer subject, the plural \"his two sisters\", so the auxiliary must be \"have\".",
+              "skills": ["subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2021-a-q14",
+              "n": 14,
+              "prompt": "All vehicles _______ with the Ministry of Public Works and Transport.",
+              "options": [
+                { "id": "A", "text": "must register" },
+                { "id": "B", "text": "must be register" },
+                { "id": "C", "text": "must be registered" },
+                { "id": "D", "text": "must be registering" }
+              ],
+              "answerId": "C",
+              "explanation": "Vehicles do not register themselves; they receive the action of being registered, so the modal passive \"must be registered\" is needed. \"Must be register\" is not a grammatical verb form.",
+              "skills": ["passive-voice", "modals"]
+            },
+            {
+              "id": "ifl-2021-a-q15",
+              "n": 15,
+              "prompt": "They saw a _______ with their classmates at Major AEON Mall Phnom Penh.",
+              "options": [
+                { "id": "A", "text": "new Cambodian fantastic film" },
+                { "id": "B", "text": "fantastic new Cambodian film" },
+                { "id": "C", "text": "fantastic Cambodian new film" },
+                { "id": "D", "text": "Cambodian fantastic new film" }
+              ],
+              "answerId": "B",
+              "explanation": "Adjectives before a noun follow the order opinion, then age, then origin: \"fantastic new Cambodian film\". The other options place \"new\" or \"Cambodian\" out of this sequence.",
+              "skills": ["word-order"]
+            },
+            {
+              "id": "ifl-2021-a-q16",
+              "n": 16,
+              "prompt": "I do not like travelling by public transportation. I wish I _______ a car.",
+              "options": [
+                { "id": "A", "text": "had owned" },
+                { "id": "B", "text": "have owned" },
+                { "id": "C", "text": "own" },
+                { "id": "D", "text": "owned" }
+              ],
+              "answerId": "D",
+              "explanation": "A wish about a present state uses the past simple, so \"wish I owned a car\" expresses a present regret about not owning one. \"Had owned\" would instead express regret about the past.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "ifl-2021-a-q17",
+              "n": 17,
+              "prompt": "It was New Year's Eve. Therefore, Sokmean let her children _______ up past midnight.",
+              "options": [
+                { "id": "A", "text": "staying" },
+                { "id": "B", "text": "stay" },
+                { "id": "C", "text": "to stay" },
+                { "id": "D", "text": "stayed" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Let\" takes an object followed by the bare infinitive, so \"let her children stay up\" is correct. A gerund, a to-infinitive, or a past-tense form cannot follow \"let\" in this pattern.",
+              "skills": ["causatives"]
+            },
+            {
+              "id": "ifl-2021-a-q18",
+              "n": 18,
+              "prompt": "I did not buy the watch because I thought two thousand dollars _______ way too much for a timepiece.",
+              "options": [
+                { "id": "A", "text": "have been" },
+                { "id": "B", "text": "were" },
+                { "id": "C", "text": "has been" },
+                { "id": "D", "text": "was" }
+              ],
+              "answerId": "D",
+              "explanation": "An amount of money is treated as a single sum rather than separate units, so it takes a singular verb, \"was\". \"Were\" wrongly treats the two thousand dollars as separate countable items.",
+              "skills": ["subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2021-a-q19",
+              "n": 19,
+              "prompt": "I have not made up my mind yet. I think I _______ a blouse for my mother on Mother's Day.",
+              "options": [
+                { "id": "A", "text": "am going to buy" },
+                { "id": "B", "text": "am buying" },
+                { "id": "C", "text": "buy" },
+                { "id": "D", "text": "will buy" }
+              ],
+              "answerId": "D",
+              "explanation": "\"I think I will buy\" expresses a decision made at the moment of speaking, which fits someone who has \"not made up my mind yet\". \"Am going to buy\" and \"am buying\" would both suggest a plan already fixed before now.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2021-a-q20",
+              "n": 20,
+              "prompt": "The audience looked _______ as the presenter kept talking for hours.",
+              "options": [
+                { "id": "A", "text": "bore" },
+                { "id": "B", "text": "bored" },
+                { "id": "C", "text": "boring" },
+                { "id": "D", "text": "boredom" }
+              ],
+              "answerId": "B",
+              "explanation": "The audience experiences the feeling, so the -ed adjective \"bored\" is needed. \"Boring\" would describe the presenter or the talk causing the feeling, not the audience feeling it.",
+              "skills": ["word-formation"]
+            },
+            {
+              "id": "ifl-2021-a-q21",
+              "n": 21,
+              "prompt": "Sokleap's niece is far _______ to travel abroad on her own.",
+              "options": [
+                { "id": "A", "text": "very young" },
+                { "id": "B", "text": "much younger" },
+                { "id": "C", "text": "so young" },
+                { "id": "D", "text": "too young" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Too + adjective + to-infinitive\" shows that the niece's age prevents her from travelling alone, and \"far\" intensifies \"too\". \"Very young\" and \"so young\" do not combine with a following infinitive of result in this way.",
+              "skills": ["word-order"]
+            },
+            {
+              "id": "ifl-2021-a-q22",
+              "n": 22,
+              "prompt": "This porridge is neither cold nor _______.",
+              "options": [
+                { "id": "A", "text": "it is hot" },
+                { "id": "B", "text": "hotter" },
+                { "id": "C", "text": "hotness" },
+                { "id": "D", "text": "hot" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Neither ... nor\" joins two parallel adjectives describing the porridge, \"cold\" and \"hot\", so the second gap needs the plain adjective \"hot\". The other options break that parallel adjective structure.",
+              "skills": ["parallel-structure"]
+            },
+            {
+              "id": "ifl-2021-a-q23",
+              "n": 23,
+              "prompt": "It is important to pay careful attention to _______ in class.",
+              "options": [
+                { "id": "A", "text": "what the teacher is saying" },
+                { "id": "B", "text": "what does the teacher say" },
+                { "id": "C", "text": "what the teacher is said" },
+                { "id": "D", "text": "what is the teacher saying" }
+              ],
+              "answerId": "A",
+              "explanation": "An embedded question after a preposition keeps normal statement word order, \"what the teacher is saying\", with no inverted auxiliary. B and D wrongly invert as in a direct question, and C misuses the passive.",
+              "skills": ["embedded-questions"]
+            },
+            {
+              "id": "ifl-2021-a-q24",
+              "n": 24,
+              "prompt": "Mr. Panha is a competent teacher. All the boys and girls have respect _______ him.",
+              "options": [
+                { "id": "A", "text": "for" },
+                { "id": "B", "text": "in" },
+                { "id": "C", "text": "of" },
+                { "id": "D", "text": "on" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Have respect for someone\" is the fixed preposition pairing used to express admiration for a person. The other prepositions do not form this collocation.",
+              "skills": ["prepositions", "collocation"]
+            },
+            {
+              "id": "ifl-2021-a-q25",
+              "n": 25,
+              "prompt": "In some cinemas, buying snacks is nearly as expensive as _______.",
+              "options": [
+                { "id": "A", "text": "a movie ticket" },
+                { "id": "B", "text": "to pay for a movie ticket" },
+                { "id": "C", "text": "paying for a movie ticket" },
+                { "id": "D", "text": "when we pay for a movie ticket" }
+              ],
+              "answerId": "C",
+              "explanation": "The comparison \"as ... as\" must compare two parallel actions, and since the first part is the gerund \"buying snacks\", the second must also be a gerund phrase, \"paying for a movie ticket\". A compares an action to a thing, and B and D break the parallel gerund form.",
+              "skills": ["parallel-structure"]
+            },
+            {
+              "id": "ifl-2021-a-q26",
+              "n": 26,
+              "prompt": "Vichea's grandmother made _______.",
+              "options": [
+                { "id": "A", "text": "him a cupcake" },
+                { "id": "B", "text": "a cupcake to him" },
+                { "id": "C", "text": "a cupcake him" },
+                { "id": "D", "text": "him for a cupcake" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Make\" can take an indirect object directly followed by a direct object with no preposition, \"made him a cupcake\". The other options insert a preposition or reverse the correct word order.",
+              "skills": ["word-order"]
+            },
+            {
+              "id": "ifl-2021-a-q27",
+              "n": 27,
+              "prompt": "After hearing their mother's call, _______.",
+              "options": [
+                { "id": "A", "text": "the children ran quickly towards her" },
+                { "id": "B", "text": "the children's run towards her was quick" },
+                { "id": "C", "text": "the kitchen was filled quickly with her children" },
+                { "id": "D", "text": "their run towards her was quick" }
+              ],
+              "answerId": "A",
+              "explanation": "An introductory participial phrase must be followed immediately by the noun that performs the action it describes, and only \"the children\" can hear their mother's call. The other options put a noun phrase that cannot hear anything right after the phrase.",
+              "skills": ["participle-clauses"]
+            },
+            {
+              "id": "ifl-2021-a-q28",
+              "n": 28,
+              "prompt": "Rotha took her digital camera with her _______ she could take some photos of the Irrawaddy dolphins in Kratie.",
+              "options": [
+                { "id": "A", "text": "in order to" },
+                { "id": "B", "text": "so that" },
+                { "id": "C", "text": "due to" },
+                { "id": "D", "text": "for" }
+              ],
+              "answerId": "B",
+              "explanation": "\"So that\" introduces a purpose clause with its own subject and verb, \"she could take\". \"In order to\" and \"for\" would need to be followed directly by a verb or noun rather than a full clause, and \"due to\" gives a reason, not a purpose.",
+              "skills": ["conjunctions"]
+            },
+            {
+              "id": "ifl-2021-a-q29",
+              "n": 29,
+              "prompt": "Piseth's motorbike is in a terrible condition. He is going to have it _______ this evening.",
+              "options": [
+                { "id": "A", "text": "repair" },
+                { "id": "B", "text": "repairing" },
+                { "id": "C", "text": "to repair" },
+                { "id": "D", "text": "repaired" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Have something done\" is the causative pattern for work carried out by someone else, and the motorbike receives the repairing, so the past participle \"repaired\" is required.",
+              "skills": ["causatives", "passive-voice"]
+            },
+            {
+              "id": "ifl-2021-a-q30",
+              "n": 30,
+              "prompt": "Never _______ such well-behaved schoolchildren before.",
+              "options": [
+                { "id": "A", "text": "have I met" },
+                { "id": "B", "text": "I have met" },
+                { "id": "C", "text": "will I meet" },
+                { "id": "D", "text": "I will meet" }
+              ],
+              "answerId": "A",
+              "explanation": "Fronting the negative adverb \"never\" for emphasis triggers subject-auxiliary inversion, giving \"have I met\". B keeps normal word order, and C and D wrongly switch to the future tense.",
+              "skills": ["inversion"]
+            },
+            {
+              "id": "ifl-2021-a-q31",
+              "n": 31,
+              "prompt": "Sreypich's little nephew hates _______, to eat vegetables, and to go to bed. He is quite hard to please.",
+              "options": [
+                { "id": "A", "text": "taking a walk" },
+                { "id": "B", "text": "take a walk" },
+                { "id": "C", "text": "to take a walk" },
+                { "id": "D", "text": "when he takes a walk" }
+              ],
+              "answerId": "C",
+              "explanation": "The list after \"hates\" must stay parallel, and since the other two items are to-infinitives, \"to eat\" and \"to go\", the first must match with \"to take a walk\".",
+              "skills": ["parallel-structure", "gerund-infinitive"]
+            },
+            {
+              "id": "ifl-2021-a-q32",
+              "n": 32,
+              "prompt": "_______ moon has no light. It is bright because _______ sun shines on it.",
+              "options": [
+                { "id": "A", "text": "The ... the" },
+                { "id": "B", "text": "A ... a" },
+                { "id": "C", "text": "A ... the" },
+                { "id": "D", "text": "Ø ... the" }
+              ],
+              "answerId": "A",
+              "explanation": "\"The moon\" and \"the sun\" are unique objects that only have one referent, so both need the definite article \"the\".",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2021-a-q33",
+              "n": 33,
+              "prompt": "They usually _______ Korean television dramas at seven o'clock, but tonight they _______ the news about the side effects of COVID-19 vaccine.",
+              "options": [
+                { "id": "A", "text": "watch ... watched" },
+                { "id": "B", "text": "are watching ... are watching" },
+                { "id": "C", "text": "watch ... are watching" },
+                { "id": "D", "text": "are watching ... watch" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Usually\" signals a habitual action, which takes the present simple, \"watch\", while \"tonight\" signals an action in progress now, which takes the present continuous, \"are watching\".",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2021-a-q34",
+              "n": 34,
+              "prompt": "If Kimly _______ free yesterday, we _______ her to the RUPP's annual Fundraising Event.",
+              "options": [
+                { "id": "A", "text": "was ... would invite" },
+                { "id": "B", "text": "were ... would invite" },
+                { "id": "C", "text": "is ... will invite" },
+                { "id": "D", "text": "had been ... would have invited" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Yesterday\" places the unreal condition in the past, so the third conditional is needed: past perfect in the if-clause, \"had been\", and \"would have invited\" in the main clause.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "ifl-2021-a-q35",
+              "n": 35,
+              "prompt": "I have never heard _______ talk to _______. They might not know each other.",
+              "options": [
+                { "id": "A", "text": "them ... they" },
+                { "id": "B", "text": "her ... him" },
+                { "id": "C", "text": "you ... she" },
+                { "id": "D", "text": "they ... him" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Hear someone talk to someone\" needs object pronouns in both positions, giving \"her\" as the object of \"heard\" and \"him\" as the object of \"to\".",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "ifl-2021-a-q36",
+              "n": 36,
+              "prompt": "Children _______ fifteen years _______ age are not admitted to the zoo without their parents.",
+              "options": [
+                { "id": "A", "text": "under ... of" },
+                { "id": "B", "text": "over ... with" },
+                { "id": "C", "text": "at ... of" },
+                { "id": "D", "text": "of ... at" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Under fifteen years of age\" is the fixed phrase for describing someone younger than a stated age. The other pairings do not form this expression.",
+              "skills": ["prepositions"]
+            },
+            {
+              "id": "ifl-2021-a-q37",
+              "n": 37,
+              "prompt": "Of the two cottages, Soriya's family chose _______.",
+              "options": [
+                { "id": "A", "text": "the one isolated more" },
+                { "id": "B", "text": "the isolated one more" },
+                { "id": "C", "text": "the more isolated one" },
+                { "id": "D", "text": "the most isolated one" }
+              ],
+              "answerId": "C",
+              "explanation": "Comparing exactly two things needs the comparative, not the superlative, and the correct pattern places it before \"one\": \"the more isolated one\". \"The most isolated one\" would only be correct for three or more cottages.",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "ifl-2021-a-q38",
+              "n": 38,
+              "prompt": "Bopha's English is getting better. She _______ a lot of English since she _______ a freshman at the Department of English at the Institute of Foreign Languages.",
+              "options": [
+                { "id": "A", "text": "has learned ... became" },
+                { "id": "B", "text": "learned ... has become" },
+                { "id": "C", "text": "learned ... became" },
+                { "id": "D", "text": "has learned ... has become" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Since\" introduces a specific past starting point, \"became a freshman\", which takes the simple past, while the main clause describes an action continuing up to now, which takes the present perfect, \"has learned\".",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2021-a-q39",
+              "n": 39,
+              "prompt": "Kong Bunchhoeun, one of _______ and _______ Cambodian songwriters, composed at least 200 songs between the 1960s and the 1970s.",
+              "options": [
+                { "id": "A", "text": "most great ... the popular" },
+                { "id": "B", "text": "the greatest ... most popular" },
+                { "id": "C", "text": "greater ... most popular" },
+                { "id": "D", "text": "great ... more popular" }
+              ],
+              "answerId": "B",
+              "explanation": "\"One of the + superlative + plural noun\" is the fixed pattern for describing someone among the best of a group, so both adjectives need the superlative form sharing \"the\": \"the greatest and most popular\".",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "ifl-2021-a-q40",
+              "n": 40,
+              "prompt": "When the cat _______ Phally, she _______ her books.",
+              "options": [
+                { "id": "A", "text": "was scratching ... was dropping" },
+                { "id": "B", "text": "was scratching ... dropped" },
+                { "id": "C", "text": "scratched ... dropped" },
+                { "id": "D", "text": "scratched ... was dropping off" }
+              ],
+              "answerId": "C",
+              "explanation": "Both actions are single, completed events in the past that happen one after the other, so the simple past fits both clauses: \"scratched\" and \"dropped\".",
+              "skills": ["verb-tense"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "title": "Section II: Vocabulary",
+      "groups": [
+        {
+          "id": "g2",
+          "type": "vocab-inline",
+          "instruction": "For Questions 41 to 55, choose one of the most suitable options which is closest in meaning to the underlined word or phrase in each sentence.",
+          "questions": [
+            {
+              "id": "ifl-2021-a-q41",
+              "n": 41,
+              "prompt": "Because of the extreme pressure under water, divers are often [[sluggish]]. They can't be as fast as they wish they could be.",
+              "options": [
+                { "id": "A", "text": "careful" },
+                { "id": "B", "text": "hurt" },
+                { "id": "C", "text": "slow" },
+                { "id": "D", "text": "worried" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Sluggish\" means moving slowly and without energy, matching \"slow\" directly. \"Careful\", \"hurt\" and \"worried\" describe unrelated qualities.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q42",
+              "n": 42,
+              "prompt": "He can [[enhance]] his chances of finding a well-paying job by getting a graduate degree in Business Administration.",
+              "options": [
+                { "id": "A", "text": "diminish" },
+                { "id": "B", "text": "improve" },
+                { "id": "C", "text": "clarify" },
+                { "id": "D", "text": "take" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Enhance\" means to improve or increase the quality or value of something, matching \"improve\". \"Diminish\" is its opposite.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q43",
+              "n": 43,
+              "prompt": "Everyone was [[taken aback]] by the result of the exam. They had not expected that result.",
+              "options": [
+                { "id": "A", "text": "delighted" },
+                { "id": "B", "text": "surprised" },
+                { "id": "C", "text": "excited" },
+                { "id": "D", "text": "anxious" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Taken aback\" means shocked or surprised by something unexpected, matching \"surprised\" directly, as confirmed by \"they had not expected that result\".",
+              "skills": ["idiom", "synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q44",
+              "n": 44,
+              "prompt": "Primary education is [[compulsory]] in many countries. Those who reach the age of starting school have to attend classes or else they will face some sorts of consequences.",
+              "options": [
+                { "id": "A", "text": "optional" },
+                { "id": "B", "text": "required" },
+                { "id": "C", "text": "important" },
+                { "id": "D", "text": "significant" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Compulsory\" means required by law or rule, matching \"required\" directly, since attendance is not a choice and carries consequences. \"Optional\" is its opposite.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q45",
+              "n": 45,
+              "prompt": "Cambodia is endowed with [[abundant]] resources such as gold, gems, oil, and others. One can usually find these treasures almost everywhere in the country.",
+              "options": [
+                { "id": "A", "text": "dependable" },
+                { "id": "B", "text": "reliable" },
+                { "id": "C", "text": "plentiful" },
+                { "id": "D", "text": "scarce" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Abundant\" means existing in large quantities, matching \"plentiful\", as confirmed by finding these resources \"almost everywhere\". \"Scarce\" is its opposite.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q46",
+              "n": 46,
+              "prompt": "IFL's [[proximity]] to the residential area in Phnom Penh makes it easy for students to reach the school.",
+              "options": [
+                { "id": "A", "text": "location" },
+                { "id": "B", "text": "closeness" },
+                { "id": "C", "text": "landscape" },
+                { "id": "D", "text": "view" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Proximity\" means nearness in distance, matching \"closeness\" directly, which explains why it is easy for students to reach the school.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q47",
+              "n": 47,
+              "prompt": "The weather forecast is for sun, with [[intermittent]] showers. It is not going to rain continuously.",
+              "options": [
+                { "id": "A", "text": "non-stop" },
+                { "id": "B", "text": "constant" },
+                { "id": "C", "text": "frequent" },
+                { "id": "D", "text": "infrequent" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Intermittent\" means happening occasionally rather than continuously, matching \"infrequent\", as confirmed by \"it is not going to rain continuously\". \"Constant\" and \"non-stop\" mean the opposite.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q48",
+              "n": 48,
+              "prompt": "I support the free-market economy in which businesses can [[thrive]]. It is going to help the economy develop extremely fast.",
+              "options": [
+                { "id": "A", "text": "glitter" },
+                { "id": "B", "text": "prosper" },
+                { "id": "C", "text": "inherit" },
+                { "id": "D", "text": "confiscate" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Thrive\" means to grow or develop successfully, matching \"prosper\" directly, as confirmed by the economy developing \"extremely fast\".",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q49",
+              "n": 49,
+              "prompt": "Jake [[reproached]] Janet bitterly for abandoning him. Being a girlfriend, one should never ever desert the man while facing difficulties.",
+              "options": [
+                { "id": "A", "text": "complimented" },
+                { "id": "B", "text": "praised" },
+                { "id": "C", "text": "blamed" },
+                { "id": "D", "text": "admired" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Reproached\" means to criticise someone for a fault, matching \"blamed\", as confirmed by Jake's bitterness about being abandoned. \"Complimented\", \"praised\" and \"admired\" all express approval, the opposite reaction.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q50",
+              "n": 50,
+              "prompt": "The village had a certain [[rustic]] charm. With the absence of the modern and sophisticated design of the modern architecture, the village still attracts many tourists annually due to its natural beauty.",
+              "options": [
+                { "id": "A", "text": "uncommon" },
+                { "id": "B", "text": "complex" },
+                { "id": "C", "text": "common" },
+                { "id": "D", "text": "enticing" }
+              ],
+              "answerId": "C",
+              "explanation": "The passage contrasts \"rustic\" with the \"modern and sophisticated design\" of city architecture, so it describes the village's plain, ordinary style, which \"common\" reflects best among the options given. \"Complex\" would contradict the described simplicity.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-a-q51",
+              "n": 51,
+              "prompt": "The parents have been [[lashed out at]] for putting too much emphasis on perfection. It is generally believed that no one is mistake-free or perfect.",
+              "options": [
+                { "id": "A", "text": "supported" },
+                { "id": "B", "text": "applauded" },
+                { "id": "C", "text": "encouraged" },
+                { "id": "D", "text": "criticized" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Lashed out at\" means attacked verbally or criticised harshly, matching \"criticized\". \"Supported\", \"applauded\" and \"encouraged\" all express approval, the opposite reaction.",
+              "skills": ["phrasal-verbs", "synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q52",
+              "n": 52,
+              "prompt": "I almost [[passed out]] from the pain I got from falling off from the first floor of my flat. I promise I will be very careful when I do my household chores next time.",
+              "options": [
+                { "id": "A", "text": "cried" },
+                { "id": "B", "text": "fainted" },
+                { "id": "C", "text": "broke down" },
+                { "id": "D", "text": "giggled" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Passed out\" means to lose consciousness, matching \"fainted\" directly, which fits the severe pain described. \"Broke down\" refers to losing emotional control, not consciousness.",
+              "skills": ["idiom", "synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q53",
+              "n": 53,
+              "prompt": "How do you expect me to [[vouch for]] what you are telling me while others do not buy what you have been spreading around?",
+              "options": [
+                { "id": "A", "text": "believe" },
+                { "id": "B", "text": "support" },
+                { "id": "C", "text": "favor" },
+                { "id": "D", "text": "take side with" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Vouch for\" means to confirm that something is true or reliable based on one's own belief, matching \"believe\" here, since others doubt the claim. \"Support\" and \"take side with\" describe backing a person rather than confirming a claim's truth.",
+              "skills": ["collocation", "synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q54",
+              "n": 54,
+              "prompt": "Thousands of workers have been [[laid off]] due to the economic crisis caused by the Covid-19 pandemic. One should be grateful that he or she still has a job.",
+              "options": [
+                { "id": "A", "text": "promoted" },
+                { "id": "B", "text": "fired" },
+                { "id": "C", "text": "demoted" },
+                { "id": "D", "text": "transferred" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Laid off\" means dismissed from a job, usually because of a lack of work, matching \"fired\", as confirmed by the reminder to be grateful for still having a job.",
+              "skills": ["phrasal-verbs", "synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q55",
+              "n": 55,
+              "prompt": "Since our teacher has been unwell, he has asked one of his colleagues to [[sit in for]] him until he is well and able to teach again.",
+              "options": [
+                { "id": "A", "text": "replace" },
+                { "id": "B", "text": "displace" },
+                { "id": "C", "text": "take care of" },
+                { "id": "D", "text": "look after" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Sit in for\" means to temporarily take someone's place or role, matching \"replace\", as confirmed by \"until he is well and able to teach again\". \"Take care of\" and \"look after\" describe caring for a person, not covering their duties.",
+              "skills": ["phrasal-verbs", "synonyms"]
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "type": "mcq",
+          "instruction": "For Questions 56 to 60, choose one option which best completes the blank of each sentence.",
+          "questions": [
+            {
+              "id": "ifl-2021-a-q56",
+              "n": 56,
+              "prompt": "Please stay _______ during this voyage since the sea is not calm enough for us to move around freely.",
+              "options": [
+                { "id": "A", "text": "stationary" },
+                { "id": "B", "text": "stationery" },
+                { "id": "C", "text": "pleasant" },
+                { "id": "D", "text": "active" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Stationary\" means not moving, which fits staying still on a rough sea. \"Stationery\" is a homophone that means writing materials such as paper and pens.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-a-q57",
+              "n": 57,
+              "prompt": "Please sit _______ me during the meeting so that it is easy and comfortable for me to ask you for help when needed.",
+              "options": [
+                { "id": "A", "text": "besides" },
+                { "id": "B", "text": "beside" },
+                { "id": "C", "text": "far away from" },
+                { "id": "D", "text": "afar" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Beside\" means next to, which fits sitting close enough to ask for help easily. \"Besides\" means \"in addition to\" and does not describe physical position.",
+              "skills": ["prepositions", "vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-a-q58",
+              "n": 58,
+              "prompt": "I was unhappy that I could not apply for that scholarship because I was not _______.",
+              "options": [
+                { "id": "A", "text": "eligible" },
+                { "id": "B", "text": "illegible" },
+                { "id": "C", "text": "legal" },
+                { "id": "D", "text": "irresistible" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Eligible\" means qualified or entitled to apply for something, which fits not being able to apply for the scholarship. \"Illegible\" is a similar-sounding word that means difficult to read.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-a-q59",
+              "n": 59,
+              "prompt": "It is generally believed that smoking _______ our health badly.",
+              "options": [
+                { "id": "A", "text": "affects" },
+                { "id": "B", "text": "effects" },
+                { "id": "C", "text": "improves" },
+                { "id": "D", "text": "enhances" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Affects\" is the verb meaning to influence or have an impact on something, fitting \"our health\" as its object. \"Effects\" is normally a noun, and \"improves\"/\"enhances\" contradict the negative sense of \"badly\".",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-a-q60",
+              "n": 60,
+              "prompt": "This particular book is _______ for the students as it will help them learn tremendously from it.",
+              "options": [
+                { "id": "A", "text": "worthless" },
+                { "id": "B", "text": "invaluable" },
+                { "id": "C", "text": "pricey" },
+                { "id": "D", "text": "valueless" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Invaluable\" means extremely useful or valuable, fitting a book that helps students learn tremendously. \"Worthless\" and \"valueless\" mean the opposite.",
+              "skills": ["vocabulary-in-context"]
+            }
+          ]
+        },
+        {
+          "id": "g4",
+          "type": "cloze",
+          "instruction": "For Questions 61 to 70, read the passage below and choose one best word from the options to fill in each gap.",
+          "stimulus": {
+            "id": "pauls-career",
+            "title": "Paul's Career",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "text": "When Paul left school, he applied for a {{61}} in the accounts department of a local engineering company. They gave him a job as a {{62}}. He didn't {{63}} very much but they gave him a lot of training and sent him on training courses."
+              },
+              {
+                "kind": "paragraph",
+                "text": "Paul worked hard at the company and his job {{64}} looked good. After his first year he got a good pay rise, and after two years he was {{65}}. After six years he was in {{66}} of the accounts department with five other employees under him."
+              },
+              {
+                "kind": "paragraph",
+                "text": "By the time Paul was 30, however, he decided he wanted a fresh challenge. He was {{67}} on working abroad, so he {{68}} from his company and started looking for a new job with a bigger company. After a couple of months, he managed to find a job with an international company which involved a lot of foreign {{69}}. He was very excited about the new job, and at first he really enjoyed the travelling, but after about six months, he started to dislike the {{70}} moving around, and after a year he hated it."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2021-a-q61",
+              "n": 61,
+              "options": [
+                { "id": "A", "text": "work" },
+                { "id": "B", "text": "job" },
+                { "id": "C", "text": "salary" },
+                { "id": "D", "text": "training" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Apply for a job\" is the natural collocation for seeking employment in a department. \"Salary\" and \"training\" are not what someone applies for when starting out.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2021-a-q62",
+              "n": 62,
+              "options": [
+                { "id": "A", "text": "trainee" },
+                { "id": "B", "text": "trainer" },
+                { "id": "C", "text": "manager" },
+                { "id": "D", "text": "worker" }
+              ],
+              "answerId": "A",
+              "explanation": "Since he \"didn't [do] very much\" but received a lot of training, his starting position was that of a \"trainee\", a beginner receiving instruction, not a \"manager\" or \"trainer\".",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-a-q63",
+              "n": 63,
+              "options": [
+                { "id": "A", "text": "gain" },
+                { "id": "B", "text": "earn" },
+                { "id": "C", "text": "take" },
+                { "id": "D", "text": "receive" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Earn\" collocates with money or wages received for work done, fitting a new trainee. \"Gain\" and \"take\" do not pair naturally with wages in this way.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2021-a-q64",
+              "n": 64,
+              "options": [
+                { "id": "A", "text": "futures" },
+                { "id": "B", "text": "hopes" },
+                { "id": "C", "text": "prospects" },
+                { "id": "D", "text": "promotions" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Job prospects\" is the fixed phrase for someone's likely future success at work. \"Futures\" and \"hopes\" are not standard collocations with \"job\".",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2021-a-q65",
+              "n": 65,
+              "options": [
+                { "id": "A", "text": "sacked" },
+                { "id": "B", "text": "promoted" },
+                { "id": "C", "text": "employed" },
+                { "id": "D", "text": "transferred" }
+              ],
+              "answerId": "B",
+              "explanation": "A good pay rise after the first year and being given responsibility over five employees by year six both point to Paul being \"promoted\" after two years, not dismissed or moved elsewhere.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-a-q66",
+              "n": 66,
+              "options": [
+                { "id": "A", "text": "charge" },
+                { "id": "B", "text": "burden" },
+                { "id": "C", "text": "responsibility" },
+                { "id": "D", "text": "position" }
+              ],
+              "answerId": "A",
+              "explanation": "\"In charge of\" is the fixed phrase for being the person responsible for managing a department or team, matching \"with five other employees under him\".",
+              "skills": ["collocation", "idiom"]
+            },
+            {
+              "id": "ifl-2021-a-q67",
+              "n": 67,
+              "options": [
+                { "id": "A", "text": "enthusiastic" },
+                { "id": "B", "text": "interested" },
+                { "id": "C", "text": "keen" },
+                { "id": "D", "text": "eager" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Keen on\" is the natural collocation for wanting to do something, fitting \"working abroad\". The other adjectives are not usually followed directly by \"on\" in this sense.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2021-a-q68",
+              "n": 68,
+              "options": [
+                { "id": "A", "text": "dismissed" },
+                { "id": "B", "text": "fired" },
+                { "id": "C", "text": "resigned" },
+                { "id": "D", "text": "discharged" }
+              ],
+              "answerId": "C",
+              "explanation": "Paul himself chose to leave in search of a new challenge, so \"resigned\", meaning to voluntarily leave a job, is correct. \"Dismissed\", \"fired\" and \"discharged\" all describe being forced out by an employer.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-a-q69",
+              "n": 69,
+              "options": [
+                { "id": "A", "text": "trip" },
+                { "id": "B", "text": "tour" },
+                { "id": "C", "text": "expedition" },
+                { "id": "D", "text": "travel" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Foreign travel\" is the general, uncountable term for travelling to other countries as part of a job. \"Trip\", \"tour\" and \"expedition\" all describe a single, specific journey rather than travelling in general.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-a-q70",
+              "n": 70,
+              "options": [
+                { "id": "A", "text": "constant" },
+                { "id": "B", "text": "limitless" },
+                { "id": "C", "text": "capricious" },
+                { "id": "D", "text": "permanent" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Constant\" means happening repeatedly and without stopping, matching a job that involves moving around all the time until he grew to hate it. \"Permanent\" would describe a single fixed state, not repeated movement.",
+              "skills": ["vocabulary-in-context"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Section III: Reading",
+      "groups": [
+        {
+          "id": "g5",
+          "type": "mcq",
+          "instruction": "For Questions 71 to 82, read the following incomplete paragraphs and choose the best ending for each of them.",
+          "questions": [
+            {
+              "id": "ifl-2021-a-q71",
+              "n": 71,
+              "prompt": "Imagine a baby about five months old. It can cry and smile, it can eat and sleep, and it can dirty its diaper. Did you know that it can also count? That's not all – small babies are also able to add and subtract small numbers of things. This may be surprising news, but a psychologist has proven that it is true. Many people think that these abilities are learned at school. But this psychologist believes that they are _______.",
+              "options": [
+                { "id": "A", "text": "not present until adulthood" },
+                { "id": "B", "text": "already present in small babies" },
+                { "id": "C", "text": "learned only by five-month-old babies" },
+                { "id": "D", "text": "very difficult for children to learn" }
+              ],
+              "answerId": "B",
+              "explanation": "The passage states as fact that small babies can already count and calculate, directly opposing the common belief that these skills are learned at school, so the psychologist's view must be that the abilities are already present in small babies.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-a-q72",
+              "n": 72,
+              "prompt": "Until recently scientists thought that the first humans developed from our ape ancestors in Africa. According to this theory, these early humans then gradually moved to other parts of the world. Now there is new evidence for a different theory about the beginnings of humans. In 1990 scientists in China found the bones of two human heads from about one million years ago. These heads may mean that humans _______.",
+              "options": [
+                { "id": "A", "text": "all developed in Africa" },
+                { "id": "B", "text": "developed from apes" },
+                { "id": "C", "text": "didn't all develop in Africa" },
+                { "id": "D", "text": "all looked alike" }
+              ],
+              "answerId": "B",
+              "explanation": "The passage frames the discovery as evidence for a different theory about how humans began, and the theme running through the paragraph is the ape-to-human origin story itself, so the discovery is read as reinforcing that humans developed from apes rather than settling only the question of location.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-a-q73",
+              "n": 73,
+              "prompt": "Children who are left-handed tend to have more accidents than right-handed children. Doctors have two theories to explain this fact. One theory says that left-handed children may simply fall and bump into things more. Another theory, however, explains the accidents very differently. According to this theory, the problem is not with the children, but with the world around them. Most things, such as doors, cars, and toys are _______.",
+              "options": [
+                { "id": "A", "text": "designed and used best by right-handed people" },
+                { "id": "B", "text": "not designed for right-handed people" },
+                { "id": "C", "text": "designed for left-handed people" },
+                { "id": "D", "text": "made by people without children" }
+              ],
+              "answerId": "A",
+              "explanation": "The second theory blames \"the world around them\" rather than the children, and everyday objects are built with the right-handed majority in mind, so they are designed and used best by right-handed people, putting left-handed children at a disadvantage.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-a-q74",
+              "n": 74,
+              "prompt": "One of the most important principles in biology is that all living things must come from other living things. This principle was not discovered until the 18th century. Before that, people believed that life could come from other kinds of matter. For example, they thought that worms could come from meat. Then a scientist tried covering the meat so that flies could not land on it. No worms grew on the meat, since of course they really came from the _______.",
+              "options": [
+                { "id": "A", "text": "scientist" },
+                { "id": "B", "text": "cloth" },
+                { "id": "C", "text": "flies' eggs" },
+                { "id": "D", "text": "18th century" }
+              ],
+              "answerId": "C",
+              "explanation": "Once flies were kept away from the meat, no worms appeared, showing that the worms had actually been hatching from flies' eggs laid on the meat all along, not generated by the meat itself.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-a-q75",
+              "n": 75,
+              "prompt": "Sixty-five million years ago, the age of the dinosaurs suddenly came to an end. The dinosaurs all disappeared from the earth. Scientists have always wondered why this happened. A new discovery in Mexico may give them the answer. The discovery is a huge circle 180 kilometers wide. This circle was probably caused by some very large object that hit the earth. When it hit, it may have caused changes in the earth's climate and sea levels. These changes may have _______.",
+              "options": [
+                { "id": "A", "text": "helped the dinosaurs to live longer" },
+                { "id": "B", "text": "killed the dinosaurs in Mexico" },
+                { "id": "C", "text": "been necessary for the dinosaurs" },
+                { "id": "D", "text": "been disastrous for dinosaurs" }
+              ],
+              "answerId": "D",
+              "explanation": "The passage is explaining why the dinosaurs suddenly disappeared everywhere, so the climate and sea-level changes caused by the impact are being offered as the disaster that wiped them out, not a localized or beneficial event.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-a-q76",
+              "n": 76,
+              "prompt": "In different parts of the world, people build their houses of different materials. In areas where there is a lot of wood, houses are made of wood. In hot, dry areas with little wood, houses are often made of clay bricks. In the far northern areas, people even build their houses of ice. Generally, _______.",
+              "options": [
+                { "id": "A", "text": "people prefer houses made of stone" },
+                { "id": "B", "text": "wooden houses are dangerous because they can burn" },
+                { "id": "C", "text": "people in some areas build their houses of leaves" },
+                { "id": "D", "text": "people build their houses with whatever they can find" }
+              ],
+              "answerId": "D",
+              "explanation": "The examples all show a pattern of using whatever material is locally available, whether wood, clay, or ice, so the general conclusion is that people build with whatever they can find in their own area.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-a-q77",
+              "n": 77,
+              "prompt": "When Europeans first arrived in North America in 1620, the forests were full of bears. There were more than half a million of these wild animals. Then the Europeans began to cut down the forests where the bears lived. They also began to hunt the bears. By 1900, there were very few bears left. Now, however, the bear population is about 200,000. The bears have begun to multiply again, thanks to _______.",
+              "options": [
+                { "id": "A", "text": "better hunting methods" },
+                { "id": "B", "text": "better foods for them" },
+                { "id": "C", "text": "better laws to protect them" },
+                { "id": "D", "text": "better laws to protect Europeans" }
+              ],
+              "answerId": "C",
+              "explanation": "The bear population fell because of hunting and habitat loss but has since recovered, and the only listed option that would reverse that decline is legal protection for the bears themselves.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-a-q78",
+              "n": 78,
+              "prompt": "Texas is famous for its cattle farms, but another kind of farm is growing much faster: ostrich farms. Ten years ago, ostrich farms were rare, but there are now over 2,000 in the United States, many of them in Texas. It is very easy to see why so many farmers are interested in ostriches these days. A pair of young adult ostriches are worth around $40,000. An ostrich egg may be worth up to $1,500. Since a female ostrich may lay up to 80 eggs a year, _______.",
+              "options": [
+                { "id": "A", "text": "farmers may not be able to make much profit" },
+                { "id": "B", "text": "ostrich farming is not a very profitable business" },
+                { "id": "C", "text": "farmers may prefer to raise cattle" },
+                { "id": "D", "text": "farmers can make a lot of profit quickly" }
+              ],
+              "answerId": "D",
+              "explanation": "With eggs worth up to $1,500 each and up to 80 laid a year, the huge potential income explains why so many farmers have rushed into ostrich farming, so the logical conclusion is that farmers can make a lot of profit quickly.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-a-q79",
+              "n": 79,
+              "prompt": "Every year, rich countries become richer and poor countries become poorer. In 1750, the richest country was about five times richer than the poorest country. Today, the richest country (Switzerland) is about 400 times richer than the poorest country (Mozambique). This greater difference is due largely to the growth of technology. The poorer countries are not able to keep up with the changing technology of the industrialized countries. With every new technological development, poor countries are likely to _______.",
+              "options": [
+                { "id": "A", "text": "make more progress" },
+                { "id": "B", "text": "be even poorer than they are today" },
+                { "id": "C", "text": "catch up with the rich countries" },
+                { "id": "D", "text": "become more like Switzerland" }
+              ],
+              "answerId": "B",
+              "explanation": "Since poorer countries cannot keep up with each new technological advance, every further development is likely to widen the gap even more, making them even poorer relative to rich countries, continuing the trend already described.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-a-q80",
+              "n": 80,
+              "prompt": "Tourism continues to be a growing industry. Every year more and more people take trips to another part of the world for pleasure. This growth does not seem to be affected by the fact that local conflicts continue in many areas. The tourist industry also does not seem to suffer during periods of economic difficulty. People may spend less money on other things in these periods, but they continue to spend money on travel. In recent years, in fact, _______.",
+              "options": [
+                { "id": "A", "text": "tourism has declined by an average of 16%" },
+                { "id": "B", "text": "people have spent 16% more money on English courses" },
+                { "id": "C", "text": "tourism has grown by about 16%" },
+                { "id": "D", "text": "people have preferred to stay home" }
+              ],
+              "answerId": "C",
+              "explanation": "The whole paragraph argues that tourism keeps growing regardless of conflict or economic hardship, so the only ending consistent with that trend is that tourism has grown by about 16%, while the other endings describe a decline that contradicts the passage.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-a-q81",
+              "n": 81,
+              "prompt": "Do you know what to do if someone falls off a small boat? The first thing to do is to throw out a life ring. Don't lose sight of the person. You should try to get close with the boat. At the same time, you must be very careful not to hurt the person in the water. Then you should try to help him climb back into the boat. This is not always easy, especially if _______.",
+              "options": [
+                { "id": "A", "text": "the weather is warm" },
+                { "id": "B", "text": "the person is hurt or cold" },
+                { "id": "C", "text": "there are several people to help" },
+                { "id": "D", "text": "the person is a good swimmer" }
+              ],
+              "answerId": "B",
+              "explanation": "The passage already warns about the risk of hurting the person and stresses that getting them back in is \"not always easy\", so the difficulty is greatest when the person is already hurt or cold and less able to help themselves, unlike the other options, which describe favourable conditions.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-a-q82",
+              "n": 82,
+              "prompt": "What would you do if you got lost in a desert? The most important thing is to find water. But where can you find drinking water in the middle of all that sand? The answer is simple: in the desert plants. In fact, the most common desert plant, the cactus, contains lots of good water. With the right method and some simple tools, you _______.",
+              "options": [
+                { "id": "A", "text": "can get only a few drops of water a day" },
+                { "id": "B", "text": "will get water that is undrinkable" },
+                { "id": "C", "text": "will be able to find a drinking fountain" },
+                { "id": "D", "text": "can get about a liter of water a day" }
+              ],
+              "answerId": "D",
+              "explanation": "The passage presents the cactus as containing \"lots of good\" drinking water and describes a workable method for getting it, so the ending must show a genuinely useful amount, ruling out only a few drops or undrinkable water.",
+              "skills": ["inference"]
+            }
+          ]
+        },
+        {
+          "id": "g6",
+          "type": "passage-mcq",
+          "instruction": "For Questions 83 to 90, read the passage below and answer the questions that follow.",
+          "stimulus": {
+            "id": "voice-and-personality",
+            "title": "Voice and Personality",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "label": "1",
+                "text": "A number of factors related to the voice reveal the personality of the speaker. The first is the broad area of communication, which includes imparting information by use of language, communicating with a group or an individual and specialized communication through performance. A person conveys thoughts and ideas through choice of words, by a tone of voice that is pleasant or unpleasant, gentle or harsh, by the rhythm that is inherent within the language itself, and by speech rhythms that are flowing and regular or uneven and hesitant, and finally, by the pitch and melody of the utterance. When speaking before a group, a person's tone may indicate uneasiness or fright, confidence or calm. At interpersonal levels, the tone may reflect ideas and feelings over and above the words chosen, or may belie them. **Here** the participant's tone can consciously or unconsciously reflect intuitive sympathy or antipathy, lack of concern or interest, fatigue, anxiety, enthusiasm or excitement, all of which are usually discernible by the acute listener. Public performance is a manner of communication that is highly specialized with its own techniques for obtaining effects by voice and / or gesture. The motivation **derived** from the text, and in the case of singing, the music, in combination with the performer's skills, personality, and ability to create empathy will determine the success of artistic, political, or pedagogic communication."
+              },
+              {
+                "kind": "paragraph",
+                "label": "2",
+                "text": "Second, the voice gives psychological clues to a person's self-image, perception of others, and emotional health. Self-image can be indicated by a tone of voice that is confident, pretentious, shy, aggressive, outgoing, or exuberant, to name only a few personality traits. Also, the sound may give a clue to the facade or mask of that person, for example, a shy person hiding behind an overconfident front. How a speaker perceives the listener's receptiveness, interest, or sympathy in any given conversation can **drastically** alter the tone of presentation, by encouraging or discouraging the speaker. Emotional health is evidenced in the voice by free and melodic sounds of the happy, by constricted and harsh sound of the angry, and by dull and lethargic qualities of the depressed."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2021-a-q83",
+              "n": 83,
+              "prompt": "What does the passage mainly discuss?",
+              "options": [
+                { "id": "A", "text": "The function of the voice in performance" },
+                { "id": "B", "text": "The connection between voice and personality" },
+                { "id": "C", "text": "Communication styles" },
+                { "id": "D", "text": "The production of speech" }
+              ],
+              "answerId": "B",
+              "explanation": "The whole passage explains how factors of voice, from communication style to psychological state, reveal a speaker's personality, which B captures as the overall topic; performance and communication styles are only supporting details.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2021-a-q84",
+              "n": 84,
+              "prompt": "What does the author mean by stating that, “At interpersonal levels, tone may reflect ideas and feelings over and above the words chosen” in lines 10–11?",
+              "options": [
+                { "id": "A", "text": "Feelings are expressed with different words than ideas are." },
+                { "id": "B", "text": "The tone of voice can carry information beyond the meaning of words." },
+                { "id": "C", "text": "A high tone of voice reflects an emotional communication." },
+                { "id": "D", "text": "Feelings are more difficult to express than ideas." }
+              ],
+              "answerId": "B",
+              "explanation": "\"Over and above the words chosen\" means tone adds meaning beyond the literal words themselves, which is exactly what B states; the sentence makes no claim about pitch or the relative difficulty of expression.",
+              "skills": ["inference", "paraphrase"]
+            },
+            {
+              "id": "ifl-2021-a-q85",
+              "n": 85,
+              "prompt": "The word “Here” in line 11 refers to _______.",
+              "options": [
+                { "id": "A", "text": "interpersonal interactions" },
+                { "id": "B", "text": "the tone" },
+                { "id": "C", "text": "ideas and feelings" },
+                { "id": "D", "text": "words chosen" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Here\" follows directly after the sentence about tone at interpersonal levels, so it points back to that setting, interpersonal interactions, rather than to \"tone\" itself, which is the subject being discussed, not the place referred to.",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "ifl-2021-a-q86",
+              "n": 86,
+              "prompt": "The word “derived” in line 16 is closest in meaning to _______.",
+              "options": [
+                { "id": "A", "text": "discussed" },
+                { "id": "B", "text": "prepared" },
+                { "id": "C", "text": "registered" },
+                { "id": "D", "text": "obtained" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Motivation derived from the text\" means motivation obtained or drawn from the text, matching \"obtained\" directly.",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            },
+            {
+              "id": "ifl-2021-a-q87",
+              "n": 87,
+              "prompt": "Why does the author mention “artistic, political, or pedagogic communication” in lines 18–19?",
+              "options": [
+                { "id": "A", "text": "As examples of public performance" },
+                { "id": "B", "text": "As examples of basic styles of communication" },
+                { "id": "C", "text": "To contrast them to singing" },
+                { "id": "D", "text": "To introduce the idea of self-image" }
+              ],
+              "answerId": "A",
+              "explanation": "These three types of communication are given as examples of the \"success\" achieved through public performance described in the same sentence, not as a contrast to singing, which is treated as one case within performance itself.",
+              "skills": ["text-organisation"]
+            },
+            {
+              "id": "ifl-2021-a-q88",
+              "n": 88,
+              "prompt": "According to the passage, an overconfident front may hide _______.",
+              "options": [
+                { "id": "A", "text": "hostility" },
+                { "id": "B", "text": "shyness" },
+                { "id": "C", "text": "friendliness" },
+                { "id": "D", "text": "strength" }
+              ],
+              "answerId": "B",
+              "explanation": "The passage gives the direct example of \"a shy person hiding behind an overconfident front\", so shyness is what the overconfident front conceals.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2021-a-q89",
+              "n": 89,
+              "prompt": "According to the passage, an exuberant tone of voice may be an indication of a person's _______.",
+              "options": [
+                { "id": "A", "text": "general physical health" },
+                { "id": "B", "text": "personality" },
+                { "id": "C", "text": "ability to communicate" },
+                { "id": "D", "text": "vocal quality" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Exuberant\" is listed alongside \"confident, pretentious, shy, aggressive, outgoing\" as one of several personality traits shown by self-image, not as a sign of physical health or communicative skill.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2021-a-q90",
+              "n": 90,
+              "prompt": "The word “drastically” in line 26 is closest in meaning to _______.",
+              "options": [
+                { "id": "A", "text": "frequently" },
+                { "id": "B", "text": "exactly" },
+                { "id": "C", "text": "severely" },
+                { "id": "D", "text": "easily" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Drastically alter the tone\" describes a strong, severe change, matching \"severely\" rather than how often, how exactly, or how easily the change happens.",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            }
+          ]
+        },
+        {
+          "id": "g7",
+          "type": "yes-no-ng",
+          "instruction": "For Questions 91 to 100, read the letters below (A–H) from a problem page in an International English Language magazine, then decide which person each statement describes. A person may be chosen more than once.",
+          "stimulus": {
+            "id": "problem-page-letters",
+            "title": "Problem Page Letters",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "label": "A",
+                "text": "**Vicheka.** I study English for 6 hours per week in secondary school. For 1 hour each week, we have conversation classes with a native speaker of English where we talk about topics such as drugs, politics and culture. I know it's a really good opportunity to practise my spoken English, but I never make a contribution to the discussion. It's not that I don't have an opinion, or that I'm shy, but more that I don't have the vocabulary to express my views. I feel really frustrated at the end of the lesson. Nobody else in the group seems to have the same problem."
+              },
+              {
+                "kind": "paragraph",
+                "label": "B",
+                "text": "**Daro.** I'm a 24-year-old business student from Malaysia, and I've been attending English classes at night school for the past 5 years. Up to now I've considered myself to be a good student. Last month I went to Britain to visit my relatives over there, and it was awful. People found my pronunciation difficult to follow, and I couldn't understand them either. What went wrong? My English teacher is very good, and I always score the highest in grammar tests."
+              },
+              {
+                "kind": "paragraph",
+                "label": "C",
+                "text": "**Bros.** I'm writing to ask your opinion on a matter which is really annoying me. My English teacher never corrects my mistakes when I am speaking. Isn't that her job? How am I going to improve otherwise? Also she's always telling me that now I'm an advanced student, I should forget all the rules of grammar that I learnt when I was younger."
+              },
+              {
+                "kind": "paragraph",
+                "label": "D",
+                "text": "**Sophea.** Can you help me? I really want to speak English the right way, with the correct accent. Do you have any good ideas? I have a particular problem with sounds like 's'. I plan to work in the UK in the future and nobody will take me seriously if my English pronunciation is anything short of excellent."
+              },
+              {
+                "kind": "paragraph",
+                "label": "E",
+                "text": "**Veasna.** I am working as an au pair in London looking after 2 small children. I love my job but the way that English people speak is a little puzzling. For example, I often hear them say things like 'more friendlier', whereas I thought it should be 'more friendly'. It also seems to be common for them to say 'we was' instead of 'we were'. Can you explain this? Would it be impolite of me to correct them?"
+              },
+              {
+                "kind": "paragraph",
+                "label": "F",
+                "text": "**Vitou.** I am an intermediate student of English (I have been studying it for 3 years). I'm quite good at reading and writing but listening is very difficult for me. My teacher suggested that I listen to the BBC World Service every day in order to improve my listening. The problem is that it's hard for me to understand every word. Do you have any ideas about how to make listening to the radio less difficult? I like listening to the news and knowing what's going on in the world."
+              },
+              {
+                "kind": "paragraph",
+                "label": "G",
+                "text": "**Kanha.** I have studied English for 5 years at school but for the past 6 months I have been doing self-study using the Internet and books to improve. There are lots of materials to choose but I'm not sure what is best for me and how I should use them. I really would like to take the TOEFL examination but don't know how to study on my own. Should I take a course in my local school — which is a little expensive for me now — or is it possible to prepare for the exam doing self-study?"
+              },
+              {
+                "kind": "paragraph",
+                "label": "H",
+                "text": "**Reaksa.** Could you please give me some advice on a problem I have at the moment with my English studies? I decided to go to the UK to improve my English but the college I am studying in at present is full of people from my own country. Although the teachers tell us we should only try to speak in English with each other, it is very difficult to do this, especially in our free time when we go out together. I am worried that my speaking will not improve."
+              }
+            ]
+          },
+          "sharedOptions": [
+            { "id": "A", "text": "Vicheka" },
+            { "id": "B", "text": "Daro" },
+            { "id": "C", "text": "Bros" },
+            { "id": "D", "text": "Sophea" },
+            { "id": "E", "text": "Veasna" },
+            { "id": "F", "text": "Vitou" },
+            { "id": "G", "text": "Kanha" },
+            { "id": "H", "text": "Reaksa" }
+          ],
+          "questions": [
+            {
+              "id": "ifl-2021-a-q91",
+              "n": 91,
+              "prompt": "Which person would appear not to have an English teacher?",
+              "answerId": "G",
+              "explanation": "Kanha describes doing self-study with the Internet and books and asks how to prepare for an exam \"on my own\", with no teacher mentioned anywhere in the letter.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2021-a-q92",
+              "n": 92,
+              "prompt": "Which person doesn't like studying with people from their own country?",
+              "answerId": "H",
+              "explanation": "Reaksa complains that the college is \"full of people from my own country\" and worries this stops their speaking from improving.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2021-a-q93",
+              "n": 93,
+              "prompt": "Which person has a job in the UK?",
+              "answerId": "E",
+              "explanation": "Veasna writes, \"I am working as an au pair in London looking after 2 small children\", the only letter describing paid work in the UK.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2021-a-q94",
+              "n": 94,
+              "prompt": "Which person enjoys keeping up with current affairs?",
+              "answerId": "F",
+              "explanation": "Vitou says, \"I like listening to the news and knowing what's going on in the world\", showing an interest in current affairs.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2021-a-q95",
+              "n": 95,
+              "prompt": "Which person feels that the teacher isn't doing their job properly?",
+              "answerId": "C",
+              "explanation": "Bros asks, \"My English teacher never corrects my mistakes when I am speaking. Isn't that her job?\", directly questioning whether the teacher is doing their job.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2021-a-q96",
+              "n": 96,
+              "prompt": "Which person uses English speaking radio stations to practise English?",
+              "answerId": "F",
+              "explanation": "Vitou's teacher suggested listening to the BBC World Service every day to improve listening, which is an English-speaking radio station.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2021-a-q97",
+              "n": 97,
+              "prompt": "Which person had a shock when they visited Britain?",
+              "answerId": "B",
+              "explanation": "Daro describes a visit to Britain as \"awful\", since people found their pronunciation hard to follow and they could not understand others either.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2021-a-q98",
+              "n": 98,
+              "prompt": "Which person wants to avoid speaking their own language?",
+              "answerId": "H",
+              "explanation": "Reaksa wants to only speak English with classmates, even in free time, to avoid falling back on their own country's language.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2021-a-q99",
+              "n": 99,
+              "prompt": "Which person wants to speak English like a native speaker?",
+              "answerId": "D",
+              "explanation": "Sophea wants \"to speak English the right way, with the correct accent\" and worries about sounding less than excellent, matching a wish to sound like a native speaker.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2021-a-q100",
+              "n": 100,
+              "prompt": "Which person feels they are the only person with their difficulty?",
+              "answerId": "A",
+              "explanation": "Vicheka says, \"Nobody else in the group seems to have the same problem\", showing they feel alone in their difficulty.",
+              "skills": ["scanning"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

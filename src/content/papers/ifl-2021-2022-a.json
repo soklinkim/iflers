@@ -1,0 +1,1604 @@
+{
+  "id": "ifl-2021-2022-a",
+  "title": "IFL Selection Test 2021–2022",
+  "year": 2021,
+  "version": "A",
+  "source": "Royal University of Phnom Penh, Institute of Foreign Languages, Department of English — 2021–2022 Fee-Paying Program Selection Test A",
+  "status": "pending",
+  "totalQuestions": 100,
+  "durationMinutes": 90,
+  "sections": [
+    {
+      "id": "grammar",
+      "title": "Section I: Grammar",
+      "groups": [
+        {
+          "id": "g1",
+          "type": "mcq",
+          "instruction": "For Questions 1 to 40, choose the one word or phrase which best completes each of the following sentences.",
+          "questions": [
+            {
+              "id": "ifl-2021-2022-a-q1",
+              "n": 1,
+              "prompt": "Tourists tend to visit Cambodia _______ late January or early February because the country's clear blue skies make it a great time to enjoy a pleasant trip to the northwest part of the nation.",
+              "options": [
+                { "id": "A", "text": "in" },
+                { "id": "B", "text": "on" },
+                { "id": "C", "text": "at" },
+                { "id": "D", "text": "between" }
+              ],
+              "answerId": "A",
+              "explanation": "\"In\" pairs with a broader stretch of time such as \"late January\", while \"on\" needs a specific day and \"at\" a precise time. \"Between\" would require two named points joined by \"and\".",
+              "skills": ["prepositions"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q2",
+              "n": 2,
+              "prompt": "Mealea, as well as Piseth and Dara, _______ eligible for the Bachelor of Education with Honors in Teaching English as a Foreign Language Program last year.",
+              "options": [
+                { "id": "A", "text": "is" },
+                { "id": "B", "text": "are" },
+                { "id": "C", "text": "was" },
+                { "id": "D", "text": "were" }
+              ],
+              "answerId": "C",
+              "explanation": "\"As well as Piseth and Dara\" is a parenthetical addition that does not change the number of the subject, which remains the singular \"Mealea\", and \"last year\" calls for the past tense, giving \"was\".",
+              "skills": ["subject-verb-agreement", "verb-tense"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q3",
+              "n": 3,
+              "prompt": "My classmates and _______ decided to visit Teuk Chhou Rapids in Kampot, and we enjoyed our stay there.",
+              "options": [
+                { "id": "A", "text": "I" },
+                { "id": "B", "text": "me" },
+                { "id": "C", "text": "myself" },
+                { "id": "D", "text": "mine" }
+              ],
+              "answerId": "A",
+              "explanation": "\"My classmates and I\" together form the subject of \"decided\", so the subject pronoun \"I\" is needed. \"Me\", \"myself\" and \"mine\" are object, reflexive and possessive forms.",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q4",
+              "n": 4,
+              "prompt": "Mr. Udom was surprised to see that his students were in class quite early. He _______ them not to arrive before 7:00 am.",
+              "options": [
+                { "id": "A", "text": "had been telling" },
+                { "id": "B", "text": "was telling" },
+                { "id": "C", "text": "tells" },
+                { "id": "D", "text": "had told" }
+              ],
+              "answerId": "D",
+              "explanation": "The instruction not to arrive early happened before he was surprised, an earlier past event, so the past perfect \"had told\" is needed to show it came before the surprise.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q5",
+              "n": 5,
+              "prompt": "This green mango salad is really bad. It _______ better if it _______ too salty.",
+              "options": [
+                { "id": "A", "text": "will taste ... is not" },
+                { "id": "B", "text": "would taste ... were not" },
+                { "id": "C", "text": "will taste ... will not be" },
+                { "id": "D", "text": "would have tasted ... had not been" }
+              ],
+              "answerId": "B",
+              "explanation": "This is a hypothetical about the salad's present state, so the second conditional is needed: past simple \"were not\" in the if-clause and \"would taste\" in the main clause.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q6",
+              "n": 6,
+              "prompt": "You need to show your Covid-19 vaccination card _______ enter malls and eateries.",
+              "options": [
+                { "id": "A", "text": "so that" },
+                { "id": "B", "text": "for" },
+                { "id": "C", "text": "in order that" },
+                { "id": "D", "text": "in order to" }
+              ],
+              "answerId": "D",
+              "explanation": "\"In order to\" is followed directly by the bare infinitive \"enter\" to express purpose. \"So that\" and \"in order that\" would need a full clause with its own subject and verb.",
+              "skills": ["conjunctions"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q7",
+              "n": 7,
+              "prompt": "“How is your father now, Bopha?” “He had his temperature _______ in the hospital. He is getting better. Thank you.”",
+              "options": [
+                { "id": "A", "text": "to take" },
+                { "id": "B", "text": "taken" },
+                { "id": "C", "text": "take" },
+                { "id": "D", "text": "taking" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Have something done\" is the causative pattern for an action performed by someone else, and the temperature receives the taking, so the past participle \"taken\" is required.",
+              "skills": ["causatives", "passive-voice"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q8",
+              "n": 8,
+              "prompt": "“This article is in Chinese, and I cannot understand it. Can you help me?” “Of course. I _______ it for you.”",
+              "options": [
+                { "id": "A", "text": "translate" },
+                { "id": "B", "text": "am going to translate" },
+                { "id": "C", "text": "will translate" },
+                { "id": "D", "text": "am translating" }
+              ],
+              "answerId": "C",
+              "explanation": "\"I will translate it for you\" expresses a decision made at the moment of speaking, in response to the request for help, which is exactly what \"will\" is used for.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q9",
+              "n": 9,
+              "prompt": "Never in her life _______ a bad word about her family and friends.",
+              "options": [
+                { "id": "A", "text": "has Vicheka said" },
+                { "id": "B", "text": "Vicheka will say" },
+                { "id": "C", "text": "is Vicheka saying" },
+                { "id": "D", "text": "Vicheka has said" }
+              ],
+              "answerId": "A",
+              "explanation": "Fronting the negative time expression \"Never in her life\" for emphasis triggers subject-auxiliary inversion, giving \"has Vicheka said\" rather than normal word order.",
+              "skills": ["inversion"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q10",
+              "n": 10,
+              "prompt": "_______, the Department of English of the Royal University of Phnom Penh has been recognized for its academic excellence in producing influential human resources for our country.",
+              "options": [
+                { "id": "A", "text": "It was established in 1988" },
+                { "id": "B", "text": "Established in 1988" },
+                { "id": "C", "text": "Establishing in 1988" },
+                { "id": "D", "text": "Having established in 1988" }
+              ],
+              "answerId": "B",
+              "explanation": "A reduced passive participle clause, \"Established in 1988\", modifies \"the Department of English\", which was itself established. \"Establishing\" and \"having established\" wrongly imply the department did the establishing.",
+              "skills": ["participle-clauses", "passive-voice"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q11",
+              "n": 11,
+              "prompt": "The students _______ take part in the Adult English Program Speaking Contest will be trained to make a video presentation.",
+              "options": [
+                { "id": "A", "text": "whom" },
+                { "id": "B", "text": "who" },
+                { "id": "C", "text": "whose" },
+                { "id": "D", "text": "when" }
+              ],
+              "answerId": "B",
+              "explanation": "The relative pronoun is the subject of \"take part\", referring to the people \"the students\", so \"who\" is correct. \"Whom\" is an object form, and \"whose\" and \"when\" do not fit this role.",
+              "skills": ["relative-clauses"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q12",
+              "n": 12,
+              "prompt": "Pheaktra's writing skills are _______ as _______.",
+              "options": [
+                { "id": "A", "text": "as good ... Kanitha" },
+                { "id": "B", "text": "better ... Kanitha's" },
+                { "id": "C", "text": "good ... Kanitha" },
+                { "id": "D", "text": "as good ... Kanitha's" }
+              ],
+              "answerId": "D",
+              "explanation": "\"As ... as\" needs the plain adjective \"good\" in both halves, and comparing \"writing skills\" to another person's skills needs the possessive \"Kanitha's\" to stand for \"Kanitha's writing skills\".",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q13",
+              "n": 13,
+              "prompt": "Saom Vansodany was _______ popular Cambodian actress; many people love her acting in _______ Thavory Meas Bong.",
+              "options": [
+                { "id": "A", "text": "a ... the" },
+                { "id": "B", "text": "the ... Ø" },
+                { "id": "C", "text": "a ... Ø" },
+                { "id": "D", "text": "the ... the" }
+              ],
+              "answerId": "C",
+              "explanation": "A first mention of a role, \"a popular Cambodian actress\", takes the indefinite article, while a specific film title, \"Thavory Meas Bong\", takes no article at all.",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q14",
+              "n": 14,
+              "prompt": "Ratha _______ enjoy working from home, but he loves it now.",
+              "options": [
+                { "id": "A", "text": "didn't used to" },
+                { "id": "B", "text": "isn't used to" },
+                { "id": "C", "text": "didn't get used to" },
+                { "id": "D", "text": "didn't use to" }
+              ],
+              "answerId": "D",
+              "explanation": "The negative of the past-habit form \"used to\" drops the \"d\" after \"didn't\", giving \"didn't use to\". \"Isn't used to\" describes present unfamiliarity, not a past habit.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q15",
+              "n": 15,
+              "prompt": "The visitors were absolutely _______ by the intricate design of Banteay Srei.",
+              "options": [
+                { "id": "A", "text": "amazed" },
+                { "id": "B", "text": "amaze" },
+                { "id": "C", "text": "amazing" },
+                { "id": "D", "text": "amazes" }
+              ],
+              "answerId": "A",
+              "explanation": "The visitors experience the feeling, so the -ed adjective \"amazed\" is needed. \"Amazing\" would describe the design causing the feeling, not the people feeling it.",
+              "skills": ["word-formation"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q16",
+              "n": 16,
+              "prompt": "Getting to know students from different backgrounds _______ to be one of the best parts of being a teacher.",
+              "options": [
+                { "id": "A", "text": "is" },
+                { "id": "B", "text": "are" },
+                { "id": "C", "text": "has" },
+                { "id": "D", "text": "have" }
+              ],
+              "answerId": "C",
+              "explanation": "The gerund phrase \"Getting to know students from different backgrounds\" is a singular subject, so it takes the singular \"has\" rather than \"have\"; \"has to be\" here is the common idiom for strong conviction, similar to \"must be\".",
+              "skills": ["subject-verb-agreement", "idiom"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q17",
+              "n": 17,
+              "prompt": "Because Sokha and her family wanted to experience a breath of fresh air and a green oasis, they tried to search for _______ on Google Maps.",
+              "options": [
+                { "id": "A", "text": "how could they get to K Mall" },
+                { "id": "B", "text": "they could get to K Mall" },
+                { "id": "C", "text": "how they could get to K Mall" },
+                { "id": "D", "text": "where is K Mall" }
+              ],
+              "answerId": "C",
+              "explanation": "An embedded question keeps normal statement word order, \"how they could get\", with no inverted auxiliary. A and D wrongly invert as in a direct question, and B is missing the question word \"how\".",
+              "skills": ["embedded-questions"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q18",
+              "n": 18,
+              "prompt": "In an online language classroom, a teacher can still engage the students through forming an online community, involving the learners in actively using the technology, and _______.",
+              "options": [
+                { "id": "A", "text": "the management of the emotional atmosphere" },
+                { "id": "B", "text": "to manage the emotional atmosphere" },
+                { "id": "C", "text": "manage the emotional atmosphere" },
+                { "id": "D", "text": "managing the emotional atmosphere" }
+              ],
+              "answerId": "D",
+              "explanation": "The list after \"through\" must stay parallel with the earlier gerunds \"forming\" and \"involving\", so the final item must also be a gerund, \"managing the emotional atmosphere\".",
+              "skills": ["parallel-structure", "gerund-infinitive"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q19",
+              "n": 19,
+              "prompt": "My brother called a few minutes ago and said that he should _______ home before lunch.",
+              "options": [
+                { "id": "A", "text": "arrives" },
+                { "id": "B", "text": "to arrive" },
+                { "id": "C", "text": "arriving" },
+                { "id": "D", "text": "arrive" }
+              ],
+              "answerId": "D",
+              "explanation": "The modal \"should\" is always followed by the base form of the verb, \"arrive\", regardless of the subject or the reported-speech context.",
+              "skills": ["modals"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q20",
+              "n": 20,
+              "prompt": "It is a common belief that travelers heading along National Road 4 to Sihanoukville need to pay respect to the spirit of Lok Yeay Mao, so we brought _______.",
+              "options": [
+                { "id": "A", "text": "some flowers and incense sticks" },
+                { "id": "B", "text": "for her some flowers and incense sticks" },
+                { "id": "C", "text": "her some flowers and incense sticks" },
+                { "id": "D", "text": "with some flowers and incense sticks her" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Bring\" can take an indirect object directly followed by a direct object with no preposition, \"brought her some flowers and incense sticks\". The other options insert a preposition or scramble the word order.",
+              "skills": ["word-order"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q21",
+              "n": 21,
+              "prompt": "The instructor recommended that Boramey _______ more specific supporting details to improve the quality of her paragraph.",
+              "options": [
+                { "id": "A", "text": "provided" },
+                { "id": "B", "text": "provides" },
+                { "id": "C", "text": "to provide" },
+                { "id": "D", "text": "provide" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Recommend that\" triggers the subjunctive, which uses the base form of the verb for every subject. \"Provided\" and \"provides\" are ordinary finite forms that do not fit this pattern.",
+              "skills": ["subjunctive"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q22",
+              "n": 22,
+              "prompt": "There are _______ shows on television that I want to watch. I prefer to read a book or download a movie.",
+              "options": [
+                { "id": "A", "text": "a few" },
+                { "id": "B", "text": "few" },
+                { "id": "C", "text": "a little" },
+                { "id": "D", "text": "little" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Shows\" is countable and plural, so it needs \"few\" or \"a few\" rather than \"little\"/\"a little\". Since the speaker prefers other activities instead, the negative \"few\" fits the dismissive tone better than the positive \"a few\".",
+              "skills": ["quantifiers"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q23",
+              "n": 23,
+              "prompt": "The Honda Dream is _______ than the Honda Super Cub; hence, many teenagers opt to buy this motorcycle brand.",
+              "options": [
+                { "id": "A", "text": "a little fast" },
+                { "id": "B", "text": "more faster" },
+                { "id": "C", "text": "much faster" },
+                { "id": "D", "text": "by far the fastest" }
+              ],
+              "answerId": "C",
+              "explanation": "Comparing exactly two motorcycles needs a comparative followed by \"than\", intensified with \"much\". \"More faster\" doubles the comparative, and \"by far the fastest\" is a superlative, which would need three or more items being compared.",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q24",
+              "n": 24,
+              "prompt": "Makara was absent yesterday; he is getting his lecturer _______ him a make-up progress test.",
+              "options": [
+                { "id": "A", "text": "give" },
+                { "id": "B", "text": "to give" },
+                { "id": "C", "text": "given" },
+                { "id": "D", "text": "gave" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Get someone to do something\" is the causative pattern that uses the to-infinitive, unlike \"have someone do something\", which uses the bare infinitive.",
+              "skills": ["causatives"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q25",
+              "n": 25,
+              "prompt": "Property prices in Boeung Keng Kang are an example of the fact that the _______ a city district is, the _______ the house's price in that location will be.",
+              "options": [
+                { "id": "A", "text": "more populated ... higher" },
+                { "id": "B", "text": "most populated ... highest" },
+                { "id": "C", "text": "populated ... high" },
+                { "id": "D", "text": "most populated ... higher" }
+              ],
+              "answerId": "A",
+              "explanation": "\"The + comparative ..., the + comparative ...\" is the fixed correlative pattern for two changes happening together, so both gaps need the comparative forms \"more populated\" and \"higher\", not superlatives or plain adjectives.",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q26",
+              "n": 26,
+              "prompt": "Robots and artificial intelligence will never be a substitute _______ creative thinking; thus, humans still have a distinct advantage over technology when it comes to this nonprogrammable skill.",
+              "options": [
+                { "id": "A", "text": "for" },
+                { "id": "B", "text": "from" },
+                { "id": "C", "text": "with" },
+                { "id": "D", "text": "to" }
+              ],
+              "answerId": "A",
+              "explanation": "\"A substitute for something\" is the fixed preposition pairing meaning a replacement for it. The other prepositions do not form this collocation.",
+              "skills": ["prepositions", "collocation"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q27",
+              "n": 27,
+              "prompt": "Chetra _______ at home, but he _______ to go to the Self-Access Centre to work on his research paper today.",
+              "options": [
+                { "id": "A", "text": "often studies ... wants" },
+                { "id": "B", "text": "is often studying ... is wanting" },
+                { "id": "C", "text": "often studies ... is wanting" },
+                { "id": "D", "text": "is often studying ... wants" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Often\" signals a habitual action, taking the present simple \"studies\", and \"want\" is a stative verb that is not normally used in the continuous, so \"wants\" is correct.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q28",
+              "n": 28,
+              "prompt": "I'm glad that my parents made me take swimming lessons when I was a child _______ I hated it at the time. Now, I enjoy swimming every weekend.",
+              "options": [
+                { "id": "A", "text": "despite" },
+                { "id": "B", "text": "even though" },
+                { "id": "C", "text": "because" },
+                { "id": "D", "text": "but" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Even though\" introduces a full contrasting clause, \"I hated it at the time\". \"Despite\" would need a noun or gerund instead of a clause, and \"because\" gives a reason rather than a contrast.",
+              "skills": ["conjunctions"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q29",
+              "n": 29,
+              "prompt": "There are _______ drivers on the road, but there is not _______ patience among all of them. This is probably one of the major issues which contribute to reckless driving in most cities.",
+              "options": [
+                { "id": "A", "text": "a lot of ... some" },
+                { "id": "B", "text": "many ... much" },
+                { "id": "C", "text": "a lot of ... a little" },
+                { "id": "D", "text": "much ... any" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Drivers\" is countable and plural, so it needs \"many\", while the uncountable \"patience\" in a negative statement needs \"much\" rather than \"some\" or \"a little\".",
+              "skills": ["quantifiers"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q30",
+              "n": 30,
+              "prompt": "Thida needs cheering up. She _______ a lot of problems lately.",
+              "options": [
+                { "id": "A", "text": "had" },
+                { "id": "B", "text": "has" },
+                { "id": "C", "text": "is having" },
+                { "id": "D", "text": "has been having" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Lately\" signals an action continuing up to the present, which the present perfect continuous expresses, explaining why she currently needs cheering up.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q31",
+              "n": 31,
+              "prompt": "Kosal wishes he _______ more confident about the research paper presentation tomorrow. He cannot concentrate on anything.",
+              "options": [
+                { "id": "A", "text": "feels" },
+                { "id": "B", "text": "is feeling" },
+                { "id": "C", "text": "had felt" },
+                { "id": "D", "text": "felt" }
+              ],
+              "answerId": "D",
+              "explanation": "A wish about a present state uses the past simple, so \"wishes he felt more confident\" expresses a present regret about how he currently feels. \"Had felt\" would instead express regret about the past.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q32",
+              "n": 32,
+              "prompt": "According to an experienced hiker, some of the necessities for camping at Khnorng Psa _______ a sleeping bag, some snacks, a pair of hiking shoes, some water, and an insect repellent.",
+              "options": [
+                { "id": "A", "text": "includes" },
+                { "id": "B", "text": "including" },
+                { "id": "C", "text": "include" },
+                { "id": "D", "text": "to include" }
+              ],
+              "answerId": "C",
+              "explanation": "The subject is the plural \"some of the necessities\", so the verb must be plural, \"include\", agreeing with \"necessities\" rather than treating the subject as singular.",
+              "skills": ["subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q33",
+              "n": 33,
+              "prompt": "The doctor advised Kanha _______ a face mask when she travels on public transportation.",
+              "options": [
+                { "id": "A", "text": "to wear" },
+                { "id": "B", "text": "wear" },
+                { "id": "C", "text": "wearing" },
+                { "id": "D", "text": "wears" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Advise someone to do something\" takes the object followed by a to-infinitive, \"advised Kanha to wear\". The bare infinitive, gerund, and finite forms do not fit this pattern.",
+              "skills": ["gerund-infinitive"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q34",
+              "n": 34,
+              "prompt": "Lina decided to permanently delete her TikTok account as she considered the platform not only _______ but also unsafe.",
+              "options": [
+                { "id": "A", "text": "is it inconvenient" },
+                { "id": "B", "text": "inconvenient" },
+                { "id": "C", "text": "it is inconvenient" },
+                { "id": "D", "text": "inconvenience" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Not only ... but also\" joins two parallel adjectives describing the platform, \"inconvenient\" and \"unsafe\", so the first gap needs the plain adjective. The other options break that parallel structure.",
+              "skills": ["parallel-structure"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q35",
+              "n": 35,
+              "prompt": "Can you stop those children from hitting _______? They need to behave _______.",
+              "options": [
+                { "id": "A", "text": "each other ... themselves" },
+                { "id": "B", "text": "themselves ... theirs" },
+                { "id": "C", "text": "themselves ... each other" },
+                { "id": "D", "text": "them ... one another" }
+              ],
+              "answerId": "A",
+              "explanation": "Hitting between several children needs the reciprocal \"each other\", while behaving well is something each child does to themselves individually, needing the reflexive \"themselves\".",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q36",
+              "n": 36,
+              "prompt": "Vibol is going to choose the Bachelor of Arts in English for Professional Communication after he _______ his junior year.",
+              "options": [
+                { "id": "A", "text": "will finish" },
+                { "id": "B", "text": "is going to finish" },
+                { "id": "C", "text": "finishes" },
+                { "id": "D", "text": "is finishing" }
+              ],
+              "answerId": "C",
+              "explanation": "A time clause introduced by \"after\" that refers to the future uses the present simple, \"finishes\", not a future form, even though the whole sentence describes a future plan.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q37",
+              "n": 37,
+              "prompt": "The students were required to write a _______ essay on the social and moral issues depicted in The Happy Prince.",
+              "options": [
+                { "id": "A", "text": "five hundred words" },
+                { "id": "B", "text": "five-hundred-word" },
+                { "id": "C", "text": "five-hundreds-word" },
+                { "id": "D", "text": "five-hundred-words" }
+              ],
+              "answerId": "B",
+              "explanation": "A compound adjective placed before a noun stays singular and hyphenated: \"five-hundred-word essay\". Plural forms like \"words\" or \"hundreds\" are not used inside this pattern.",
+              "skills": ["word-formation", "word-order"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q38",
+              "n": 38,
+              "prompt": "Soklin and her niece had _______ very nice buffet at Tonle Bassac Restaurant; _______ roasted duck was especially good.",
+              "options": [
+                { "id": "A", "text": "Ø ... the" },
+                { "id": "B", "text": "a ... Ø" },
+                { "id": "C", "text": "a ... the" },
+                { "id": "D", "text": "the ... a" }
+              ],
+              "answerId": "C",
+              "explanation": "\"A buffet\" is a first mention and takes the indefinite article, while \"the roasted duck\" refers to a specific dish within that already-mentioned buffet, so it takes the definite article.",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q39",
+              "n": 39,
+              "prompt": "The Ministry of Education, Youth, and Sport announced on January 14th that the number of candidates who passed their annual high school graduation exam _______ 72,016, which was equal to 65.65 percent of the total 114,187 applicants.",
+              "options": [
+                { "id": "A", "text": "has been" },
+                { "id": "B", "text": "have been" },
+                { "id": "C", "text": "were" },
+                { "id": "D", "text": "was" }
+              ],
+              "answerId": "D",
+              "explanation": "\"The number of\" is the singular head of the subject, so it takes a singular verb, and the past announcement date calls for the past tense, giving \"was\".",
+              "skills": ["subject-verb-agreement", "verb-tense"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q40",
+              "n": 40,
+              "prompt": "Ms. Sonyta has a lot of followers on Instagram, _______?",
+              "options": [
+                { "id": "A", "text": "doesn't she" },
+                { "id": "B", "text": "isn't she" },
+                { "id": "C", "text": "hasn't she" },
+                { "id": "D", "text": "won't she" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Has\" here is an ordinary lexical verb meaning \"possesses\", not the auxiliary \"have got\", so its negative tag needs \"do\"-support: \"doesn't she?\".",
+              "skills": ["question-tags"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "title": "Section II: Vocabulary",
+      "groups": [
+        {
+          "id": "g2",
+          "type": "vocab-inline",
+          "instruction": "For Questions 41 to 50, choose the one best option which is closest in meaning to the underlined word or phrase in each sentence.",
+          "questions": [
+            {
+              "id": "ifl-2021-2022-a-q41",
+              "n": 41,
+              "prompt": "If you want to succeed in whatever you do, you should build your confidence. Lack of confidence is a psychological [[barrier]] to success.",
+              "options": [
+                { "id": "A", "text": "obstacle" },
+                { "id": "B", "text": "factor" },
+                { "id": "C", "text": "concept" },
+                { "id": "D", "text": "key" }
+              ],
+              "answerId": "A",
+              "explanation": "A \"barrier\" is something that blocks progress, matching \"obstacle\" directly. \"Factor\" is too neutral, and \"key\" would suggest something that enables rather than blocks success.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q42",
+              "n": 42,
+              "prompt": "Dara behaved suspiciously during the test. Soon afterward, he had difficulty [[convincing]] the teacher of his innocence.",
+              "options": [
+                { "id": "A", "text": "encouraging" },
+                { "id": "B", "text": "motivating" },
+                { "id": "C", "text": "explaining to" },
+                { "id": "D", "text": "proving to" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Convincing the teacher of his innocence\" means making the teacher believe he was innocent, closest to \"proving to\" the teacher. \"Encouraging\" and \"motivating\" describe inspiring action, not persuading someone of a fact.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q43",
+              "n": 43,
+              "prompt": "The old man [[acknowledges]] that when he is tired, he gets bad-tempered.",
+              "options": [
+                { "id": "A", "text": "explains" },
+                { "id": "B", "text": "states" },
+                { "id": "C", "text": "comments" },
+                { "id": "D", "text": "admits" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Acknowledges\" means to accept as true, often something unflattering about oneself, matching \"admits\". \"Explains\" and \"states\" are more neutral and do not carry that sense of conceding a fault.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q44",
+              "n": 44,
+              "prompt": "Despite having prepared everything, the inexperienced researcher was still [[reluctant]] to enter the classroom to collect the data.",
+              "options": [
+                { "id": "A", "text": "undecided" },
+                { "id": "B", "text": "hesitant" },
+                { "id": "C", "text": "unclear" },
+                { "id": "D", "text": "willing" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Reluctant\" means unwilling or hesitant to do something, matching \"hesitant\" directly. \"Willing\" is its opposite, and \"undecided\"/\"unclear\" describe not having made a decision, not being unwilling to act.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q45",
+              "n": 45,
+              "prompt": "The 10-year-long marriage life almost came to an end when the couple's romantic problems [[arose]].",
+              "options": [
+                { "id": "A", "text": "occurred" },
+                { "id": "B", "text": "persisted" },
+                { "id": "C", "text": "resolved" },
+                { "id": "D", "text": "created" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Arose\" means came into being or happened, matching \"occurred\". \"Resolved\" would mean the problems were solved, the opposite of nearly ending the marriage.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q46",
+              "n": 46,
+              "prompt": "During the test, you are not [[permitted]] to use or borrow a correction pen.",
+              "options": [
+                { "id": "A", "text": "accepted" },
+                { "id": "B", "text": "admitted" },
+                { "id": "C", "text": "allowed" },
+                { "id": "D", "text": "prohibited" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Permitted\" means given permission, matching \"allowed\" directly. \"Prohibited\" is its opposite, and \"accepted\"/\"admitted\" describe being received or let in somewhere, not being given permission.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q47",
+              "n": 47,
+              "prompt": "The report failed to [[mention]] the need for providing the teachers with online training that they need to teach online classes satisfactorily.",
+              "options": [
+                { "id": "A", "text": "fulfil" },
+                { "id": "B", "text": "create" },
+                { "id": "C", "text": "accept" },
+                { "id": "D", "text": "state" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Mention\" means to refer to or say something about a topic, matching \"state\". \"Fulfil\" refers to satisfying a requirement, not referring to it in writing.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q48",
+              "n": 48,
+              "prompt": "I have never seen anyone who has a quick temper like her. Such little things will [[fire her up]]. It is not that easy to talk to her.",
+              "options": [
+                { "id": "A", "text": "make her angry" },
+                { "id": "B", "text": "offend her" },
+                { "id": "C", "text": "upset her" },
+                { "id": "D", "text": "shock her" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Fire someone up\" here means to provoke a burst of anger, matching \"make her angry\", which fits \"has a quick temper\". \"Upset\" and \"offend\" describe milder, more general negative reactions.",
+              "skills": ["idiom", "synonyms"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q49",
+              "n": 49,
+              "prompt": "I can see that you always listen to and do everything he says. If I were you, I would be very careful. Everyone says he is [[a snake in the grass]].",
+              "options": [
+                { "id": "A", "text": "a mysterious person" },
+                { "id": "B", "text": "an aggressive person" },
+                { "id": "C", "text": "an untrustworthy person" },
+                { "id": "D", "text": "a good-for-nothing person" }
+              ],
+              "answerId": "C",
+              "explanation": "\"A snake in the grass\" is an idiom for a hidden, treacherous person who cannot be trusted, matching \"an untrustworthy person\" and the warning to \"be very careful\".",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q50",
+              "n": 50,
+              "prompt": "Sometimes I regret not accepting his proposal of marriage. Oh well, there's no point [[crying over spilt milk]].",
+              "options": [
+                { "id": "A", "text": "being upset about something that cannot be undone" },
+                { "id": "B", "text": "blaming yourself for what you haven't done" },
+                { "id": "C", "text": "crying for the milk that has already gone bad" },
+                { "id": "D", "text": "accepting someone's apology" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Crying over spilt milk\" is an idiom for being upset about a past event that cannot be changed, matching A. C wrongly takes the idiom literally.",
+              "skills": ["idiom"]
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "type": "mcq",
+          "instruction": "For Questions 51 to 60, choose the one option which best completes the blank of each sentence below.",
+          "questions": [
+            {
+              "id": "ifl-2021-2022-a-q51",
+              "n": 51,
+              "prompt": "An increasing number of guns have been found and _______ in schools recently. Many parents have started to fear for the safety of their children.",
+              "options": [
+                { "id": "A", "text": "raised" },
+                { "id": "B", "text": "aimed" },
+                { "id": "C", "text": "confiscated" },
+                { "id": "D", "text": "loaded" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Confiscated\" means officially seized by an authority, fitting guns being found and taken away from schools. \"Aimed\" and \"loaded\" describe using a gun, not removing it.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q52",
+              "n": 52,
+              "prompt": "His secretary said that he could only _______ 30 minutes for our meeting. You know how tight his schedule is, don't you?",
+              "options": [
+                { "id": "A", "text": "waste" },
+                { "id": "B", "text": "pass" },
+                { "id": "C", "text": "spare" },
+                { "id": "D", "text": "invest" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Spare\" means to make a small amount of something, usually time, available despite other demands, fitting a tight schedule. \"Waste\" would contradict the idea of a valuable, limited amount of time.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q53",
+              "n": 53,
+              "prompt": "A new computer lab was _______ on February 1, 2022 at the Institute. Many staffs, students, and guests of honor attended the inauguration.",
+              "options": [
+                { "id": "A", "text": "restored" },
+                { "id": "B", "text": "refurbished" },
+                { "id": "C", "text": "reopened" },
+                { "id": "D", "text": "inaugurated" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Inaugurated\" means formally opened with a ceremony, matching the word \"inauguration\" used right after it. \"Restored\" and \"refurbished\" describe repairing something old, not opening something new.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q54",
+              "n": 54,
+              "prompt": "The due date for this homework is this Sunday. It is important that you _______ your work one day earlier.",
+              "options": [
+                { "id": "A", "text": "delay" },
+                { "id": "B", "text": "submit" },
+                { "id": "C", "text": "fasten" },
+                { "id": "D", "text": "ignore" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Submit\" means to hand in work by a deadline, matching turning in homework a day early. \"Delay\" is the opposite of finishing something ahead of time.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q55",
+              "n": 55,
+              "prompt": "To drive safely, you need to _______ your seatbelt all the time.",
+              "options": [
+                { "id": "A", "text": "fasten" },
+                { "id": "B", "text": "surround" },
+                { "id": "C", "text": "tie" },
+                { "id": "D", "text": "attach" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Fasten your seatbelt\" is the fixed collocation for securing a seatbelt. \"Tie\" and \"attach\" are not the conventional verbs used with seatbelts.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q56",
+              "n": 56,
+              "prompt": "The school principal has absolutely no _______ for students who get caught cheating in exams. He always gives those who have been found cheating a failing grade.",
+              "options": [
+                { "id": "A", "text": "punishment" },
+                { "id": "B", "text": "rule" },
+                { "id": "C", "text": "sympathy" },
+                { "id": "D", "text": "bribe" }
+              ],
+              "answerId": "C",
+              "explanation": "\"No sympathy\" fits a principal who shows no leniency and always fails cheaters, whereas \"no punishment\" would contradict giving them a failing grade.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q57",
+              "n": 57,
+              "prompt": "It's too hot on the street, so you should stay in the _______ of this large oak tree if you don't want to get sunburned.",
+              "options": [
+                { "id": "A", "text": "shadow" },
+                { "id": "B", "text": "shade" },
+                { "id": "C", "text": "darkness" },
+                { "id": "D", "text": "tone" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Shade\" is the area sheltered from direct sunlight under something like a tree, exactly where one would stay to avoid sunburn. \"Shadow\" refers to the dark shape an object casts, not the sheltered area itself.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q58",
+              "n": 58,
+              "prompt": "Thousands of tourists flocked to the _______ temple just before sunset to admire the beautiful sculptures and the setting sun, of course!",
+              "options": [
+                { "id": "A", "text": "ancient" },
+                { "id": "B", "text": "ruined" },
+                { "id": "C", "text": "demolished" },
+                { "id": "D", "text": "polluted" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Ancient\" fits a historic temple with admired sculptures that draws tourists. \"Demolished\" and \"polluted\" describe conditions that would not attract visitors for its beauty.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q59",
+              "n": 59,
+              "prompt": "The students were _______ their teacher and laughing heartily. They were trying to do things the teacher did, and, suddenly, he appeared at the door!",
+              "options": [
+                { "id": "A", "text": "mocking" },
+                { "id": "B", "text": "following" },
+                { "id": "C", "text": "complaining" },
+                { "id": "D", "text": "imitating" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Imitating\" means copying someone's actions, matching \"trying to do things the teacher did\". \"Following\" would only describe movement, not copying behaviour.",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q60",
+              "n": 60,
+              "prompt": "Most of the local residents vehemently _______ the closing of their hospital. They don't want to lose this century-old establishment.",
+              "options": [
+                { "id": "A", "text": "welcomed" },
+                { "id": "B", "text": "opposed" },
+                { "id": "C", "text": "proposed" },
+                { "id": "D", "text": "acknowledged" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Opposed\" means to strongly object to something, matching \"don't want to lose\" the hospital. \"Welcomed\" and \"proposed\" would suggest supporting the closure, not resisting it.",
+              "skills": ["vocabulary-in-context"]
+            }
+          ]
+        },
+        {
+          "id": "g4",
+          "type": "cloze",
+          "instruction": "For Questions 61 to 65, choose one option which best completes each blank in the passage below.",
+          "stimulus": {
+            "id": "telegram",
+            "title": "Telegram",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "text": "Communicating through Telegram is as easy as ABC. Assuming that you have a Telegram account, you can {{61}} a text message to a contact, a person you know. After typing the message, you can touch the “send” button to send the message. In the {{62}} of an eye, the message will be sent. You can see a single check {{63}} to the right of the message."
+              },
+              {
+                "kind": "paragraph",
+                "text": "In the event of a slow Internet {{64}}, you will see a clock icon next to the message. All you need to do may be to wait until you see the check mark. You can also tell if your contact has seen the message; this is indicated with a double-check mark to the right of the message. What's more, you can reply to a particular message, and you can {{65}} it to another contact."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2021-2022-a-q61",
+              "n": 61,
+              "options": [
+                { "id": "A", "text": "send" },
+                { "id": "B", "text": "type" },
+                { "id": "C", "text": "compose" },
+                { "id": "D", "text": "save" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Send a text message to a contact\" matches the later reference to the \"send\" button. \"Type\" and \"compose\" are covered separately by \"after typing the message\".",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q62",
+              "n": 62,
+              "options": [
+                { "id": "A", "text": "close" },
+                { "id": "B", "text": "blink" },
+                { "id": "C", "text": "brink" },
+                { "id": "D", "text": "shut" }
+              ],
+              "answerId": "B",
+              "explanation": "\"In the blink of an eye\" is the fixed idiom meaning almost instantly. \"Close\", \"shut\" and \"brink\" do not form this idiom.",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q63",
+              "n": 63,
+              "options": [
+                { "id": "A", "text": "sign" },
+                { "id": "B", "text": "dot" },
+                { "id": "C", "text": "spot" },
+                { "id": "D", "text": "mark" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Check mark\" is the fixed collocation for the tick symbol, confirmed later in the passage by \"until you see the check mark\".",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q64",
+              "n": 64,
+              "options": [
+                { "id": "A", "text": "connection" },
+                { "id": "B", "text": "website" },
+                { "id": "C", "text": "browser" },
+                { "id": "D", "text": "operation" }
+              ],
+              "answerId": "A",
+              "explanation": "\"A slow Internet connection\" is the standard phrase for poor connectivity, which explains why the clock icon appears while a message is still sending.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q65",
+              "n": 65,
+              "options": [
+                { "id": "A", "text": "save" },
+                { "id": "B", "text": "share" },
+                { "id": "C", "text": "forward" },
+                { "id": "D", "text": "reply" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Forward\" is the specific term for sending a received message on to another contact, distinct from \"reply\", which is already mentioned as a separate action in the same sentence.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            }
+          ]
+        },
+        {
+          "id": "g5",
+          "type": "cloze",
+          "instruction": "For Questions 66 to 70, choose one option which best completes each blank in the passage below.",
+          "stimulus": {
+            "id": "the-countryside",
+            "title": "The Countryside",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "text": "Away from the urban problems of the city lies the {{66}} peace and quiet of the countryside. The air is more likely to be clear and unpolluted, the {{67}} of life is slower, and the people living in small villages are more relaxed and friendly. Some land is {{68}} and you'll see crops growing, as well as animals grazing, on the farms. Some areas of particular natural beauty are designated as national parks by the government, and here {{69}} can live and move about safely. It is in places {{70}} from the noisy cities that you can experience the true beauty of nature."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2021-2022-a-q66",
+              "n": 66,
+              "options": [
+                { "id": "A", "text": "rural" },
+                { "id": "B", "text": "urban" },
+                { "id": "C", "text": "metropolitan" },
+                { "id": "D", "text": "city" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Rural peace and quiet\" contrasts directly with the \"urban problems of the city\" mentioned just before it. \"Urban\", \"metropolitan\" and \"city\" all describe the opposite kind of place.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q67",
+              "n": 67,
+              "options": [
+                { "id": "A", "text": "speed" },
+                { "id": "B", "text": "pace" },
+                { "id": "C", "text": "loss" },
+                { "id": "D", "text": "sign" }
+              ],
+              "answerId": "B",
+              "explanation": "\"The pace of life\" is the standard collocation for how quickly daily life feels, matching \"is slower\". \"Speed of life\" is not the natural phrase used for this idea.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q68",
+              "n": 68,
+              "options": [
+                { "id": "A", "text": "grown" },
+                { "id": "B", "text": "tilled" },
+                { "id": "C", "text": "ploughed" },
+                { "id": "D", "text": "cultivated" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Cultivated\" is the general term for land prepared and used for farming, broad enough to cover both \"crops growing\" and \"animals grazing\" mentioned afterward. \"Ploughed\" and \"tilled\" describe a narrower, specific stage of soil preparation.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q69",
+              "n": 69,
+              "options": [
+                { "id": "A", "text": "pest" },
+                { "id": "B", "text": "wildlife" },
+                { "id": "C", "text": "plants" },
+                { "id": "D", "text": "insects" }
+              ],
+              "answerId": "B",
+              "explanation": "National parks are designated to protect \"wildlife\", allowing wild animals to live and move about safely, which fits the conservation purpose described.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q70",
+              "n": 70,
+              "options": [
+                { "id": "A", "text": "adjacent" },
+                { "id": "B", "text": "nearby" },
+                { "id": "C", "text": "remote" },
+                { "id": "D", "text": "faraway" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Places remote from the noisy cities\" uses \"remote from\" to mean distant and isolated from cities, fitting the idea of experiencing true nature away from urban noise. \"Adjacent\" and \"nearby\" would mean the opposite, close to cities.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Section III: Reading",
+      "groups": [
+        {
+          "id": "g6",
+          "type": "mcq",
+          "instruction": "For Questions 71 to 80, choose the best ending for each paragraph below.",
+          "questions": [
+            {
+              "id": "ifl-2021-2022-a-q71",
+              "n": 71,
+              "prompt": "Friday was the last day of the English course, and there was a party in the evening. The students bought some food and drinks. They got a stereo and some music. Then the party started. There wasn't enough food for all the students, but they weren't hungry. They wanted to listen to music and _______.",
+              "options": [
+                { "id": "A", "text": "cook" },
+                { "id": "B", "text": "dance" },
+                { "id": "C", "text": "study" },
+                { "id": "D", "text": "sleep" }
+              ],
+              "answerId": "B",
+              "explanation": "A party with music and a stereo naturally leads to dancing, which fits the celebratory mood; cooking, studying and sleeping do not match a party atmosphere where the students already \"weren't hungry\".",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q72",
+              "n": 72,
+              "prompt": "Yesterday morning the bank was closed, so I couldn't get any money. I couldn't buy the newspaper, and I couldn't buy any milk or bread. I went to work with no breakfast, and I had nothing to read on the bus. At 11:00, I was very _______.",
+              "options": [
+                { "id": "A", "text": "hungry" },
+                { "id": "B", "text": "full" },
+                { "id": "C", "text": "rich" },
+                { "id": "D", "text": "tired" }
+              ],
+              "answerId": "A",
+              "explanation": "Having no money for milk or bread and going to work with no breakfast leads directly to hunger by mid-morning, unlike the other options, which are not supported by the details given.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q73",
+              "n": 73,
+              "prompt": "There were many famous people at the party in New York City. There was the president of a big university and the president of a big company. There was a famous Swedish doctor and a famous Russian writer. There was also _______.",
+              "options": [
+                { "id": "A", "text": "my friend Jane" },
+                { "id": "B", "text": "the wife of the French president" },
+                { "id": "C", "text": "a large party in New York" },
+                { "id": "D", "text": "a lot of food" }
+              ],
+              "answerId": "B",
+              "explanation": "The list builds a pattern of famous, internationally notable guests, so the next item should continue that pattern, matching \"the wife of the French president\" rather than an ordinary personal acquaintance or a restatement of the party itself.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q74",
+              "n": 74,
+              "prompt": "Look at this place! Did you have a party last night? There are bottles and glasses on all the tables. There is food on the armchairs and on the floor. I'm going out for a few minutes. When I come back in a short time, I don't want to _______",
+              "options": [
+                { "id": "A", "text": "see this place!" },
+                { "id": "B", "text": "eat any food!" },
+                { "id": "C", "text": "see these things!" },
+                { "id": "D", "text": "have a party!" }
+              ],
+              "answerId": "A",
+              "explanation": "The speaker's frustration is clearly about the messy room as a whole, so \"see this place!\" directly matches that complaint, more precisely than the vaguer \"these things\" or the unrelated \"eat any food\"/\"have a party\".",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q75",
+              "n": 75,
+              "prompt": "In different parts of the world, people build their houses of different materials. In areas where there is a lot of wood, houses are made of wood. In hot, dry areas with little wood, houses are often made of clay bricks. In the far northern areas, people even build their houses of ice. Generally, _______.",
+              "options": [
+                { "id": "A", "text": "people prefer houses made of stone" },
+                { "id": "B", "text": "wooden houses are dangerous because they can burn" },
+                { "id": "C", "text": "people in some areas build their houses of leaves" },
+                { "id": "D", "text": "people build their houses with whatever they can find" }
+              ],
+              "answerId": "D",
+              "explanation": "The examples all show a pattern of using whatever material is locally available, whether wood, clay, or ice, so the general conclusion is that people build with whatever they can find in their own area.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q76",
+              "n": 76,
+              "prompt": "Long before there were airplanes, people wanted to be able to fly. Early scientists studied birds' wings to see how they worked. Then they tried to build wings of feathers. But when they actually tried to fly, they never _______.",
+              "options": [
+                { "id": "A", "text": "spread their wings enough" },
+                { "id": "B", "text": "stayed up for long" },
+                { "id": "C", "text": "hurt themselves" },
+                { "id": "D", "text": "fell to the ground" }
+              ],
+              "answerId": "B",
+              "explanation": "Since powered flight did not exist yet, early attempts with feathered wings could only briefly leave the ground before coming back down, so \"never stayed up for long\" fits best, unlike stronger claims about never spreading their wings or always getting hurt.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q77",
+              "n": 77,
+              "prompt": "Many people are very afraid of snakes. It is true that poisonous snakes can make you very ill or even kill you. However, very few snakes are poisonous. Most snakes are harmless. In fact, they usually are afraid of people. If you meet a snake in your garden, it will probably _______.",
+              "options": [
+                { "id": "A", "text": "bite you" },
+                { "id": "B", "text": "slide quickly away" },
+                { "id": "C", "text": "stay and watch you" },
+                { "id": "D", "text": "come closer" }
+              ],
+              "answerId": "B",
+              "explanation": "Since the passage says snakes are usually afraid of people, the most likely reaction is that it will flee quickly, not attack, linger, or approach.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q78",
+              "n": 78,
+              "prompt": "Vitamins are very important for good health. One vitamin that you need to have regularly is vitamin C. Certain fruits and vegetables are rich in this vitamin. Some examples are oranges, lemons, and grapefruits, as well as red peppers and tomatoes. Vitamin C can be destroyed by heat, so it is a good idea _______.",
+              "options": [
+                { "id": "A", "text": "to eat only cooked fruits and vegetables" },
+                { "id": "B", "text": "to eat only vegetables that have vitamin C" },
+                { "id": "C", "text": "to eat lots of uncooked fruits and vegetables" },
+                { "id": "D", "text": "never to eat uncooked fruits and vegetables" }
+              ],
+              "answerId": "C",
+              "explanation": "Since heat destroys vitamin C, eating these fruits and vegetables uncooked preserves the vitamin, making C the logical recommendation and directly contradicting A and D.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q79",
+              "n": 79,
+              "prompt": "Pigs have long been the most common animal for meat in many parts of the world. The reason for this is economic. The pig produces meat more efficiently than any other animals. For every 100 pounds of food, it produces 20 pounds of meat. In comparison, for example, cattle produce _______.",
+              "options": [
+                { "id": "A", "text": "more than 30 pounds of meat per 100 pounds of food" },
+                { "id": "B", "text": "twice as much meat per 100 pounds of food" },
+                { "id": "C", "text": "only about seven pounds of meat per 100 pounds of food" },
+                { "id": "D", "text": "nearly double the amount of meat per 100 pounds of food" }
+              ],
+              "answerId": "C",
+              "explanation": "Since pigs are described as the most efficient meat producers, cattle must produce less meat per 100 pounds of food than the pig's 20 pounds, ruling out options that describe cattle producing more.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q80",
+              "n": 80,
+              "prompt": "Many scientists, including Charles Darwin, wondered why we cry tears. What is the biological or evolutionary purpose of tears? We could just as well cry without any tears falling. But, in fact, our eyes fill with tears. Scientists have proposed many theories about tears, but none of these theories has been proven. And so, in evolutionary terms, _______.",
+              "options": [
+                { "id": "A", "text": "the origin of tears remains a mystery" },
+                { "id": "B", "text": "Darwin explained the origin of tears" },
+                { "id": "C", "text": "there are many reasons for crying with tears" },
+                { "id": "D", "text": "only Darwin studied the origin of tears" }
+              ],
+              "answerId": "A",
+              "explanation": "Since none of the many proposed theories has been proven, the evolutionary purpose of tears is still unresolved, matching \"remains a mystery\" rather than any claim that it has been explained.",
+              "skills": ["inference"]
+            }
+          ]
+        },
+        {
+          "id": "g7",
+          "type": "passage-mcq",
+          "instruction": "For Questions 81 to 83, scan the picture below and answer the questions that follow.",
+          "stimulus": {
+            "id": "in-the-vicinity",
+            "title": "… In The Vicinity",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "text": "**BANKS** — There are two banks on the corner of Main and Weisley Street. It's walking distance from the hotel. The hours are Mon–Fri 10 a.m. – 4 p.m."
+              },
+              {
+                "kind": "paragraph",
+                "text": "**MUSEUM** — 130 Main Road (Near Fairview Mall). Bus #1 will take you directly to the museum. It runs every 15 minutes."
+              },
+              {
+                "kind": "paragraph",
+                "text": "**HOSPITAL** — St. George Hospital, 1000 Bathurst Street. Emergency service open 24 hours a day."
+              },
+              {
+                "kind": "paragraph",
+                "text": "**TAXI STAND** — Just outside the east wing door. Ask the front desk clerk for assistance with luggage."
+              },
+              {
+                "kind": "paragraph",
+                "text": "**POST OFFICE** — Nearest post office – 4 min. walk down Gerald Road. Hours 9 – 5 weekdays."
+              },
+              {
+                "kind": "paragraph",
+                "text": "**GYM** — 1st Basement floor of the hotel."
+              },
+              {
+                "kind": "paragraph",
+                "text": "**PHARMACY** — Ground floor of the hotel. Open 24 hours a day."
+              },
+              {
+                "kind": "paragraph",
+                "text": "**SHUTTLE BUS** — Shuttle service to the airport every 10 min. Free. At the front door."
+              },
+              {
+                "kind": "paragraph",
+                "text": "**POLICE STATION** — Close to the hotel – On the corner of University and College Streets. Emergency 911."
+              },
+              {
+                "kind": "paragraph",
+                "text": "**SHOPPING** — 250 Main Road. Hours are from 10 a.m. – 6 p.m. on weekdays, 12 – 5 on Saturday. Closed Sunday."
+              },
+              {
+                "kind": "paragraph",
+                "text": "**PHOTO DEVELOPING** — Service available from 9 until 6 daily from your room. Call the front desk. Ext. 000."
+              },
+              {
+                "kind": "paragraph",
+                "text": "FOR MORE INFORMATION ASK AT FRONT DESK"
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2021-2022-a-q81",
+              "n": 81,
+              "prompt": "Where would this information most likely be posted?",
+              "options": [
+                { "id": "A", "text": "At a bus stop" },
+                { "id": "B", "text": "In a hotel lobby" },
+                { "id": "C", "text": "At a shopping center" },
+                { "id": "D", "text": "At a post office" }
+              ],
+              "answerId": "B",
+              "explanation": "Repeated references to \"the hotel\", \"the front desk\", and services available \"from your room\" all point to a hotel information sheet, not a bus stop, shopping center, or post office.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q82",
+              "n": 82,
+              "prompt": "According to the information, which can be performed at 1 o'clock in the morning?",
+              "options": [
+                { "id": "A", "text": "Withdrawing some cash" },
+                { "id": "B", "text": "Working out at the gym" },
+                { "id": "C", "text": "Getting medicine for a cold" },
+                { "id": "D", "text": "Getting pictures developed" }
+              ],
+              "answerId": "C",
+              "explanation": "The pharmacy is explicitly \"open 24 hours a day\", so getting medicine for a cold is possible at 1 a.m., unlike banking (10–4), photo developing (9 until 6), or the gym, whose hours are not stated as round-the-clock.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q83",
+              "n": 83,
+              "prompt": "What can be inferred from the information?",
+              "options": [
+                { "id": "A", "text": "A ride to the airport is available very infrequently." },
+                { "id": "B", "text": "Packages can be sent during business hours." },
+                { "id": "C", "text": "Guests can get their suits pressed right from their rooms." },
+                { "id": "D", "text": "Help with the bags is available with just a phone call." }
+              ],
+              "answerId": "B",
+              "explanation": "The post office's listed weekday hours (9–5) imply that mail or packages can be sent during that business-hours window, whereas the shuttle bus runs every 10 minutes (frequently, not infrequently), and suit pressing is never mentioned.",
+              "skills": ["inference"]
+            }
+          ]
+        },
+        {
+          "id": "g8",
+          "type": "passage-mcq",
+          "instruction": "For Questions 84 to 93, choose the best answer for each question that follows the reading passage below.",
+          "stimulus": {
+            "id": "choosing-a-career",
+            "title": "Choosing a Career",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "label": "1",
+                "text": "Choosing a career may be one of the hardest jobs you ever have, and it must be done with care. View a career as an opportunity to do something you love, not simply as a way to earn a living. **Investing the time and effort to thoroughly explore your options can mean the difference between finding a stimulating and rewarding career, and moving from job to unsatisfying job in an attempt to find the right one.** Work influences virtually every aspect of your life, from your choice of friends to where you live. Here are just a few of the factors to consider."
+              },
+              {
+                "kind": "paragraph",
+                "label": "2",
+                "text": "Deciding what matters most to you is essential to making the right decision. You may want to begin by **assessing** your likes, dislikes, strengths, and weaknesses. Think about the classes, hobbies, and surroundings that you find most appealing. Ask yourself questions, such as, \"Would you like to travel? Do you want to work with children? Are you more suited to solitary or cooperative work?\" **There are no right or wrong answers**; only you know what is important to you. Determine which job features you require, which ones you would prefer, and which ones you cannot accept. Then rank **them** in order of importance to you."
+              },
+              {
+                "kind": "paragraph",
+                "label": "3",
+                "text": "The setting of the job is one factor to take into account. You may not want to sit at a desk all day. If not, there are diverse occupations – building inspector, surveyor, real estate agent – that involve a great deal of time away from the office. Geographic location may be a concern, and employment in some fields is concentrated in certain regions. For example, aerospace jobs in the U.S. are most plentiful in California, Texas, and Washington. Advertising jobs can generally be found only in large cities. On the other hand, many industries such as hospitality, law, education, and retail sales are found in all regions of the country."
+              },
+              {
+                "kind": "paragraph",
+                "label": "4",
+                "text": "If a high salary is important to you, do not judge a career by its starting wages. Many jobs, such as insurance sales, offer relatively low starting salaries; however, pay substantially increases along with your experience, additional training, promotions, and commission."
+              },
+              {
+                "kind": "paragraph",
+                "label": "5",
+                "text": "Don't rule out any occupation without learning more about it. Some industries **evoke** positive or negative associations. The travelling life of a flight attendant appears glamorous, while that of a plumber does not. Remember that many jobs are not what they appear to be at first, and may have merits or demerits that are less obvious. Flight attendants must work **long, grueling hours without sleeps**, whereas plumbers can be as highly paid as some doctors. Another point to consider is that as you mature, you will likely develop new interests and skills that may point the way to new opportunities. The choice you make today need not be your final one."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2021-2022-a-q84",
+              "n": 84,
+              "prompt": "The word “them” in paragraph 2 refers to _______.",
+              "options": [
+                { "id": "A", "text": "questions" },
+                { "id": "B", "text": "answers" },
+                { "id": "C", "text": "features" },
+                { "id": "D", "text": "jobs" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Rank them in order of importance\" follows directly after \"which job features you require, prefer, or cannot accept\", so \"them\" refers to those job features, not the earlier \"questions\" or \"jobs\".",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q85",
+              "n": 85,
+              "prompt": "The word “assessing” in paragraph 2 could best be replaced by _______.",
+              "options": [
+                { "id": "A", "text": "discovering" },
+                { "id": "B", "text": "considering" },
+                { "id": "C", "text": "measuring" },
+                { "id": "D", "text": "disposing" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Assessing your likes, dislikes, strengths, and weaknesses\" means thinking about and evaluating them, closest to \"considering\" rather than the more precise, numeric sense of \"measuring\".",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q86",
+              "n": 86,
+              "prompt": "The author states in paragraph 2 “there are no right or wrong answers” in order to _______.",
+              "options": [
+                { "id": "A", "text": "emphasize that each person's answers will be different" },
+                { "id": "B", "text": "show that answering the questions is a long and difficult process" },
+                { "id": "C", "text": "indicate that the answers are not really very important" },
+                { "id": "D", "text": "indicate that each person's answers may change over time" }
+              ],
+              "answerId": "A",
+              "explanation": "The statement is followed immediately by \"only you know what is important to you\", showing the point is that the answers are personal to each individual, not that they don't matter or that the process itself is slow.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q87",
+              "n": 87,
+              "prompt": "According to paragraph 3, which of the following fields is NOT suitable for a person who does not want to live in a big city?",
+              "options": [
+                { "id": "A", "text": "Plumbing" },
+                { "id": "B", "text": "Law" },
+                { "id": "C", "text": "Retail sales" },
+                { "id": "D", "text": "Advertising" }
+              ],
+              "answerId": "D",
+              "explanation": "Paragraph 3 states directly that \"advertising jobs can generally be found only in large cities\", while law and retail sales are listed among industries \"found in all regions of the country\".",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q88",
+              "n": 88,
+              "prompt": "According to the passage, which of the following is true?",
+              "options": [
+                { "id": "A", "text": "If you want to make a lot of money, you should not take a job with a low starting salary." },
+                { "id": "B", "text": "If you want to make a lot of money, you should rule out all factory jobs." },
+                { "id": "C", "text": "If you want an easy and glamorous lifestyle, you should consider becoming a flight attendant." },
+                { "id": "D", "text": "Your initial view of certain careers may not be accurate." }
+              ],
+              "answerId": "D",
+              "explanation": "Paragraph 5's central point is that \"many jobs are not what they appear to be at first\", directly supporting D, while A misreads paragraph 4's advice not to judge a career by its low starting wage, and B and C are not supported by the passage.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q89",
+              "n": 89,
+              "prompt": "It can be inferred from paragraph 4 that _______.",
+              "options": [
+                { "id": "A", "text": "jobs in insurance sales are generally not well-paid" },
+                { "id": "B", "text": "insurance sales people can earn high salaries later in their careers" },
+                { "id": "C", "text": "people should constantly work toward the next promotion" },
+                { "id": "D", "text": "a starting salary should be an important consideration in choosing a career" }
+              ],
+              "answerId": "B",
+              "explanation": "Since pay in insurance sales \"substantially increases along with your experience, additional training, promotions, and commission\", insurance sales people can eventually earn high salaries despite a low start, contradicting A and D.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q90",
+              "n": 90,
+              "prompt": "Which of the following best expresses the essential information in the underlined sentence in the passage?",
+              "options": [
+                { "id": "A", "text": "Leaving an unsatisfying job is an opportunity to find a rewarding career." },
+                { "id": "B", "text": "Most people have unsatisfying careers because they failed to examine their options thoroughly." },
+                { "id": "C", "text": "If you don't take the time to think carefully about your choices, you may never find the right career." },
+                { "id": "D", "text": "Choosing a career takes a great deal of effort, and you may not make the right choice the first time." }
+              ],
+              "answerId": "C",
+              "explanation": "The underlined sentence ties thorough exploration to finding a rewarding career and a lack of it to \"moving from job to unsatisfying job in an attempt to find the right one\", which C paraphrases most closely as a cause-and-effect warning about not thinking carefully.",
+              "skills": ["paraphrase"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q91",
+              "n": 91,
+              "prompt": "In paragraph 5, the author suggests that _______.",
+              "options": [
+                { "id": "A", "text": "you may want to change careers at some time in the future" },
+                { "id": "B", "text": "as you get older, your career will probably be less fulfilling" },
+                { "id": "C", "text": "you will be at your job for a lifetime, so choose carefully" },
+                { "id": "D", "text": "you will probably be jobless at some time in the future" }
+              ],
+              "answerId": "A",
+              "explanation": "Paragraph 5 states that as you mature you will \"develop new interests and skills that may point the way to new opportunities\" and that \"the choice you make today need not be your final one\", directly suggesting a future career change.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q92",
+              "n": 92,
+              "prompt": "The word “evoke” in paragraph 5 is closest in meaning to _______.",
+              "options": [
+                { "id": "A", "text": "bring to mind" },
+                { "id": "B", "text": "be related to" },
+                { "id": "C", "text": "be different from" },
+                { "id": "D", "text": "agree on" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Some industries evoke positive or negative associations\" means they call certain impressions to mind, matching \"bring to mind\" directly.",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q93",
+              "n": 93,
+              "prompt": "Why does the author mention “long, grueling hours without sleeps” in paragraph 5?",
+              "options": [
+                { "id": "A", "text": "To emphasize the difficulty of working as a plumber" },
+                { "id": "B", "text": "To contrast the reality of a flight attendant's job with most people's perceptions" },
+                { "id": "C", "text": "To show that people must be willing to work hard for the career they've chosen" },
+                { "id": "D", "text": "To discourage readers from choosing a career as a flight attendant" }
+              ],
+              "answerId": "B",
+              "explanation": "This detail directly follows the claim that a flight attendant's life \"appears glamorous\", so it is given specifically to contrast that appearance with the harsher reality, not as general advice about hard work or a warning away from the career.",
+              "skills": ["text-organisation"]
+            }
+          ]
+        },
+        {
+          "id": "g9",
+          "type": "heading-match",
+          "instruction": "For Questions 94 to 100, choose the correct heading for each section from the list of headings below.",
+          "optionsExceedItems": true,
+          "optionUseOnce": true,
+          "sharedOptions": [
+            { "id": "A", "text": "Everything must be referred unless you made it yourself." },
+            { "id": "B", "text": "Express others' work your own way and acknowledge that it is not yours." },
+            { "id": "C", "text": "It is a bad habit to forget your sources." },
+            { "id": "D", "text": "To get better marks, use your own work as much as possible." },
+            { "id": "E", "text": "Don't say another student's work is yours." },
+            { "id": "F", "text": "You can copy work as long as you reference it." },
+            { "id": "G", "text": "Not all sources used and reference them in the body of the text also." },
+            { "id": "H", "text": "Know where your material comes from and keep the information handy." },
+            { "id": "I", "text": "Copying and pasting is plagiarism." }
+          ],
+          "stimulus": {
+            "id": "prevent-plagiarism",
+            "title": "Advice to Help You Prevent Plagiarism in Your Work",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "label": "94",
+                "text": "You must clearly indicate which part of your work is drawn from somewhere else. Paraphrasing is when you use what someone else has said or written, but you write it in your own words. If you paraphrase, you must include an in-text citation so that readers can locate the source."
+              },
+              {
+                "kind": "paragraph",
+                "label": "95",
+                "text": "Carefully selected quotations add to the points you are making, but they don't, in themselves, add to the quality of your work. Put another way, and if you submitted an essay made up entirely of quotations from other sources, you would probably gain a low or zero mark. It is fine to quote other people occasionally, and it is expected that you do – but make sure you provide your own contribution or viewpoint. It is your work that earns you marks. Direct quotes should always be put inside quotation marks. Longer quotes can be indented, so they stand apart from the main body of the text. Each quote must be followed by an in-text citation."
+              },
+              {
+                "kind": "paragraph",
+                "label": "96",
+                "text": "Creation is when you produce something new. If you edit an existing item, it would still need to be referenced."
+              },
+              {
+                "kind": "paragraph",
+                "label": "97",
+                "text": "Make sure you understand what type of referencing you are required to follow for your unit. For text-based assessments, you will usually need to include in-text citations and a reference list that gives the full details of the source material. For visual-based artifacts or portfolios, you will usually need to include a reference list that gives the full details of the sources that you referred to when creating your work; anything that you have used and modified must be listed."
+              },
+              {
+                "kind": "paragraph",
+                "label": "98",
+                "text": "Always keep your work and the original reference together. Losing the original source of the information is poor academic practice, and it means you might end up submitting work without a reference, or you might end up submitting it with the wrong reference. You could, at any time, be required to produce the original source for comparison."
+              },
+              {
+                "kind": "paragraph",
+                "label": "99",
+                "text": "This is very important. If you copy and fail to reference it properly, then you have plagiarized. It doesn't matter whether you did this intentionally or not. Depending on the circumstances of the case, plagiarism may be treated as academic misconduct where serious penalties can apply."
+              },
+              {
+                "kind": "paragraph",
+                "label": "100",
+                "text": "Often students are encouraged to work together, to cooperate by sharing ideas and understanding. However, individual assessments (where your name is the only name on the cover sheet) are meant to be your own work. Copying from someone else's work is plagiarism, and serious penalties can apply. Do not allow anyone else to submit your work as their own: this is collusion, which is considered academic misconduct."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2021-2022-a-q94",
+              "n": 94,
+              "prompt": "Paragraph 94",
+              "answerId": "B",
+              "explanation": "The section describes paraphrasing as writing someone else's idea in your own words while still crediting the source, matching \"express others' work your own way and acknowledge that it is not yours\".",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q95",
+              "n": 95,
+              "prompt": "Paragraph 95",
+              "answerId": "D",
+              "explanation": "The section warns that an essay made only of quotations would score low, since \"it is your work that earns you marks\", matching \"to get better marks, use your own work as much as possible\".",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q96",
+              "n": 96,
+              "prompt": "Paragraph 96",
+              "answerId": "A",
+              "explanation": "The section contrasts creating something entirely new, which needs no reference, with editing an existing item, which still must be referenced, matching \"everything must be referred unless you made it yourself\".",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q97",
+              "n": 97,
+              "prompt": "Paragraph 97",
+              "answerId": "G",
+              "explanation": "The section explains that different assessment types require different referencing, from in-text citations to a full reference list detailing every source used, matching the heading about noting all sources used and referencing them in the text.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q98",
+              "n": 98,
+              "prompt": "Paragraph 98",
+              "answerId": "H",
+              "explanation": "The section stresses keeping your work and its original source together and being able to produce that source again later, matching \"know where your material comes from and keep the information handy\".",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q99",
+              "n": 99,
+              "prompt": "Paragraph 99",
+              "answerId": "F",
+              "explanation": "The section explains that copying without properly referencing it counts as plagiarism, implying that copying is only acceptable when it is referenced, matching \"you can copy work as long as you reference it\".",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2021-2022-a-q100",
+              "n": 100,
+              "prompt": "Paragraph 100",
+              "answerId": "E",
+              "explanation": "The section distinguishes encouraged group cooperation from individual assessments, which must be \"your own work\", and warns against submitting someone else's work as your own, matching \"don't say another student's work is yours\".",
+              "skills": ["skimming"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

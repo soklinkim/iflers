@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import sample from "../content/papers/sample.json";
+import sample from "./__fixtures__/sample-paper.json";
 import { createFullAttempt, createRetakeAttempt, isExpired, remainingMs, submitAttempt, unansweredCount } from "./attempts";
 import { flattenPaper } from "./content";
 import { scoreAttempt } from "./scoring";

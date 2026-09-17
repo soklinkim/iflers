@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import sample from "../content/papers/sample.json";
+import sample from "./__fixtures__/sample-paper.json";
 import { flattenPaper } from "./content";
 import { scoreAttempt } from "./scoring";
 import type { Attempt, Paper } from "./types";

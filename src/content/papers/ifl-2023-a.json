@@ -1,0 +1,1616 @@
+{
+  "id": "ifl-2023-a",
+  "title": "IFL Selection Test 2023",
+  "year": 2023,
+  "version": "A",
+  "source": "Royal University of Phnom Penh, Institute of Foreign Languages, Department of English — 2023 Fee-Paying Program Selection Test A",
+  "status": "pending",
+  "totalQuestions": 100,
+  "durationMinutes": 90,
+  "sections": [
+    {
+      "id": "grammar",
+      "title": "Section I: Grammar",
+      "groups": [
+        {
+          "id": "g1",
+          "type": "mcq",
+          "instruction": "For Questions 1 to 40, choose the one word or phrase which best completes each of the following sentences.",
+          "questions": [
+            {
+              "id": "ifl-2023-a-q1",
+              "n": 1,
+              "prompt": "It was not that long ago that being able to travel from Phnom Penh to Sihanoukville in two hours _______ impossible. However, the Phnom Penh-Sihanoukville Expressway made this dream a reality.",
+              "options": [
+                { "id": "A", "text": "was" },
+                { "id": "B", "text": "have" },
+                { "id": "C", "text": "were" },
+                { "id": "D", "text": "has" }
+              ],
+              "answerId": "A",
+              "explanation": "The gerund phrase \"being able to travel from Phnom Penh to Sihanoukville in two hours\" is a singular subject, and the earlier past context, \"not that long ago\", calls for the past tense, giving \"was\".",
+              "skills": ["subject-verb-agreement", "verb-tense"]
+            },
+            {
+              "id": "ifl-2023-a-q2",
+              "n": 2,
+              "prompt": "In terms of handling their finance, the two children were quite different. Sovann put _______ red packet money in a piggy bank; Davy spent _______ on a new bicycle.",
+              "options": [
+                { "id": "A", "text": "him…hers" },
+                { "id": "B", "text": "his…her" },
+                { "id": "C", "text": "his…hers" },
+                { "id": "D", "text": "him…her" }
+              ],
+              "answerId": "C",
+              "explanation": "The first gap is a possessive adjective before the noun \"red packet money\", giving \"his\"; the second stands alone in place of \"her red packet money\", which needs the possessive pronoun \"hers\".",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "ifl-2023-a-q3",
+              "n": 3,
+              "prompt": "I _______ finish this research paper by myself regardless of how hard I have to work. Graduating with honors means a lot to me.",
+              "options": [
+                { "id": "A", "text": "might" },
+                { "id": "B", "text": "ought" },
+                { "id": "C", "text": "shall" },
+                { "id": "D", "text": "would" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Shall\" with \"I\" expresses strong personal determination to do something, matching the speaker's resolve regardless of the difficulty. \"Might\" would only express possibility, not determination.",
+              "skills": ["modals"]
+            },
+            {
+              "id": "ifl-2023-a-q4",
+              "n": 4,
+              "prompt": "The entrance examination _______ when Lina finally found the right room.",
+              "options": [
+                { "id": "A", "text": "had already started" },
+                { "id": "B", "text": "already starts" },
+                { "id": "C", "text": "already started" },
+                { "id": "D", "text": "has already started" }
+              ],
+              "answerId": "A",
+              "explanation": "The exam starting happened before Lina found the room, an earlier point in the past, so the past perfect \"had already started\" is needed to show that order of events.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2023-a-q5",
+              "n": 5,
+              "prompt": "Phka Sropoun, a _______ novel, was written by Nou Hach in 1949. Along with Kolab Pailin and Sophat, it is regarded as one of the three classic novels of modern Khmer literature.",
+              "options": [
+                { "id": "A", "text": "sixty-page-longs" },
+                { "id": "B", "text": "sixty pages long" },
+                { "id": "C", "text": "sixty-pages-long" },
+                { "id": "D", "text": "sixty-page-long" }
+              ],
+              "answerId": "D",
+              "explanation": "A compound adjective placed before a noun stays singular and hyphenated: \"sixty-page-long novel\". Plural forms like \"pages\" or \"longs\" are not used inside this pattern.",
+              "skills": ["word-formation", "word-order"]
+            },
+            {
+              "id": "ifl-2023-a-q6",
+              "n": 6,
+              "prompt": "Brazil and Germany are two of the most successful football teams in the world, for _______ of the countries has won many major international trophies.",
+              "options": [
+                { "id": "A", "text": "both" },
+                { "id": "B", "text": "each" },
+                { "id": "C", "text": "neither" },
+                { "id": "D", "text": "all" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Each\" is a distributive determiner that takes a singular verb, matching \"has won\", and fits the positive claim that both countries individually won trophies. \"Both\" and \"all\" would need the plural \"have\", and \"neither\" would wrongly deny that either country won anything.",
+              "skills": ["quantifiers", "subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2023-a-q7",
+              "n": 7,
+              "prompt": "Kumpheak: ‘Are you going to attend the 18th Debate Forum at the Institute of Foreign Languages this Saturday?’ Reaksa: ‘I am. I always enjoy listening to debates _______ feminism.’",
+              "options": [
+                { "id": "A", "text": "for" },
+                { "id": "B", "text": "from" },
+                { "id": "C", "text": "of" },
+                { "id": "D", "text": "on" }
+              ],
+              "answerId": "D",
+              "explanation": "\"A debate on a topic\" is the fixed preposition pairing for discussions about a subject. The other prepositions do not form this collocation.",
+              "skills": ["prepositions", "collocation"]
+            },
+            {
+              "id": "ifl-2023-a-q8",
+              "n": 8,
+              "prompt": "As soon as you _______ any news about the scholarship for the exchange program at the Hong Kong Polytechnic University, will you let me know about it?",
+              "options": [
+                { "id": "A", "text": "are hearing" },
+                { "id": "B", "text": "hear" },
+                { "id": "C", "text": "are going to hear" },
+                { "id": "D", "text": "will hear" }
+              ],
+              "answerId": "B",
+              "explanation": "A time clause introduced by \"as soon as\" that refers to the future uses the present simple, \"hear\", not a future or continuous form, even though the main clause is a future request.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2023-a-q9",
+              "n": 9,
+              "prompt": "Amok is believed to have been a royal Khmer dish in the past. You need _______ coconut milk for this well-known traditional dish.",
+              "options": [
+                { "id": "A", "text": "Ø" },
+                { "id": "B", "text": "an" },
+                { "id": "C", "text": "the" },
+                { "id": "D", "text": "a" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Coconut milk\" is uncountable and used here in a general sense, so it takes no article at all, unlike a first mention of a countable noun, which would take \"a\"/\"an\", or a specific, already-identified one, which would take \"the\".",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2023-a-q10",
+              "n": 10,
+              "prompt": "Rarely _______ between November and May in Cambodia, so that period could be the best time to visit this Kingdom of Wonder.",
+              "options": [
+                { "id": "A", "text": "does it rain" },
+                { "id": "B", "text": "it is raining" },
+                { "id": "C", "text": "is it raining" },
+                { "id": "D", "text": "it rains" }
+              ],
+              "answerId": "A",
+              "explanation": "Fronting the negative adverb \"rarely\" for emphasis triggers subject-auxiliary inversion, and since this describes a habitual pattern, the present simple with \"does\"-support is needed: \"does it rain\".",
+              "skills": ["inversion"]
+            },
+            {
+              "id": "ifl-2023-a-q11",
+              "n": 11,
+              "prompt": "Writing Skills 201 is designed to enhance students' skills, competency, and _______ in academic writing through composing multiple drafts of each essay type at the university level.",
+              "options": [
+                { "id": "A", "text": "succeed" },
+                { "id": "B", "text": "successful" },
+                { "id": "C", "text": "successfully" },
+                { "id": "D", "text": "success" }
+              ],
+              "answerId": "D",
+              "explanation": "The list of things the course enhances must stay parallel with the nouns \"skills\" and \"competency\", so the third item must also be a noun, \"success\", not a verb, adjective, or adverb.",
+              "skills": ["parallel-structure", "word-formation"]
+            },
+            {
+              "id": "ifl-2023-a-q12",
+              "n": 12,
+              "prompt": "Piseth _______ his reflection paper yesterday, but he _______ it to his supervisor yet.",
+              "options": [
+                { "id": "A", "text": "finished…did not submit" },
+                { "id": "B", "text": "finished…has not submitted" },
+                { "id": "C", "text": "has finished…did not submit" },
+                { "id": "D", "text": "has finished…has not submitted" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Yesterday\" is a finished past time marker, calling for the simple past \"finished\", while \"yet\" signals an action still not completed up to now, which needs the present perfect \"has not submitted\".",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2023-a-q13",
+              "n": 13,
+              "prompt": "_______, Vanndas's Time to Rise conveys an important message of motivation and inspiration for all Cambodia's aspiring young artists.",
+              "options": [
+                { "id": "A", "text": "Having viewed over 100 million times on YouTube" },
+                { "id": "B", "text": "Viewed over 100 million times on YouTube" },
+                { "id": "C", "text": "It is viewed over 100 million times on YouTube" },
+                { "id": "D", "text": "Viewing over 100 million times on YouTube" }
+              ],
+              "answerId": "B",
+              "explanation": "A reduced passive participle clause, \"Viewed over 100 million times\", modifies \"Time to Rise\", which is itself viewed by others. \"Having viewed\" and \"Viewing\" wrongly imply the song did the viewing.",
+              "skills": ["participle-clauses", "passive-voice"]
+            },
+            {
+              "id": "ifl-2023-a-q14",
+              "n": 14,
+              "prompt": "The school regulation states that cheating in all forms is a serious crime; thus, it is important that every student _______.",
+              "options": [
+                { "id": "A", "text": "will not plagiarize" },
+                { "id": "B", "text": "do not plagiarize" },
+                { "id": "C", "text": "not plagiarize" },
+                { "id": "D", "text": "does not plagiarize" }
+              ],
+              "answerId": "C",
+              "explanation": "\"It is important that\" triggers the subjunctive, and its negative form places \"not\" directly before the base verb with no \"do/does\": \"not plagiarize\".",
+              "skills": ["subjunctive"]
+            },
+            {
+              "id": "ifl-2023-a-q15",
+              "n": 15,
+              "prompt": "_______ about the RUPP's Charity Event was the opportunity to throw sponges at her former lecturers.",
+              "options": [
+                { "id": "A", "text": "Thida loved the most" },
+                { "id": "B", "text": "What did Thida love the most" },
+                { "id": "C", "text": "Did Thida love the most" },
+                { "id": "D", "text": "What Thida loved the most" }
+              ],
+              "answerId": "D",
+              "explanation": "A nominal relative clause used as the subject, \"What Thida loved the most\", keeps normal statement word order with no inverted auxiliary, unlike a direct question such as \"What did Thida love the most\".",
+              "skills": ["embedded-questions"]
+            },
+            {
+              "id": "ifl-2023-a-q16",
+              "n": 16,
+              "prompt": "‘Chariya, please _______ me your e-mail address again. I lost it.’",
+              "options": [
+                { "id": "A", "text": "give" },
+                { "id": "B", "text": "gives" },
+                { "id": "C", "text": "does give" },
+                { "id": "D", "text": "gave" }
+              ],
+              "answerId": "A",
+              "explanation": "A polite request beginning with \"please\" uses the base form of the verb, \"give\", not a finite form inflected for tense or person.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2023-a-q17",
+              "n": 17,
+              "prompt": "My brother wishes he _______ a new smartphone. His current one is not compatible with Zoom Meeting.",
+              "options": [
+                { "id": "A", "text": "has" },
+                { "id": "B", "text": "will have" },
+                { "id": "C", "text": "had had" },
+                { "id": "D", "text": "had" }
+              ],
+              "answerId": "D",
+              "explanation": "A wish about a present state uses the past simple, so \"wishes he had a new smartphone\" expresses a present regret about not owning one. \"Had had\" would instead express regret about the past.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "ifl-2023-a-q18",
+              "n": 18,
+              "prompt": "It is agreed that either the twins or Makara _______ to water the plants every other day.",
+              "options": [
+                { "id": "A", "text": "need" },
+                { "id": "B", "text": "is needing" },
+                { "id": "C", "text": "are needing" },
+                { "id": "D", "text": "needs" }
+              ],
+              "answerId": "D",
+              "explanation": "With \"either ... or\", the verb agrees with the nearer subject, the singular \"Makara\", giving \"needs\" rather than a plural or continuous form.",
+              "skills": ["subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2023-a-q19",
+              "n": 19,
+              "prompt": "Most people say that the duties of a policeman are _______ than _______, but they agree that both professions are equally important.",
+              "options": [
+                { "id": "A", "text": "more dangerous…that of a teacher" },
+                { "id": "B", "text": "the most dangerous…those of a teacher" },
+                { "id": "C", "text": "more dangerous…those of a teacher" },
+                { "id": "D", "text": "more dangerous…a teacher" }
+              ],
+              "answerId": "C",
+              "explanation": "Comparing exactly two professions needs the comparative \"more dangerous than\", and since \"duties\" is plural, the second half must use the plural pronoun \"those\" to stand for \"the duties of a teacher\".",
+              "skills": ["comparatives", "parallel-structure"]
+            },
+            {
+              "id": "ifl-2023-a-q20",
+              "n": 20,
+              "prompt": "Students cannot consume any food while in classrooms, _______? They should do so at the canteen behind Building E.",
+              "options": [
+                { "id": "A", "text": "can they" },
+                { "id": "B", "text": "shouldn't they" },
+                { "id": "C", "text": "can't they" },
+                { "id": "D", "text": "should they" }
+              ],
+              "answerId": "A",
+              "explanation": "The main clause is negative, using the modal \"cannot\", so the tag question must be positive and match the same auxiliary: \"can they?\".",
+              "skills": ["question-tags"]
+            },
+            {
+              "id": "ifl-2023-a-q21",
+              "n": 21,
+              "prompt": "The ferry disaster in Kandal Province was _______. We hope that such an incident will never happen again.",
+              "options": [
+                { "id": "A", "text": "extremely shocked" },
+                { "id": "B", "text": "extremely shocking" },
+                { "id": "C", "text": "extreme shocking" },
+                { "id": "D", "text": "extreme shocked" }
+              ],
+              "answerId": "B",
+              "explanation": "The disaster itself causes the feeling of shock, so the -ing adjective \"shocking\" is needed, intensified by the adverb \"extremely\". \"Shocked\" would describe a person experiencing the feeling.",
+              "skills": ["word-formation"]
+            },
+            {
+              "id": "ifl-2023-a-q22",
+              "n": 22,
+              "prompt": "_______ having a severe headache, Mithona still managed to complete the entrance examination.",
+              "options": [
+                { "id": "A", "text": "However" },
+                { "id": "B", "text": "Even though" },
+                { "id": "C", "text": "When" },
+                { "id": "D", "text": "Despite" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Despite\" is a preposition followed directly by a gerund phrase, \"having a severe headache\". \"Even though\" and \"when\" would need a full clause with its own subject and verb.",
+              "skills": ["conjunctions"]
+            },
+            {
+              "id": "ifl-2023-a-q23",
+              "n": 23,
+              "prompt": "According to a hypothesis, most learners _______ not be able to learn a language _______ they feel motivated and relaxed. Thus, it might be good for teachers to avoid forcing students to speak before they are ready.",
+              "options": [
+                { "id": "A", "text": "will…unless" },
+                { "id": "B", "text": "will…if" },
+                { "id": "C", "text": "would…unless" },
+                { "id": "D", "text": "would…if" }
+              ],
+              "answerId": "A",
+              "explanation": "The sentence states a general hypothesis as a real, ongoing tendency rather than a hypothetical case, taking \"will\", and \"unless\" (meaning \"if not\") correctly links the negative condition to being unable to learn.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "ifl-2023-a-q24",
+              "n": 24,
+              "prompt": "The DOE's Learning Support Unit is for juniors and seniors who wish _______ assistance for students with academic problems.",
+              "options": [
+                { "id": "A", "text": "provide" },
+                { "id": "B", "text": "providing" },
+                { "id": "C", "text": "provides" },
+                { "id": "D", "text": "to provide" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Wish to do something\" is followed by a to-infinitive, \"to provide\". The bare infinitive, gerund, and finite forms do not fit this pattern.",
+              "skills": ["gerund-infinitive"]
+            },
+            {
+              "id": "ifl-2023-a-q25",
+              "n": 25,
+              "prompt": "Bora's parents should _______ stop drinking too much bubble tea no matter how much he loves the drink. His blood sugar level is quite high.",
+              "options": [
+                { "id": "A", "text": "to make him" },
+                { "id": "B", "text": "making him" },
+                { "id": "C", "text": "make him" },
+                { "id": "D", "text": "make him to" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Make someone do something\" is the causative pattern that uses the bare infinitive, \"make him stop\", with no \"to\" before the following verb.",
+              "skills": ["causatives"]
+            },
+            {
+              "id": "ifl-2023-a-q26",
+              "n": 26,
+              "prompt": "My grandparents asked me how I was, and I told _______ that _______ was fine.",
+              "options": [
+                { "id": "A", "text": "them…anything" },
+                { "id": "B", "text": "them…everything" },
+                { "id": "C", "text": "themselves…something" },
+                { "id": "D", "text": "themselves…everything" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Told\" needs the object pronoun \"them\" for the grandparents, and a positive statement about one's overall state needs \"everything\" rather than \"anything\", which is used in questions and negatives.",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "ifl-2023-a-q27",
+              "n": 27,
+              "prompt": "Facebook, together with many other social media platforms, _______ recently devised ways to fight against cyberbullying.",
+              "options": [
+                { "id": "A", "text": "are" },
+                { "id": "B", "text": "have" },
+                { "id": "C", "text": "has" },
+                { "id": "D", "text": "is" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Together with many other social media platforms\" is a parenthetical addition that does not change the number of the subject, which remains the singular \"Facebook\", so \"has\" is correct.",
+              "skills": ["subject-verb-agreement"]
+            },
+            {
+              "id": "ifl-2023-a-q28",
+              "n": 28,
+              "prompt": "Ratha thought that he was _______ to go camping alone at Knorng Preah Mountain, but his aunts and uncles disagreed. They believed that he was _______ to spend a night on a mountain by himself.",
+              "options": [
+                { "id": "A", "text": "old enough…too young" },
+                { "id": "B", "text": "enough old…too young" },
+                { "id": "C", "text": "so old…young enough" },
+                { "id": "D", "text": "old enough…so young" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Enough\" follows the adjective it modifies, giving \"old enough\", and the contrasting family view needs \"too young\", showing the opposite conclusion about the same situation.",
+              "skills": ["word-order"]
+            },
+            {
+              "id": "ifl-2023-a-q29",
+              "n": 29,
+              "prompt": "The village of Preah Dak, _______ is located in the east of Angkor, is renowned for its famous Nom Banh Chok noodles.",
+              "options": [
+                { "id": "A", "text": "that" },
+                { "id": "B", "text": "which" },
+                { "id": "C", "text": "where" },
+                { "id": "D", "text": "whose" }
+              ],
+              "answerId": "B",
+              "explanation": "The commas signal a non-restrictive relative clause giving extra information about a place, which requires \"which\" as the subject; \"that\" cannot be used in non-restrictive clauses.",
+              "skills": ["relative-clauses"]
+            },
+            {
+              "id": "ifl-2023-a-q30",
+              "n": 30,
+              "prompt": "Bokator is _______ ancient Khmer martial art used as a technique to build up the physical and mental strength of its practitioners. According to many historians, this art of self-defense was created by King Suryavarman II in _______ 12th century.",
+              "options": [
+                { "id": "A", "text": "the…a" },
+                { "id": "B", "text": "a…the" },
+                { "id": "C", "text": "an…the" },
+                { "id": "D", "text": "Ø…a" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Ancient\" begins with a vowel sound, so it takes \"an\" on first mention, and ordinal centuries such as \"the 12th century\" always take the definite article.",
+              "skills": ["articles"]
+            },
+            {
+              "id": "ifl-2023-a-q31",
+              "n": 31,
+              "prompt": "_______ Industry 4.0 is likely to transform the way humans live, work, and connect with each other, students should acquire and develop various skills, such as innovation, critical thinking, and problem-solving.",
+              "options": [
+                { "id": "A", "text": "Due to" },
+                { "id": "B", "text": "Because of" },
+                { "id": "C", "text": "So that" },
+                { "id": "D", "text": "Because" }
+              ],
+              "answerId": "D",
+              "explanation": "The gap is followed by a full clause with its own subject and verb, \"Industry 4.0 is likely to transform...\", which needs the conjunction \"because\". \"Due to\" and \"because of\" would need a noun phrase instead.",
+              "skills": ["conjunctions"]
+            },
+            {
+              "id": "ifl-2023-a-q32",
+              "n": 32,
+              "prompt": "Two groups of men _______ furiously outside, so Kunthea went to see what was happening.",
+              "options": [
+                { "id": "A", "text": "are arguing" },
+                { "id": "B", "text": "were arguing" },
+                { "id": "C", "text": "have been arguing" },
+                { "id": "D", "text": "argue" }
+              ],
+              "answerId": "B",
+              "explanation": "An action already in progress when Kunthea noticed and reacted to it, in the past, is expressed with the past continuous, \"were arguing\".",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "ifl-2023-a-q33",
+              "n": 33,
+              "prompt": "Tola's favorite cooking competition show is MasterChef Khmer. He loves discovering a great deal of _______ cuisine.",
+              "options": [
+                { "id": "A", "text": "excellent new Cambodian" },
+                { "id": "B", "text": "new Cambodian excellent" },
+                { "id": "C", "text": "new excellent Cambodian" },
+                { "id": "D", "text": "Cambodian new excellent" }
+              ],
+              "answerId": "A",
+              "explanation": "Adjectives before a noun follow the order opinion, then age, then origin: \"excellent new Cambodian cuisine\". The other options place these adjectives out of that sequence.",
+              "skills": ["word-order"]
+            },
+            {
+              "id": "ifl-2023-a-q34",
+              "n": 34,
+              "prompt": "The Bakong payment system (KHQR) has become a hit among its consumers as they find it both _______ and _______ to carry out transactions.",
+              "options": [
+                { "id": "A", "text": "convenient…safe" },
+                { "id": "B", "text": "convenient…safety" },
+                { "id": "C", "text": "conveniently…safe" },
+                { "id": "D", "text": "convenient…safely" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Both ... and\" joins two parallel adjectives completing \"find it ... to carry out transactions\", so both gaps need plain adjectives, \"convenient\" and \"safe\", not a noun or adverbs.",
+              "skills": ["parallel-structure"]
+            },
+            {
+              "id": "ifl-2023-a-q35",
+              "n": 35,
+              "prompt": "Neary: ‘Are there _______ hills in Phnom Penh?’ Mony: ‘No, there's only one. It's called Wat Phnom.’",
+              "options": [
+                { "id": "A", "text": "much" },
+                { "id": "B", "text": "a lot" },
+                { "id": "C", "text": "many" },
+                { "id": "D", "text": "any" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Hills\" is countable and plural, and the question specifically invites a quantity in reply, \"there's only one\", which matches asking about \"many\" rather than the uncountable \"much\" or the more open \"any\".",
+              "skills": ["quantifiers"]
+            },
+            {
+              "id": "ifl-2023-a-q36",
+              "n": 36,
+              "prompt": "Before the accident, the witness saw Bopha _______ off with another young lady in the passenger seat. Both women appeared to be drunk.",
+              "options": [
+                { "id": "A", "text": "to drive" },
+                { "id": "B", "text": "drive" },
+                { "id": "C", "text": "drives" },
+                { "id": "D", "text": "drove" }
+              ],
+              "answerId": "B",
+              "explanation": "A perception verb like \"see\" takes an object followed by the bare infinitive for a complete, witnessed action, \"saw Bopha drive off\", not a to-infinitive or a finite verb form.",
+              "skills": ["causatives"]
+            },
+            {
+              "id": "ifl-2023-a-q37",
+              "n": 37,
+              "prompt": "The iced latte at Starbucks tastes _______. Most customers think that it is _______ drink there.",
+              "options": [
+                { "id": "A", "text": "delicious…good" },
+                { "id": "B", "text": "deliciously…the best" },
+                { "id": "C", "text": "delicious…the best" },
+                { "id": "D", "text": "delicious…better" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Taste\" is a linking verb taking the plain adjective \"delicious\", and comparing this drink to all the others at Starbucks needs the superlative \"the best\", not a comparative or a second plain adjective.",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "ifl-2023-a-q38",
+              "n": 38,
+              "prompt": "Vanna might have enjoyed walking along the glass bridge if he _______ to the AEON Mall Mean Chey with his friends.",
+              "options": [
+                { "id": "A", "text": "had come" },
+                { "id": "B", "text": "comes" },
+                { "id": "C", "text": "had came" },
+                { "id": "D", "text": "came" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Might have enjoyed\" in the main clause signals a third conditional about the past, whose if-clause needs the past perfect, \"had come\", not a simple past or the ungrammatical \"had came\".",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "ifl-2023-a-q39",
+              "n": 39,
+              "prompt": "Sophy: ‘I have always wanted to donate some money to Animal Rescue Cambodia. I feel sorry for those poor cats and dogs, but I am not quite wealthy myself.’ Savy: ‘Here _______ some advice I learned from Buddha. Give, even if you only have a little.’",
+              "options": [
+                { "id": "A", "text": "has" },
+                { "id": "B", "text": "are" },
+                { "id": "C", "text": "is" },
+                { "id": "D", "text": "have" }
+              ],
+              "answerId": "C",
+              "explanation": "In the inverted structure \"Here + verb + subject\", the verb agrees with the singular subject \"some advice\", giving \"is\" rather than a plural form.",
+              "skills": ["subject-verb-agreement", "inversion"]
+            },
+            {
+              "id": "ifl-2023-a-q40",
+              "n": 40,
+              "prompt": "Prior to the days of multiplexes, there _______ be a cinema on Mao Tse Tung Boulevard; now the building has been converted into a fast-food restaurant.",
+              "options": [
+                { "id": "A", "text": "uses to" },
+                { "id": "B", "text": "was used to" },
+                { "id": "C", "text": "got used to" },
+                { "id": "D", "text": "used to" }
+              ],
+              "answerId": "D",
+              "explanation": "\"There used to be\" is the fixed pattern for describing something that existed in the past but no longer does, matching the cinema being gone now. \"Was used to\" and \"got used to\" describe being accustomed to something, not past existence.",
+              "skills": ["verb-tense"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vocabulary",
+      "title": "Section II: Vocabulary",
+      "groups": [
+        {
+          "id": "g2",
+          "type": "vocab-inline",
+          "instruction": "For Questions 41 to 50, choose one option that is closest in meaning to the underlined words or phrases.",
+          "questions": [
+            {
+              "id": "ifl-2023-a-q41",
+              "n": 41,
+              "prompt": "The books in the Self-Access Center at the Institute of Foreign Languages are [[arranged in groups]] according to the subject.",
+              "options": [
+                { "id": "A", "text": "coded" },
+                { "id": "B", "text": "catalogued" },
+                { "id": "C", "text": "classified" },
+                { "id": "D", "text": "stocked" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Arranged in groups according to the subject\" describes sorting items into categories, matching \"classified\". \"Catalogued\" would mean listed in a record, not necessarily grouped by subject.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2023-a-q42",
+              "n": 42,
+              "prompt": "The kidnappers demanded a huge [[sum of money]] for the release of the man.",
+              "options": [
+                { "id": "A", "text": "deposit" },
+                { "id": "B", "text": "ransom" },
+                { "id": "C", "text": "fortune" },
+                { "id": "D", "text": "bail" }
+              ],
+              "answerId": "B",
+              "explanation": "A payment demanded specifically for releasing a kidnapped person has its own name, \"ransom\", which fits this situation exactly. \"Bail\" is money paid to release someone from legal custody, not from kidnappers.",
+              "skills": ["vocabulary-in-context", "synonyms"]
+            },
+            {
+              "id": "ifl-2023-a-q43",
+              "n": 43,
+              "prompt": "The tourists backed away from the [[fierce and unfriendly]] tribesmen.",
+              "options": [
+                { "id": "A", "text": "uncaring" },
+                { "id": "B", "text": "aloof" },
+                { "id": "C", "text": "hostile" },
+                { "id": "D", "text": "unpleasant" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Fierce and unfriendly\" together describe an aggressive, threatening manner, matching \"hostile\" most closely. \"Aloof\" means distant and uninvolved, not aggressive.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2023-a-q44",
+              "n": 44,
+              "prompt": "Many people joined the rebellion and [[went against]] the policy of the cruel king.",
+              "options": [
+                { "id": "A", "text": "opposed" },
+                { "id": "B", "text": "exiled" },
+                { "id": "C", "text": "deceived" },
+                { "id": "D", "text": "attacked" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Went against\" means to act in opposition to something, matching \"opposed\" directly. \"Attacked\" would suggest physical violence against a policy, which does not fit.",
+              "skills": ["synonyms", "phrasal-verbs"]
+            },
+            {
+              "id": "ifl-2023-a-q45",
+              "n": 45,
+              "prompt": "Our conversation was [[abruptly]] interrupted by my sister.",
+              "options": [
+                { "id": "A", "text": "rudely" },
+                { "id": "B", "text": "constantly" },
+                { "id": "C", "text": "recklessly" },
+                { "id": "D", "text": "suddenly" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Abruptly\" describes something happening suddenly and without warning, matching \"suddenly\" directly, rather than describing manners, frequency, or carelessness.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2023-a-q46",
+              "n": 46,
+              "prompt": "I was [[amazed and curious]] by the tricks that the well-known American magician David Copperfield was doing.",
+              "options": [
+                { "id": "A", "text": "surprised" },
+                { "id": "B", "text": "intrigued" },
+                { "id": "C", "text": "anxious" },
+                { "id": "D", "text": "shocked" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Intrigued\" captures both being fascinated and curious at once, matching the combined sense of \"amazed and curious\" more closely than \"surprised\" alone, which misses the curiosity.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "ifl-2023-a-q47",
+              "n": 47,
+              "prompt": "The company has notified me to [[go ahead]] with the project.",
+              "options": [
+                { "id": "A", "text": "continue" },
+                { "id": "B", "text": "improve" },
+                { "id": "C", "text": "conclude" },
+                { "id": "D", "text": "proceed" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Go ahead with something\" means to proceed with it, matching \"proceed\" directly. \"Conclude\" would mean to finish it, the opposite sense.",
+              "skills": ["phrasal-verbs", "synonyms"]
+            },
+            {
+              "id": "ifl-2023-a-q48",
+              "n": 48,
+              "prompt": "That big boy is [[a person who forces others to do things by using fear or strength]] in the schoolyard. Every kid fears him. Don't you think the school should do something about this?",
+              "options": [
+                { "id": "A", "text": "a bully" },
+                { "id": "B", "text": "a victim" },
+                { "id": "C", "text": "a gangster" },
+                { "id": "D", "text": "a vandal" }
+              ],
+              "answerId": "A",
+              "explanation": "The definition given, someone who forces others through fear or strength, is exactly the meaning of \"a bully\", confirmed by \"every kid fears him\". \"A victim\" is the opposite role.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2023-a-q49",
+              "n": 49,
+              "prompt": "My mother would [[not take sides]] in any family argument.",
+              "options": [
+                { "id": "A", "text": "see eye to eye" },
+                { "id": "B", "text": "save her face" },
+                { "id": "C", "text": "have green eyes" },
+                { "id": "D", "text": "sit on the fence" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Sit on the fence\" is the idiom for refusing to support either side of a disagreement, matching \"not take sides\" exactly.",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "ifl-2023-a-q50",
+              "n": 50,
+              "prompt": "It is better to have a friend who [[is frank and outspoken]] than one who is a hypocrite.",
+              "options": [
+                { "id": "A", "text": "smells a rat" },
+                { "id": "B", "text": "calls a spade a spade" },
+                { "id": "C", "text": "blows his or her own trumpet" },
+                { "id": "D", "text": "lets the cat out of the bag" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Calls a spade a spade\" is the idiom for speaking honestly and directly, matching a friend who is \"frank and outspoken\". \"Blows his or her own trumpet\" instead means boasting.",
+              "skills": ["idiom"]
+            }
+          ]
+        },
+        {
+          "id": "g3",
+          "type": "mcq",
+          "instruction": "For Questions 51 to 60, choose one option that best completes the gap in each sentence.",
+          "questions": [
+            {
+              "id": "ifl-2023-a-q51",
+              "n": 51,
+              "prompt": "It was quite a serious illness, so it took her a while to _______ it.",
+              "options": [
+                { "id": "A", "text": "get by" },
+                { "id": "B", "text": "get through" },
+                { "id": "C", "text": "get down" },
+                { "id": "D", "text": "get over" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Get over\" an illness means to recover from it, matching taking a while to recover from a serious illness. \"Get by\" means to manage with limited resources, not recover from sickness.",
+              "skills": ["phrasal-verbs"]
+            },
+            {
+              "id": "ifl-2023-a-q52",
+              "n": 52,
+              "prompt": "The boy scout performed a good _______ by helping an old lady cross the road.",
+              "options": [
+                { "id": "A", "text": "example" },
+                { "id": "B", "text": "deal" },
+                { "id": "C", "text": "deed" },
+                { "id": "D", "text": "assignment" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Perform a good deed\" is the fixed collocation for doing a kind act, matching helping an elderly person cross the road.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2023-a-q53",
+              "n": 53,
+              "prompt": "Although she tried to appear calm, her excitement was quite _______.",
+              "options": [
+                { "id": "A", "text": "genuine" },
+                { "id": "B", "text": "obvious" },
+                { "id": "C", "text": "general" },
+                { "id": "D", "text": "public" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Although she tried to appear calm\" implies that her excitement showed through despite her efforts, matching \"obvious\", clearly noticeable.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2023-a-q54",
+              "n": 54,
+              "prompt": "Flu is highly _______, for this illness can be passed from one person to another through the air we breathe.",
+              "options": [
+                { "id": "A", "text": "infectious" },
+                { "id": "B", "text": "infection" },
+                { "id": "C", "text": "infectiously" },
+                { "id": "D", "text": "infect" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Highly\" needs an adjective to modify, and \"infectious\" describes a disease that spreads easily between people, matching being \"passed from one person to another\".",
+              "skills": ["word-formation"]
+            },
+            {
+              "id": "ifl-2023-a-q55",
+              "n": 55,
+              "prompt": "Many accidents have occurred along this _______ of road.",
+              "options": [
+                { "id": "A", "text": "stretch" },
+                { "id": "B", "text": "range" },
+                { "id": "C", "text": "span" },
+                { "id": "D", "text": "portion" }
+              ],
+              "answerId": "A",
+              "explanation": "\"A stretch of road\" is the fixed collocation for a continuous length of road. \"Range\" and \"span\" are used for other kinds of measurement, not a section of road.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2023-a-q56",
+              "n": 56,
+              "prompt": "He could not identify the corpse because it was burnt beyond _______.",
+              "options": [
+                { "id": "A", "text": "appearance" },
+                { "id": "B", "text": "recognition" },
+                { "id": "C", "text": "disguise" },
+                { "id": "D", "text": "remembrance" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Burnt beyond recognition\" is the fixed phrase for damage so severe that something can no longer be identified, matching \"could not identify the corpse\".",
+              "skills": ["collocation", "idiom"]
+            },
+            {
+              "id": "ifl-2023-a-q57",
+              "n": 57,
+              "prompt": "Food which is not _______ prepared can cause food poisoning.",
+              "options": [
+                { "id": "A", "text": "deliciously" },
+                { "id": "B", "text": "skillfully" },
+                { "id": "C", "text": "medically" },
+                { "id": "D", "text": "hygienically" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Hygienically prepared\" refers to cleanliness standards that prevent contamination, directly matching the cause of food poisoning. \"Deliciously\" and \"skillfully\" relate to taste and skill, not safety.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2023-a-q58",
+              "n": 58,
+              "prompt": "The Navy _______ a huge search operation when one of its ships was reported missing.",
+              "options": [
+                { "id": "A", "text": "plunged" },
+                { "id": "B", "text": "processed" },
+                { "id": "C", "text": "launched" },
+                { "id": "D", "text": "did" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Launch a search operation\" is the fixed collocation for beginning an organized search effort. \"Plunged\" and \"processed\" do not pair naturally with \"operation\" in this sense.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2023-a-q59",
+              "n": 59,
+              "prompt": "The patient _______ consciousness after being in a coma for a week.",
+              "options": [
+                { "id": "A", "text": "redeemed" },
+                { "id": "B", "text": "regained" },
+                { "id": "C", "text": "received" },
+                { "id": "D", "text": "restored" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Regain consciousness\" is the fixed collocation for waking up after being unconscious, matching a patient coming out of a coma. \"Restored\" is used for bringing back a condition to something else, not for a person regaining their own awareness.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2023-a-q60",
+              "n": 60,
+              "prompt": "The prisoner was released after he had served his _______.",
+              "options": [
+                { "id": "A", "text": "sentence" },
+                { "id": "B", "text": "probation" },
+                { "id": "C", "text": "commitment" },
+                { "id": "D", "text": "duty" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Serve a sentence\" is the fixed collocation for completing a period of imprisonment, matching being \"released\" afterward. \"Probation\" is a period of supervision instead of imprisonment.",
+              "skills": ["collocation"]
+            }
+          ]
+        },
+        {
+          "id": "g4",
+          "type": "cloze",
+          "instruction": "For Questions 61 to 70, read the passage below and choose one best word from the options to fill in each gap.",
+          "stimulus": {
+            "id": "negative-effects-of-technology",
+            "title": "The Negative Effects of Technology",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "text": "Technology is a big part of our lives. We work, play, and communicate with the world online. Technology has made life easier in many ways, but it has also had a number of negative effects."
+              },
+              { "kind": "subheading", "text": "Health" },
+              {
+                "kind": "paragraph",
+                "text": "Technology has had an effect {{61}} people's health in negative ways. People exercise less. They don't sleep well: it is thought that using computers too late can lead to teens getting less than five hours of sleep per night. With every hour spent playing computer games, people are more likely to feel {{62}} in their fingers and wrists. A study published in the Journal of Physical Therapy Science says that using smartphones too often leads to problems with body position, and with breathing. Some believe the new {{63}} of technology users will have worse hearing and eyesight."
+              },
+              { "kind": "subheading", "text": "Attention" },
+              {
+                "kind": "paragraph",
+                "text": "With so much technology, people find it hard to {{64}} for long periods of time. A study published in the BMJ Open Journal in 2013 found that teen students can't study for much longer than six minutes without checking their phones or social media websites. {{65}}, their test grades became worse. For adults, the problem can be even more serious. We check our phones while working, or when watching TV. Some researchers think that human attention {{66}} is now just eight seconds – even small fish can manage nine!"
+              },
+              { "kind": "subheading", "text": "Relationships" },
+              {
+                "kind": "paragraph",
+                "text": "Social media use has also been linked to depression in a recent study. People look at the online information shared by other users. When you do this, you compare your life to the {{67}} presented lives you see online. This can make you feel {{68}}. Other studies have found that comparing yourself to others in this way was linked to feeling lonely."
+              },
+              { "kind": "subheading", "text": "Social skills" },
+              {
+                "kind": "paragraph",
+                "text": "Because we use social media so much, even speaking face to face has become a problem. This worries many psychologists working with young children. Speaking and {{69}} problems in the real world is something people need to practice. According to experts, if a child works with screens too much, it's harder for them to learn face to face communication skills. This means that in adult life, people might become good with technology, but they face problems when they need to discuss things in {{70}}."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2023-a-q61",
+              "n": 61,
+              "options": [
+                { "id": "A", "text": "on" },
+                { "id": "B", "text": "with" },
+                { "id": "C", "text": "for" },
+                { "id": "D", "text": "to" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Have an effect on something\" is the fixed collocation for describing an influence. The other prepositions do not form this phrase.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2023-a-q62",
+              "n": 62,
+              "options": [
+                { "id": "A", "text": "discomfort" },
+                { "id": "B", "text": "agony" },
+                { "id": "C", "text": "distress" },
+                { "id": "D", "text": "pain" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Pain\" is the direct, physical word for what repetitive gaming causes in the fingers and wrists. \"Agony\" and \"distress\" describe more extreme or emotional suffering than a physical strain like this.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2023-a-q63",
+              "n": 63,
+              "options": [
+                { "id": "A", "text": "category" },
+                { "id": "B", "text": "branch" },
+                { "id": "C", "text": "generation" },
+                { "id": "D", "text": "league" }
+              ],
+              "answerId": "C",
+              "explanation": "\"The new generation of technology users\" refers to the group of people growing up with this technology, matching this sense of a group defined by time period rather than by type or rank.",
+              "skills": ["vocabulary-in-context", "collocation"]
+            },
+            {
+              "id": "ifl-2023-a-q64",
+              "n": 64,
+              "options": [
+                { "id": "A", "text": "apply" },
+                { "id": "B", "text": "concentrate" },
+                { "id": "C", "text": "intensify" },
+                { "id": "D", "text": "attend" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Find it hard to concentrate for long periods\" fits the passage's theme of shrinking attention spans directly. \"Attend\" alone would need \"to\" and a different meaning (to be present).",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2023-a-q65",
+              "n": 65,
+              "options": [
+                { "id": "A", "text": "In addition" },
+                { "id": "B", "text": "In contrast" },
+                { "id": "C", "text": "As a result" },
+                { "id": "D", "text": "However" }
+              ],
+              "answerId": "C",
+              "explanation": "The worse test grades are a consequence of checking phones instead of studying, so \"as a result\" correctly signals cause and effect, unlike \"however\", which would signal a contrast.",
+              "skills": ["conjunctions"]
+            },
+            {
+              "id": "ifl-2023-a-q66",
+              "n": 66,
+              "options": [
+                { "id": "A", "text": "term" },
+                { "id": "B", "text": "span" },
+                { "id": "C", "text": "stretch" },
+                { "id": "D", "text": "interval" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Attention span\" is the fixed collocation for the length of time someone can focus. The other nouns do not pair with \"attention\" in this way.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2023-a-q67",
+              "n": 67,
+              "options": [
+                { "id": "A", "text": "strictly" },
+                { "id": "B", "text": "awfully" },
+                { "id": "C", "text": "lawfully" },
+                { "id": "D", "text": "carefully" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Carefully presented lives\" describes the deliberately curated image people post online, which fits the comparison to one's own ordinary life. \"Strictly\" and \"lawfully\" do not describe how online lives are presented.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2023-a-q68",
+              "n": 68,
+              "options": [
+                { "id": "A", "text": "jealous" },
+                { "id": "B", "text": "resentful" },
+                { "id": "C", "text": "conceited" },
+                { "id": "D", "text": "pleased" }
+              ],
+              "answerId": "A",
+              "explanation": "Comparing your ordinary life to others' curated online lives typically triggers envy, matching \"jealous\", which the passage then links to feelings of depression and loneliness.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "ifl-2023-a-q69",
+              "n": 69,
+              "options": [
+                { "id": "A", "text": "coping" },
+                { "id": "B", "text": "dealing" },
+                { "id": "C", "text": "handling" },
+                { "id": "D", "text": "caring" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Handling problems\" takes a direct object with no preposition, fitting the sentence's structure, whereas \"coping with\" and \"dealing with\" would both require \"with\" before \"problems\".",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "ifl-2023-a-q70",
+              "n": 70,
+              "options": [
+                { "id": "A", "text": "contact" },
+                { "id": "B", "text": "vain" },
+                { "id": "C", "text": "control" },
+                { "id": "D", "text": "person" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Discuss things in person\" is the fixed phrase for talking face to face rather than through a screen, matching the passage's contrast between being good with technology and struggling with direct communication.",
+              "skills": ["collocation", "idiom"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "title": "Section III: Reading",
+      "groups": [
+        {
+          "id": "g5",
+          "type": "mcq",
+          "instruction": "For Questions 71 to 78, choose one option that best completes each of the following paragraphs.",
+          "questions": [
+            {
+              "id": "ifl-2023-a-q71",
+              "n": 71,
+              "prompt": "A bird feeder can provide you with an interesting new hobby, bird watching. Winter time is the best time for this hobby. Then the birds have trouble finding other food, so they will come to your feeder. If you put the feeder near a window, you can even watch them from inside your home. But once you have started feeding the birds, you should continue until spring. If you stop in the middle of the winter, the birds _______.",
+              "options": [
+                { "id": "A", "text": "may stay near the house" },
+                { "id": "B", "text": "may get cold" },
+                { "id": "C", "text": "may die of hunger" },
+                { "id": "D", "text": "will have more to eat" }
+              ],
+              "answerId": "C",
+              "explanation": "Since the birds have come to rely on the feeder during a season when other food is hard to find, suddenly stopping leaves them without an alternative source, so they \"may die of hunger\".",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2023-a-q72",
+              "n": 72,
+              "prompt": "Some people like history. They like to look at buildings and old streets. They like to know that many others lived there before them. These people have a strong feeling for _______.",
+              "options": [
+                { "id": "A", "text": "people" },
+                { "id": "B", "text": "buildings" },
+                { "id": "C", "text": "the past" },
+                { "id": "D", "text": "cities" }
+              ],
+              "answerId": "C",
+              "explanation": "Liking old buildings and streets and thinking about the people who lived there before is a nostalgic interest in \"the past\" as a whole, not just in buildings or cities specifically.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2023-a-q73",
+              "n": 73,
+              "prompt": "The American Civil War was a difficult time. The North was fighting the South. People who lived in the central states often did not agree about which side was right. Even members of the same family sometimes disagreed. Sometimes, one son was fighting for the North and another _______.",
+              "options": [
+                { "id": "A", "text": "stayed home" },
+                { "id": "B", "text": "moved to another state" },
+                { "id": "C", "text": "had more children" },
+                { "id": "D", "text": "was fighting for the South" }
+              ],
+              "answerId": "D",
+              "explanation": "The sentence builds a parallel contrast about family members disagreeing, so the natural completion is that the other son \"was fighting for the South\", directly opposing his brother.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2023-a-q74",
+              "n": 74,
+              "prompt": "In the past, North American forests were full of chestnut trees. People used chestnuts in cooking in many different ways. They also loved to cook chestnuts over a fire and eat them plain. Then in the early 1900s a disease killed almost all the trees. Now it is hard to find fresh chestnuts in the U.S. markets, and usually they are _______.",
+              "options": [
+                { "id": "A", "text": "without much flavor" },
+                { "id": "B", "text": "roasted over a fire" },
+                { "id": "C", "text": "imported from Europe" },
+                { "id": "D", "text": "from North America" }
+              ],
+              "answerId": "C",
+              "explanation": "Since the disease killed almost all the North American chestnut trees, any chestnuts still sold in U.S. markets must now come from elsewhere, matching \"imported from Europe\" rather than \"from North America\".",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2023-a-q75",
+              "n": 75,
+              "prompt": "Children who are left-handed tend to have more accidents than right-handed children. Doctors have two theories to explain this fact. One theory says that left-handed children may simply fall and bump into things more. Another theory, however, explains the accidents very differently. According to this theory, the problem is not with the children, but with the world around them. Most things, such as doors, cars and toys are _______.",
+              "options": [
+                { "id": "A", "text": "designed for left-handed people" },
+                { "id": "B", "text": "not designed for right-handed people" },
+                { "id": "C", "text": "made by people without children" },
+                { "id": "D", "text": "designed and used best by right-handed people" }
+              ],
+              "answerId": "D",
+              "explanation": "The second theory blames \"the world around them\" rather than the children, and everyday objects are built with the right-handed majority in mind, so they are designed and used best by right-handed people, putting left-handed children at a disadvantage.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2023-a-q76",
+              "n": 76,
+              "prompt": "The guppy is a small fish that people often keep in bowls or tanks in their homes. In their bowls, guppies have never caused any harm to anyone. But, in the wild, the story is different. When some guppy owners in Nevada grew tired of their fish, they threw them in a lake. Since then, the guppies have multiplied and chased away the native fish. Now at least one species of fish, the white river spring fish, is almost extinct. Thus, even a little fish like the guppy _______.",
+              "options": [
+                { "id": "A", "text": "likes to live in lakes and rivers" },
+                { "id": "B", "text": "sometimes improves the ecology of lakes and rivers" },
+                { "id": "C", "text": "can cause changes in the ecology of lakes and rivers" },
+                { "id": "D", "text": "can live in lakes" }
+              ],
+              "answerId": "C",
+              "explanation": "The guppies released into the wild multiplied and drove a native species toward extinction, showing they \"can cause changes in the ecology\", not merely that they can survive there or that the effect was beneficial.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2023-a-q77",
+              "n": 77,
+              "prompt": "Everyone knows that too much wine can have many bad effects on the body. Doctors discovered recently that a small amount of red wine may have at least one good effect. It may lower the level of cholesterol in the blood. However, new research now proves that this is not the result of the alcohol in the wine. Instead, scientists have learned that there is a special chemical that lowers cholesterol. This chemical is present in the purple grape juice and perhaps in the other grape products. So people with high cholesterol _______.",
+              "options": [
+                { "id": "A", "text": "can get the same benefit without drinking wine" },
+                { "id": "B", "text": "should go to the doctor" },
+                { "id": "C", "text": "should drink white wine" },
+                { "id": "D", "text": "should drink lots of wine" }
+              ],
+              "answerId": "A",
+              "explanation": "Since the beneficial chemical is found in grape juice rather than in the alcohol itself, people can get the same cholesterol-lowering benefit without drinking wine at all.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2023-a-q78",
+              "n": 78,
+              "prompt": "Edward Kennedy Ellington – known as “Duke” – was perhaps the best-known and loved jazz musician of all time. By the time of his death in 1974, he had written nearly 2,000 pieces of music. Many of them have become the classics of jazz. His famous Ellington Orchestra had its beginnings in Washington in 1922 and performed for almost 50 years. In spite of his fame, however, Ellington did not look for special attention for himself. His private life was not so important to him. Music was really his first love. He never let _______.",
+              "options": [
+                { "id": "A", "text": "personal relationships get in the way of his music making" },
+                { "id": "B", "text": "himself get too involved in his music" },
+                { "id": "C", "text": "too many people know about his music" },
+                { "id": "D", "text": "music get in the way of his personal relationships" }
+              ],
+              "answerId": "A",
+              "explanation": "Since \"his private life was not so important to him\" and \"music was really his first love\", Ellington prioritized his music over personal relationships, so he never let personal relationships get in the way of his music making.",
+              "skills": ["inference"]
+            }
+          ]
+        },
+        {
+          "id": "g6",
+          "type": "passage-mcq",
+          "instruction": "For Questions 79 to 83, read the advertisement and the write-up text below and answer the questions below.",
+          "stimulus": {
+            "id": "draplin-historical-park",
+            "title": "Draplin Historical Park",
+            "blocks": [
+              { "kind": "subheading", "text": "Draplin Historical Park — 428 Carillon Avenue" },
+              {
+                "kind": "paragraph",
+                "text": "To preserve, interpret and celebrate the history of extraordinary invention and pioneer life in Carillion."
+              },
+              {
+                "kind": "paragraph",
+                "text": "• Be thrilled by more than 5 indoor exhibits and 8 outdoor exhibits."
+              },
+              {
+                "kind": "paragraph",
+                "text": "• An education centre is available for big groups and schools to hold events."
+              },
+              {
+                "kind": "paragraph",
+                "text": "• Admission charges are as follows: Adults — $8; Children (3–6 years old) — $5; Seniors — $6. Children under the age of 3 visit for free. Please bring along identification at the time of purchase."
+              },
+              {
+                "kind": "paragraph",
+                "text": "• Group packages are available. Please enquire at the ticketing counter outside the park or call 6259 1219 to book."
+              },
+              {
+                "kind": "paragraph",
+                "text": "• All entrance fees include a map of the park and a souvenir."
+              },
+              {
+                "kind": "paragraph",
+                "text": "[Illustration: a map on a round base, and a teddy-bear souvenir wearing a shirt reading “I've been to Draplin Historical Park”.]"
+              },
+              {
+                "kind": "paragraph",
+                "text": "Draplin Historical Park pledges half of the proceeds from entrance fees to the Children's Cancer Society. This idea has since led other parks to link up with charitable organisations."
+              },
+              {
+                "kind": "paragraph",
+                "label": "1",
+                "text": "When I arrived at noon, only a few people were trickling into the park. Immediately, I began to doubt what a few of my friends had told me but I was proven wrong after turning a corner and finding myself in the heart of a busy road in the 1800s. Several horse-drawn carriages plied the roads, stopping to pick up curious passengers along the way. Here I was in the first historical park of the country."
+              },
+              {
+                "kind": "paragraph",
+                "label": "2",
+                "text": "Fifteen minutes of standing under the blazing afternoon sun and several photographs later, my attention was turned to the sound of a steam engine. I made my way northwards. I ended up in front of a waterway where a steamboat from 1800s was docked at the side. The high-pitched sounds of laughing children as they ran along the deck livened up the area. The parents were oblivious to the curious stares as they continuously snapped pictures of their children. Indeed, a grassy patch was covered with tripods of all sizes."
+              },
+              {
+                "kind": "paragraph",
+                "label": "3",
+                "text": "Well, the presence of the happy children added to my enjoyment. As I made my way through the park, I felt history flashing right before my eyes as modes of transportation changed from horse-drawn wagons to the very first car."
+              },
+              {
+                "kind": "paragraph",
+                "label": "4",
+                "text": "This historical park, the brainchild of Jamese Magnum and Lisa Brown who were history professors, is now a place where people can learn about the history in an enjoyable and memorable way. What we have here is an outdoor museum that promises to be a unique and fascinating trip down memory lane."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2023-a-q79",
+              "n": 79,
+              "prompt": "According to the advertisement, which of the following is true?",
+              "options": [
+                { "id": "A", "text": "Camy who is aged 8 and his parents have to pay $24 to enter the park." },
+                { "id": "B", "text": "Only those who pay the full admission charges can get a souvenir." },
+                { "id": "C", "text": "Schools are not encouraged to hold educational events at the park." },
+                { "id": "D", "text": "The park sometimes helps charitable organizations." }
+              ],
+              "answerId": "A",
+              "explanation": "The child rate only applies to ages 3–6, so an 8-year-old like Camy is charged the adult rate of $8, giving $8 x 3 (Camy and his two parents) = $24. The park always donates half its proceeds to the Children's Cancer Society, not only sometimes, and an education centre is explicitly offered for schools.",
+              "skills": ["scanning", "inference"]
+            },
+            {
+              "id": "ifl-2023-a-q80",
+              "n": 80,
+              "prompt": "In paragraph 1 of the write-up, what did the writer's friends tell him?",
+              "options": [
+                { "id": "A", "text": "There were many things to see at the park." },
+                { "id": "B", "text": "The entrance to the park was usually crowded." },
+                { "id": "C", "text": "Horse-drawn carriages were found everywhere in the park." },
+                { "id": "D", "text": "The park was popular." }
+              ],
+              "answerId": "D",
+              "explanation": "Seeing only a few people at noon made the writer doubt what his friends had told him, before being \"proven wrong\" once he found a busy scene further in, implying his friends had told him the park was popular and lively.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2023-a-q81",
+              "n": 81,
+              "prompt": "According to the write-up, what did the writer feel about the children on the steamboat?",
+              "options": [
+                { "id": "A", "text": "They were in danger." },
+                { "id": "B", "text": "They were an annoyance." },
+                { "id": "C", "text": "They made the place livelier." },
+                { "id": "D", "text": "They were too quiet." }
+              ],
+              "answerId": "C",
+              "explanation": "The writer describes the children's laughter as having \"livened up the area\" and later says \"the presence of the happy children added to my enjoyment\", both positive reactions rather than annoyance or concern.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2023-a-q82",
+              "n": 82,
+              "prompt": "Which aspect of history does the writer learn about at the park?",
+              "options": [
+                { "id": "A", "text": "Housing" },
+                { "id": "B", "text": "Education" },
+                { "id": "C", "text": "Transportation" },
+                { "id": "D", "text": "Culture" }
+              ],
+              "answerId": "C",
+              "explanation": "The writer describes horse-drawn carriages, a steamboat, and \"modes of transportation\" changing \"from horse-drawn wagons to the very first car\", all centered on transportation history.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2023-a-q83",
+              "n": 83,
+              "prompt": "The main purpose of the advertisement is to tell the public about _______.",
+              "options": [
+                { "id": "A", "text": "The main features of the park" },
+                { "id": "B", "text": "The admission charges of the park" },
+                { "id": "C", "text": "What Carillion used to be in the past" },
+                { "id": "D", "text": "The children's Cancer Society" }
+              ],
+              "answerId": "A",
+              "explanation": "The advertisement covers a range of features, exhibits, the education centre, admission charges, group packages, and souvenirs, with admission charges being only one detail among several, so the overall purpose is to present the park's main features.",
+              "skills": ["skimming"]
+            }
+          ]
+        },
+        {
+          "id": "g7",
+          "type": "passage-mcq",
+          "instruction": "For Questions 84 to 89, read the passage below and choose the best answer to each question.",
+          "stimulus": {
+            "id": "hydrologic-cycle",
+            "title": "Passage 1",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "label": "1",
+                "text": "Water on the earth is being recycled continuously in a process known as the hydrologic cycle. The first step of the cycle is the evaporation of water in the oceans. Evaporation is the process of water turning into vapor, which then forms clouds in the sky. The second step is the water returning to the earth in the form of precipitation: either rain, snow, or ice. When the water reaches the earth's surface, it runs off into the rivers, lakes, and the ocean, where the cycle begins again."
+              },
+              {
+                "kind": "paragraph",
+                "label": "2",
+                "text": "Not all water, however, stays on the surface of the earth in the hydrologic cycle. Some of it seeps into the ground through infiltration and collects under the earth's surface as groundwater. This groundwater is extremely important to life on earth, since 95% of the earth's water is in the oceans and is too salty for human beings or plants. Of the 5% on land, only .05% is above ground in rivers or lakes. The rest is underground water. This groundwater is plentiful and dependable, as it doesn't depend on seasonal rain or snow. It is the major source of water for many cities. But as the population increases and the need for water also increases, the groundwater in some areas is getting dangerously low. Added to this problem is an increasing amount of pollution that seeps into the groundwater. In the future, with a growing population and more toxic waste, the hydrologic cycle we depend on could become dangerously imbalanced."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2023-a-q84",
+              "n": 84,
+              "prompt": "Clouds are formed from _______.",
+              "options": [
+                { "id": "A", "text": "evaporation" },
+                { "id": "B", "text": "the hydrologic cycle" },
+                { "id": "C", "text": "ground water" },
+                { "id": "D", "text": "water vapor" }
+              ],
+              "answerId": "A",
+              "explanation": "The passage states evaporation \"is the process of water turning into vapor, which then forms clouds\", so evaporation is the process that directly forms clouds, described as the first step, not the overall cycle itself.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2023-a-q85",
+              "n": 85,
+              "prompt": "The amount of groundwater is _______.",
+              "options": [
+                { "id": "A", "text": "less than 5% of all water" },
+                { "id": "B", "text": "5% of above ground water" },
+                { "id": "C", "text": "95% of above ground water" },
+                { "id": "D", "text": "about 95% of all water" }
+              ],
+              "answerId": "A",
+              "explanation": "Only 5% of the earth's water is on land, and of that, just .05% is above ground, with \"the rest\" being groundwater, so groundwater is a portion of that 5%, making it \"less than 5% of all water\".",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2023-a-q86",
+              "n": 86,
+              "prompt": "Water returns to the earth by _______.",
+              "options": [
+                { "id": "A", "text": "pollution" },
+                { "id": "B", "text": "precipitation" },
+                { "id": "C", "text": "evaporation" },
+                { "id": "D", "text": "infiltration" }
+              ],
+              "answerId": "B",
+              "explanation": "The passage names \"precipitation: either rain, snow, or ice\" as the step in which water returns to the earth, while evaporation is the earlier step that sends water up, not down.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2023-a-q87",
+              "n": 87,
+              "prompt": "Ground water _______.",
+              "options": [
+                { "id": "A", "text": "comes from toxic waste" },
+                { "id": "B", "text": "is .05% of all water" },
+                { "id": "C", "text": "collects under the earth" },
+                { "id": "D", "text": "depends on seasonal rain" }
+              ],
+              "answerId": "C",
+              "explanation": "The passage states groundwater \"collects under the earth's surface\" through infiltration, and explicitly says it \"doesn't depend on seasonal rain or snow\", ruling out D.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2023-a-q88",
+              "n": 88,
+              "prompt": "The supply of groundwater is getting low because of _______.",
+              "options": [
+                { "id": "A", "text": "toxic waste" },
+                { "id": "B", "text": "pollution" },
+                { "id": "C", "text": "population increase" },
+                { "id": "D", "text": "conservation" }
+              ],
+              "answerId": "C",
+              "explanation": "The passage directly links the falling groundwater level to rising population and water demand, treating pollution as a separate, \"added\" problem rather than the stated cause of the low supply.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2023-a-q89",
+              "n": 89,
+              "prompt": "The best title for this passage is _______.",
+              "options": [
+                { "id": "A", "text": "The Hydrologic Cycle" },
+                { "id": "B", "text": "Underground Water" },
+                { "id": "C", "text": "Polluted Groundwater" },
+                { "id": "D", "text": "Water Conservation" }
+              ],
+              "answerId": "A",
+              "explanation": "The passage describes the whole recycling process of water, from evaporation and precipitation to groundwater, so \"The Hydrologic Cycle\" covers the full scope, while the other titles focus on only one part of it.",
+              "skills": ["skimming"]
+            }
+          ]
+        },
+        {
+          "id": "g8",
+          "type": "passage-mcq",
+          "instruction": "For Questions 90 to 94, read the passage below and choose the best answer to each question.",
+          "stimulus": {
+            "id": "suburbanization",
+            "title": "Passage 2",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "label": "1",
+                "text": "If by “suburb” is meant an urban margin that grows more rapidly than its already developed interior, the process of suburbanization began during the emergence of the industrial city in the second quarter of the nineteenth century. Before that period, the city was a small highly compact cluster in which people moved about on foot and goods were conveyed by horse and cart. But the early factories built in the 1830's and 1840's were located along waterways and near railheads at the edges of cities, and housing was needed for the thousands of people drawn by the prospect of employment. In time, the factories were surrounded by proliferating mill towns of apartments and row houses that abutted the older, main cities. As a defense against this **encroachment** and to enlarge their tax bases, the cities appropriated their industrial neighbors. In 1854, for example, the city of Philadelphia annexed most of Philadelphia County. Similar municipal maneuvers took place in Chicago and in New York. Indeed, most great cities of the United States achieved such status only by incorporating the communities along their borders."
+              },
+              {
+                "kind": "paragraph",
+                "label": "2",
+                "text": "With the acceleration of industrial growth came acute urban crowding and accompanying social stress conditions that began to approach disastrous proportions when, in 1888, the first commercially successful electric traction line was developed. Within a few years the horse-drawn trolleys were retired and electric streetcar networks crisscrossed and connected every major urban area, fostering a wave of suburbanization that transformed the compact industrial city into a dispersed metropolis. This first phase of mass-scale suburbanization was reinforced by the simultaneous emergence of the urban Middle class whose desires for homeownership in neighborhoods far from the aging inner city were satisfied by the developers of single-family housing tracts."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2023-a-q90",
+              "n": 90,
+              "prompt": "Which of the following is the best title for the passage?",
+              "options": [
+                { "id": "A", "text": "The Origin of the Suburb" },
+                { "id": "B", "text": "The Development of City Transportation" },
+                { "id": "C", "text": "The Rise of the Urban Middle Class" },
+                { "id": "D", "text": "The Growth of Philadelphia" }
+              ],
+              "answerId": "A",
+              "explanation": "The whole passage traces how suburbs first began and spread, using transportation, class, and city examples only as supporting detail, so \"The Origin of the Suburb\" best captures its overall subject.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2023-a-q91",
+              "n": 91,
+              "prompt": "The author mentions that areas bordering the cities have grown during periods of _______.",
+              "options": [
+                { "id": "A", "text": "revitalization" },
+                { "id": "B", "text": "inflation" },
+                { "id": "C", "text": "unionization" },
+                { "id": "D", "text": "industrialization" }
+              ],
+              "answerId": "D",
+              "explanation": "The passage ties suburban growth directly to \"the emergence of the industrial city\" and \"the acceleration of industrial growth\", matching \"industrialization\" rather than the other unrelated processes.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2023-a-q92",
+              "n": 92,
+              "prompt": "Which of the following was NOT mentioned in the passage as a factor in nineteenth-century suburbanization?",
+              "options": [
+                { "id": "A", "text": "The advent of an urban middle class" },
+                { "id": "B", "text": "Urban crowding" },
+                { "id": "C", "text": "The invention of the electric streetcar" },
+                { "id": "D", "text": "Cheaper housing" }
+              ],
+              "answerId": "D",
+              "explanation": "The passage mentions the middle class's desire for homeownership, urban crowding, and the electric streetcar as drivers of suburbanization, but never claims that housing itself became cheaper.",
+              "skills": ["scanning"]
+            },
+            {
+              "id": "ifl-2023-a-q93",
+              "n": 93,
+              "prompt": "It can be inferred from the passage that after 1890 most people traveled around cities by _______.",
+              "options": [
+                { "id": "A", "text": "horse-drawn trolley" },
+                { "id": "B", "text": "cart" },
+                { "id": "C", "text": "electric streetcar" },
+                { "id": "D", "text": "automobile" }
+              ],
+              "answerId": "C",
+              "explanation": "The electric traction line was developed in 1888, and \"within a few years the horse-drawn trolleys were retired\" as electric streetcar networks connected every major urban area, so by after 1890 the electric streetcar would have become the dominant mode.",
+              "skills": ["inference"]
+            },
+            {
+              "id": "ifl-2023-a-q94",
+              "n": 94,
+              "prompt": "The bolded word “encroachment” in paragraph 1 refers to which of the following?",
+              "options": [
+                { "id": "A", "text": "The growth of mill towns" },
+                { "id": "B", "text": "The development of waterways" },
+                { "id": "C", "text": "The loss of jobs" },
+                { "id": "D", "text": "The smell of the factories" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Encroachment\" follows directly after the description of factories being \"surrounded by proliferating mill towns... that abutted the older, main cities\", so it refers to that spread of mill towns pressing up against the cities.",
+              "skills": ["vocabulary-in-context", "pronouns"]
+            }
+          ]
+        },
+        {
+          "id": "g9",
+          "type": "heading-match",
+          "instruction": "For Questions 95 to 100, read the newspaper article below and match the headings from the list (A–H) with paragraphs 95–100. There is one extra heading which is not needed. Paragraph 0 is given as a solved example, matched with heading F. Note that the intro to the article (given here for context) is: \"A typical child begins watching television at an early age. Experts say that by three he or she will be viewing with some understanding. Between the ages of four and fifteen, a youngster will probably watch, on average, two and a half to three hours a day. It is during the early years that families pass on values like honesty, and generosity. If certain television programs introduce different, conflicting values, you may want to steer your children away from them.\"",
+          "optionsExceedItems": true,
+          "optionUseOnce": true,
+          "sharedOptions": [
+            { "id": "A", "text": "Children should be given clear guidelines about their television viewing." },
+            { "id": "B", "text": "If children watch television in the company of adults, they can learn more than by watching alone." },
+            { "id": "C", "text": "Parents should help children to be selective about the TV program they watch." },
+            { "id": "D", "text": "It's a good idea to make links between TV programs and other interesting activities." },
+            { "id": "E", "text": "Families don't have to watch TV - they can choose other home entertainment." },
+            { "id": "F", "text": "Parents need to be aware of what young children watch on television." },
+            { "id": "G", "text": "Studies have shown that if children watch many hours of television their schoolwork may suffer." },
+            { "id": "H", "text": "Television can be wonderfully educational for children." }
+          ],
+          "stimulus": {
+            "id": "make-tv-help-your-kids",
+            "title": "Make TV Help Your Kids",
+            "blocks": [
+              {
+                "kind": "paragraph",
+                "label": "95",
+                "text": "Set reasonable time limits for watching. Two and a half hours a day is thought to be a sensible maximum for schoolchildren. Beyond this, you can allow extensions for something special like a late evening wildlife pregame or a favorite film. Homework and family activities should take priority. If studying for tomorrow's math test conflicts with an unmissable program, videotape it or ask a friend to do so. Make sure babysitters and relatives who look after your children rule."
+              },
+              {
+                "kind": "paragraph",
+                "label": "96",
+                "text": "Some children switch on because they are bored or tired, and ‘zap’ from channel to channel. Instead of ‘watching television’, encourage children to ‘watch programs’ and help them choose. Don't let children pick a diet made up of cartoons and game shows. Insist on variety. For instance, mix fiction with general interest programmes, such as the science series Equinox."
+              },
+              {
+                "kind": "paragraph",
+                "label": "97",
+                "text": "Books and television are sometimes thought of as enemies. But an Exeter University study of 11 to 16 year-olds found a link between heavy viewing and increased reading for pleasure. When a book is adapted for television, urge your children to read the novel. Local libraries often tie in book displays to programmes. You can also make other useful connections. After your child's football match, watch Grandstand (BBC1) to see how the professionals play. Follow The Really Wild Show (BBC1) with a visit to a wildlife park or a walk in nearby woodland."
+              },
+              {
+                "kind": "paragraph",
+                "label": "98",
+                "text": "Children usually learn more when watching with adults, whether at home or at school. A program can often be the starting point for an informal discussion. When a TV show ends, ask your youngster what seemed real and what unlikely. What point was the program making? Let your children tell you what was terrific, disappointing, clever or silly. Children's attitudes are formed by observing their parent's reactions. Your unwillingness to believe all the advertising promises, for instance, could help your children grow into wise consumers."
+              },
+              {
+                "kind": "paragraph",
+                "label": "99",
+                "text": "As chairman of the National Viewers and Listeners Association, Graham Stevens monitors TV for violence and bad language and passes on complaints to the broadcasting authorities. But in his own house, the television is no threat. ‘If there's nothing on that we like, we watch a video instead,’ he says. His daughter, Rebekah, 12, and son, David, 10, have their own video library. Sometimes they will arrange family ‘cinema nights’. They buy a takeaway meal, pick a video, and sit down together for the evening."
+              },
+              {
+                "kind": "paragraph",
+                "label": "100",
+                "text": "Without leaving home, children can meet their peers in Peru or Papua New Guinea. They can step back in time, go to the bottom of the sea, or visit elephants in Africa. A youngster with a television can even sit in on a House of Commons debate. Children can profit greatly from television. According to Dr. Maire Messenger Davies, with television, we can guide our children, but we need to let them develop their tastes and trust them a bit too. It's better to light a candle than curse the darkness."
+              }
+            ]
+          },
+          "questions": [
+            {
+              "id": "ifl-2023-a-q95",
+              "n": 95,
+              "prompt": "Paragraph 95",
+              "answerId": "A",
+              "explanation": "The section sets reasonable time limits and asks that babysitters and relatives \"rule\" (follow) the same limits, matching clear guidelines being given about television viewing.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2023-a-q96",
+              "n": 96,
+              "prompt": "Paragraph 96",
+              "answerId": "C",
+              "explanation": "The section urges parents to help children \"watch programs\" deliberately rather than aimlessly \"zap\" between channels, and to insist on variety, matching helping children be selective about what they watch.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2023-a-q97",
+              "n": 97,
+              "prompt": "Paragraph 97",
+              "answerId": "D",
+              "explanation": "The section suggests reading the novel behind a TV adaptation and following nature or sports programs with related real-world outings, matching making links between TV programs and other activities.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2023-a-q98",
+              "n": 98,
+              "prompt": "Paragraph 98",
+              "answerId": "B",
+              "explanation": "The section states that \"children usually learn more when watching with adults\" and describes using shared viewing as a starting point for discussion, matching learning more in the company of adults.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2023-a-q99",
+              "n": 99,
+              "prompt": "Paragraph 99",
+              "answerId": "E",
+              "explanation": "Graham Stevens's family watches a video or arranges a \"cinema night\" instead of television when nothing appeals to them, matching families choosing other home entertainment instead of TV.",
+              "skills": ["skimming"]
+            },
+            {
+              "id": "ifl-2023-a-q100",
+              "n": 100,
+              "prompt": "Paragraph 100",
+              "answerId": "H",
+              "explanation": "The section lists all the places and experiences television can bring into a child's home, from meeting peers abroad to sitting in on a parliamentary debate, matching television being wonderfully educational.",
+              "skills": ["skimming"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
