@@ -1,0 +1,1275 @@
+{
+  "id": "czech-master-english-a",
+  "title": "Czech Master English Test Practice",
+  "year": 2026,
+  "source": "CZech Master English Test From the Internet",
+  "status": "pending",
+  "totalQuestions": 85,
+  "durationMinutes": 60,
+  "sections": [
+    {
+      "id": "placement-test",
+      "title": "English Placement Test — Thematic Groups",
+      "groups": [
+        {
+          "id": "gA",
+          "type": "mcq",
+          "instruction": "A. Verb Tenses & Aspect — choose the option that best completes each sentence.",
+          "questions": [
+            {
+              "id": "czech-master-english-a-q1",
+              "n": 1,
+              "prompt": "I _______ him since.",
+              "options": [
+                { "id": "A", "text": "have not seen" },
+                { "id": "B", "text": "are not seeing" },
+                { "id": "C", "text": "did not see" },
+                { "id": "D", "text": "do not see" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Since\" signals an action continuing to be true up to now, which the present perfect expresses, matching \"have not seen\".",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "czech-master-english-a-q2",
+              "n": 2,
+              "prompt": "We haven't slept _______ yesterday afternoon.",
+              "options": [
+                { "id": "A", "text": "before" },
+                { "id": "B", "text": "till" },
+                { "id": "C", "text": "since" },
+                { "id": "D", "text": "ago" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Since\" introduces a specific starting point for an action continuing up to now, matching the present perfect \"haven't slept\". \"For\" would need a duration instead of a point in time, and \"before\"/\"ago\" do not fit this pattern.",
+              "skills": ["prepositions", "verb-tense"]
+            },
+            {
+              "id": "czech-master-english-a-q3",
+              "n": 3,
+              "prompt": "As soon as we _______ there, I'll start up the motors again.",
+              "options": [
+                { "id": "A", "text": "get" },
+                { "id": "B", "text": "shall get" },
+                { "id": "C", "text": "will get" },
+                { "id": "D", "text": "will have got" }
+              ],
+              "answerId": "A",
+              "explanation": "A time clause introduced by \"as soon as\" that refers to the future uses the present simple, \"get\", not a future form, even though the main clause uses \"will\".",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "czech-master-english-a-q4",
+              "n": 4,
+              "prompt": "He wanted to know if I _______ George.",
+              "options": [
+                { "id": "A", "text": "would know" },
+                { "id": "B", "text": "knew" },
+                { "id": "C", "text": "would have known" },
+                { "id": "D", "text": "know" }
+              ],
+              "answerId": "B",
+              "explanation": "In reported speech, the present tense of an original question backshifts to the past when the reporting verb is past, so \"if I knew George\" is correct.",
+              "skills": ["verb-tense"]
+            },
+            {
+              "id": "czech-master-english-a-q5",
+              "n": 5,
+              "prompt": "He wished he _______ been somewhere else.",
+              "options": [
+                { "id": "A", "text": "had" },
+                { "id": "B", "text": "could" },
+                { "id": "C", "text": "would" },
+                { "id": "D", "text": "would have" }
+              ],
+              "answerId": "A",
+              "explanation": "A wish about a past situation needs the past perfect, \"had been\", to express regret about where he was.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "czech-master-english-a-q6",
+              "n": 6,
+              "prompt": "I wish I _______ taken you out last weekend.",
+              "options": [
+                { "id": "A", "text": "had" },
+                { "id": "B", "text": "could" },
+                { "id": "C", "text": "would" },
+                { "id": "D", "text": "would have" }
+              ],
+              "answerId": "A",
+              "explanation": "A wish about a specific past event, \"last weekend\", takes the past perfect, \"had taken\", to express regret about something that didn't happen.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "czech-master-english-a-q7",
+              "n": 7,
+              "prompt": "I wish I _______ behaved well, and was going to inherit a fortune!",
+              "options": [
+                { "id": "A", "text": "had" },
+                { "id": "B", "text": "could" },
+                { "id": "C", "text": "would" },
+                { "id": "D", "text": "would have" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Wish\" about past behaviour needs the past perfect, \"had behaved\", paired with the ironic continuation about inheriting a fortune.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "czech-master-english-a-q8",
+              "n": 8,
+              "prompt": "I felt as if I _______ you.",
+              "options": [
+                { "id": "A", "text": "would know" },
+                { "id": "B", "text": "knew" },
+                { "id": "C", "text": "would have known" },
+                { "id": "D", "text": "know" }
+              ],
+              "answerId": "B",
+              "explanation": "\"As if\" introducing an unreal or hypothetical comparison about the present takes the past simple, \"knew\", similar to a second conditional.",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "czech-master-english-a-q9",
+              "n": 9,
+              "prompt": "I wish I _______ find my way back home.",
+              "options": [
+                { "id": "A", "text": "should" },
+                { "id": "B", "text": "could have" },
+                { "id": "C", "text": "could" },
+                { "id": "D", "text": "can" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Wish\" combined with an ability in the present takes \"could\", the hypothetical form of \"can\", not the perfect \"could have\" (past ability) or \"should\"/\"can\".",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "czech-master-english-a-q10",
+              "n": 10,
+              "prompt": "I wish I _______ tell you how much I miss you.",
+              "options": [
+                { "id": "A", "text": "should" },
+                { "id": "B", "text": "could have" },
+                { "id": "C", "text": "could" },
+                { "id": "D", "text": "can" }
+              ],
+              "answerId": "C",
+              "explanation": "As with the previous pattern, \"wish\" plus a present wish to act now takes \"could\", not the perfect \"could have\".",
+              "skills": ["conditionals"]
+            },
+            {
+              "id": "czech-master-english-a-q11",
+              "n": 11,
+              "prompt": "He had done that recently, _______?",
+              "options": [
+                { "id": "A", "text": "hadn't he" },
+                { "id": "B", "text": "didn't he" },
+                { "id": "C", "text": "wouldn't he" },
+                { "id": "D", "text": "shouldn't he" }
+              ],
+              "answerId": "A",
+              "explanation": "A positive statement using the past perfect auxiliary \"had\" takes a negative tag with the same auxiliary, \"hadn't he?\".",
+              "skills": ["question-tags"]
+            },
+            {
+              "id": "czech-master-english-a-q12",
+              "n": 12,
+              "prompt": "He had done all of that, _______?",
+              "options": [
+                { "id": "A", "text": "hadn't he" },
+                { "id": "B", "text": "didn't he" },
+                { "id": "C", "text": "wouldn't he" },
+                { "id": "D", "text": "shouldn't he" }
+              ],
+              "answerId": "A",
+              "explanation": "Same pattern as above: the past perfect \"had done\" takes the matching negative tag \"hadn't he?\".",
+              "skills": ["question-tags"]
+            },
+            {
+              "id": "czech-master-english-a-q13",
+              "n": 13,
+              "prompt": "Well, you shouldn't have put them there, _______ you?",
+              "options": [
+                { "id": "A", "text": "should" },
+                { "id": "B", "text": "shall" },
+                { "id": "C", "text": "would" },
+                { "id": "D", "text": "will" }
+              ],
+              "answerId": "A",
+              "explanation": "A negative statement with the modal \"shouldn't\" takes a positive tag using the same modal, \"should you?\".",
+              "skills": ["question-tags"]
+            },
+            {
+              "id": "czech-master-english-a-q14",
+              "n": 14,
+              "prompt": "She shouldn't have left, _______ she?",
+              "options": [
+                { "id": "A", "text": "should" },
+                { "id": "B", "text": "shall" },
+                { "id": "C", "text": "would" },
+                { "id": "D", "text": "will" }
+              ],
+              "answerId": "A",
+              "explanation": "Same modal-matching pattern: \"shouldn't\" takes the positive tag \"should she?\".",
+              "skills": ["question-tags"]
+            }
+          ]
+        },
+        {
+          "id": "gB",
+          "type": "mcq",
+          "instruction": "B. Modals, Obligation & Necessity — choose the option that best completes each sentence.",
+          "questions": [
+            {
+              "id": "czech-master-english-a-q15",
+              "n": 15,
+              "prompt": "I will never _______ them to take the child from me.",
+              "options": [
+                { "id": "A", "text": "admit" },
+                { "id": "B", "text": "allow" },
+                { "id": "C", "text": "tolerate" },
+                { "id": "D", "text": "let" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Allow someone to do something\" fits refusing to permit an action. \"Admit\" means confess, and \"tolerate\"/\"let\" don't take a to-infinitive in this pattern.",
+              "skills": ["causatives"]
+            },
+            {
+              "id": "czech-master-english-a-q16",
+              "n": 16,
+              "prompt": "One glass of this won't do you any _______.",
+              "options": [
+                { "id": "A", "text": "harm" },
+                { "id": "B", "text": "ill" },
+                { "id": "C", "text": "hurt" },
+                { "id": "D", "text": "bad" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Do someone harm\" is the fixed collocation for causing damage. \"Ill\" is used in phrases like \"ill health\", not after \"do you any\", and \"hurt\"/\"bad\" don't fit here.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "czech-master-english-a-q17",
+              "n": 17,
+              "prompt": "I _______ stay in one place.",
+              "options": [
+                { "id": "A", "text": "would rather" },
+                { "id": "B", "text": "had rather" },
+                { "id": "C", "text": "had sooner" },
+                { "id": "D", "text": "rather had" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Would rather\" expresses a preference and is followed by the bare infinitive \"stay\". \"Had rather\" is an older, rarer form, and \"had sooner\"/\"rather had\" are not standard word orders.",
+              "skills": ["modals"]
+            },
+            {
+              "id": "czech-master-english-a-q18",
+              "n": 18,
+              "prompt": "So I _______ tell you.",
+              "options": [
+                { "id": "A", "text": "would better" },
+                { "id": "B", "text": "had better" },
+                { "id": "C", "text": "had sooner" },
+                { "id": "D", "text": "had rather" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Had better\" is the fixed modal expression for strong advice or intention, followed by the bare infinitive \"tell\". \"Would better\" is not standard English.",
+              "skills": ["modals"]
+            }
+          ]
+        },
+        {
+          "id": "gC",
+          "type": "mcq",
+          "instruction": "C. Conditionals, Hypothetical & Emphatic Structures — choose the option that best completes each sentence.",
+          "questions": [
+            {
+              "id": "czech-master-english-a-q19",
+              "n": 19,
+              "prompt": "If _______ it was that easy!",
+              "options": [
+                { "id": "A", "text": "solely" },
+                { "id": "B", "text": "ever" },
+                { "id": "C", "text": "only" },
+                { "id": "D", "text": "just" }
+              ],
+              "answerId": "C",
+              "explanation": "\"If only\" is the fixed exclamatory structure for wishing something were different, matching the emphatic tone of \"it was that easy!\".",
+              "skills": ["idiom", "conditionals"]
+            },
+            {
+              "id": "czech-master-english-a-q20",
+              "n": 20,
+              "prompt": "_______ I come and help you?",
+              "options": [
+                { "id": "A", "text": "Do you want that I" },
+                { "id": "B", "text": "Shall I" },
+                { "id": "C", "text": "Will I" },
+                { "id": "D", "text": "Would you like that I" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Shall I...?\" is the standard way to offer to do something for someone, unlike \"Do you want that I\" or \"Would you like that I\", which are not natural English structures.",
+              "skills": ["modals"]
+            }
+          ]
+        },
+        {
+          "id": "gD",
+          "type": "mcq",
+          "instruction": "D. Passive Voice & Causative Structures — choose the option that best completes each sentence.",
+          "questions": [
+            {
+              "id": "czech-master-english-a-q21",
+              "n": 21,
+              "prompt": "I believe that you would be well _______ to accept it.",
+              "options": [
+                { "id": "A", "text": "informed" },
+                { "id": "B", "text": "advised" },
+                { "id": "C", "text": "warned" },
+                { "id": "D", "text": "suggested" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Well advised to do something\" is the fixed collocation meaning it would be wise to do it. \"Informed\", \"warned\", and \"suggested\" don't form this same idiomatic phrase with \"well\".",
+              "skills": ["collocation"]
+            }
+          ]
+        },
+        {
+          "id": "gE",
+          "type": "mcq",
+          "instruction": "E. Articles, Quantifiers & Determiners — choose the option that best completes each sentence.",
+          "questions": [
+            {
+              "id": "czech-master-english-a-q22",
+              "n": 22,
+              "prompt": "They should find you _______ trousers or a blazer.",
+              "options": [
+                { "id": "A", "text": "two" },
+                { "id": "B", "text": "a couple of" },
+                { "id": "C", "text": "a pair of" },
+                { "id": "D", "text": "a" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Trousers\" is a plural-only noun for a single item of clothing, so it's counted with \"a pair of\", not \"two\" (which would suggest two separate items) or the singular \"a\".",
+              "skills": ["quantifiers"]
+            },
+            {
+              "id": "czech-master-english-a-q23",
+              "n": 23,
+              "prompt": "You've got _______ shoes here, have you?",
+              "options": [
+                { "id": "A", "text": "two" },
+                { "id": "B", "text": "a couple of" },
+                { "id": "C", "text": "a pair of" },
+                { "id": "D", "text": "a" }
+              ],
+              "answerId": "C",
+              "explanation": "Shoes naturally come as a matched set, so \"a pair of shoes\" is the natural way to count one set, rather than \"two shoes\" (unmatched single shoes) or \"a couple of\".",
+              "skills": ["quantifiers"]
+            },
+            {
+              "id": "czech-master-english-a-q24",
+              "n": 24,
+              "prompt": "The Executive Board _______ 18 members.",
+              "options": [
+                { "id": "A", "text": "composes of" },
+                { "id": "B", "text": "consists of" },
+                { "id": "C", "text": "composes in" },
+                { "id": "D", "text": "consists in" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Consist of\" is the correct fixed verb-preposition pairing for describing what makes up a group. \"Composes of\" is not standard, and \"consists in\" means something different (to lie in an abstract quality).",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "czech-master-english-a-q25",
+              "n": 25,
+              "prompt": "What made it worse was that I hadn't the _______ idea what was wrong with them.",
+              "options": [
+                { "id": "A", "text": "weakest" },
+                { "id": "B", "text": "faintest" },
+                { "id": "C", "text": "fainted" },
+                { "id": "D", "text": "least" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Haven't the faintest idea\" is a fixed idiom meaning having no idea at all. \"Weakest\" and \"least\" are not part of this fixed expression, and \"fainted\" is a verb form, not an adjective.",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "czech-master-english-a-q26",
+              "n": 26,
+              "prompt": "I haven't the _______ idea who they are.",
+              "options": [
+                { "id": "A", "text": "weakest" },
+                { "id": "B", "text": "faintest" },
+                { "id": "C", "text": "fainted" }
+              ],
+              "answerId": "B",
+              "explanation": "Same fixed idiom as above: \"haven't the faintest idea\" is the standard way to say one has no idea at all.",
+              "skills": ["idiom"]
+            }
+          ]
+        },
+        {
+          "id": "gF",
+          "type": "mcq",
+          "instruction": "F. Comparatives & Similarity — choose the option that best completes each sentence.",
+          "questions": [
+            {
+              "id": "czech-master-english-a-q27",
+              "n": 27,
+              "prompt": "Envy _______ yours is a good motive for murder.",
+              "options": [
+                { "id": "A", "text": "like" },
+                { "id": "B", "text": "as" },
+                { "id": "C", "text": "similar than" },
+                { "id": "D", "text": "the same as" }
+              ],
+              "answerId": "B",
+              "explanation": "This is an unusual, elliptical construction, but \"as\" is the source's confirmed choice, likely for a formal comparison meaning \"envy such as yours\". \"Similar than\" is ungrammatical, and \"the same as\" would need a different sentence structure.",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "czech-master-english-a-q28",
+              "n": 28,
+              "prompt": "He lived _______ everyone else.",
+              "options": [
+                { "id": "A", "text": "similar than" },
+                { "id": "B", "text": "as" },
+                { "id": "C", "text": "like" },
+                { "id": "D", "text": "the same that" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Like\" is used before a noun phrase to express similarity in a description, matching \"he lived like everyone else\". \"Similar than\" is not grammatical, and \"the same that\" is not a standard structure.",
+              "skills": ["comparatives"]
+            },
+            {
+              "id": "czech-master-english-a-q29",
+              "n": 29,
+              "prompt": "The genetic relatedness of the partner is _______ to be important.",
+              "options": [
+                { "id": "A", "text": "probable" },
+                { "id": "B", "text": "probably" },
+                { "id": "C", "text": "like" },
+                { "id": "D", "text": "likely" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Likely to be\" is the fixed pattern for describing a probable outcome, using the adjective \"likely\". \"Probably\" is an adverb that would need a different sentence structure, and \"probable\"/\"like\" don't fit this pattern.",
+              "skills": ["word-formation"]
+            }
+          ]
+        },
+        {
+          "id": "gG",
+          "type": "mcq",
+          "instruction": "G. Prepositions & Fixed Prepositional Phrases — choose the option that best completes each sentence.",
+          "questions": [
+            {
+              "id": "czech-master-english-a-q30",
+              "n": 30,
+              "prompt": "The car was stolen from the _______.",
+              "options": [
+                { "id": "A", "text": "next car park" },
+                { "id": "B", "text": "nearest car park" },
+                { "id": "C", "text": "next parking" },
+                { "id": "D", "text": "nearest parking" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Nearest\" describes physical proximity, fitting a location description, while \"next\" would imply a sequence. \"Car park\" is the standard noun; \"parking\" alone is not used as a place noun this way.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "czech-master-english-a-q31",
+              "n": 31,
+              "prompt": "He waited with her for eight hours at the _______.",
+              "options": [
+                { "id": "A", "text": "next car park" },
+                { "id": "B", "text": "nearest car park" },
+                { "id": "C", "text": "next parking" },
+                { "id": "D", "text": "nearest parking" }
+              ],
+              "answerId": "B",
+              "explanation": "Same distinction as above: \"nearest car park\" names the closest such location, and \"car park\", not \"parking\", is the correct noun for the place itself.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "czech-master-english-a-q32",
+              "n": 32,
+              "prompt": "He must have run all the way from the _______.",
+              "options": [
+                { "id": "A", "text": "next car park" },
+                { "id": "B", "text": "nearest car park" },
+                { "id": "C", "text": "next parking" },
+                { "id": "D", "text": "nearest parking" }
+              ],
+              "answerId": "B",
+              "explanation": "Consistent with the repeated pattern in this test: \"nearest car park\" is the correct location noun, not \"next parking\" or \"nearest parking\".",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "czech-master-english-a-q33",
+              "n": 33,
+              "prompt": "She seemed to have learnt her lines _______ heart.",
+              "options": [
+                { "id": "A", "text": "out of" },
+                { "id": "B", "text": "by" },
+                { "id": "C", "text": "from" },
+                { "id": "D", "text": "in" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Learn something by heart\" is the fixed idiom for memorising it exactly. \"Out of heart\", \"from heart\", and \"in heart\" are not standard phrases.",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "czech-master-english-a-q34",
+              "n": 34,
+              "prompt": "One method I've found helpful is to learn the definition _______ heart.",
+              "options": [
+                { "id": "A", "text": "out of" },
+                { "id": "B", "text": "by" },
+                { "id": "C", "text": "from" },
+                { "id": "D", "text": "in" }
+              ],
+              "answerId": "B",
+              "explanation": "Same fixed idiom repeated: \"learn something by heart\".",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "czech-master-english-a-q35",
+              "n": 35,
+              "prompt": "He taught how to learn long poems _______ heart.",
+              "options": [
+                { "id": "A", "text": "out of" },
+                { "id": "B", "text": "by" },
+                { "id": "C", "text": "from" },
+                { "id": "D", "text": "in" }
+              ],
+              "answerId": "B",
+              "explanation": "Same fixed idiom tested a third time: \"learn (something) by heart\".",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "czech-master-english-a-q36",
+              "n": 36,
+              "prompt": "One looks _______ vain for an alternative vision.",
+              "options": [
+                { "id": "A", "text": "in" },
+                { "id": "B", "text": "of" },
+                { "id": "C", "text": "at" },
+                { "id": "D", "text": "on" }
+              ],
+              "answerId": "A",
+              "explanation": "\"In vain\" is the fixed idiom for an effort that has no result. \"Of vain\", \"at vain\", and \"on vain\" are not standard phrases.",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "czech-master-english-a-q37",
+              "n": 37,
+              "prompt": "The tax victims suffered _______ vain.",
+              "options": [
+                { "id": "A", "text": "in" },
+                { "id": "B", "text": "of" },
+                { "id": "C", "text": "at" },
+                { "id": "D", "text": "on" }
+              ],
+              "answerId": "A",
+              "explanation": "Same fixed idiom: \"in vain\", meaning without success.",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "czech-master-english-a-q38",
+              "n": 38,
+              "prompt": "I have listened _______ vain to hear anyone.",
+              "options": [
+                { "id": "A", "text": "in" },
+                { "id": "B", "text": "of" },
+                { "id": "C", "text": "at" },
+                { "id": "D", "text": "on" }
+              ],
+              "answerId": "A",
+              "explanation": "Same fixed idiom tested a third time: \"in vain\".",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "czech-master-english-a-q39",
+              "n": 39,
+              "prompt": "Cancer is _______ no means the only life-threatening condition.",
+              "options": [
+                { "id": "A", "text": "in" },
+                { "id": "B", "text": "of" },
+                { "id": "C", "text": "with" },
+                { "id": "D", "text": "by" }
+              ],
+              "answerId": "D",
+              "explanation": "\"By no means\" is the fixed idiom meaning \"not at all\". \"In no means\", \"of no means\", and \"with no means\" are not standard phrases.",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "czech-master-english-a-q40",
+              "n": 40,
+              "prompt": "The point is _______ no means academic.",
+              "options": [
+                { "id": "A", "text": "in" },
+                { "id": "B", "text": "of" },
+                { "id": "C", "text": "with" },
+                { "id": "D", "text": "by" }
+              ],
+              "answerId": "D",
+              "explanation": "Same fixed idiom repeated: \"by no means\".",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "czech-master-english-a-q41",
+              "n": 41,
+              "prompt": "That was a line from Shakespeare, in _______ you didn't know.",
+              "options": [
+                { "id": "A", "text": "point" },
+                { "id": "B", "text": "matter" },
+                { "id": "C", "text": "issue" },
+                { "id": "D", "text": "case" }
+              ],
+              "answerId": "D",
+              "explanation": "\"In case you didn't know\" is the fixed phrase for adding information the listener might not already have. \"Point\", \"matter\", and \"issue\" do not form this same fixed phrase with \"in\".",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "czech-master-english-a-q42",
+              "n": 42,
+              "prompt": "You sometimes remind me _______ my mum.",
+              "options": [
+                { "id": "A", "text": "to" },
+                { "id": "B", "text": "about" },
+                { "id": "C", "text": "of" },
+                { "id": "D", "text": "with" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Remind someone of someone/something\" is the fixed verb-preposition pairing for triggering a memory or association. \"Remind ... to\", \"about\", or \"with\" is not the correct pairing.",
+              "skills": ["prepositions", "collocation"]
+            },
+            {
+              "id": "czech-master-english-a-q43",
+              "n": 43,
+              "prompt": "The melody will always remind me _______ him.",
+              "options": [
+                { "id": "A", "text": "to" },
+                { "id": "B", "text": "about" },
+                { "id": "C", "text": "of" },
+                { "id": "D", "text": "with" }
+              ],
+              "answerId": "C",
+              "explanation": "Same fixed pairing repeated: \"remind someone of someone\".",
+              "skills": ["prepositions"]
+            },
+            {
+              "id": "czech-master-english-a-q44",
+              "n": 44,
+              "prompt": "She'll stop what she's doing _______ the time being.",
+              "options": [
+                { "id": "A", "text": "in" },
+                { "id": "B", "text": "for" },
+                { "id": "C", "text": "since" },
+                { "id": "D", "text": "during" }
+              ],
+              "answerId": "B",
+              "explanation": "\"For the time being\" is the fixed phrase meaning \"for now, temporarily\". \"In\", \"since\", and \"during\" do not form this expression.",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "czech-master-english-a-q45",
+              "n": 45,
+              "prompt": "For _______ I can remember it has always been a tidy place.",
+              "options": [
+                { "id": "A", "text": "as long as" },
+                { "id": "B", "text": "meanwhile" },
+                { "id": "C", "text": "during" },
+                { "id": "D", "text": "as far as" }
+              ],
+              "answerId": "D",
+              "explanation": "\"As far as I can remember\" is the fixed phrase for qualifying a statement based on the limits of one's memory. \"As long as\" relates to duration or condition, not memory limits.",
+              "skills": ["conjunctions", "idiom"]
+            },
+            {
+              "id": "czech-master-english-a-q46",
+              "n": 46,
+              "prompt": "He stopped in _______ to have a rest.",
+              "options": [
+                { "id": "A", "text": "order" },
+                { "id": "B", "text": "attempt" },
+                { "id": "C", "text": "effort" },
+                { "id": "D", "text": "trying" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Stop in order to do something\" expresses purpose, matching \"to have a rest\". \"Attempt\", \"effort\", and \"trying\" do not combine with \"in\" and a following to-infinitive this way.",
+              "skills": ["conjunctions"]
+            }
+          ]
+        },
+        {
+          "id": "gH",
+          "type": "mcq",
+          "instruction": "H. Phrasal Verbs — choose the option that best completes each sentence.",
+          "questions": [
+            {
+              "id": "czech-master-english-a-q47",
+              "n": 47,
+              "prompt": "The party campaign has _______ steam.",
+              "options": [
+                { "id": "A", "text": "run out of" },
+                { "id": "B", "text": "run off" },
+                { "id": "C", "text": "run away with" },
+                { "id": "D", "text": "run out" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Run out of steam\" is the fixed idiom for losing momentum or energy. \"Run off\", \"run away with\", and plain \"run out\" (without \"of\") don't fit this exact phrase.",
+              "skills": ["phrasal-verbs"]
+            },
+            {
+              "id": "czech-master-english-a-q48",
+              "n": 48,
+              "prompt": "The kitchen is always the first room in which you _______ space.",
+              "options": [
+                { "id": "A", "text": "run out of" },
+                { "id": "B", "text": "run off" },
+                { "id": "C", "text": "run away with" },
+                { "id": "D", "text": "run out" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Run out of space\" means to have no more available space, using the same phrasal verb pattern as \"run out of steam\".",
+              "skills": ["phrasal-verbs"]
+            },
+            {
+              "id": "czech-master-english-a-q49",
+              "n": 49,
+              "prompt": "Soon after war _______ in 1914 he was asked to join the army.",
+              "options": [
+                { "id": "A", "text": "broke off" },
+                { "id": "B", "text": "broke open" },
+                { "id": "C", "text": "broke out" },
+                { "id": "D", "text": "broke up" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Break out\" is the fixed phrasal verb for a war, fire, or disease starting suddenly. \"Broke off\", \"broke open\", and \"broke up\" describe stopping, forcing open, or ending, not starting.",
+              "skills": ["phrasal-verbs"]
+            },
+            {
+              "id": "czech-master-english-a-q50",
+              "n": 50,
+              "prompt": "When the government resigned controversy _______ again.",
+              "options": [
+                { "id": "A", "text": "broke off" },
+                { "id": "B", "text": "broke open" },
+                { "id": "C", "text": "broke out" },
+                { "id": "D", "text": "broke up" }
+              ],
+              "answerId": "C",
+              "explanation": "Same pattern: \"break out\" for something sudden and widespread starting, here controversy.",
+              "skills": ["phrasal-verbs"]
+            },
+            {
+              "id": "czech-master-english-a-q51",
+              "n": 51,
+              "prompt": "He felt it his duty to volunteer for the Royal Navy when war _______.",
+              "options": [
+                { "id": "A", "text": "broke off" },
+                { "id": "B", "text": "broke open" },
+                { "id": "C", "text": "broke out" },
+                { "id": "D", "text": "broke up" }
+              ],
+              "answerId": "C",
+              "explanation": "Same fixed phrasal verb repeated a third time: \"war broke out\".",
+              "skills": ["phrasal-verbs"]
+            },
+            {
+              "id": "czech-master-english-a-q52",
+              "n": 52,
+              "prompt": "A storm of protest _______.",
+              "options": [
+                { "id": "A", "text": "broke off" },
+                { "id": "B", "text": "broke open" },
+                { "id": "C", "text": "broke out" },
+                { "id": "D", "text": "broke up" }
+              ],
+              "answerId": "C",
+              "explanation": "Same pattern once more: \"broke out\" for a sudden, widespread event, here a storm of protest.",
+              "skills": ["phrasal-verbs"]
+            },
+            {
+              "id": "czech-master-english-a-q53",
+              "n": 53,
+              "prompt": "They will _______ dreadful weather.",
+              "options": [
+                { "id": "A", "text": "put up" },
+                { "id": "B", "text": "put up with" },
+                { "id": "C", "text": "stand up with" },
+                { "id": "D", "text": "stand up" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Put up with\" means to tolerate something unpleasant, matching enduring dreadful weather. \"Put up\" alone (without \"with\") means to build or accommodate, a different meaning.",
+              "skills": ["phrasal-verbs"]
+            },
+            {
+              "id": "czech-master-english-a-q54",
+              "n": 54,
+              "prompt": "When you learn to _______ a bicycle, you feel being hopeless.",
+              "options": [
+                { "id": "A", "text": "drive" },
+                { "id": "B", "text": "ride" },
+                { "id": "C", "text": "direct" },
+                { "id": "D", "text": "conduct" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Ride a bicycle\" is the fixed collocation for that specific activity. \"Drive\" is used for motor vehicles, and \"direct\"/\"conduct\" do not fit.",
+              "skills": ["collocation"]
+            }
+          ]
+        },
+        {
+          "id": "gI",
+          "type": "mcq",
+          "instruction": "I. Synonym / Near-Synonym Discrimination (Vocabulary) — choose the option closest in meaning or that best completes each sentence.",
+          "questions": [
+            {
+              "id": "czech-master-english-a-q55",
+              "n": 55,
+              "prompt": "He _______ at her again, his expression even cooler than before.",
+              "options": [
+                { "id": "A", "text": "regarded" },
+                { "id": "B", "text": "viewed" },
+                { "id": "C", "text": "glimpsed" },
+                { "id": "D", "text": "glanced" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Glanced\" describes a brief, quick look, fitting a cool, dismissive reaction. \"Glimpsed\" describes catching sight of something briefly and unintentionally, not deliberately looking.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "czech-master-english-a-q56",
+              "n": 56,
+              "prompt": "Take _______ where you can, that's what I say.",
+              "options": [
+                { "id": "A", "text": "occasion" },
+                { "id": "B", "text": "opportunity" },
+                { "id": "C", "text": "possibility" },
+                { "id": "D", "text": "advantage" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Take opportunity\" is the natural collocation for seizing a chance. \"Take advantage\" would usually need \"of\" plus an object, and \"occasion\"/\"possibility\" don't collocate the same way with \"take\".",
+              "skills": ["synonyms", "collocation"]
+            },
+            {
+              "id": "czech-master-english-a-q57",
+              "n": 57,
+              "prompt": "Men often become _______ to alcohol as a result of overwork.",
+              "options": [
+                { "id": "A", "text": "addicted" },
+                { "id": "B", "text": "tempted" },
+                { "id": "C", "text": "ascribed" },
+                { "id": "D", "text": "overpowered" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Addicted to\" is the fixed collocation for dependency on a substance. \"Tempted\", \"ascribed\", and \"overpowered\" do not pair with \"to alcohol\" this way.",
+              "skills": ["synonyms", "collocation"]
+            },
+            {
+              "id": "czech-master-english-a-q58",
+              "n": 58,
+              "prompt": "My dear madam, I _______ you I don't look for matrimony.",
+              "options": [
+                { "id": "A", "text": "assure" },
+                { "id": "B", "text": "confirm" },
+                { "id": "C", "text": "insist" },
+                { "id": "D", "text": "declare" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Assure someone (that)\" means to tell them confidently to remove their doubt, fitting a reassurance about intentions. \"Confirm\", \"insist\", and \"declare\" don't take a personal object this way.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "czech-master-english-a-q59",
+              "n": 59,
+              "prompt": "I didn't feel that bad and I didn't want to _______ with a doctor.",
+              "options": [
+                { "id": "A", "text": "bother" },
+                { "id": "B", "text": "intrude" },
+                { "id": "C", "text": "interfere" },
+                { "id": "D", "text": "trespass" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Bother with someone\" (here, a doctor) means to trouble them unnecessarily, fitting not feeling ill enough to justify it. \"Intrude\", \"interfere\", and \"trespass\" don't pair naturally with \"with a doctor\" this way.",
+              "skills": ["synonyms", "collocation"]
+            },
+            {
+              "id": "czech-master-english-a-q60",
+              "n": 60,
+              "prompt": "I _______ to believe their story.",
+              "options": [
+                { "id": "A", "text": "rejected" },
+                { "id": "B", "text": "refused" },
+                { "id": "C", "text": "denied" },
+                { "id": "D", "text": "disowned" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Refused to believe\" means declined to accept something as true. \"Rejected\" would need a direct object, not a to-infinitive, and \"denied\"/\"disowned\" don't fit this pattern.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "czech-master-english-a-q61",
+              "n": 61,
+              "prompt": "He was deeply conservative and _______ of local habits.",
+              "options": [
+                { "id": "A", "text": "disagreed" },
+                { "id": "B", "text": "condemned" },
+                { "id": "C", "text": "disapproved" },
+                { "id": "D", "text": "objected" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Disapproved of\" is the fixed collocation for viewing something negatively, fitting a conservative attitude toward local habits. \"Condemned\" would take a direct object, not \"of\".",
+              "skills": ["synonyms", "collocation"]
+            },
+            {
+              "id": "czech-master-english-a-q62",
+              "n": 62,
+              "prompt": "He _______ a match to the stove.",
+              "options": [
+                { "id": "A", "text": "struck" },
+                { "id": "B", "text": "fired" },
+                { "id": "C", "text": "lit" },
+                { "id": "D", "text": "burned" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Strike a match\" is the fixed collocation for lighting one. \"Fired\", \"lit\", and \"burned\" don't collocate with \"a match\" this way.",
+              "skills": ["collocation"]
+            },
+            {
+              "id": "czech-master-english-a-q63",
+              "n": 63,
+              "prompt": "Are you calling me a _______?",
+              "options": [
+                { "id": "A", "text": "liar" },
+                { "id": "B", "text": "talker" },
+                { "id": "C", "text": "gossip" },
+                { "id": "D", "text": "informer" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Liar\" describes someone who tells untruths, fitting being accused of dishonesty. \"Talker\", \"gossip\", and \"informer\" describe different, unrelated behaviours.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "czech-master-english-a-q64",
+              "n": 64,
+              "prompt": "I told them the sad news, but they didn't seem very _______.",
+              "options": [
+                { "id": "A", "text": "anxious" },
+                { "id": "B", "text": "confused" },
+                { "id": "C", "text": "discouraged" },
+                { "id": "D", "text": "upset" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Upset\" describes an emotional reaction to sad news, fitting the context directly. \"Anxious\", \"confused\", and \"discouraged\" describe different emotional states not tied to grief.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "czech-master-english-a-q65",
+              "n": 65,
+              "prompt": "I'll get my _______ car.",
+              "options": [
+                { "id": "A", "text": "popular" },
+                { "id": "B", "text": "favourite" },
+                { "id": "C", "text": "enjoyed" },
+                { "id": "D", "text": "likable" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Favourite\" describes a personal preference among one's own possessions, fitting \"my ... car\". \"Popular\" describes wide appeal to others, not personal preference.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "czech-master-english-a-q66",
+              "n": 66,
+              "prompt": "Christopher made for his _______ restaurant.",
+              "options": [
+                { "id": "A", "text": "popular" },
+                { "id": "B", "text": "favourite" },
+                { "id": "C", "text": "enjoyed" },
+                { "id": "D", "text": "likable" }
+              ],
+              "answerId": "B",
+              "explanation": "Same distinction as above: \"favourite\" fits a personal, preferred choice, not \"popular\", which describes general appeal.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "czech-master-english-a-q67",
+              "n": 67,
+              "prompt": "My _______ is to make a lot of money.",
+              "options": [
+                { "id": "A", "text": "point" },
+                { "id": "B", "text": "intention" },
+                { "id": "C", "text": "view" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Intention\" describes a planned goal, fitting \"is to make a lot of money\". \"Point\" and \"view\" don't fit this pattern of stating a personal goal.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "czech-master-english-a-q68",
+              "n": 68,
+              "prompt": "The phone could be out of _______.",
+              "options": [
+                { "id": "A", "text": "function" },
+                { "id": "B", "text": "order" },
+                { "id": "C", "text": "work" },
+                { "id": "D", "text": "operation" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Out of order\" is the fixed idiom for something not working properly. \"Function\", \"work\", and \"operation\" don't form this same fixed phrase with \"out of\".",
+              "skills": ["idiom", "collocation"]
+            },
+            {
+              "id": "czech-master-english-a-q69",
+              "n": 69,
+              "prompt": "Ploughman's lunch! My favourite _______.",
+              "options": [
+                { "id": "A", "text": "plate" },
+                { "id": "B", "text": "dish" },
+                { "id": "C", "text": "course" },
+                { "id": "D", "text": "menu" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Dish\" refers to a particular type of prepared food, fitting a favourite meal. \"Plate\" refers to tableware, \"course\" to a stage of a meal, and \"menu\" to the list of dishes offered.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "czech-master-english-a-q70",
+              "n": 70,
+              "prompt": "Fried cheese! My favourite _______.",
+              "options": [
+                { "id": "A", "text": "plate" },
+                { "id": "B", "text": "dish" },
+                { "id": "C", "text": "course" },
+                { "id": "D", "text": "menu" }
+              ],
+              "answerId": "B",
+              "explanation": "Same distinction repeated: \"dish\" names a type of food, not the tableware, meal stage, or list of options.",
+              "skills": ["synonyms"]
+            },
+            {
+              "id": "czech-master-english-a-q71",
+              "n": 71,
+              "prompt": "It took _______ to get back home.",
+              "options": [
+                { "id": "A", "text": "the work of an hour" },
+                { "id": "B", "text": "an hour work" },
+                { "id": "C", "text": "a work hour" },
+                { "id": "D", "text": "an hour's work" }
+              ],
+              "answerId": "D",
+              "explanation": "\"An hour's work\" uses the possessive form for a time-based measurement of effort, the standard pattern for this kind of phrase. The other orderings are not natural English.",
+              "skills": ["word-formation"]
+            },
+            {
+              "id": "czech-master-english-a-q72",
+              "n": 72,
+              "prompt": "The bird was _______ to look over the edge of the nest.",
+              "options": [
+                { "id": "A", "text": "enough tall" },
+                { "id": "B", "text": "so tall" },
+                { "id": "C", "text": "as tall" },
+                { "id": "D", "text": "tall enough" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Enough\" follows the adjective it modifies, giving \"tall enough\", to express sufficiency for the following to-infinitive. \"Enough tall\", \"so tall\", and \"as tall\" don't fit this exact pattern.",
+              "skills": ["word-order"]
+            },
+            {
+              "id": "czech-master-english-a-q73",
+              "n": 73,
+              "prompt": "Why not swim, dance, or anything _______ that you enjoy doing?",
+              "options": [
+                { "id": "A", "text": "more" },
+                { "id": "B", "text": "still" },
+                { "id": "C", "text": "else" },
+                { "id": "D", "text": "yet" }
+              ],
+              "answerId": "C",
+              "explanation": "\"Anything else\" is the fixed pattern for referring to additional, unnamed options. \"More\", \"still\", and \"yet\" don't fit this position after \"anything\".",
+              "skills": ["word-order"]
+            },
+            {
+              "id": "czech-master-english-a-q74",
+              "n": 74,
+              "prompt": "THE season is _______, unfortunately, with much traffic and pollution.",
+              "options": [
+                { "id": "A", "text": "coming out" },
+                { "id": "B", "text": "raising" },
+                { "id": "C", "text": "presenting" },
+                { "id": "D", "text": "coming up" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Coming up\" describes an event or period approaching in time, fitting a season that is about to arrive. \"Coming out\", \"raising\", and \"presenting\" don't fit this sense of an approaching time period.",
+              "skills": ["phrasal-verbs"]
+            }
+          ]
+        },
+        {
+          "id": "gJ",
+          "type": "mcq",
+          "instruction": "J. Other Structures — choose the option that best completes each sentence.",
+          "questions": [
+            {
+              "id": "czech-master-english-a-q75",
+              "n": 75,
+              "prompt": "The fault is _______.",
+              "options": [
+                { "id": "A", "text": "hers" },
+                { "id": "B", "text": "of her" },
+                { "id": "C", "text": "her" },
+                { "id": "D", "text": "herself" }
+              ],
+              "answerId": "A",
+              "explanation": "A possessive pronoun standing alone after a linking verb needs the independent form, \"hers\", not the possessive adjective \"her\" (which would need a following noun) or the reflexive \"herself\".",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "czech-master-english-a-q76",
+              "n": 76,
+              "prompt": "That is _______ concerns them.",
+              "options": [
+                { "id": "A", "text": "what" },
+                { "id": "B", "text": "the thing what" },
+                { "id": "C", "text": "that which" },
+                { "id": "D", "text": "that" }
+              ],
+              "answerId": "A",
+              "explanation": "\"What\" functions as a nominal relative pronoun meaning \"the thing that\", correctly standing alone without a following noun. \"That which\" is archaic and \"the thing what\" is nonstandard.",
+              "skills": ["relative-clauses"]
+            },
+            {
+              "id": "czech-master-english-a-q77",
+              "n": 77,
+              "prompt": "She lived all _______ in a log cabin surrounded by a garden.",
+              "options": [
+                { "id": "A", "text": "for herself" },
+                { "id": "B", "text": "in her own" },
+                { "id": "C", "text": "only herself" },
+                { "id": "D", "text": "by herself" }
+              ],
+              "answerId": "D",
+              "explanation": "\"By herself\" is the fixed idiom meaning \"alone, without company\", fitting living in isolation. \"In her own\", \"only herself\", and \"for herself\" are not standard ways to express this.",
+              "skills": ["idiom", "pronouns"]
+            },
+            {
+              "id": "czech-master-english-a-q78",
+              "n": 78,
+              "prompt": "His new play looks _______.",
+              "options": [
+                { "id": "A", "text": "being great" },
+                { "id": "B", "text": "great" },
+                { "id": "C", "text": "greatly" },
+                { "id": "D", "text": "to be great" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Look\" here is a linking verb describing an impression, taking the plain adjective \"great\", not an adverb (\"greatly\") or an infinitive/gerund phrase.",
+              "skills": ["word-formation"]
+            },
+            {
+              "id": "czech-master-english-a-q79",
+              "n": 79,
+              "prompt": "We left our house _______.",
+              "options": [
+                { "id": "A", "text": "in speed" },
+                { "id": "B", "text": "in a hurry" },
+                { "id": "C", "text": "in a speed" },
+                { "id": "D", "text": "in hurry" }
+              ],
+              "answerId": "B",
+              "explanation": "\"In a hurry\" is the fixed idiomatic phrase for doing something quickly, using the indefinite article \"a\". \"In speed\", \"in a speed\", and \"in hurry\" are not standard phrases.",
+              "skills": ["idiom"]
+            },
+            {
+              "id": "czech-master-english-a-q80",
+              "n": 80,
+              "prompt": "I Hope you enjoyed yourselves _______.",
+              "options": [
+                { "id": "A", "text": "last night" },
+                { "id": "B", "text": "tonight" },
+                { "id": "C", "text": "this night" },
+                { "id": "D", "text": "in the night" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Enjoyed\" is past tense, which needs a matching past time expression, \"last night\", not \"tonight\" or \"this night\", which refer to the present or future.",
+              "skills": ["vocabulary-in-context"]
+            },
+            {
+              "id": "czech-master-english-a-q81",
+              "n": 81,
+              "prompt": "They have the dilemma of deciding _______ accept any offers.",
+              "options": [
+                { "id": "A", "text": "if to" },
+                { "id": "B", "text": "whether to" },
+                { "id": "C", "text": "whether" },
+                { "id": "D", "text": "if" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Deciding whether to do something\" is the fixed pattern for expressing a choice between two options using a to-infinitive. \"If to\" is not standard, and \"whether\"/\"if\" alone would need a full clause instead.",
+              "skills": ["gerund-infinitive"]
+            },
+            {
+              "id": "czech-master-english-a-q82",
+              "n": 82,
+              "prompt": "We can ask _______ to do it for us.",
+              "options": [
+                { "id": "A", "text": "someone else" },
+                { "id": "B", "text": "some other" },
+                { "id": "C", "text": "other person" },
+                { "id": "D", "text": "someone different" }
+              ],
+              "answerId": "A",
+              "explanation": "\"Someone else\" is the fixed pattern for referring to an unspecified additional person. \"Some other\", \"other person\", and \"someone different\" are not the natural equivalent structure.",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "czech-master-english-a-q83",
+              "n": 83,
+              "prompt": "I was in love with _______.",
+              "options": [
+                { "id": "A", "text": "someone else" },
+                { "id": "B", "text": "some other" },
+                { "id": "C", "text": "other person" },
+                { "id": "D", "text": "someone different" }
+              ],
+              "answerId": "A",
+              "explanation": "Same fixed pattern repeated: \"someone else\" for an unspecified other person.",
+              "skills": ["pronouns"]
+            },
+            {
+              "id": "czech-master-english-a-q84",
+              "n": 84,
+              "prompt": "Women were active at demonstrations, _______ they could not vote.",
+              "options": [
+                { "id": "A", "text": "even in case" },
+                { "id": "B", "text": "in spite of" },
+                { "id": "C", "text": "despite" },
+                { "id": "D", "text": "even though" }
+              ],
+              "answerId": "D",
+              "explanation": "\"Even though\" introduces a full contrasting clause, \"they could not vote\". \"In spite of\" and \"despite\" would need a noun or gerund phrase instead, and \"even in case\" is not standard English.",
+              "skills": ["conjunctions"]
+            },
+            {
+              "id": "czech-master-english-a-q85",
+              "n": 85,
+              "prompt": "I'm going to give _______.",
+              "options": [
+                { "id": "A", "text": "to it a try" },
+                { "id": "B", "text": "it a try" },
+                { "id": "C", "text": "a try it" },
+                { "id": "D", "text": "it to try" }
+              ],
+              "answerId": "B",
+              "explanation": "\"Give it a try\" places the direct object \"it\" before \"a try\", following the double-object structure of \"give someone/something a try\". The other orderings are not grammatical.",
+              "skills": ["word-order"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
